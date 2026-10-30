@@ -1,0 +1,218 @@
+437	Lanjutkan
+438	Lanjut ke pembayaran
+439	Lanjutkan dengan
+440	Kontribusi
+441	Disalin
+442	Salin
+443	Salin tautan pribadi {name}
+444	Salin kode
+445	Gagal menyalin — tekan dan tahan tautan untuk menyalinnya
+446	Salin tautan
+447	Salin pesan
+448	Salin tautan halaman ucapan
+449	Tidak bisa menambahkan
+450	Tidak bisa menambahkan pesan Anda
+451	Tidak bisa menerapkan
+452	Tidak bisa membatalkan
+453	Tidak bisa membuat
+454	Tidak bisa membuat lingkaran
+455	Tidak bisa menghapus
+456	Tidak bisa mengekspor
+457	Tidak bisa bergabung
+458	Tidak bisa membuka editor
+459	Tidak bisa membuka halaman pembayaran
+460	Tidak bisa memposting
+461	Tidak bisa menyimpan
+462	Tidak bisa menyimpan kartu
+463	Tidak bisa menyimpan gambar kartu
+464	Tidak bisa menjadwalkan
+465	Tidak bisa mengirim
+466	Tidak bisa mengirim kode
+467	Tidak bisa mengirim jawaban Anda
+468	Tidak bisa memulai kartu
+469	Tidak bisa memulai kartu
+470	Tidak bisa mematikan notifikasi
+471	Tidak bisa menyalakan notifikasi
+472	Tidak bisa memakai desain itu
+473	Tidak bisa menulis ucapan
+474	Tidak bisa memuat templat: {message}
+475	Tidak bisa menjangkau {label}
+476	Negara
+477	Negara (kalender festival)
+478	Negara (untuk kalender festival)
+479	Negara (untuk nomor ponsel tanpa kode)
+480	Kode negara
+481	Sampul {title}
+482	Buat
+483	Buat sebuah
+484	Buat lingkaran keluarga
+485	Buat tautan untuk membagikan album kepada siapa saja — lewat WhatsApp, Facebook, atau pesan.
+486	Buat ucapan
+487	Buat akun
+488	Buat album
+489	Buat akun
+490	Buat ruang kerja usaha
+491	Buat halaman perayaan
+492	Buat lingkaran keluarga
+493	Buat tautan undangan
+494	Buat templat pesan (mis. ucapan ulang tahun) dan tunggu persetujuan.
+495	Buat tautan berbagi
+496	Buat daftar keinginan
+497	Buat akun Anda
+498	Buat akun gratis Anda
+499	Membuat…
+500	File CSV
+501	Teks CSV
+502	Mata uang
+503	Kata sandi saat ini
+504	{v} kustom
+505	Warna latar kustom
+506	Paket kustom
+507	Pelanggan
+508	Pelanggan tidak ditemukan
+509	Pelanggan
+510	Unduhan data tidak tersedia dalam tampilan dukungan
+511	Tanggal
+512	Tanggal (opsional)
+513	Putri
+514	Hari
+515	Hapus
+516	Hapus “{title}” dan semua {length} foto? Tindakan ini tidak bisa dibatalkan.
+517	Hapus “{title}” beserta RSVP dan tugasnya? Semua orang di lingkaran akan kehilangan akses.
+518	Hapus {name}
+519	Hapus {name} dan semua pengingatnya? Tindakan ini tidak bisa dibatalkan.
+520	Hapus {name}? Riwayat pesannya tetap ada di log Anda tanpa nama mereka.
+521	Hapus {title}
+522	Hapus album
+523	Hapus pelanggan
+524	Hapus acara
+525	Hapus selamanya
+526	Hapus akun saya
+527	Hapus akun saya…
+528	Hapus halaman
+529	Hapus tugas {title}
+530	Hapus kartu ini? Ucapan yang sudah dikirim dengan kartu ini akan tetap menampilkan desain aslinya.
+531	Hapus halaman perayaan ini, daftar tamunya, dan semua pesan? Tindakan ini tidak bisa dibatalkan.
+532	Hapus daftar keinginan ini?
+533	Hapus daftar keinginan
+534	Pelanggan dihapus
+535	Terkirim
+536	Terkirim / dibaca
+537	Dikirim ke (kode negara)
+538	Pembaruan pengiriman
+539	Deskripsi
+540	Desain
+541	Desain {n} dari 100:
+542	Desain {n} dari 250
+543	Desain {number}: {name}
+544	Nama desain
+545	Desain tidak ditemukan
+546	Rancang kartu Anda sendiri
+547	Rancang kartu Anda sendiri: ubah kata-kata, font, dan warna, tambahkan foto, stiker, tanda tangan, atau kode QR — lalu kirim bersama ucapan atau cetak.
+548	Desain harus lebar minimal 900 piksel untuk dicetak
+549	Desain harus potret, 3:4 (misalnya 1500 × 2000 piksel)
+550	Rincian
+551	Mode pengembangan — tidak ada teks yang terkirim. Kode Anda adalah
+552	Mode pengembangan — kode Anda adalah
+553	Kebutuhan diet (opsional)
+554	Putuskan
+555	Diwali
+556	Jangan tampilkan nama saya secara publik
+557	Donasi
+558	Donasi langsung ke
+559	Selesai
+560	Selesai. {business} tidak akan mengirimi Anda pesan ini lagi.
+561	Unduh salinan semua data yang disimpan Blessly tentang Anda, atau hapus akun Anda. Baca
+562	Unduh berkas contoh
+563	Unduh daftar tamu
+564	Unduh data saya
+565	Gambar
+566	Area gambar
+567	Kode busana, parkir, apa yang dibawa, kejutan yang harus dirahasiakan…
+568	Tenggat (opsional)
+569	Tanggal tenggat
+570	Duplikat
+571	Duplikat {title}
+572	mis. Asha
+573	mis. Asha berulang tahun ke-30
+574	mis. Ulang tahun ke-60 Ayah — untuk bangsal kanker
+575	mis. Ulang tahun ke-80 Dadi
+576	mis. Makan malam ulang tahun ke-80 Dadi
+577	mis. Ucapan Diwali 2026
+578	mis. Hadiah perpisahan untuk Sam
+579	mis. suka mendaki, perjalanan kami ke Goa
+580	mis. Hari nama
+581	mis. Rumah Nani
+582	mis. Nisha
+583	mis. Pesan kue
+584	mis. perjalanan kami ke Goa
+585	mis. Daftar hadiah pernikahan kami
+586	mis. akses tanpa tangga
+587	mis. Toko Kue Sweet Treats
+588	mis. The Garden Room
+589	mis. vegetarian, alergi kacang
+590	mis. vip
+591	mis. Kami pindah ke dalam — alamat sama, lewat pintu belakang.
+592	Setiap tamu mendapat tautan pribadi. Tidak ada orang lain yang bisa membuka halaman ini.
+593	Paskah
+594	Edit
+595	Edit {name}
+596	Edit kartu
+597	Edit pelanggan
+598	Edit acara
+599	Edit item
+600	Edit orang
+601	Edit daftar Anda
+602	Idul Fitri
+603	email
+604	Email
+605	Email (untuk kwitansi)
+606	Email (untuk pembaruan dan pengingat)
+607	Email (opsional, untuk ucapan terima kasih)
+608	Email (dikirim otomatis)
+609	Pesan email
+610	Hanya email
+611	Email atau kata sandi salah
+612	Subjek email
+613	Berakhir (opsional)
+614	Pertunangan
+615	Masukkan nama
+616	Masukkan harga seperti 1499 atau 24.99
+617	Masukkan email yang valid
+618	Masukkan alamat email yang valid
+619	Masukkan nomor ponsel yang valid dengan kode negara
+620	Masukkan nomor telepon yang valid
+621	Masukkan salah satu kode pemulihan Anda. Setiap kode hanya bisa dipakai sekali.
+622	Masukkan target seperti 5000 atau 49.99
+623	Masukkan email akun Anda dan kami akan mengirim tautan untuk memilih kata sandi baru.
+624	Masukkan nama usaha Anda
+625	Masukkan nomor ponsel Anda dengan kode negara, mis. +91 98765 43210
+626	Masukkan nama Anda
+627	Acara
+628	Rincian acara
+629	Acara tidak ditemukan
+630	Setiap akun ditinjau oleh Blessly sebelum aktif.
+631	Semua orang patungan untuk satu hadiah, atau mengumpulkan dana untuk amal
+632	Semua orang di sini mendapat pengingat untuk orang-orang ini. Orang lain Anda tetap privat.
+633	Semua orang di lingkaran ini akan melihat orang ini dan mendapat pengingatnya. Hanya Anda yang bisa mengeditnya.
+634	Semua orang dalam berkas ini setuju menerima pesan dari usaha saya
+635	Semua orang menandatangani satu kartu
+636	Keluar
+637	Kedaluwarsa
+638	Mengekspor…
+639	Facebook
+640	Pembayaran gagal
+641	Gagal
+642	Gagal atau tidak terkirim
+643	Keluarga
+644	Lingkaran Keluarga
+645	Lingkaran keluarga hingga {n} orang
+646	Lingkaran keluarga, album, dan pesan usaha
+647	Acara keluarga
+648	Acara keluarga
+649	Keluarga tidak ditemukan
+650	Paket keluarga
+651	Tanda tangan keluarga
+652	Perpisahan
+653	Ayah
+654	Hari Ayah

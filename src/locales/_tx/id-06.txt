@@ -1,0 +1,218 @@
+1091	Pilih seseorang di lingkaran ini
+1092	Pilih seseorang yang dibagikan ke lingkaran ini
+1093	PIN
+1094	Paket
+1095	Rencanakan perayaan
+1096	Rencanakan acara bersama dan lihat siapa yang datang
+1097	Rencana tidak ditemukan
+1098	Rencanakan bersama
+1099	Rencana: {name}
+1100	Paket
+1101	Admin platform
+1102	Perbaiki kolom yang disorot.
+1103	Silakan masuk
+1104	Mohon balas paling lambat {deadline}.
+1105	Mohon tunggu…
+1106	Puitis
+1107	Posting pembaruan (ditampilkan di halaman dan dikirim lewat email ke tamu yang belum menolak)
+1108	Posting ke
+1109	Posting pesan
+1110	Posting di media sosial
+1111	Posting pembaruan
+1112	Kode pos / PIN
+1113	Sudah diposting — terima kasih!
+1114	Memposting…
+1115	Menyiapkan kartu Anda…
+1116	Menyiapkan…
+1117	Pratinjau
+1118	Pratinjau halaman ucapan
+1119	Sebelumnya
+1120	Desain sebelumnya
+1121	Bulan sebelumnya
+1122	Harga
+1123	Harga (opsional)
+1124	Harga
+1125	Cetak dan kirim
+1126	Cetak dan kirim “{title}”
+1127	Cetak dan kirim kartu yang Anda rancang — buka salah satu kartu Anda
+1128	PDF siap cetak
+1129	Kartu cetak
+1130	Mencetak
+1131	Privasi
+1132	kebijakan privasi
+1133	Privat — hanya saya
+1134	Memproses…
+1135	Produk
+1136	Produk
+1137	Kemajuan
+1138	Promosi
+1139	Publik
+1140	Terbitkan desain kartu Anda
+1141	Endpoint push harus https
+1142	Notifikasi push belum diatur di server ini
+1143	Kode QR
+1144	Kode QR untuk aplikasi autentikator Anda
+1145	Warna QR
+1146	Jumlah
+1147	Dalam antrean
+1148	Buat cepat
+1149	Raksha Bandhan
+1150	Ramadan
+1151	Dibaca
+1152	Terima donasi dari penggalang dana
+1153	Pesan terbaru
+1154	Nama penerima
+1155	Email penerima
+1156	Nama penerima
+1157	Hubungkan kembali untuk melihat orang dan pengingat Anda. Apa pun yang sudah Anda simpan aman.
+1158	Rekam pesan dulu
+1159	Rekam pesan suara atau video
+1160	Rekam ulang
+1161	Perekaman tidak tersedia di peramban ini.
+1162	Rekaman dapat berukuran hingga 40 MB
+1163	Kode pemulihan
+1164	Ulangi
+1165	Muat ulang templat
+1166	Memuat ulang…
+1167	Dikembalikan
+1168	Wilayah: IN, GB, US, AE, atau GLOBAL, dipisah dengan koma
+1169	amal terdaftar {number} ({country})
+1170	Nomor registrasi
+1171	Hubungan
+1172	Ingatkan saya tentang tanggal bersama
+1173	Pengingat untuk dikirim
+1174	Pengingat
+1175	Pengingat, ucapan AI dalam 32 bahasa, 250 kartu per acara
+1176	Hapus
+1177	Hapus {name}
+1178	Hapus {v}?
+1179	Hapus dari favorit
+1180	Hapus acara {n}
+1181	Hapus foto
+1182	Buka kembali
+1183	Dibalas dari tautan
+1184	Balasan
+1185	Balasan dan tamu
+1186	Balasan sudah ditutup — hubungi penyelenggara
+1187	Balasan sudah ditutup.
+1188	Balas
+1189	Balas paling lambat (opsional)
+1190	Diwajibkan oleh aturan WhatsApp dan email. Tanpa ini, tidak ada yang dikirim kepada mereka.
+1191	Kirim ulang
+1192	Pesanan tidak ditemukan
+1193	Pesan
+1194	Pesan agar tidak ada orang lain yang membeli hal yang sama. {first} tidak akan melihat siapa.
+1195	Dipesan {taken} dari {quantity}
+1196	Dipesan oleh Anda.
+1197	Memesan…
+1198	Atur ulang kata sandi Anda
+1199	Pensiun
+1200	Perlihatkan hadiah saya
+1201	Perlihatkan hadiah Anda dulu
+1202	Tulis ulang
+1203	Kanan
+1204	Peran untuk {name}
+1205	Rotasi ·
+1206	Sudut membulat
+1207	Baris {row}: {reason}
+1208	RSVP untuk acara keluarga dan ambil tugas
+1209	Simpan
+1210	Simpan dan kirim
+1211	Simpan perubahan
+1212	Simpan pelanggan
+1213	Simpan kata sandi baru
+1214	Simpan orang
+1215	Simpan pengaturan
+1216	Simpan kode pemulihan Anda
+1217	Tersimpan
+1218	Menyimpan…
+1219	Ucapkan terima kasih (dikirim lewat email sekali kepada semua yang mencantumkan email)
+1220	Jadwal
+1221	Jadwalkan kampanye
+1222	Jadwalkan hingga setahun ke depan
+1223	Terjadwal
+1224	Pengiriman terjadwal tidak ditemukan
+1225	Menjadwalkan…
+1226	Cari
+1227	Cari {length} orang
+1228	Cari pelanggan
+1229	Cari nama, telepon, atau email
+1230	Cari orang
+1231	Lihat pelanggan
+1232	Lihat di {v}
+1233	Lihat paket
+1234	Lihat siapa yang memesan apa? Ini merusak kejutannya.
+1235	Lihat alasannya
+1236	Item terpilih
+1237	Jual hadiah di toko Blessly
+1238	Jual, rancang, atau galang dana
+1239	Jual, rancang, atau galang dana dengan Blessly
+1240	Penjual
+1241	Akun penjual, perancang kartu, dan amal
+1242	Kirim kartu hadiah lewat email, hari ini atau pada hari ulang tahunnya
+1243	Kirim tautan baru
+1244	Kirim notifikasi uji coba
+1245	Kirim pukul
+1246	Kirim ke belakang
+1247	Kirim sebelum
+1248	Kirim jawaban saya
+1249	Kirim sekarang
+1250	Kirim pada
+1251	Kirim pada (opsional — mis. hari ulang tahunnya)
+1252	Kirim atau jadwalkan
+1253	Kirim tautan atur ulang
+1254	Kirim ucapan terima kasih
+1255	Kirim tautan lewat WhatsApp atau di mana saja. Berlaku 7 hari; siapa pun yang memilikinya dapat bergabung hingga lingkaran penuh.
+1256	Kirim foto sebagai unggahan berkas
+1257	Kirim ke {recipientName}
+1258	Kirim ucapan Anda
+1259	Mengirim
+1260	Mengirim…
+1261	Terkirim
+1262	Terkirim — periksa notifikasi Anda.
+1263	Dikirim pada {kind} pelanggan, setahun sekali.
+1264	Terkirim bulan ini
+1265	Dikirim dengan Blessly atas nama {businessName}.
+1266	Atur
+1267	Atur kata sandi
+1268	Atur kata sandi dulu (Lupa kata sandi di halaman masuk), agar Anda tetap bisa masuk
+1269	Atur kata sandi
+1270	Atur usaha Anda
+1271	Atur usaha Anda dulu
+1272	Mengatur…
+1273	Pengaturan
+1274	Bagikan
+1275	Bagikan kenangan
+1276	Bagikan foto atau kenangan
+1277	Bagikan ulang tahun dan hari jadi — semua orang mendapat pengingatnya
+1278	Bagikan di media sosial
+1279	Bagikan di WhatsApp
+1280	Bagikan satu tautan; teman-teman dapat berkontribusi dari mana saja. Hadiah kelompok dibayarkan kepada Anda; penggalangan dana langsung ke amal terverifikasi.
+1281	Bagikan album dulu
+1282	Bagikan ke keluarga
+1283	Bagikan alamat email Anda ke Blessly untuk membuat akun
+1284	Dibagikan oleh
+1285	dibagikan oleh {name}
+1286	Dibagikan oleh {sharedBy}
+1287	dibagikan oleh Anda
+1288	Tanggal bersama
+1289	orang yang dibagikan
+1290	Dibagikan dengan
+1291	Dibagikan dengan keluarga
+1292	Toko
+1293	Nama toko
+1294	Pendek
+1295	Tampilkan berapa yang diberikan setiap orang
+1296	Tampilkan di halaman perayaan (opsional)
+1297	Tampilkan siapa yang datang kepada tamu lain
+1298	Menampilkan {from}–{to} dari {total}
+1299	Tanda tangani kartu kelompok bersama
+1300	Masuk
+1301	Masuk dengan kode
+1302	Tanda tangani satu kartu kelompok dari seluruh keluarga
+1303	Tanda tangan atau gambar
+1304	Keluar dari perangkat lain
+1305	Tanda tangani kartu
+1306	Masuk dan keamanan
+1307	Masuk dengan pesan teks belum tersedia
+1308	Masuk gagal. Silakan coba lagi.

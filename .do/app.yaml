@@ -1,0 +1,77 @@
+# DigitalOcean App Platform spec for Blessly.
+# Deploy with: bash deploy/app-platform.sh
+# That script generates CRON_SECRET, ENCRYPTION_KEY and MEDIA_SIGNING_SECRET
+# into .do/secrets.env (gitignored) and submits them as encrypted app variables.
+# Do not put secret values in this file.
+name: blessly
+region: lon
+alerts:
+  - rule: DEPLOYMENT_FAILED
+
+services:
+  - name: web
+    github:
+      repo: kuppalabk/blessly
+      branch: main
+      deploy_on_push: true
+    dockerfile_path: Dockerfile
+    http_port: 3000
+    instance_count: 1
+    instance_size_slug: apps-s-1vcpu-1gb-fixed
+    health_check:
+      http_path: /api/health
+      initial_delay_seconds: 30
+      period_seconds: 10
+      timeout_seconds: 5
+      failure_threshold: 9
+
+workers:
+  - name: jobs
+    github:
+      repo: kuppalabk/blessly
+      branch: main
+      deploy_on_push: true
+    dockerfile_path: Dockerfile
+    run_command: npm run jobs
+    instance_count: 1
+    instance_size_slug: apps-s-1vcpu-1gb-fixed
+
+jobs:
+  - name: migrate
+    kind: PRE_DEPLOY
+    github:
+      repo: kuppalabk/blessly
+      branch: main
+      deploy_on_push: true
+    dockerfile_path: Dockerfile
+    run_command: npm run db:migrate
+    instance_count: 1
+    instance_size_slug: apps-s-1vcpu-1gb-fixed
+
+databases:
+  - name: db
+    engine: PG
+    version: "16"
+    production: false
+
+envs:
+  - key: DATABASE_URL
+    scope: RUN_TIME
+    value: ${db.DATABASE_URL}
+  - key: APP_URL
+    scope: RUN_TIME
+    value: ${web.PUBLIC_URL}
+  - key: NODE_ENV
+    scope: RUN_TIME
+    value: production
+  - key: RATE_LIMIT_STORE
+    scope: RUN_TIME
+    value: postgres
+
+ingress:
+  rules:
+    - component:
+        name: web
+      match:
+        path:
+          prefix: /

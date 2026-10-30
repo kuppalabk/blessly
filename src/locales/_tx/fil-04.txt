@@ -1,0 +1,218 @@
+655	Paborito ang {title}
+656	Mga paborito
+657	Mga kampanya sa pista para sa lahat ng customer o isang grupo (Diwali, Eid, Pasko…)
+658	Mga pista
+659	I-filter ayon sa status
+660	muna, para mayroon kaming tapos na larawan na ipri-print.
+661	Font
+662	Para sa
+663	Para sa (opsyonal)
+664	Para kay Anil
+665	Para sa negosyo
+666	Halimbawa, nag-sign up sila sa tindahan, sa website mo o sa checkout. Puwedeng i-block ng WhatsApp ang mga numerong nagme-message nang walang pahintulot.
+667	Para kay Nisha
+668	para sa unang pangalan ng customer at
+669	para sa hanggang 6.
+670	para sa pangalan ng negosyo mo. Awtomatikong idinadagdag ang unsubscribe link.
+671	Nakalimutan ang password
+672	Nakalimutan mo ang password mo?
+673	Libre
+674	Libre para sa personal na pagbati. Mag-upgrade para sa buong pamilya mo o sa negosyo mo.
+675	Libre para sa hanggang 3 tao, o hanggang {MAX_MEMBERS} gamit ang Family plan. Mananatiling pribado ang mga personal mong paalala.
+676	Libreng plan · hindi kailangan ng app store · i-install mula sa browser mo
+677	Libreng trial hanggang {v}
+678	Libreng trial: {n} na mensahe hanggang {date}.
+679	Kaibigan
+680	Puwedeng magdagdag ng sariling mensahe ang mga kaibigan at pamilya sa pahina ng pagbati:
+681	Pagkakaibigan
+682	Mula sa
+683	Mula kay {ownerName}. Pindutin ang “Ako na ang bahala” para mai-reserve ang regalo at walang dobleng bumili.
+684	Mula sa araw na iyon
+685	Mula sa mga tao mo
+686	Harap
+687	Harap ng card
+688	Pangangalap ng pondo · inorganisa ni {name}
+689	Nakakatawa
+690	Makatanggap ng paalala para sa mga kaarawan at anibersaryo na ibinabahagi ng pamilya
+691	Makatanggap ng paalala sa device na ito isang linggo bago, isang araw bago at mismong araw — kahit nakasara ang Blessly.
+692	Magpagaling
+693	Pagsisimula
+694	Hindi nakita ang gift card
+695	Mga gift card
+696	Mga gift card, order sa shop at naka-print na card
+697	Mga ideya sa regalo
+698	Mga listahan ng regalo at registry para sa kaarawan, kasal, sanggol at housewarming. Ire-reserve ng mga kaibigan ang bibilhin nila para walang dobleng regalo — at nananatiling sorpresa.
+699	Mga listahan ng regalo na nire-reserve ng mga kaibigan
+700	Tala ng regalo (opsyonal)
+701	Tala ng regalo: “{v}”
+702	Paalala sa regalo
+703	Wishlist ng regalo (opsyonal)
+704	Mga regalo at bayad
+705	Mga regalo at bayad
+706	Mga regalo mula sa independent na seller, ihahatid
+707	Mga regalo mula sa independent na seller, sinuri ng Blessly at ihahatid ng seller.
+708	Bigyan ito ng pangalan
+709	Bigyan ng pangalan ang album
+710	Bigyan ng pangalan ang card
+711	Bigyan ng pangalan ang event
+712	Bigyan ng pangalan ang circle mo
+713	Bigyan ng pangalan ang listahan mo
+714	Glow
+715	Pumunta sa Blessly
+716	Darating
+717	Good luck
+718	Google
+719	Gradient mula {a} hanggang {b}
+720	Graduation
+721	Lolo / Lola
+722	Mga lolo at lola
+723	Hindi nakita ang grant
+724	Group card
+725	Regalong pangkat · inorganisa ni {name}
+726	Mga regalong pangkat at pangangalap ng pondo
+727	Ang mga regalong pangkat ay mapupunta sa organizer, hindi sa charity
+728	Mga regalong pangkat, gift card, shop, naka-print na card
+729	Bisita
+730	Hindi nakita ang bisita
+731	Mga bisita
+732	Puwedeng mag-iwan ng mensahe, larawan at video ang mga bisita
+733	Halloween
+734	Ipasa muna ang ownership sa iba
+735	Hanukkah
+736	Taos-puso
+737	Kumusta, {v}
+738	Hi {name}! Inimbitahan ka sa: {title} — {when}. Mga detalye at RSVP: {link}
+739	Holi
+740	Home
+741	Housewarming
+742	Paano
+743	Paano ito gumagana
+744	Ilan
+745	Ilan ang tao, kasama ka?
+746	Gaano mo ito kagusto
+747	Paano ito gamitin
+748	Asawang lalaki
+749	Ina-approve ko ang mga mensahe bago ito lumabas
+750	Ako na ang gagawa
+751	Ako na ang bahala
+752	Na-save ko na sila
+753	Kung ang {phone} ay kabilang sa Blessly account, nagpadala kami dito ng 6-digit na code.
+754	Kung may account para sa {email}, papunta na ang reset link. Gumagana ito sa loob ng 60 minuto — tingnan din ang spam folder mo.
+755	Kung mawala ang telepono mo, isang beses lang makakapasok ang bawat code. Itago ang mga ito sa ligtas na lugar — hindi na ito ipapakita muli.
+756	I-import ang CSV
+757	I-import ang mga customer
+758	I-import ang mga customer mula sa spreadsheet; tingnan kung ano ang naihatid at nabasa
+759	Pumalya ang import
+760	Natapos ang import
+761	Resulta ng import
+762	Mag-import ng hanggang {v1} na customer sa isang pagkakataon
+763	Nag-i-import…
+764	sa
+765	Sa loob ng {daysAway} na araw
+766	Sa loob ng {n} araw
+767	Sa loob ng {n} na araw
+768	Bilang parangal sa (opsyonal)
+769	Sa mapagmahal na alaala
+770	Sa Meta Business Suite, i-set up ang WhatsApp Manager gamit ang numerong hindi ginagamit sa WhatsApp app, at magdagdag ng paraan ng pagbabayad.
+771	Ginagawa
+772	May stock
+773	Sa Meta app mo, buksan ang WhatsApp → API setup at kopyahin ang
+774	IN,GB
+775	Tinta {c}
+776	Kulay ng tinta
+777	Loob
+778	Loob ng card
+779	Loob ng card: {label}
+780	Hindi tumatanggap ng link mula sa website ang Instagram. Sa telepono mo, gamitin ang “More apps”, o kopyahin ang mensahe at i-paste sa Instagram chat.
+781	Di-wastong JSON
+782	Imbitasyon
+783	Naipadala ang imbitasyon kay {name}
+784	Naipadala sa email ang imbitasyon sa {n} na bisita
+785	Naipadala sa email ang mga imbitasyon sa {n} na bisita
+786	Imbitahan
+787	Imbitahan bilang
+788	Hindi nakita ang imbitasyon
+789	Imbitahan ang mga kamag-anak
+790	Inimbitahan
+791	Mga inimbitahang bisita lang
+792	Mga inimbitahang bisita lang — ibahagi ang personal na link ng bawat bisita (tab na Mga Bisita), hindi ang isang ito.
+793	ay papalitan ng unang pangalan ng customer at
+794	Hindi nakita ang item
+795	Mga item
+796	Sumali sa {businessName}
+797	Sumali sa {family}
+798	Sumali sa business team
+799	Sumali sa family circle
+800	Sumali online
+801	Sumali sa family circle
+802	Sumali sa team
+803	Sumasali…
+804	Ang bisita lang
+805	Panatilihing nakikita ang hindi bababa sa 12 disenyo para sa bawat okasyon
+806	Panatilihing sorpresa
+807	Uri
+808	wika
+809	Wika
+810	Wika (app at mga pagbati)
+811	Umalis
+812	Umalis sa {familyName}? Babalik sa pagiging pribado ang mga taong ibinahagi mo.
+813	Mag-iwan ng mensahe
+814	Umalis sa circle
+815	Kaliwa
+816	Kaliwa ↔ kanan
+817	Hayaang magdagdag ng larawan ang mga bisita
+818	Kapal ng linya
+819	Link
+820	Link para sa QR code (video, playlist, photo album, regalo…)
+821	Dapat magsimula ang link sa / o https://
+822	Hindi wasto ang link
+823	Link sa shop (opsyonal)
+824	Naka-link sa item ng wishlist — makikita ito doon bilang regalong pangkat.
+825	LinkedIn
+826	live
+827	Mag-log in
+828	Mag-log out
+829	Nawala ang telepono mo? Gumamit ng recovery code
+830	Pag-ibig at pamilya
+831	Ginawa gamit ang
+832	Ginawa gamit ang Blessly · gumawa ng sarili mo nang libre
+833	Ginawa gamit ang Blessly · gumawa ng sarili mong wishlist
+834	Ginawa gamit ang Blessly · magplano ng sarili mong selebrasyon nang libre
+835	Pangunahin
+836	Makar Sankranti / Pongal
+837	Gawing owner si {name}? Magiging admin ka.
+838	Gawing cover
+839	Gawing owner
+840	Gawing owner ang iba bago ka umalis
+841	Gawing owner muna ang iba
+842	Pamahalaan
+843	Pamahalaan ang selebrasyong ito
+844	Mapa
+845	Markahang nabasa lahat
+846	Markahang naihatid
+847	Markahang tapos
+848	Markahang naipadala
+849	baka
+850	Baka
+851	Ako ({name})
+852	Meena Shah, meena@example.com\nTom +44 7700 900123
+853	Miyembro
+854	Miyembro — puwedeng magdagdag ng event at task
+855	Hindi nakita ang miyembro
+856	Mga miyembro: {v}
+857	Mga alaala
+858	Mensahe
+859	Mensahe (opsyonal)
+860	Hindi nakita ang mensahe
+861	Mensahe sa mga nag-ambag (opsyonal)
+862	Mensahe sa mga bisita (opsyonal)
+863	Uri ng mensahe
+864	Mga mensahe
+865	mensahe kada buwan (WhatsApp at email). Ang sariling singil ng WhatsApp kada mensahe ay sisingilin ng Meta sa WhatsApp account mo.
+866	Ipinapadala ang mga mensahe mula sa numerong ito sa pamamagitan ng opisyal na Business Platform ng WhatsApp. Sisingilin ng Meta ang WhatsApp account mo kada naihatid na mensahe (marketing rate).
+867	Naka-off ang mga mensahe para sa selebrasyong ito
+868	Hanggang 2 minuto ang mga mensahe
+869	Mga mensahe para kay {honoree}
+870	Mga mensahe mula sa {businessName}
+871	mobile
+872	Mobile

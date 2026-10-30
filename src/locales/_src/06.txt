@@ -1,0 +1,218 @@
+1091	Pick someone in this circle
+1092	Pick someone shared with this circle
+1093	PIN
+1094	Plan
+1095	Plan a celebration
+1096	Plan events together and see who’s coming
+1097	Plan not found
+1098	Plan together
+1099	Plan: {name}
+1100	Plans
+1101	Platform admin
+1102	Please fix the highlighted fields.
+1103	Please log in
+1104	Please reply by {deadline}.
+1105	Please wait…
+1106	Poetic
+1107	Post an update (shown on the page and emailed to guests who haven’t said no)
+1108	Post it to
+1109	Post message
+1110	Post on social media
+1111	Post update
+1112	Postcode / PIN
+1113	Posted — thank you!
+1114	Posting…
+1115	Preparing your card…
+1116	Preparing…
+1117	Preview
+1118	Preview wish page
+1119	Previous
+1120	Previous design
+1121	Previous month
+1122	Price
+1123	Price (optional)
+1124	Pricing
+1125	Print and post
+1126	Print and post “{title}”
+1127	Print and post a card you designed — open one of your cards
+1128	Print-ready PDF
+1129	Printed cards
+1130	Printing
+1131	Privacy
+1132	privacy policy
+1133	Private — only me
+1134	Processing…
+1135	Product
+1136	Products
+1137	Progress
+1138	Promotion
+1139	Public
+1140	Publish your card designs
+1141	Push endpoint must be https
+1142	Push notifications are not set up on this server
+1143	QR code
+1144	QR code for your authenticator app
+1145	QR colour
+1146	Quantity
+1147	Queued
+1148	Quick create
+1149	Raksha Bandhan
+1150	Ramadan
+1151	Read
+1152	Receive donations from fundraisers
+1153	Recent messages
+1154	Recipient name
+1155	Recipient’s email
+1156	Recipient’s name
+1157	Reconnect to see your people and reminders. Anything you saved is safe.
+1158	Record a message first
+1159	Record a voice or video message
+1160	Record again
+1161	Recording isn’t available in this browser.
+1162	Recordings can be up to 40 MB
+1163	Recovery code
+1164	Redo
+1165	Refresh templates
+1166	Refreshing…
+1167	Refunded
+1168	Regions: IN, GB, US, AE or GLOBAL, separated by commas
+1169	registered charity {number} ({country})
+1170	Registration number
+1171	Relationship
+1172	Remind me about shared dates
+1173	Reminder to send
+1174	Reminders
+1175	Reminders, AI wishes in 32 languages, 250 cards per occasion
+1176	Remove
+1177	Remove {name}
+1178	Remove {v}?
+1179	Remove from favourites
+1180	Remove occasion {n}
+1181	Remove photo
+1182	Reopen
+1183	Replied from the link
+1184	Replies
+1185	Replies and guests
+1186	Replies have closed — contact the host
+1187	Replies have closed.
+1188	Reply
+1189	Reply by (optional)
+1190	Required by WhatsApp and email rules. Without it, nothing is sent to them.
+1191	Resend
+1192	Reservation not found
+1193	Reserve
+1194	Reserve it so nobody else buys the same thing. {first} won’t see who.
+1195	Reserved {taken} of {quantity}
+1196	Reserved by you.
+1197	Reserving…
+1198	Reset your password
+1199	Retirement
+1200	Reveal my gifts
+1201	Reveal your gifts first
+1202	Rewrite
+1203	Right
+1204	Role for {name}
+1205	Rotation ·
+1206	Rounded corners
+1207	Row {row}: {reason}
+1208	RSVP to family events and pick up tasks
+1209	Save
+1210	Save and send
+1211	Save changes
+1212	Save customer
+1213	Save new password
+1214	Save person
+1215	Save settings
+1216	Save your recovery codes
+1217	Saved
+1218	Saving…
+1219	Say thank you (emailed once to everyone who left an email)
+1220	Schedule
+1221	Schedule campaign
+1222	Schedule up to a year ahead
+1223	Scheduled
+1224	Scheduled send not found
+1225	Scheduling…
+1226	Search
+1227	Search {length} people
+1228	Search customers
+1229	Search name, phone or email
+1230	Search people
+1231	See customers
+1232	See it at {v}
+1233	See plans
+1234	See who reserved what? This spoils the surprise.
+1235	See why
+1236	Selected item
+1237	Sell gifts in the Blessly shop
+1238	Sell, design or fundraise
+1239	Sell, design or fundraise with Blessly
+1240	Seller
+1241	Seller, card designer and charity accounts
+1242	Send a gift card by email, today or on their birthday
+1243	Send a new link
+1244	Send a test notification
+1245	Send at
+1246	Send backward
+1247	Send by
+1248	Send my answer
+1249	Send now
+1250	Send on
+1251	Send on (optional — e.g. their birthday)
+1252	Send or schedule
+1253	Send reset link
+1254	Send thank-yous
+1255	Send the link on WhatsApp or anywhere. It works for 7 days; anyone with it can join until the circle is full.
+1256	Send the photo as a file upload
+1257	Send to {recipientName}
+1258	Send your wish
+1259	Sending
+1260	Sending…
+1261	Sent
+1262	Sent — check your notifications.
+1263	Sent on the customer’s {kind}, once a year.
+1264	Sent this month
+1265	Sent with Blessly on behalf of {businessName}.
+1266	Set
+1267	Set a password
+1268	Set a password first (Forgot password on the login page), so you can still sign in
+1269	Set password
+1270	Set up your business
+1271	Set up your business first
+1272	Setting up…
+1273	Settings
+1274	Share
+1275	Share a memory
+1276	Share a photo or memory
+1277	Share birthdays and anniversaries — everyone gets the reminders
+1278	Share on social media
+1279	Share on WhatsApp
+1280	Share one link; friends chip in from anywhere. Group gifts are paid out to you; fundraisers go straight to a verified charity.
+1281	Share the album first
+1282	Share with family
+1283	Share your email address with Blessly to create an account
+1284	Shared by
+1285	shared by {name}
+1286	Shared by {sharedBy}
+1287	shared by you
+1288	Shared dates
+1289	shared people
+1290	Shared with
+1291	Shared with family
+1292	Shop
+1293	Shop name
+1294	Short
+1295	Show how much each person gave
+1296	Show on a celebration page (optional)
+1297	Show who’s coming to other guests
+1298	Showing {from}–{to} of {total}
+1299	Sign group cards together
+1300	Sign in
+1301	Sign in with a code
+1302	Sign one group card from the whole family
+1303	Sign or draw
+1304	Sign out of other devices
+1305	Sign the card
+1306	Sign-in and security
+1307	Sign-in by text message isn’t available yet
+1308	Sign-in didn’t work. Please try again.

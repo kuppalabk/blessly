@@ -1,0 +1,218 @@
+1	— opsyonal
+2	— masyadong maraming variable
+3	— pumalya ang huling bayad mo; paki-update ang paraan ng pagbabayad
+4	· {partySize} tao
+5	· ni {ownerName}
+6	· kinansela
+7	· sarado
+8	· cover
+9	· maaaring magbago ang petsa
+10	· maaaring mag-iba ang petsa ayon sa rehiyon
+11	· alaala
+12	· walang pahintulot — hindi papadalhan ng mensahe
+13	· ref {reference}
+14	· ibinahagi
+15	· layunin {v}
+16	· tracking {tracking}
+17	· naghihintay ng pag-apruba
+18	({pending} na aaprubahan)
+19	(anonimo sa iba)
+20	(ikaw)
+21	para kay {honoree}
+22	para sa {v}
+23	Naitala: {consentSource}.
+24	na may status na “{v}”
+25	— natatanggap ng lahat doon ang mga paalalang ito.
+26	— basa lang, bilang {admin}. Walang mababago.
+27	— mga paalala, pagbati at album para sa bawat okasyon.
+28	— ibinabahagi ang pahina ng pagbati na may preview ng card
+29	— hindi mo malalaman kung ano hangga't hindi mo piniling tingnan.
+30	, {maybe} baka
+31	, o ibahagi ang link — awtomatikong nadaragdag ang mga sasagot
+32	, ang mga tao mo, paalala, pagbati at pahina ng pagbati, at ang negosyo mo kasama ang mga customer nito. Mapupunta sa susunod na miyembro ang mga family circle na pagmamay-ari mo. Hindi na ito maibabalik.
+33	! Mag-enjoy ng treat mula sa amin sa
+34	. Mga petsang tulad ng 14/03, 14 Mar o 1990-03-14 (araw muna). Maa-update ang mga customer na may parehong mobile o email.
+35	. Lamang
+36	. Ipadala sa mismong araw.
+37	. Hindi sila papadalhan ng Blessly ng mensahe doon.
+38	…o i-paste dito
+39	”), pagkatapos ay pindutin ang “I-refresh ang mga template” sa Settings.
+40	({v} bawat isa, naka-print sa 350gsm na card na may sobre, kasama ang selyo)
+41	(kailangan),
+42	{added} naidagdag · {updated} na-update · {skipped} nilaktawan
+43	{coming} ang darating · {guests} sa listahan ng bisita
+44	{consented} ang pumayag sa mga mensahe
+45	{days} araw
+46	{going} darating · {maybe} baka · {no} hindi makakarating · {waiting} hindi pa sumasagot
+47	{greeting}, {recipientName} — isang card mula kay {senderName}
+48	Iniimbitahan ka ni {hostName}
+49	{inDays} araw
+50	Inimbitahan ka ni {inviter} sa
+51	Inimbitahan ka ni {inviter} sa {family} sa Blessly — magbabahagi tayo ng mga kaarawan, magpaplano ng mga kaganapan ng pamilya at sabay-sabay na pipirma sa mga card. Sumali dito: {link}
+52	{label} (opsyonal)
+53	Araw ng {label}
+54	Buwan ng {label}
+55	Pumalya ang pag-sign in gamit ang {label} ({why}). Pakisubukang muli.
+56	Pumalya ang pag-sign in gamit ang {label}. Pakisubukang muli.
+57	{length} sa {limit} tao · ikaw ay {v}
+58	{length} sa {maxPhotos} larawan · JPG, PNG, WebP o GIF hanggang 15 MB. Inaalis ang data ng lokasyon sa bawat larawan.
+59	{length} pagbati sa susunod na dalawang linggo
+60	{memberCount} sa {limit} tao · {v}
+61	{mine} album (walang limitasyon sa {plan} plan) · {photos} larawan bawat isa
+62	{mine} sa {max} album sa {plan} plan · {photos} larawan bawat isa
+63	{n} customer
+64	{n} customer
+65	{n} araw
+66	{n} araw
+67	{n} regalo ang nakareserba na
+68	{n} regalo ang nakareserba na
+69	{n} ang darating
+70	{n} ang available
+71	{n} item
+72	{n} item
+73	{n} mensahe
+74	{n} mensahe
+75	{n} tao
+76	{n} tao ang darating
+77	{n} tao
+78	{n} tao ang darating
+79	{n} larawan
+80	{n} photo album
+81	{n} photo album
+82	{n} larawang ibinahagi ni {name} sa Blessly
+83	{n} larawan
+84	{n} larawang ibinahagi ni {name} sa Blessly
+85	{n} ang nabasa sa WhatsApp
+86	{n} recovery code ang natitira.
+87	{n} recovery code ang natitira.
+88	{n} row
+89	{n} row
+90	{n} team login
+91	{name} (ikaw)
+92	{name} gift card para kay {recipientName}
+93	Natanggap na ni {name} ang sagot mo.
+94	Iniimbitahan ka ni {name}
+95	{name} plan
+96	Hindi malalaman ni {name} kung sino.
+97	{name}, iniimbitahan ka ni {hostName}
+98	{occasion} wishlist
+99	{phone} · pag-sign in gamit ang text code
+100	{photos} larawan bawat isa
+101	Nakakonekta ang {provider}
+102	Nakakonekta na ang {provider}.
+103	Nag-reserba ka ng {quantity}.
+104	{raised} mula sa {n} tao
+105	{raised} mula sa {n} tao
+106	{raised} ang nalikom mula sa {n} tao
+107	{raised} ang nalikom mula sa {n} tao
+108	{remaining} sa {quantity} ang natitira
+109	Imbitasyon bilang {role}
+110	{seller} · ihahatid sa {v}
+111	{sent} naipadala · {delivered} natanggap · {read} nabasa · {failed} hindi naipadala
+112	{signed} sa {total} sa pamilya ang pumirma
+113	{stock} ang natitira
+114	{title} ni {by}
+115	{unread} hindi pa nababasa
+116	{used} sa {quota} mensahe ang nagamit
+117	{used} sa {seats} login ang nagamit. Kayang hawakan ng mga kasapi ng team ang mga customer, automation at campaign; ang may-ari lang ang nagbabago ng settings at WhatsApp.
+118	{v} · na-email sa {emailed}
+119	{v} araw, {v2} oras at {v3} minuto pa
+120	{v} naka-on
+121	+ Magdagdag ng kaganapan ng pamilya
+122	+ Magdagdag ng okasyon
+123	+ Pagbati
+124	+ Mag-imbita
+125	+ Larawan
+126	+ Magbahagi ng isang tao
+127	+ Pirma o drowing
+128	+ Teksto
+129	■ Ihinto
+130	● Mag-record ng video message
+131	● Mag-record ng voice message
+132	✉️ I-print at ipadala sa koreo
+133	✎ I-customize ang disenyong ito
+134	🎁 Wishlist ng regalo
+135	🎁 Ambagang regalo
+136	🎉 Nangyayari na ngayon!
+137	🎙️ Voice message mula kay {from}
+138	🎥 Video message mula kay {from}
+139	💚 Pangangalap ng pondo
+140	💝 {title} · {v} ang nalikom
+141	💝 Magdagdag ng ambagang regalo
+142	💝 Ambagang regalo: {raised} ang nalikom — mag-ambag
+143	💝 Ambagang regalo: {raised} sa {target} ang nalikom — mag-ambag
+144	📱 Mag-sign in gamit ang text message code
+145	$ USD
+146	₹ INR
+147	1 · Okasyon at tao
+148	1 · Tandaan
+149	1 araw bago
+150	1. I-scan ito gamit ang iyong authenticator app:
+151	2 · Gumawa
+152	2 · Isulat ang pagbati
+153	2. Ilagay ang 6-digit na code na ipinapakita
+154	250 disenyo ng card para sa bawat isa sa 40 okasyon, sa 32 wika.
+155	250 disenyo bawat okasyon
+156	3 · Ihatid
+157	3 · Pumili ng card · disenyo {n} · {shown} sa {total} disenyo
+158	3 · Ang card mo
+159	3 araw bago
+160	4 · Voice o video message (opsyonal)
+161	40 okasyon × 250 disenyo (10,000 card), sa 32 wika. Orihinal ang lahat ng artwork at libreng gamitin.
+162	7 araw bago
+163	Hanggang {MAX_GUESTS} bisita lang ang puwede sa isang pagdiriwang
+164	May customer na sa email na ito
+165	May customer na sa numerong ito
+166	Hindi puwedeng sabay na nakatago at itinatampok ang isang disenyo
+167	Hanggang {limit} tao lang sa isang family circle
+168	Hanggang {MAX_ITEMS} item lang sa isang listahan
+169	Pahina para sa party o kaganapan mo: mga imbitasyon at RSVP, countdown, at pader ng mga mensahe, larawan at alaala.
+170	Isang pagbati para kay {name}
+171	Isang pagbati para sa iyo, {name}
+172	Isang pagbati mula kay {name}
+173	Tungkol sa iyo
+174	Mga pangangailangan sa accessibility (opsyonal)
+175	Hindi nakita ang account
+176	Mga aksyon
+177	Idagdag
+178	Idagdag ang {s}
+179	Magdagdag ng column na “name”
+180	Magdagdag ng kaarawan o anibersaryo
+181	Magdagdag ng kaarawan o anibersaryo — magpapaalala kami isang linggo bago, ihahanda ang pagbati isang araw bago at sasabihan ka sa mismong araw.
+182	Magdagdag ng caption
+183	Magdagdag ng kaganapan ng pamilya
+184	Magdagdag ng mobile number o email
+185	Magdagdag ng pangalan
+186	Magdagdag ng tala (itinatago sa audit log)
+187	Magdagdag ng produkto
+188	Magdagdag ng subject
+189	Magdagdag ng gawain
+190	Magdagdag ng item
+191	Magdagdag ng customer
+192	Magdagdag ng kaganapan
+193	Magdagdag ng bisita
+194	Magdagdag ng bisita — isa bawat linya: pangalan, tapos email at/o telepono
+195	Magdagdag ng alaala
+196	Idagdag ang pagbati ko
+197	Magdagdag ng numero
+198	Magdagdag ng isa para makapag-sign in gamit ang text message code
+199	Idagdag ang mga tao nang isang beses. Nasa kalendaryo na ang mga pista ng bansa mo.
+200	Magdagdag ng tao
+201	Magdagdag ng mga larawan
+202	Magdagdag ng produkto (ipapasa para sa review)
+203	Magdagdag ng QR code
+204	Magdagdag ng isang tao
+205	Magdagdag ng isang espesyal na tao
+206	Magdagdag ng bagay na gusto mo
+207	Magdagdag ng gawain
+208	Ilagay ang address
+209	Ilagay ang subject at mensahe ng email
+210	Idagdag ang mahahalagang tao
+211	Ilagay ang postcode
+212	Ilagay ang pangalan ng tatanggap
+213	Ilagay ang lungsod o bayan
+214	Idagdag sa kalendaryo
+215	Idagdag sa card
+216	Idagdag sa mga paborito
+217	Idagdag sa listahan
+218	Idagdag sa kalendaryo ko

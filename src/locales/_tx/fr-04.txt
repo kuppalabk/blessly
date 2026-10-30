@@ -1,0 +1,218 @@
+655	Ajouter {title} aux favoris
+656	Favoris
+657	Campagnes de fêtes pour tous les clients ou un groupe (Diwali, Aïd, Noël…)
+658	Fêtes
+659	Filtrer par statut
+660	d’abord, afin que nous ayons les visuels finalisés à imprimer.
+661	Police
+662	Pour
+663	Pour (facultatif)
+664	Pour Anil
+665	Pour les professionnels
+666	Par exemple, ils se sont inscrits en magasin, sur votre site ou à la caisse. WhatsApp peut bloquer les numéros qui envoient des messages sans autorisation.
+667	Pour Nisha
+668	pour le prénom du client et
+669	jusqu’à 6.
+670	pour le nom de votre entreprise. Un lien de désinscription est ajouté automatiquement.
+671	Mot de passe oublié
+672	Mot de passe oublié ?
+673	Gratuit
+674	Gratuit pour les vœux personnels. Passez à une offre supérieure pour toute votre famille ou votre entreprise.
+675	Gratuit jusqu’à 3 personnes, ou jusqu’à {MAX_MEMBERS} avec le forfait Famille. Vos rappels privés restent privés.
+676	Forfait gratuit · aucune boutique d’applications nécessaire · installez-le depuis votre navigateur
+677	Essai gratuit jusqu’au {v}
+678	Essai gratuit : {n} messages jusqu’au {date}.
+679	Ami(e)
+680	Amis et famille peuvent ajouter leurs propres messages sur la page du vœu :
+681	Amitié
+682	De
+683	De {ownerName}. Appuyez sur « Je m’en occupe » pour réserver un cadeau afin que personne n’en achète en double.
+684	Dès le jour J
+685	De vos proches
+686	Recto
+687	Recto de la carte
+688	Collecte de fonds · organisée par {name}
+689	Drôle
+690	Recevez des rappels pour les anniversaires et anniversaires de mariage partagés en famille
+691	Recevez des rappels sur cet appareil une semaine avant, la veille et le jour même — même lorsque Blessly est fermé.
+692	Prompt rétablissement
+693	Premiers pas
+694	Carte cadeau introuvable
+695	Cartes cadeaux
+696	Cartes cadeaux, commandes de la boutique et cartes imprimées
+697	Idées cadeaux
+698	Listes de cadeaux pour anniversaires, mariages, naissances et crémaillères. Les amis réservent ce qu’ils achèteront, pour éviter les doublons, et la surprise reste intacte.
+699	Listes de cadeaux où les amis réservent
+700	Mot accompagnant le cadeau (facultatif)
+701	Mot accompagnant le cadeau : « {v} »
+702	Rappel cadeau
+703	Liste de souhaits cadeaux (facultatif)
+704	Cadeaux et paiements
+705	Cadeaux et paiements
+706	Cadeaux de vendeurs indépendants, livrés
+707	Cadeaux de vendeurs indépendants, validés par Blessly et livrés par le vendeur.
+708	Donnez-lui un nom
+709	Donnez un nom à l’album
+710	Donnez un nom à la carte
+711	Donnez un nom à l’événement
+712	Donnez un nom à votre cercle
+713	Donnez un nom à votre liste
+714	Lueur
+715	Aller sur Blessly
+716	Vient
+717	Bonne chance
+718	Google
+719	Dégradé de {a} à {b}
+720	Remise de diplôme
+721	Grand-parent
+722	Grands-parents
+723	Subvention introuvable
+724	Carte collective
+725	Cadeau collectif · organisé par {name}
+726	Cadeaux collectifs et collectes de fonds
+727	Les cadeaux collectifs vont à l’organisateur, pas à une association
+728	Cadeaux collectifs, cartes cadeaux, boutique, cartes imprimées
+729	Invité(e)
+730	Invité introuvable
+731	Invités
+732	Les invités peuvent laisser des messages, des photos et des vidéos
+733	Halloween
+734	Transférez d’abord la propriété à quelqu’un d’autre
+735	Hanouka
+736	Sincère
+737	Bonjour, {v}
+738	Bonjour {name} ! Vous êtes invité(e) : {title} — {when}. Détails et réponse : {link}
+739	Holi
+740	Accueil
+741	Pendaison de crémaillère
+742	Comment
+743	Fonctionnement
+744	Combien
+745	Combien de personnes, vous compris ?
+746	Le montant souhaité
+747	Mode d’emploi
+748	Mari
+749	J’approuve les messages avant leur publication
+750	Je m’en occupe
+751	Je m’en occupe
+752	Je les ai enregistrés
+753	Si {phone} appartient à un compte Blessly, nous lui avons envoyé un code à 6 chiffres.
+754	Si un compte existe pour {email}, un lien de réinitialisation vous a été envoyé. Il est valable 60 minutes — pensez aussi à vérifier vos spams.
+755	Si vous perdez votre téléphone, chaque code vous permet de vous connecter une fois. Conservez-les en lieu sûr — ils ne seront plus affichés.
+756	Importer un CSV
+757	Importer des clients
+758	Importez des clients depuis un tableur ; consultez ce qui a été remis et lu
+759	Échec de l’importation
+760	Importation terminée
+761	Résultat de l’importation
+762	Importez jusqu’à {v1} clients à la fois
+763	Importation…
+764	dans
+765	Dans {daysAway} jours
+766	Dans {n} jour
+767	Dans {n} jours
+768	En l’honneur de (facultatif)
+769	À la mémoire de
+770	Dans Meta Business Suite, configurez WhatsApp Manager avec un numéro de téléphone non utilisé dans l’application WhatsApp, et ajoutez un moyen de paiement.
+771	En cours
+772	En stock
+773	Dans votre application Meta, ouvrez WhatsApp → Configuration de l’API et copiez le
+774	IN,GB
+775	Encre {c}
+776	Couleur d’encre
+777	Intérieur
+778	Intérieur de la carte
+779	Intérieur de la carte : {label}
+780	Instagram n’accepte pas les liens provenant de sites web. Sur votre téléphone, utilisez « Plus d’applis », ou copiez le message et collez-le dans une conversation Instagram.
+781	JSON invalide
+782	Invitation
+783	Invitation envoyée à {name}
+784	Invitation envoyée par e-mail à {n} invité
+785	Invitations envoyées par e-mail à {n} invités
+786	Inviter
+787	Inviter en tant que
+788	Invitation introuvable
+789	Inviter des proches
+790	Invité(e)s
+791	Réservé aux invités
+792	Réservé aux invités — partagez le lien personnel de chaque invité (onglet Invités), et non celui-ci.
+793	est remplacé par le prénom du client et
+794	Article introuvable
+795	Articles
+796	Rejoindre {businessName}
+797	Rejoindre {family}
+798	Rejoindre l’équipe professionnelle
+799	Rejoindre le cercle familial
+800	Rejoindre en ligne
+801	Rejoindre le cercle familial
+802	Rejoindre l’équipe
+803	Adhésion…
+804	Seulement l’invité
+805	Gardez au moins 12 modèles visibles pour chaque occasion
+806	Gardez la surprise
+807	Type
+808	langue
+809	Langue
+810	Langue (application et vœux)
+811	Quitter
+812	Quitter {familyName} ? Les personnes avec qui vous avez partagé reviendront en privé.
+813	Laisser un message
+814	Quitter le cercle
+815	Gauche
+816	Gauche ↔ droite
+817	Permettre aux invités d’ajouter des photos
+818	Épaisseur du trait
+819	Lien
+820	Lien pour le code QR (une vidéo, une playlist, un album photo, un cadeau…)
+821	Le lien doit commencer par / ou https://
+822	Lien non valide
+823	Lien vers la boutique (facultatif)
+824	Lié à un article de liste de souhaits — il y apparaîtra comme cadeau collectif.
+825	LinkedIn
+826	en ligne
+827	Se connecter
+828	Se déconnecter
+829	Téléphone perdu ? Utilisez un code de récupération
+830	Amour et famille
+831	Créé avec
+832	Créé avec Blessly · créez le vôtre gratuitement
+833	Créé avec Blessly · créez votre propre liste de souhaits
+834	Créé avec Blessly · organisez gratuitement votre propre fête
+835	Principal
+836	Makar Sankranti / Pongal
+837	Faire de {name} le propriétaire ? Vous deviendrez admin.
+838	Définir comme couverture
+839	Définir comme propriétaire
+840	Désignez quelqu’un d’autre comme propriétaire avant de partir
+841	Désignez d’abord quelqu’un d’autre comme propriétaire
+842	Gérer
+843	Gérer cette fête
+844	Carte
+845	Tout marquer comme lu
+846	Marquer comme remis
+847	Marquer comme terminé
+848	Marquer comme expédié
+849	peut-être
+850	Peut-être
+851	Moi ({name})
+852	Meena Shah, meena@example.com\nTom +44 7700 900123
+853	Membre
+854	Membre — peut ajouter des événements et des tâches
+855	Membre introuvable
+856	Membres : {v}
+857	Souvenirs
+858	Message
+859	Message (facultatif)
+860	Message introuvable
+861	Message aux contributeurs (facultatif)
+862	Message aux invités (facultatif)
+863	Type de message
+864	Messages
+865	messages par mois (WhatsApp et e-mail). Les frais propres à WhatsApp par message sont facturés par Meta sur votre compte WhatsApp.
+866	Les messages sont envoyés depuis ce numéro via la plateforme officielle WhatsApp Business. Meta facture votre compte WhatsApp par message remis (tarif marketing).
+867	Les messages sont désactivés pour cette fête
+868	Les messages peuvent durer jusqu’à 2 minutes
+869	Messages pour {honoree}
+870	Messages de {businessName}
+871	mobile
+872	Mobile

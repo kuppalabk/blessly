@@ -1,0 +1,218 @@
+1	— không bắt buộc
+2	— quá nhiều biến
+3	— lần thanh toán gần nhất thất bại; vui lòng cập nhật phương thức thanh toán
+4	· {partySize} người
+5	· của {ownerName}
+6	· đã hủy
+7	· đã đóng
+8	· ảnh bìa
+9	· ngày có thể thay đổi
+10	· ngày có thể khác tùy khu vực
+11	· kỷ niệm
+12	· chưa đồng ý — sẽ không nhận tin nhắn
+13	· mã tham chiếu {reference}
+14	· đã chia sẻ
+15	· mục tiêu {v}
+16	· mã vận đơn {tracking}
+17	· đang chờ duyệt
+18	({pending} chờ duyệt)
+19	(ẩn danh với người khác)
+20	(bạn)
+21	dành cho {honoree}
+22	dành cho {v}
+23	Ghi nhận: {consentSource}.
+24	có trạng thái “{v}”
+25	— mọi người ở đó đều nhận các lời nhắc này.
+26	— chỉ xem, với tư cách {admin}. Không thể thay đổi gì.
+27	— lời nhắc, lời chúc và album cho mọi dịp.
+28	— chia sẻ trang lời chúc kèm bản xem trước thiệp
+29	— bạn sẽ không biết là gì cho đến khi tự chọn xem.
+30	, {maybe} có thể
+31	, hoặc chia sẻ liên kết — ai trả lời sẽ được thêm tự động
+32	, những người của bạn, lời nhắc, lời chúc và trang lời chúc, cùng doanh nghiệp và khách hàng của bạn. Các nhóm gia đình bạn sở hữu sẽ chuyển cho người tiếp theo trong nhóm. Không thể hoàn tác.
+33	! Mời bạn thưởng thức một món quà nhỏ từ chúng tôi tại
+34	. Ngày như 14/03, 14 Mar hoặc 1990-03-14 (ngày trước). Khách hàng hiện có cùng số di động hoặc email sẽ được cập nhật.
+35	. Chỉ
+36	. Gửi vào đúng ngày.
+37	. Blessly sẽ không nhắn cho họ ở đó.
+38	…hoặc dán vào đây
+39	”), rồi bấm “Làm mới mẫu” trong Cài đặt.
+40	({v} mỗi thiệp, in trên giấy 350gsm kèm phong bì, đã gồm phí gửi)
+41	(bắt buộc),
+42	Đã thêm {added} · cập nhật {updated} · bỏ qua {skipped}
+43	{coming} người đến · {guests} người trong danh sách khách
+44	{consented} người đồng ý nhận tin nhắn
+45	{days} ngày
+46	{going} đi · {maybe} có thể · {no} không thể · {waiting} chưa trả lời
+47	{greeting}, {recipientName} — thiệp từ {senderName}
+48	{hostName} mời bạn
+49	{inDays} ngày
+50	{inviter} đã mời bạn vào
+51	{inviter} đã mời bạn vào {family} trên Blessly — cùng chia sẻ sinh nhật, lên kế hoạch sự kiện gia đình và ký thiệp với nhau. Tham gia tại: {link}
+52	{label} (không bắt buộc)
+53	Ngày {label}
+54	Tháng {label}
+55	Đăng nhập bằng {label} thất bại ({why}). Vui lòng thử lại.
+56	Đăng nhập bằng {label} thất bại. Vui lòng thử lại.
+57	{length}/{limit} người · bạn là {v}
+58	{length}/{maxPhotos} ảnh · JPG, PNG, WebP hoặc GIF tối đa 15 MB. Dữ liệu vị trí được xóa khỏi mọi ảnh.
+59	{length} lời chúc trong hai tuần tới
+60	{memberCount}/{limit} người · {v}
+61	{mine} album (không giới hạn với gói {plan}) · mỗi album {photos} ảnh
+62	{mine}/{max} album với gói {plan} · mỗi album {photos} ảnh
+63	{n} khách hàng
+64	{n} khách hàng
+65	{n} ngày
+66	{n} ngày
+67	Đã có {n} món quà được giữ chỗ
+68	Đã có {n} món quà được giữ chỗ
+69	{n} người đi
+70	Còn {n}
+71	{n} món
+72	{n} món
+73	{n} tin nhắn
+74	{n} tin nhắn
+75	{n} người
+76	{n} người sẽ đến
+77	{n} người
+78	{n} người sẽ đến
+79	{n} ảnh
+80	{n} album ảnh
+81	{n} album ảnh
+82	{n} ảnh được {name} chia sẻ trên Blessly
+83	{n} ảnh
+84	{n} ảnh được {name} chia sẻ trên Blessly
+85	{n} đã đọc trên WhatsApp
+86	Còn {n} mã khôi phục.
+87	Còn {n} mã khôi phục.
+88	{n} dòng
+89	{n} dòng
+90	{n} tài khoản nhóm
+91	{name} (bạn)
+92	Thẻ quà tặng {name} cho {recipientName}
+93	{name} đã nhận được câu trả lời của bạn.
+94	{name} mời bạn
+95	Gói {name}
+96	{name} sẽ không biết là ai.
+97	{name} ơi, {hostName} mời bạn
+98	Danh sách quà mong muốn dịp {occasion}
+99	{phone} · đăng nhập bằng mã SMS
+100	mỗi album {photos} ảnh
+101	Đã kết nối {provider}
+102	{provider} đã được kết nối.
+103	Bạn đã giữ {quantity} món.
+104	{raised} từ {n} người
+105	{raised} từ {n} người
+106	Đã góp {raised} từ {n} người
+107	Đã góp {raised} từ {n} người
+108	Còn {remaining}/{quantity}
+109	Lời mời {role}
+110	{seller} · giao tới {v}
+111	Đã gửi {sent} · đã nhận {delivered} · đã đọc {read} · không gửi {failed}
+112	{signed}/{total} người trong gia đình đã ký
+113	Còn {stock}
+114	{title} của {by}
+115	{unread} chưa đọc
+116	Đã dùng {used}/{quota} tin nhắn
+117	Đã dùng {used}/{seats} tài khoản. Thành viên nhóm có thể quản lý khách hàng, tự động hóa và chiến dịch; chỉ chủ sở hữu được thay đổi cài đặt và WhatsApp.
+118	{v} · đã gửi email cho {emailed} người
+119	Còn {v} ngày, {v2} giờ và {v3} phút
+120	{v} đang bật
+121	+ Thêm sự kiện gia đình
+122	+ Thêm dịp
+123	+ Lời chào
+124	+ Mời
+125	+ Ảnh
+126	+ Chia sẻ một người
+127	+ Chữ ký hoặc hình vẽ
+128	+ Văn bản
+129	■ Dừng
+130	● Ghi tin nhắn video
+131	● Ghi tin nhắn thoại
+132	✉️ In và gửi qua bưu điện
+133	✎ Tùy chỉnh mẫu này
+134	🎁 Danh sách quà
+135	🎁 Quà góp chung
+136	🎉 Đang diễn ra!
+137	🎙️ Tin nhắn thoại từ {from}
+138	🎥 Tin nhắn video từ {from}
+139	💚 Gây quỹ
+140	💝 {title} · đã góp {v}
+141	💝 Thêm quà góp chung
+142	💝 Quà góp chung: đã góp {raised} — cùng góp
+143	💝 Quà góp chung: đã góp {raised}/{target} — cùng góp
+144	📱 Đăng nhập bằng mã SMS
+145	$ USD
+146	₹ INR
+147	1 · Dịp và người nhận
+148	1 · Ghi nhớ
+149	Trước 1 ngày
+150	1. Quét mã này bằng ứng dụng xác thực:
+151	2 · Tạo
+152	2 · Viết lời chúc
+153	2. Nhập mã 6 chữ số hiển thị
+154	250 mẫu thiệp cho mỗi dịp trong 40 dịp, bằng 32 ngôn ngữ.
+155	250 mẫu cho mỗi dịp
+156	3 · Gửi gắm
+157	3 · Chọn thiệp · mẫu {n} · {shown}/{total} mẫu
+158	3 · Thiệp của bạn
+159	Trước 3 ngày
+160	4 · Tin nhắn thoại hoặc video (không bắt buộc)
+161	40 dịp × 250 mẫu (10.000 thiệp), bằng 32 ngôn ngữ. Tất cả hình vẽ đều nguyên bản và miễn phí sử dụng.
+162	Trước 7 ngày
+163	Một buổi tiệc có tối đa {MAX_GUESTS} khách
+164	Đã có khách hàng dùng email này
+165	Đã có khách hàng dùng số này
+166	Một mẫu không thể vừa bị ẩn vừa được nổi bật
+167	Nhóm gia đình có tối đa {limit} người
+168	Danh sách có tối đa {MAX_ITEMS} món
+169	Trang cho bữa tiệc hoặc sự kiện của bạn: lời mời và xác nhận tham dự, đếm ngược, và bức tường tin nhắn, ảnh, kỷ niệm.
+170	Lời chúc cho {name}
+171	Lời chúc dành cho bạn, {name}
+172	Lời chúc từ {name}
+173	Giới thiệu về bạn
+174	Nhu cầu hỗ trợ tiếp cận (không bắt buộc)
+175	Không tìm thấy tài khoản
+176	Thao tác
+177	Thêm
+178	Thêm {s}
+179	Thêm cột “name”
+180	Thêm sinh nhật hoặc ngày kỷ niệm
+181	Thêm sinh nhật hoặc ngày kỷ niệm, chúng tôi sẽ nhắc bạn trước một tuần, soạn sẵn lời chúc trước một ngày và báo bạn vào đúng ngày.
+182	Thêm chú thích
+183	Thêm sự kiện gia đình
+184	Thêm số di động hoặc email
+185	Thêm tên
+186	Thêm ghi chú (lưu trong nhật ký kiểm tra)
+187	Thêm sản phẩm
+188	Thêm tiêu đề
+189	Thêm việc
+190	Thêm món
+191	Thêm khách hàng
+192	Thêm sự kiện
+193	Thêm khách
+194	Thêm khách — mỗi dòng một người: tên, rồi email và/hoặc số điện thoại
+195	Thêm kỷ niệm
+196	Gửi lời chúc của tôi
+197	Thêm số
+198	Thêm số để đăng nhập bằng mã SMS
+199	Thêm người thân một lần. Các ngày lễ của nước bạn đã có sẵn trong lịch.
+200	Thêm người
+201	Thêm ảnh
+202	Thêm sản phẩm (gửi đi duyệt)
+203	Thêm mã QR
+204	Thêm một người
+205	Thêm một người đặc biệt
+206	Thêm món bạn rất thích
+207	Thêm việc
+208	Nhập địa chỉ
+209	Nhập tiêu đề và nội dung email
+210	Thêm những người quan trọng
+211	Nhập mã bưu chính
+212	Nhập tên người nhận
+213	Nhập thành phố hoặc thị trấn
+214	Thêm vào lịch
+215	Thêm vào thiệp
+216	Thêm vào yêu thích
+217	Thêm vào danh sách
+218	Thêm vào lịch của tôi

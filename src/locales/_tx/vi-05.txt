@@ -1,0 +1,218 @@
+873	Di động (cho WhatsApp và SMS)
+874	Số di động
+875	tháng
+876	Tháng
+877	Hàng tháng
+878	Thêm
+879	Thêm ứng dụng (Instagram…)
+880	Thêm mẫu
+881	Phổ biến nhất
+882	Mẹ
+883	Ngày của Mẹ
+884	Di chuyển {title} xuống
+885	Di chuyển {title} lên
+886	Cần có
+887	Thiệp của tôi
+888	Đơn hàng của tôi
+889	tên
+890	Tên
+891	Tên dịp
+892	Tên tiệc mừng
+893	Đặt tên chiến dịch
+894	Đặt tên mẫu thiết kế, rồi tải lên.
+895	Navratri
+896	Cần lên kế hoạch cho
+897	Không bỏ lỡ sinh nhật gia đình nào nữa
+898	Đừng bỏ lỡ khoảnh khắc nào. Đừng quên ai là người quan trọng.
+899	Đừng bỏ lỡ khoảnh khắc nào. Lời nhắc, lời chúc do AI viết bằng 32 ngôn ngữ và thiệp đẹp cho mọi dịp.
+900	Mới
+901	Album mới
+902	Em bé mới
+903	Chiến dịch mới
+904	Mới đến đây?
+905	Công việc mới
+906	Mật khẩu mới
+907	Mã khôi phục mới
+908	Công việc mới
+909	Danh sách quà mới
+910	Năm mới
+911	Mới hơn
+912	Tiếp
+913	7 ngày tới
+914	Mẫu tiếp theo
+915	Tháng sau
+916	Dịp tiếp theo
+917	Nên có
+918	Chưa có cảnh báo. Lời nhắc sẽ hiển thị ở đây trước mỗi dịp.
+919	không trả lời
+920	Chưa có trả lời
+921	Chưa có chiến dịch nào. Lên lịch lời chúc lễ hội hoặc ưu đãi cho một nhóm khách hàng.
+922	Chưa có thiệp nào. Bắt đầu một thiệp ở trên, hoặc chọn mẫu trong mục Tạo và nhấn “Tùy chỉnh mẫu này”.
+923	Chưa đồng ý
+924	Tuần này không có sinh nhật hay ngày kỷ niệm nào của khách hàng.
+925	Không có khách hàng phù hợp.
+926	Chưa có khách hàng nào. Thêm từng người hoặc nhập từ bảng tính.
+927	Chưa có ngày nào
+928	Chưa có ngày nào.
+929	Chưa thiết bị nào nhận được. Hãy thử tắt rồi bật lại thông báo.
+930	Chưa có khoản quyên góp nào. Các chiến dịch gây quỹ giờ có thể chọn {name}.
+931	Chưa có sự kiện nào. Thêm bữa tối sinh nhật, lễ puja hoặc buổi gặp mặt.
+932	Chưa có thiệp nhóm.
+933	Chưa có khách mời nào. Thêm ở trên
+934	Không có tin nhắn
+935	Chưa có tin nhắn nào. Khách có thể để lại tin nhắn, ảnh và video trên trang này.
+936	Chưa có ai ở đây. Thêm gia đình, bạn bè và đồng nghiệp cùng sinh nhật và ngày kỷ niệm của họ.
+937	Không ai khớp với “{q}”.
+938	Chưa có đơn hàng nào.
+939	Không có thiệp nào khác.
+940	Chưa có ảnh
+941	Chưa có ảnh.
+942	Chưa có gói — tin nhắn đang tạm dừng
+943	Chưa có sản phẩm nào.
+944	Không có tiền thật được chuyển — thanh toán dùng trang thanh toán thử nghiệm.
+945	Chưa trả lời
+946	Chưa có mẫu nào. Tạo trong WhatsApp Manager, rồi làm mới.
+947	Chưa có tổ chức từ thiện đã xác minh
+948	Chưa có danh sách quà
+949	Chưa ai chia sẻ — thêm ông bà, anh chị em họ và cô dì để không ai bị quên.
+950	Không có
+951	Chưa có — hãy chia sẻ liên kết.
+952	chưa được duyệt
+953	Chưa được duyệt
+954	Chưa kết nối
+955	Không tìm thấy
+956	Không được liệt kê ở đâu cả; chia sẻ liên kết với bất kỳ ai bạn muốn.
+957	Không có trong nhóm
+958	Chưa giữ chỗ
+959	Chưa lưu
+960	Chưa gửi
+961	Chưa đặt — bạn đăng nhập bằng các tùy chọn bên dưới
+962	Ghi chú cho {name} (không bắt buộc)
+963	Ghi chú
+964	Ghi chú — kích cỡ, màu sắc, mẫu (không bắt buộc)
+965	Ghi chú (không bắt buộc)
+966	Ghi chú cho lời chúc cá nhân (không bắt buộc)
+967	Chưa có gì trong danh sách này.
+968	Chưa có kế hoạch nào.
+969	Chưa giữ chỗ gì
+970	Chưa gửi gì cho {v}.
+971	Chưa gửi gì.
+972	Không có gì trong tháng này.
+973	Thông báo của Blessly đã bị chặn. Hãy cho phép trong cài đặt trình duyệt hoặc điện thoại, rồi quay lại đây.
+974	Đã xóa số.
+975	Đã xác minh số.
+976	Dịp
+977	Loại dịp
+978	Các dịp
+979	Các dịp và lời nhắc
+980	trong {v} của gói bạn
+981	Tắt
+982	Ngoại tuyến
+983	Cũ hơn
+984	Bật
+985	Đang bật cho thiết bị này và {n} thiết bị khác.
+986	Đang bật cho thiết bị này và {n} thiết bị khác.
+987	Đang bật cho thiết bị này.
+988	Trên iPhone và iPad, hãy thêm Blessly vào Màn hình chính trước (Chia sẻ → Thêm vào Màn hình chính), rồi mở từ đó để bật thông báo.
+989	Đang trên đường
+990	Vào đúng ngày
+991	Chỉ một chạm để mở WhatsApp hoặc Telegram với lời chúc đã sẵn sàng. Email có thể tự gửi vào đúng ngày.
+992	Chỉ khách hàng được gắn thẻ
+993	Chỉ khách hàng được gắn thẻ (không bắt buộc)
+994	Chỉ mình tôi
+995	Chỉ có thể hoàn tiền cho các khoản đã thanh toán
+996	Chỉ có thể hủy các chiến dịch đã lên lịch
+997	Chỉ chủ doanh nghiệp mới có thể làm việc này
+998	Chỉ chủ doanh nghiệp mới có thể xóa người
+999	Chỉ chủ sở hữu mới có thể thay đổi vai trò
+1000	Chỉ chủ sở hữu mới có thể thay đổi kết nối WhatsApp.
+1001	Chỉ chủ sở hữu mới có thể xóa nhóm
+1002	Chỉ chủ sở hữu mới có thể mời quản trị viên
+1003	Chỉ chủ sở hữu hoặc quản trị viên mới có thể hủy lời mời
+1004	Chỉ chủ sở hữu hoặc quản trị viên mới có thể mời người
+1005	Chỉ chủ sở hữu hoặc quản trị viên mới có thể xóa người
+1006	Chỉ chủ sở hữu hoặc quản trị viên mới có thể đổi tên nhóm
+1007	Chỉ người đã thêm sự kiện này, chủ sở hữu hoặc quản trị viên mới có thể thay đổi
+1008	Chỉ người đã thêm sự kiện này, chủ sở hữu hoặc quản trị viên mới có thể xóa
+1009	Chỉ người đã thêm công việc này, chủ sở hữu hoặc quản trị viên mới có thể xóa
+1010	Chỉ người tạo album mới có thể thay đổi
+1011	Chỉ người tạo album mới có thể xóa
+1012	Chỉ bạn mới có thể xem người này và lời nhắc của họ.
+1013	Mở
+1014	Mở từ liên kết trong thiệp mời. Nếu bạn được mời nhưng đã làm mất, hãy nhờ người tổ chức gửi lại.
+1015	công việc đang mở
+1016	Mở thiệp
+1017	Mở thiệp và nhấn
+1018	Mở thiệp và nhấn “Dùng thiệp này” hoặc “PDF sẵn sàng in” trước, để chúng tôi có ảnh hoàn chỉnh
+1019	Mở ứng dụng xác thực và nhập mã 6 chữ số của Blessly.
+1020	Đang mở thanh toán…
+1021	Đang mở trình chỉnh sửa…
+1022	Đang mở thanh toán…
+1023	Mở ứng dụng của bạn với tin nhắn đã sẵn sàng. Bạn nhấn gửi, nên tin nhắn sẽ đến từ bạn.
+1024	hoặc
+1025	Hoặc lên lịch
+1026	hoặc bằng email của bạn
+1027	Đơn hàng cần gửi
+1028	Khác
+1029	Thiệp khác
+1030	Gia đình chúng tôi
+1031	Tổng quan
+1032	Chủ sở hữu
+1033	Trang
+1034	Trang {page} / {pages}
+1035	Không tìm thấy trang
+1036	Đã thanh toán
+1037	Bạn đời
+1038	Đối tác
+1039	Trang tiệc, thiệp mời và RSVP
+1040	Mật khẩu
+1041	Đã đổi mật khẩu.
+1042	Đã đặt mật khẩu.
+1043	Đã qua
+1044	Sự kiện đã qua
+1045	Dán mã truy cập vĩnh viễn (người dùng hệ thống)
+1046	Thanh toán (thử nghiệm)
+1047	Thanh toán {amount} (thử nghiệm)
+1048	Thanh toán bằng thẻ qua Stripe.
+1049	Chi trả {v}
+1050	Thanh toán qua UPI AutoPay, thẻ hoặc internet banking qua Razorpay.
+1051	Đã hủy thanh toán. Bạn chưa bị tính phí.
+1052	Thanh toán thất bại
+1053	Không tìm thấy thanh toán
+1054	Không tìm thấy khoản chi trả
+1055	Đã yêu cầu chi trả {amount} (chế độ thử nghiệm).
+1056	Đã yêu cầu chi trả (chế độ thử nghiệm).
+1057	Chi trả:
+1058	Người
+1059	Mỗi người tự chọn cài đặt lời nhắc
+1060	Người trong nhóm này
+1061	Số người mỗi thiệp mời
+1062	Người có liên kết có thể tải lên (không cần tài khoản). Bạn có thể xóa bất kỳ ảnh nào.
+1063	Mã truy cập vĩnh viễn
+1064	Người
+1065	Không tìm thấy người
+1066	Chi tiết cá nhân (không bắt buộc)
+1067	Thú cưng
+1068	Số điện thoại cho người giao hàng (không bắt buộc)
+1069	Thông báo qua điện thoại
+1070	Thông báo qua điện thoại chưa được thiết lập trên máy chủ này. Cảnh báo sẽ đến qua ứng dụng và email.
+1071	ID số điện thoại
+1072	ID số điện thoại là dãy số dài trong WhatsApp Manager → Thiết lập API
+1073	Ảnh
+1074	Album ảnh
+1075	Ảnh của {uploader}
+1076	Ảnh cho {title}
+1077	Ảnh từ {name}
+1078	Không tìm thấy ảnh
+1079	Ảnh hoặc video (không bắt buộc)
+1080	Ảnh để thêm
+1081	Ảnh
+1082	Ảnh ({n})
+1083	Ảnh có thể lên tới 15 MB
+1084	Chọn ngày
+1085	Chọn một ngày trong tương lai
+1086	Chọn một thời điểm trong tương lai
+1087	Chọn múi giờ hợp lệ
+1088	Chọn một mẫu WhatsApp đã được duyệt
+1089	Chọn một mẫu WhatsApp đã được duyệt, hoặc gửi qua email
+1090	Chọn một trong các mẫu WhatsApp của bạn

@@ -1,0 +1,218 @@
+1091	Wähle jemanden in diesem Familienkreis
+1092	Wähle jemanden, der mit diesem Familienkreis geteilt wurde
+1093	PIN
+1094	Tarif
+1095	Plane eine Feier
+1096	Plant Termine gemeinsam und seht, wer kommt
+1097	Tarif nicht gefunden
+1098	Gemeinsam planen
+1099	Tarif: {name}
+1100	Tarife
+1101	Plattform-Admin
+1102	Bitte korrigiere die markierten Felder.
+1103	Bitte melde dich an
+1104	Bitte antworte bis {deadline}.
+1105	Bitte warte…
+1106	Poetisch
+1107	Update veröffentlichen (wird auf der Seite angezeigt und per E-Mail an Gäste gesendet, die nicht abgesagt haben)
+1108	Veröffentlichen auf
+1109	Nachricht veröffentlichen
+1110	In sozialen Medien posten
+1111	Update veröffentlichen
+1112	PLZ / PIN
+1113	Veröffentlicht — danke!
+1114	Wird veröffentlicht…
+1115	Deine Karte wird vorbereitet…
+1116	Wird vorbereitet…
+1117	Vorschau
+1118	Wunschseite in der Vorschau
+1119	Zurück
+1120	Vorheriges Design
+1121	Vorheriger Monat
+1122	Preis
+1123	Preis (optional)
+1124	Preise
+1125	Drucken und versenden
+1126	„{title}“ drucken und versenden
+1127	Eine selbst gestaltete Karte drucken und versenden — öffne eine deiner Karten
+1128	Druckfertige PDF
+1129	Gedruckte Karten
+1130	Druck
+1131	Datenschutz
+1132	Datenschutzerklärung
+1133	Privat — nur ich
+1134	Wird verarbeitet…
+1135	Produkt
+1136	Produkte
+1137	Fortschritt
+1138	Aktion
+1139	Öffentlich
+1140	Veröffentliche deine Kartendesigns
+1141	Push-Endpunkt muss https sein
+1142	Push-Benachrichtigungen sind auf diesem Server nicht eingerichtet
+1143	QR-Code
+1144	QR-Code für deine Authenticator-App
+1145	QR-Farbe
+1146	Menge
+1147	In der Warteschlange
+1148	Schnell erstellen
+1149	Raksha Bandhan
+1150	Ramadan
+1151	Gelesen
+1152	Spenden von Spendenaktionen erhalten
+1153	Letzte Nachrichten
+1154	Name des Empfängers
+1155	E-Mail des Empfängers
+1156	Name des Empfängers
+1157	Melde dich erneut an, um deine Personen und Erinnerungen zu sehen. Alles, was du gespeichert hast, ist sicher.
+1158	Nimm zuerst eine Nachricht auf
+1159	Nimm eine Sprach- oder Videonachricht auf
+1160	Erneut aufnehmen
+1161	Aufnahme ist in diesem Browser nicht verfügbar.
+1162	Aufnahmen können bis zu 40 MB groß sein
+1163	Wiederherstellungscode
+1164	Wiederholen
+1165	Vorlagen aktualisieren
+1166	Wird aktualisiert…
+1167	Erstattet
+1168	Regionen: IN, GB, US, AE oder GLOBAL, durch Kommas getrennt
+1169	eingetragene Wohltätigkeitsorganisation {number} ({country})
+1170	Registrierungsnummer
+1171	Beziehung
+1172	Erinnere mich an geteilte Termine
+1173	Erinnerung zum Senden
+1174	Erinnerungen
+1175	Erinnerungen, KI-Wünsche in 32 Sprachen, 250 Karten pro Anlass
+1176	Entfernen
+1177	{name} entfernen
+1178	{v} entfernen?
+1179	Aus Favoriten entfernen
+1180	Anlass {n} entfernen
+1181	Foto entfernen
+1182	Wieder öffnen
+1183	Über den Link beantwortet
+1184	Antworten
+1185	Antworten und Gäste
+1186	Antworten sind geschlossen — wende dich an den Gastgeber
+1187	Antworten sind geschlossen.
+1188	Antworten
+1189	Antworten bis (optional)
+1190	Von den WhatsApp- und E-Mail-Regeln vorgeschrieben. Ohne sie wird ihnen nichts gesendet.
+1191	Erneut senden
+1192	Reservierung nicht gefunden
+1193	Reservieren
+1194	Reserviere es, damit niemand anderes dasselbe kauft. {first} sieht nicht, wer.
+1195	{taken} von {quantity} reserviert
+1196	Von dir reserviert.
+1197	Wird reserviert…
+1198	Setze dein Passwort zurück
+1199	Ruhestand
+1200	Meine Geschenke aufdecken
+1201	Decke zuerst deine Geschenke auf
+1202	Neu schreiben
+1203	Rechts
+1204	Rolle für {name}
+1205	Drehung ·
+1206	Abgerundete Ecken
+1207	Zeile {row}: {reason}
+1208	Auf Familientermine antworten und Aufgaben übernehmen
+1209	Speichern
+1210	Speichern und senden
+1211	Änderungen speichern
+1212	Kunden speichern
+1213	Neues Passwort speichern
+1214	Person speichern
+1215	Einstellungen speichern
+1216	Speichere deine Wiederherstellungscodes
+1217	Gespeichert
+1218	Wird gespeichert…
+1219	Danke sagen (einmal per E-Mail an alle, die eine E-Mail hinterlassen haben)
+1220	Planen
+1221	Kampagne planen
+1222	Bis zu einem Jahr im Voraus planen
+1223	Geplant
+1224	Geplanter Versand nicht gefunden
+1225	Wird geplant…
+1226	Suchen
+1227	{length} Personen durchsuchen
+1228	Kunden suchen
+1229	Name, Telefon oder E-Mail suchen
+1230	Personen suchen
+1231	Kunden ansehen
+1232	Siehe es unter {v}
+1233	Tarife ansehen
+1234	Sehen, wer was reserviert hat? Das verdirbt die Überraschung.
+1235	Gründe anzeigen
+1236	Ausgewählter Artikel
+1237	Geschenke im Blessly-Shop verkaufen
+1238	Verkaufen, gestalten oder Spenden sammeln
+1239	Mit Blessly verkaufen, gestalten oder Spenden sammeln
+1240	Verkäufer
+1241	Konten für Verkäufer, Kartengestalter und Wohltätigkeitsorganisationen
+1242	Sende einen Gutschein per E-Mail, heute oder an ihrem Geburtstag
+1243	Neuen Link senden
+1244	Testbenachrichtigung senden
+1245	Senden um
+1246	Nach hinten senden
+1247	Senden bis
+1248	Meine Antwort senden
+1249	Jetzt senden
+1250	Senden am
+1251	Senden am (optional — z. B. an ihrem Geburtstag)
+1252	Senden oder planen
+1253	Link zum Zurücksetzen senden
+1254	Danke senden
+1255	Sende den Link per WhatsApp oder wo immer du möchtest. Er ist 7 Tage gültig; jeder mit dem Link kann beitreten, bis der Familienkreis voll ist.
+1256	Sende das Foto als Dateiupload
+1257	An {recipientName} senden
+1258	Sende deinen Wunsch
+1259	Wird gesendet
+1260	Wird gesendet…
+1261	Gesendet
+1262	Gesendet — prüfe deine Benachrichtigungen.
+1263	Wird am {kind} des Kunden gesendet, einmal im Jahr.
+1264	Diesen Monat gesendet
+1265	Mit Blessly im Namen von {businessName} gesendet.
+1266	Festlegen
+1267	Passwort festlegen
+1268	Lege zuerst ein Passwort fest („Passwort vergessen“ auf der Anmeldeseite), damit du dich weiterhin anmelden kannst
+1269	Passwort festlegen
+1270	Richte dein Unternehmen ein
+1271	Richte zuerst dein Unternehmen ein
+1272	Wird eingerichtet…
+1273	Einstellungen
+1274	Teilen
+1275	Eine Erinnerung teilen
+1276	Teile ein Foto oder eine Erinnerung
+1277	Teile Geburtstage und Jahrestage — alle erhalten die Erinnerungen
+1278	In sozialen Medien teilen
+1279	Auf WhatsApp teilen
+1280	Teile einen Link; Freunde beteiligen sich von überall. Gemeinschaftsgeschenke werden an dich ausgezahlt; Spenden gehen direkt an eine verifizierte Wohltätigkeitsorganisation.
+1281	Teile zuerst das Album
+1282	Mit der Familie teilen
+1283	Teile deine E-Mail-Adresse mit Blessly, um ein Konto zu erstellen
+1284	Geteilt von
+1285	geteilt von {name}
+1286	Geteilt von {sharedBy}
+1287	von dir geteilt
+1288	Geteilte Termine
+1289	geteilte Personen
+1290	Geteilt mit
+1291	Mit der Familie geteilt
+1292	Shop
+1293	Shopname
+1294	Kurz
+1295	Zeigen, wie viel jede Person gegeben hat
+1296	Auf einer Feierseite anzeigen (optional)
+1297	Anderen Gästen zeigen, wer kommt
+1298	{from}–{to} von {total} werden angezeigt
+1299	Gemeinschaftskarten gemeinsam unterschreiben
+1300	Anmelden
+1301	Mit einem Code anmelden
+1302	Eine Gemeinschaftskarte von der ganzen Familie unterschreiben
+1303	Unterschreiben oder zeichnen
+1304	Auf anderen Geräten abmelden
+1305	Karte unterschreiben
+1306	Anmeldung und Sicherheit
+1307	Anmeldung per SMS ist noch nicht verfügbar
+1308	Anmeldung hat nicht funktioniert. Bitte versuche es erneut.

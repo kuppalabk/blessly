@@ -1,0 +1,218 @@
+219	Thêm số đăng ký tổ chức từ thiện của bạn (vd: 12A/80G ở Ấn Độ, số Charity Commission ở Anh, EIN ở Mỹ)
+220	Thêm người đầu tiên
+221	Nhập tên của bạn
+222	Thêm ảnh của bạn
+223	Thêm lời chúc của bạn cho {recipientName}
+224	Đã thêm
+225	Đã thêm {n} khách
+226	Đã thêm {n} khách
+227	Đang thêm…
+228	Địa chỉ
+229	Địa chỉ dòng 1
+230	Địa chỉ dòng 2 (không bắt buộc)
+231	Quản trị viên
+232	Quản trị viên — cũng có thể mời và xóa thành viên
+233	Quản trị viên phải luôn bật xác minh hai bước
+234	Quản trị viên phải bật xác minh hai bước trước khi dùng khu vực quản trị.
+235	Sau mật khẩu (hoặc Google, Apple hay mã SMS), bạn cũng nhập mã từ ứng dụng xác thực như Google Authenticator, Microsoft Authenticator hoặc 1Password.
+236	AI không khả dụng nên chúng tôi đã dùng mẫu có sẵn.
+237	Lời chúc AI · nhắc nhở thông minh · gia đình
+238	AI viết lời chúc theo giọng điệu và ngôn ngữ của bạn. Chọn một trong 250 mẫu thiệp cho mỗi dịp.
+239	Album
+240	Tên album
+241	Không tìm thấy album
+242	Cài đặt album
+243	Album
+244	Cảnh báo
+245	Tất cả
+246	Tất cả album
+247	Đã lưu mọi thay đổi
+248	tất cả khách hàng
+249	Tất cả nhóm gia đình
+250	Cho phép camera và micrô để quay video.
+251	Cho phép micrô để ghi tin nhắn thoại.
+252	Đã quyết định
+253	Đã có tài khoản?
+254	Đã có người giữ
+255	Số tiền
+256	Số tiền (
+257	Đã có tài khoản dùng email này
+258	và
+259	kỷ niệm
+260	Kỷ niệm
+261	Lời chúc kỷ niệm
+262	Câu trả lời
+263	Bất kỳ ai
+264	Bất kỳ ai cũng có thể mở và xác nhận tham dự — phù hợp cho sự kiện cộng đồng.
+265	Bất kỳ ai có liên kết
+266	Bất kỳ ai có liên kết này đều xem được album.
+267	Apple
+268	Áp dụng
+269	Đăng ký làm {kind}
+270	Duyệt
+271	Đã duyệt
+272	Bạn có đến không?
+273	Hỏi về nhu cầu hỗ trợ tiếp cận
+274	Hỏi về chế độ ăn
+275	Hỏi khách có đến được không (RSVP)
+276	Hãy xin mã mới từ chủ doanh nghiệp.
+277	Yêu cầu bộ phận hỗ trợ Blessly hủy và hoàn tiền đơn hàng
+278	Giao cho
+279	Tự động gửi lời chúc sinh nhật cho khách hàng qua WhatsApp và email
+280	Không tìm thấy tự động hóa
+281	Tự động hóa
+282	Tiệc mừng em bé
+283	Quay lại
+284	Quay lại {name}
+285	Quay lại tiệc mừng
+286	Về trang chủ
+287	Quay lại đăng nhập
+288	Quay lại thiệp của tôi
+289	Quay lại danh sách người
+290	Quay lại cài đặt
+291	Quay lại thiệp
+292	Quay lại danh sách quà
+293	Nền
+294	Ảnh nền
+295	Chữ ký không hợp lệ
+296	Số dư:
+297	Hãy là người đầu tiên gửi lời nhắn cho {recipientName}.
+298	Hãy là người đầu tiên để lại lời nhắn
+299	Bạn thân
+300	Kỳ thanh toán
+301	sinh nhật
+302	Sinh nhật
+303	Lời chúc sinh nhật và kỷ niệm tự gửi vào đúng ngày — qua WhatsApp từ số doanh nghiệp của bạn, hoặc qua email
+304	Lời chúc sinh nhật
+305	Sinh nhật và ngày kỷ niệm được chia sẻ trong {familyName}
+306	Sinh nhật, lễ hội và sự kiện gia đình
+307	đã mua
+308	Tôi đã mua
+309	Đưa lên trước
+310	Anh/em trai
+311	Xem 4.000 thiệp
+312	Mẫu có sẵn. Muốn đổi giọng điệu bằng ngôn ngữ này cần bật trình viết AI.
+313	Doanh nghiệp
+314	Thông tin doanh nghiệp
+315	Tên doanh nghiệp
+316	Tên doanh nghiệp (hiển thị trong tin nhắn)
+317	Gói Doanh nghiệp
+318	Đăng ký kinh doanh / mã số thuế (không bắt buộc)
+319	Cài đặt doanh nghiệp
+320	Doanh nghiệp: {n} lời chúc khách hàng mỗi tháng qua WhatsApp và email
+321	Mua
+322	Mua thẻ quà tặng {amount}
+323	Mua thẻ quà tặng {name}
+324	bởi
+325	Khi tạo tài khoản, bạn đồng ý với
+326	Của các nhà thiết kế độc lập
+327	Lịch
+328	Chiến dịch
+329	Tên chiến dịch
+330	Không tìm thấy chiến dịch
+331	Chiến dịch
+332	có thể chỉnh sửa.
+333	Có thể nhắn tin
+334	Có thể xem
+335	Có thể xem — xem và xác nhận tham dự
+336	Bạn đến được không?
+337	không đến được
+338	Không đến được
+339	Không đi được
+340	Không tham dự được
+341	Không quét được? Nhập khóa này:
+342	Hủy
+343	Hủy và báo cho khách
+344	Hủy và báo cho khách mời?
+345	Hủy bất cứ lúc nào; gói vẫn hoạt động đến hết kỳ đã thanh toán. Có thể áp dụng thuế.
+346	Hủy gói
+347	Hủy buổi tiệc
+348	Hủy gói của bạn? Gói vẫn hoạt động đến hết kỳ bạn đã thanh toán.
+349	Đã hủy
+350	Đã hủy — hoạt động đến
+351	Chú thích
+352	Mã thẻ
+353	Mẫu thiệp
+354	Nhà thiết kế thiệp
+355	Trình chỉnh sửa thiệp
+356	Thư viện thiệp
+357	Tên thiệp
+358	Không tìm thấy thiệp
+359	Ăn mừng
+360	Tiệc mừng
+361	Không tìm thấy tiệc mừng
+362	Tiệc mừng
+363	Giữa
+364	Đổi câu trả lời
+365	Đổi số
+366	Đổi mật khẩu
+367	Đổi chữ, phông và màu; thêm ảnh, nhãn dán, chữ ký hoặc mã QR.
+368	Từ thiện
+369	Tên tổ chức từ thiện
+370	Kiểm tra lại địa chỉ email
+371	Kiểm tra lại số điện thoại
+372	Hãy kiểm tra bạn đã sao chép đủ liên kết, hoặc xin liên kết mới.
+373	Kiểm tra email của bạn
+374	Đang kiểm tra thiết bị này…
+375	Đang kiểm tra với WhatsApp…
+376	Đang kiểm tra…
+377	Thanh toán (chế độ thử)
+378	Không tìm thấy thanh toán
+379	Góp phần
+380	Chọn {name}
+381	Chọn thiệp và số tiền, chúng tôi sẽ gửi qua email — ngay bây giờ hoặc vào đúng ngày.
+382	Chọn cuộc trò chuyện
+383	Chọn ngày kết thúc trong tương lai
+384	Chọn liên hệ
+385	Chọn ngày
+386	Chọn ngày chưa qua
+387	Chọn ngày trong vòng một năm
+388	Chọn thẻ quà tặng
+389	Đặt mật khẩu mới
+390	Chọn ảnh
+391	Chọn mẫu
+392	Chọn giờ
+393	Chọn giờ hợp lệ
+394	Chọn tổ chức từ thiện đã xác minh
+395	Chọn địa chỉ
+396	Chọn câu trả lời
+397	Chọn hình ảnh
+398	Chọn ít nhất một ảnh
+399	Chọn mặt trước hoặc bên trong
+400	Chọn một trong các số tiền hiển thị
+401	Chọn một trong các buổi tiệc của bạn
+402	Chọn một trong các danh sách quà của bạn
+403	Chọn ảnh
+404	Chọn gói Doanh nghiệp
+405	Giáng sinh
+406	Tên nhóm
+407	Tóm tắt nhóm
+408	Xóa
+409	Kết thúc góp quỹ
+410	Đóng thiệp
+411	Đã ngừng nhận đóng góp mới.
+412	Kết thúc
+413	Kết thúc vào (không bắt buộc)
+414	Mã
+415	Mã từ ứng dụng (để thay đổi)
+416	Đồng nghiệp
+417	colleague@example.com
+418	Thu thập và chia sẻ ảnh từ mọi dịp
+419	Gom ảnh sinh nhật, đám cưới hay Diwali vào một album, chọn một trong 100 mẫu và chia sẻ với gia đình — mọi người cũng có thể thêm ảnh.
+420	Góp quỹ
+421	Màu
+422	Màu {a}
+423	Chủ đề màu
+424	Các cột chúng tôi hiểu:
+425	sẽ đến
+426	Sẽ đến
+427	Sắp tới
+428	Xác nhận và bật
+429	Xác nhận xóa
+430	Xác nhận rời đi
+431	Xác nhận rằng những khách hàng này đã đồng ý nhận tin nhắn từ bạn
+432	Kết nối
+433	Kết nối WhatsApp
+434	Hãy kết nối WhatsApp trước
+435	Kết nối WhatsApp trong Cài đặt để gửi tin nhắn WhatsApp. Trong lúc đó, khách hàng có email sẽ nhận email.
+436	đã kết nối

@@ -1,0 +1,216 @@
+1527	Andika DELETE ili kuthibitisha
+1528	Andika tena
+1529	Andika maneno yako
+1530	Hajapewa
+1531	Hairuhusiwi
+1532	Tendua
+1533	Tendua mstari
+1534	Ondoa {title} kwenye vipendwa
+1535	Saa za eneo zisizojulikana
+1536	Saa za eneo zisizojulikana
+1537	Albamu za picha zisizo na kikomo, picha {photos} kila moja
+1538	Mabadiliko ambayo hayajahifadhiwa
+1539	Jiondoe
+1540	Umejiondoa
+1541	Amejiondoa kutoka
+1542	Juu ↕ chini
+1543	matukio yajayo
+1544	Taarifa imechapishwa na kutumwa kwa barua pepe kwa mgeni {n}
+1545	Taarifa imechapishwa na kutumwa kwa barua pepe kwa wageni {n}
+1546	Taarifa
+1547	Taarifa kutoka kwa {v}
+1548	Boresha hadi Familia
+1549	Pakia picha (JPG, PNG, WebP au GIF)
+1550	Pakia video ya MP4 au WebM
+1551	Pakia muundo (3:4, upana wa angalau pikseli 900)
+1552	Upakiaji umeshindwa
+1553	Pakia picha
+1554	Inapakia…
+1555	Vilivyopakiwa
+1556	Tumia
+1557	Tumia msimbo wa nchi wa herufi 2
+1558	Tumia namba nyingine
+1559	Tumia kiungo kinachoanza na https://
+1560	Tumia muundo ulioandaliwa badala yake
+1561	Tumia saa kama 19:30
+1562	Tumia kiungo cha wavuti (https://…)
+1563	Tumia kuidhinisha au kukataa
+1564	Tumia herufi angalau 8
+1565	Tumia kabla ya
+1566	Tumia misimbo ya nchi kama IN,GB
+1567	Tumia herufi ndogo, namba na mistari
+1568	Tumia programu yangu ya uthibitishaji
+1569	Tumia kadi hii kwa salamu
+1570	Tumia ujumbe huu
+1571	imetumika {uses}×
+1572	Mtumiaji hakupatikana
+1573	Watumiaji, biashara, afya ya mfumo na kumbukumbu za ukaguzi
+1574	Hutumia Jukwaa rasmi la Biashara la WhatsApp. Wateja wanaweza kujibu STOP wakati wowote
+1575	Vaisakhi
+1576	Siku ya Wapendanao
+1577	Thamani
+1578	Ukumbi
+1579	Thibitisha
+1580	Vesak
+1581	Video
+1582	Kiungo cha simu ya video (si lazima)
+1583	Ujumbe wa video · {time}
+1584	Ujumbe wa video kutoka kwa {from}
+1585	Video zinaweza kuwa hadi MB 40
+1586	Ona kama rafiki
+1587	Ona ukurasa
+1588	Wanaotazama hawawezi kuongeza matukio
+1589	Wanaotazama hawawezi kuongeza kazi
+1590	Wanaotazama hawawezi kuanza kadi ya kikundi
+1591	vip, kawaida
+1592	Sauti
+1593	Ujumbe wa sauti · {time}
+1594	Ujumbe wa sauti kutoka kwa {from}
+1595	Inasubiri
+1596	inasubiri ukaguzi
+1597	Inasubiri ukaguzi
+1598	anataka {n}
+1599	Njia za kuingia
+1600	Bado hatuwezi kutuma kadi zilizochapishwa kwa nchi hiyo
+1601	Tunahitaji anwani yako ya barua pepe ili kuunda akaunti. Tafadhali ruhusu kuishiriki, au jisajili kwa barua pepe.
+1602	Tumetuma msimbo kwa ujumbe kwa {phone}.
+1603	Tovuti (si lazima)
+1604	Harusi
+1605	Karibu tena
+1606	Hongera
+1607	Unasherehekea nini?
+1608	Ni nini?
+1609	Nini kinahitaji kufanywa?
+1610	Ungependa nini?
+1611	Kilichohifadhiwa kimefichwa kwako.
+1612	Kinachoendelea
+1613	whatsapp
+1614	WhatsApp
+1615	WhatsApp (tunakukumbusha kutuma)
+1616	WhatsApp / simu ya mkononi
+1617	WhatsApp +{recipient}
+1618	WhatsApp Business
+1619	Kitambulisho cha Akaunti ya WhatsApp Business
+1620	Kitambulisho cha Akaunti ya WhatsApp Business ni namba ndefu
+1621	WhatsApp haikukubali taarifa hizi: {message}
+1622	WhatsApp haijaunganishwa
+1623	WhatsApp pekee
+1624	WhatsApp inaruhusu biashara kuanzisha mazungumzo kwa kiolezo kilichoidhinishwa na Meta pekee. Unda kimoja kwenye WhatsApp Manager (kwa mfano “Heri ya siku ya kuzaliwa
+1625	Kiolezo cha WhatsApp
+1626	Kiolezo cha WhatsApp (kimeidhinishwa na Meta)
+1627	WhatsApp, au barua pepe ikiwa hakuna WhatsApp
+1628	Lini
+1629	Lini (saa ya kifaa chako)
+1630	Lini na wapi
+1631	Wapi (si lazima)
+1632	Mpaka mweupe
+1633	Nani
+1634	Nani anaweza kuiona
+1635	Ni kwa ajili ya nani?
+1636	Ni kwa ajili ya nani?
+1637	Salamu hii ni kwa ajili ya nani?
+1638	Ni kwa ajili ya nani
+1639	Ni kwa ajili ya nani (si lazima)
+1640	Nani anafanya nini
+1641	Mke
+1642	Salamu
+1643	Salamu imeandaliwa kwa ajili yako
+1644	Takia kila mteja heri, kiotomatiki
+1645	Lugha ya salamu
+1646	Salamu haikupatikana
+1647	Ukurasa wa salamu haukupatikana
+1648	Salamu kutoka kwa marafiki
+1649	Salamu hutumwa kiotomatiki siku husika, kwa saa za {timezone}, kwa wateja waliokubali kupokea ujumbe. Kila mteja hupata ujumbe mmoja kwa kila tukio.
+1650	salamu kwa {language}
+1651	Orodha ya matakwa
+1652	Orodha ya matakwa haikupatikana
+1653	Orodha za matakwa
+1654	Blessly
+1655	Blessly — salamu na vikumbusho kwa kila tukio
+1656	Blessly kwa biashara
+1657	Blessly imesitisha kutuma ujumbe kwa biashara yako: {reason}. Hakuna kinachotumwa hadi suala hili litatuliwe — tafadhali wasiliana na msaada.
+1658	Blessly ni bure kwa vikumbusho na salamu binafsi. Mipango ya Familia na Biashara inaongeza vikundi vikubwa vya familia, albamu na salamu za kiotomatiki kwa wateja kwenye WhatsApp.
+1659	Blessly hukukumbusha wiki moja kabla ya kila siku ya kuzaliwa, maadhimisho na sherehe, huandika salamu ya moyoni kwa lugha {length}, na hufungua WhatsApp au Telegram ukiwa na salamu tayari kutumwa.
+1660	Malipo ya majaribio ya Blessly
+1661	ukiwa na ruhusa za whatsapp_business_messaging na whatsapp_business_management, kisha tengeneza tokeni ya kudumu.
+1662	kwa jina la biashara yako.
+1663	Kazi na hatua muhimu
+1664	Maadhimisho ya kazini
+1665	Inafanya kazi kwa akaunti zenye namba ya simu iliyoongezwa kwenye Mipangilio → Kuingia na usalama.
+1666	Angependa
+1667	Andika ujumbe au ongeza picha
+1668	Andika ujumbe mfupi
+1669	Andika ujumbe wa shukrani
+1670	Andika salamu
+1671	Andika salamu kwa ajili ya
+1672	Andika salamu yangu
+1673	Kwanza andika au tengeneza salamu
+1674	Andika ujumbe
+1675	Andika taarifa
+1676	Inaandika…
+1677	mwaka
+1678	Kila mwaka · okoa 20%
+1679	Ndio, futa
+1680	Ndio, nitakuwepo
+1681	Wewe
+1682	Tayari una eneo la kazi la biashara
+1683	Unaweza kuomba tena.
+1684	Unaweza kuwa kwenye vikundi vya familia hadi {MAX_FAMILIES_PER_USER}
+1685	Unaweza kuwa na sherehe hadi 200
+1686	Unaweza kuwa na orodha za matakwa hadi 50
+1687	Unaweza kuweka kadi hadi {MAX_DESIGNS} — futa zile usizohitaji
+1688	Unaweza kubadilisha picha ulizoongeza wewe pekee
+1689	Unaweza kuwaondoa watu wenye jukumu la chini pekee
+1690	Unaweza kuondoa picha ulizoongeza wewe pekee
+1691	Unaweza kushiriki albamu na kikundi cha familia tu ambapo unaweza kuongeza vitu
+1692	Unaweza kushiriki tu na kikundi cha familia ambapo unaweza kuongeza watu
+1693	Unaweza kusasisha kazi zilizokupewa wewe pekee
+1694	Unaweza kuona albamu hii pekee
+1695	Unaweza kupanga ratiba hadi mwaka mmoja mbele
+1696	Unaweza kutuma shukrani sherehe ikishaanza
+1697	Huwezi kununua bidhaa yako mwenyewe
+1698	Hutaweza kufika
+1699	Huenda ukaja
+1700	Tayari unamiliki biashara hii.
+1701	Utaweza kusimamia wateja, mifumo ya kiotomatiki ya siku za kuzaliwa na kampeni.
+1702	Utatolewa kwenye vifaa vyako vingine.
+1703	utajiunga kama: {role}
+1704	Tayari uko ndani — fungua kikundi
+1705	Tayari uko kwenye timu ya biashara nyingine. Kwanza ondoka humo.
+1706	Tayari uko kwenye mpango wa {name}
+1707	Tayari umeshajiondoa.
+1708	Unakuja
+1709	Unapokea hii kwa sababu
+1710	Uko nje ya mtandao
+1711	Uko kwenye
+1712	Umeingia kwenye kifaa {n} (ikiwemo hiki).
+1713	Umeingia kwenye vifaa {n} (ikiwemo hiki).
+1714	Wewe ndiye mwenyeji.
+1715	Wewe ndiye pekee hapa, kwa hiyo kuondoka kutafuta {familyName}.
+1716	Tayari umeshaomba
+1717	Umealikwa kwenye kikundi cha familia. Unda akaunti ya bure ili kujiunga.
+1718	Umealikwa kwenye kikundi cha familia. Ingia ili kujiunga.
+1719	Umepakia picha nyingi zaidi za kadi tunazoweza kuhifadhi (1,000)
+1720	Akaunti yako ya {kind} bado haijaidhinishwa
+1721	Ombi lako ({kind}) halikuidhinishwa.
+1722	Kampeni zako
+1723	Kadi yako: {title}
+1724	Kadi zako
+1725	Kikundi chako kimejaa (watu {n}).
+1726	Vikundi vyako
+1727	Nenosiri lako la sasa si sahihi
+1728	Data yako
+1729	Jaribio lako la bure limeisha, kwa hiyo hakuna kinachotumwa.
+1730	Kadi yako ya zawadi
+1731	Orodha yako ni tupu.
+1732	Ujumbe wako
+1733	Jina lako
+1734	Watu wako wenyewe na vikumbusho vinabaki binafsi
+1735	Nenosiri lako
+1736	Watu wako
+1737	Picha yako
+1738	Mpango wako
+1739	Mpango wako unashikilia wateja hadi {v1}
+1740	Mpango wako unajumuisha kuingia {seats} kwa timu{v2} (ukiwemo wewe).
+1741	Salamu yako (hariri upendavyo)
+1742	Zoom

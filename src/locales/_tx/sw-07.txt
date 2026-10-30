@@ -1,0 +1,218 @@
+1309	Kuingia kumeshindwa
+1310	Kuingia kumeghairiwa.
+1311	Umetoka kwenye vifaa vyote vingine.
+1312	Vifaa vilivyoingia
+1313	Bei rahisi
+1314	Iga kadi iliyokataliwa
+1315	Dada
+1316	Ukubwa
+1317	SMS (tunakukumbusha kutuma)
+1318	Mtu mwingine
+1319	Mtu fulani anaanza kadi sasa hivi — jaribu tena baada ya muda
+1320	Kuna hitilafu imetokea
+1321	Mwana
+1322	Gawanya kazi: nani anachukua keki, nani anahifadhi meza
+1323	Jedwali (.csv)
+1324	Anza
+1325	Anza mchango
+1326	Anza kadi mpya
+1327	Anza orodha ya matakwa
+1328	Anza kikundi kingine
+1329	Anza bure
+1330	Anza kadi moja ambayo familia nzima inasaini. Tutaandika ujumbe wa kwanza na kumjulisha kila mtu.
+1331	Anza kadi ya kikundi
+1332	Anza usanidi tena
+1333	Anza kikundi chako cha familia
+1334	Inaanza…
+1335	Huanza
+1336	Jimbo / kaunti (si lazima)
+1337	Hali
+1338	Kibandiko
+1339	Vibandiko
+1340	Acha barua pepe
+1341	Acha kushiriki (kiungo hakitafanya kazi tena)
+1342	Acha ujumbe wa WhatsApp
+1343	Mtaa, mji
+1344	Jina la studio au msanii
+1345	Mtindo
+1346	Muhtasari
+1347	Msaada
+1348	Mwonekano wa msaada wa {name}
+1349	Wafuasi
+1350	Imesimamishwa
+1351	Pole
+1352	Mtumiaji wa Mfumo
+1353	Lebo
+1354	lebo “{tag}”
+1355	lebo
+1356	Lebo (zitenganishwe kwa koma)
+1357	Gusa “Andika salamu yangu”, au andika yako mwenyewe.
+1358	Gusa kitu ili ukichague. Buruta kusogeza, tumia kona kubadilisha ukubwa na nukta ya juu kuzungusha.
+1359	Lengo (si lazima)
+1360	lengo {v}
+1361	Kazi haikupatikana
+1362	Timu
+1363	Barua pepe ya mwanachama wa timu
+1364	Telegram (tunakukumbusha kutuma)
+1365	Violezo
+1366	masharti
+1367	Masharti
+1368	masharti ya matumizi
+1369	Kadi ya majaribio 4242 4242 4242 4242 · tarehe yoyote ya baadaye · CVC yoyote
+1370	Malipo ya majaribio
+1371	Hali ya majaribio.
+1372	Malipo ya majaribio — hakuna pesa halisi
+1373	Maandishi
+1374	Rangi ya maandishi
+1375	Nitumie msimbo kwa ujumbe
+1376	Ujumbe wa maandishi bado hauko tayari kwenye seva hii
+1377	Asante
+1378	Asante — uko kwenye {name}.
+1379	Asante — oda yako imethibitishwa.
+1380	Asante sana kwa kuwa sehemu ya {title}. Hilo lina maana kubwa!
+1381	Asante sana kwa zawadi nzuri — ina maana kubwa!
+1382	Asante, mwalimu
+1383	Asante! Mchango wako umepokelewa.
+1384	Asante! Mchango wako umepokelewa.
+1385	Washukuru wageni (kila aliyekuja au kuacha ujumbe, mara moja)
+1386	Shukrani zimetumwa kwa barua pepe kwa watu {n}
+1387	Shukrani imetumwa kwa barua pepe kwa mtu {n}
+1388	Shukrani imetumwa kwa mgeni {n}
+1389	Shukrani zimetumwa kwa wageni {n}
+1390	Asante — ujumbe wako umeongezwa.
+1391	Asante, {name}! Picha {n} imeongezwa.
+1392	Asante, {name}! Picha {n} zimeongezwa.
+1393	Asante! Itaonekana mwenyeji akishaidhinisha.
+1394	Asante! Mpango wako utawashwa malipo yakishathibitishwa — kwa kawaida ndani ya sekunde chache. Onyesha upya ukurasa huu baada ya muda.
+1395	Shukrani (Thanksgiving)
+1396	Akaunti hiyo tayari imeunganishwa na akaunti nyingine ya Blessly
+1397	Siku hiyo ya kuzaliwa haipo
+1398	Picha ya kadi ni kubwa mno
+1399	Kadi hii inatumia picha ambayo si yako
+1400	Msimbo huo umeisha muda. Anza tena.
+1401	Msimbo huo si sahihi
+1402	Msimbo huo si sahihi — hakikisha saa ya simu yako imewekwa kiotomatiki
+1403	Tarehe hiyo haipo
+1404	Tukio hilo halipo kwenye kikundi hiki
+1405	Faili hilo si picha tunayoweza kusoma
+1406	Faili hilo si picha tunayoweza kusoma (tumia JPG, PNG, WebP au GIF)
+1407	Hiyo si picha ya kadi tunayoweza kutumia
+1408	Namba hiyo tayari inatumiwa na akaunti nyingine
+1409	Nenosiri hilo si sahihi
+1410	Picha hiyo haipo kwenye albamu hii
+1411	Bidhaa hiyo haipatikani
+1412	Muundo huo wa rekodi hauungwi mkono
+1413	Rekodi hiyo haina kitu
+1414	Rekodi hiyo haipatikani
+1415	Chaguo hilo la kuingia halipatikani.
+1416	Imechukua muda mrefu — tafadhali jaribu tena.
+1417	Kipengee hicho cha orodha ya matakwa hakipo tena
+1418	Ni kubwa mno
+1419	Mpango wa {name} unajumuisha albamu {maxAlbums}. Boresha hadi Familia kwa zaidi.
+1420	Familia ya {surname}
+1421	mwisho wa kipindi
+1422	Faili ni kubwa mno (MB 2 kiwango cha juu)
+1423	Faili ni kubwa mno (MB 2 kiwango cha juu).
+1424	Faili ni kubwa mno (MB 2 kiwango cha juu). Ligawanye kuwa mafaili madogo.
+1425	Faili linahitaji safu ya kichwa na angalau mteja mmoja
+1426	Mpango wa bure unaruhusu watu {limit} kwenye kikundi. Mmiliki wa kikundi anaweza kuboresha hadi Familia kwa hadi {MAX_MEMBERS}.
+1427	Mpango wa bure hauwezi kuwa na bei
+1428	Kiwango cha juu ni {v1}
+1429	Kiwango cha chini ni {v1}
+1430	Malipo hayakufanikiwa. Hakuna kilichokatwa — tafadhali jaribu tena.
+1431	Malipo hayakufanikiwa. Hakuna kilichokatwa.
+1432	Ukurasa wa malipo haukuweza kufunguliwa. Tafadhali jaribu tena baada ya dakika moja.
+1433	PDF ina mbele na ndani kama kurasa za 15 × 20 cm — chapisha pande mbili, au kwenye duka la uchapishaji.
+1434	Tarehe ya mwisho ya RSVP inapaswa kuwa kabla ya sherehe
+1435	Seva haina ENCRYPTION_KEY, hivyo haiwezi kuhifadhi siri (vitambulisho vya WhatsApp, funguo za uthibitishaji wa hatua mbili) kwa usalama
+1436	Nenosiri hizo mbili hazilingani
+1437	Familia nzima
+1438	Salamu ni tupu
+1439	Ukurasa wa salamu unaonyesha mbele na ndani ya kadi hii juu ya ujumbe wako.
+1440	Timu ya Blessly huweka verify token na app secret kwenye seva. Wateja wanaojibu STOP huondolewa kiotomatiki kwenye WhatsApp; START huwasajili tena.
+1441	Barua pepe yao
+1442	Simu yao ya mkononi
+1443	Jina lao kwenye salamu
+1444	Hakuna mpango wa kulipia wa kughairi
+1445	Hakuna cha kulipa
+1446	Hizi ni chapa za majaribio. Chapa halisi zitatoka kwa mshirika wa kadi za zawadi itakapounganishwa.
+1447	Tayari wako kwenye timu yako
+1448	Akaunti hii imesimamishwa. Tafadhali wasiliana na msaada.
+1449	Albamu hii imejaa (picha {maxPhotosPerAlbum} kwenye mpango wa {name}).
+1450	Albamu hii haikubali picha
+1451	Kivinjari hiki hakiwezi kuonyesha arifa. Bado utapata arifa kwenye programu na kwa barua pepe.
+1452	Kadi hii ina vitu vingi mno
+1453	Sherehe hii tayari imeshafanyika
+1454	Sherehe hii imeghairiwa.
+1455	Sherehe imefanyika — asante kwa wote waliokuja!
+1456	Sherehe hii imeghairiwa.
+1457	Sherehe hii ni kwa wageni waliolikwa
+1458	Sherehe hii ni kwa wageni waliolikwa. Ifungue kutoka kwenye mwaliko wako.
+1459	Sherehe hii imejaa
+1460	Sherehe hii haipokei majibu
+1461	Sherehe hii ilighairiwa
+1462	Kikundi hiki kimejaa (watu 6).
+1463	Mchango huu umefungwa
+1464	Mchango huu umefungwa.
+1465	Mteja huyu amekubali kupokea ujumbe kutoka kwetu
+1466	Kikundi hiki cha familia kimejaa (watu {limit})
+1467	Kadi hii ya zawadi ilighairiwa
+1468	Mwaliko huu umeisha muda. Muombe {inviter} kiungo kipya.
+1469	Mwaliko huu umeisha muda. Omba kiungo kipya.
+1470	Mwaliko huu umeisha muda. Muombe mmiliki mwingine kiungo kipya.
+1471	Mwaliko huu ni wa {email}, lakini umeingia kama {email2}. Toka kisha ingia (au jisajili) ukitumia {email3}.
+1472	Mwaliko huu ni wa {email}. Ingia ukitumia barua pepe hiyo ili uukubali.
+1473	Kiungo hiki cha mwaliko hakifanyi kazi
+1474	Kiungo hiki cha mwaliko si sahihi
+1475	Mwaliko huu tayari umetumika.
+1476	Mwaliko huu ulighairiwa. Muombe {inviter} kiungo kipya.
+1477	Mwaliko huu ulighairiwa. Omba kiungo kipya.
+1478	Hii ni kadi ya majaribio na haiwezi kutumika.
+1479	Hivi ndivyo marafiki wanavyoona orodha yako.
+1480	Hii ni orodha yako mwenyewe — marafiki huhifadhi zawadi kutoka humo
+1481	Kiungo hiki si sahihi
+1482	Kiungo hiki huenda kimeisha muda au kimeondolewa.
+1483	Mwezi huu
+1484	Ukurasa huu umejaa
+1485	Malipo haya ni {status}.
+1486	Hii inafuta akaunti yako kabisa
+1487	Mpango huu hauuzwi kwa sarafu hiyo
+1488	Kiungo hiki cha kuweka upya kimeisha muda au tayari kimetumika. Omba kipya.
+1489	Kiungo hiki cha kujiondoa hakifanyi kazi. Unaweza pia kujibu STOP kwa ujumbe wowote wa WhatsApp.
+1490	Namba hii ya WhatsApp tayari imeunganishwa na biashara nyingine ya Blessly
+1491	Ukurasa huu wa salamu umejaa
+1492	Ukurasa huu wa salamu haupokei ujumbe
+1493	Muda
+1494	Saa (si lazima)
+1495	Saa za eneo
+1496	Saa za eneo
+1497	Saa za eneo (ujumbe hutoka kwa saa hizi)
+1498	Saa za eneo (vikumbusho hufika saa 3 asubuhi hapa)
+1499	Kwa {name}
+1500	Za kufanya
+1501	ili kuendelea kuwatakia wateja heri baada ya hapo.
+1502	Ili kuondoka, kwanza mfanye mtu mwingine kuwa mmiliki.
+1503	Ili kuona alama za kuwasilishwa na kusomwa, na kushughulikia wateja wanaojibu STOP, programu ya Meta ya Blessly lazima ipokee webhooks za namba yako. Callback URL:
+1504	ili kuanza tena.
+1505	Leo
+1506	Kesho
+1507	Sauti
+1508	Majaribio mengi mno. Tafadhali subiri dakika moja kisha ujaribu tena.
+1509	Majaribio mengi mno. Tafadhali subiri dakika moja.
+1510	Vigezo vingi mno
+1511	Misimbo mingi isiyo sahihi. Anza tena.
+1512	Ni ghali peke yako? Anza zawadi ya kikundi
+1513	Zana
+1514	Kuelekea: {title}
+1515	Mji au jiji
+1516	Namba ya ufuatiliaji
+1517	Jaribu {name}
+1518	Jaribu nyingine
+1519	Zima
+1520	Washa
+1521	Uthibitishaji wa hatua mbili
+1522	Uthibitishaji wa hatua mbili tayari umewashwa
+1523	Uthibitishaji wa hatua mbili umezimwa.
+1524	Uthibitishaji wa hatua mbili umewashwa.
+1525	Uthibitishaji wa hatua mbili, Google na Apple, kuingia kwa simu, nenosiri
+1526	Aina

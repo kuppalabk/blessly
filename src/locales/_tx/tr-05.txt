@@ -1,0 +1,218 @@
+873	Cep (WhatsApp ve SMS için)
+874	Cep numarası
+875	ay
+876	Ay
+877	Aylık
+878	Daha fazla
+879	Diğer uygulamalar (Instagram…)
+880	Daha fazla tasarım
+881	En popüler
+882	Anne
+883	Anneler Günü
+884	{title} aşağı taşı
+885	{title} yukarı taşı
+886	Olmazsa olmaz
+887	Kartlarım
+888	Siparişlerim
+889	ad
+890	Ad
+891	Özel günün adı
+892	Kutlamanın adı
+893	Kampanyaya ad verin
+894	Tasarımınıza ad verin, ardından yükleyin.
+895	Navratri
+896	Planlanması gereken
+897	Bir daha hiçbir aile doğum gününü kaçırmayın
+898	Bir anı bile kaçırmayın. Önemli birini asla unutmayın.
+899	Bir anı bile kaçırmayın. Hatırlatmalar, 32 dilde yapay zekâ ile yazılmış dilekler ve her özel gün için güzel kartlar.
+900	Yeni
+901	Yeni albüm
+902	Yeni bebek
+903	Yeni kampanya
+904	Yeni misiniz?
+905	Yeni iş
+906	Yeni şifre
+907	Yeni kurtarma kodları
+908	Yeni görev
+909	Yeni dilek listesi
+910	Yılbaşı
+911	Daha yeni
+912	İleri
+913	Sonraki 7 gün
+914	Sonraki tasarım
+915	Gelecek ay
+916	Sonraki özel gün
+917	Olursa güzel
+918	Henüz uyarı yok. Hatırlatmalar her özel günden önce burada görünür.
+919	yanıt yok
+920	Henüz yanıt yok
+921	Henüz kampanya yok. Bir müşteri grubu için festival tebrikleri ya da bir teklif zamanlayın.
+922	Henüz kart yok. Yukarıdan birini başlatın ya da Oluştur bölümünde bir tasarım seçip “Bu tasarımı özelleştir”e dokunun.
+923	İzin yok
+924	Bu hafta müşteri doğum günü ya da yıl dönümü yok.
+925	Eşleşen müşteri yok.
+926	Henüz müşteri yok. Tek tek ekleyin ya da bir tablo içe aktarın.
+927	Henüz tarih yok
+928	Henüz tarih yok.
+929	Hiçbir cihaz almadı. Bildirimleri kapatıp yeniden açmayı deneyin.
+930	Henüz bağış yok. Bağış kampanyaları artık {name} seçebilir.
+931	Henüz etkinlik yok. Bir doğum günü yemeği, puja ya da bir buluşma ekleyin.
+932	Henüz grup kartı yok.
+933	Henüz misafir yok. Yukarıdan ekleyin
+934	Mesaj yok
+935	Henüz mesaj yok. Misafirler sayfaya mesaj, fotoğraf ve video bırakabilir.
+936	Henüz kimse yok. Aile, arkadaş ve iş arkadaşlarını doğum günleri ve yıl dönümleriyle ekleyin.
+937	“{q}” ile eşleşen kimse yok.
+938	Henüz sipariş yok.
+939	Başka kart yok.
+940	Henüz fotoğraf yok
+941	Henüz fotoğraf yok.
+942	Plan yok — mesajlar duraklatıldı
+943	Henüz ürün yok.
+944	Gerçek para hareket etmez — ödemeler deneme ödeme ekranı kullanır.
+945	Yanıt yok
+946	Henüz şablon yok. WhatsApp Manager’da oluşturun, ardından yenileyin.
+947	Henüz doğrulanmış hayır kurumu yok
+948	Dilek listesi yok
+949	Henüz kimse paylaşmadı — kimse unutulmasın diye büyükanne, büyükbaba, kuzen ve teyzeleri ekleyin.
+950	Yok
+951	Henüz yok — bağlantıyı paylaşın.
+952	onaylanmadı
+953	Onaylanmadı
+954	Bağlı değil
+955	Bulunamadı
+956	Hiçbir yerde listelenmez; bağlantıyı istediğiniz kişilerle paylaşın.
+957	Ekipte değil
+958	Henüz ayırtılmadı
+959	Kaydedilmedi
+960	Gönderilmedi
+961	Ayarlanmadı — aşağıdaki seçeneklerle giriş yaparsınız
+962	{name} için not (isteğe bağlı)
+963	Notlar
+964	Notlar — beden, renk, model (isteğe bağlı)
+965	Notlar (isteğe bağlı)
+966	Kişisel dilekler için notlar (isteğe bağlı)
+967	Bu listede henüz bir şey yok.
+968	Henüz planlanan bir şey yok.
+969	Henüz ayırtılan bir şey yok
+970	Henüz {v} kişisine bir şey gönderilmedi.
+971	Henüz bir şey gönderilmedi.
+972	Bu ay bir şey yok.
+973	Blessly için bildirimler engellendi. Tarayıcınızın ya da telefonunuzun ayarlarından izin verin, sonra buraya dönün.
+974	Numara kaldırıldı.
+975	Numara doğrulandı.
+976	Özel gün
+977	Özel gün türü
+978	Özel günler
+979	Özel günler ve hatırlatmalar
+980	planınızdaki {v} içinden
+981	Kapalı
+982	Çevrim dışı
+983	Daha eski
+984	Açık
+985	Bu cihaz ve {n} diğer cihaz için açık.
+986	Bu cihaz ve {n} diğer cihaz için açık.
+987	Bu cihaz için açık.
+988	iPhone ve iPad’de bildirimleri açmak için önce Blessly’i Ana Ekrana ekleyin (Paylaş → Ana Ekrana Ekle), ardından oradan açın.
+989	Yolda
+990	Gününde
+991	Tek dokunuşla dileğiniz hazır halde WhatsApp ya da Telegram açılır. E-posta gününde kendiliğinden gönderilebilir.
+992	Yalnızca etiketli müşteriler
+993	Yalnızca etiketli müşteriler (isteğe bağlı)
+994	Yalnızca ben
+995	Yalnızca ödenmiş tutarlar iade edilebilir
+996	Yalnızca zamanlanmış kampanyalar iptal edilebilir
+997	Bunu yalnızca işletme sahibi yapabilir
+998	Kişileri yalnızca işletme sahibi kaldırabilir
+999	Rolleri yalnızca sahip değiştirebilir
+1000	WhatsApp bağlantısını yalnızca sahip değiştirebilir.
+1001	Aile çevresini yalnızca sahip silebilir
+1002	Yöneticileri yalnızca sahip davet edebilir
+1003	Davetleri yalnızca sahip ya da yönetici iptal edebilir
+1004	Kişileri yalnızca sahip ya da yönetici davet edebilir
+1005	Kişileri yalnızca sahip ya da yönetici kaldırabilir
+1006	Aile çevresinin adını yalnızca sahip ya da yönetici değiştirebilir
+1007	Bu etkinliği yalnızca ekleyen kişi, sahip ya da yönetici değiştirebilir
+1008	Bu etkinliği yalnızca ekleyen kişi, sahip ya da yönetici silebilir
+1009	Bu görevi yalnızca ekleyen kişi, sahip ya da yönetici silebilir
+1010	Albümü yalnızca oluşturan kişi değiştirebilir
+1011	Albümü yalnızca oluşturan kişi silebilir
+1012	Bu kişiyi ve hatırlatmalarını yalnızca siz görebilirsiniz.
+1013	Aç
+1014	Davetiyenizdeki bağlantıdan açın. Davet edildiyseniz ve kaybettiyseniz, ev sahibinden yeniden göndermesini isteyin.
+1015	açık görevler
+1016	Kartı açın
+1017	Kartı açın ve dokunun
+1018	Önce kartı açın ve “Bu kartı kullan” ya da “Baskıya hazır PDF”e dokunun, böylece bitmiş görsellerimiz olur
+1019	Kimlik doğrulama uygulamanızı açın ve Blessly için 6 haneli kodu girin.
+1020	Ödeme açılıyor…
+1021	Düzenleyici açılıyor…
+1022	Ödeme açılıyor…
+1023	Mesajın hazır olduğu kendi uygulamanızı açar. Göndermek için siz dokunursunuz, böylece mesaj sizden gider.
+1024	veya
+1025	Ya da zamanla
+1026	ya da e-postanızla
+1027	Gönderilecek siparişler
+1028	Diğer
+1029	Diğer kartlar
+1030	Ailemiz
+1031	Genel bakış
+1032	Sahip
+1033	Sayfa
+1034	Sayfa {page} / {pages}
+1035	Sayfa bulunamadı
+1036	Ödendi
+1037	Eş
+1038	Ortaklar
+1039	Parti sayfaları, davetiyeler ve katılım yanıtları
+1040	Şifre
+1041	Şifre değiştirildi.
+1042	Şifre ayarlandı.
+1043	Geçmiş
+1044	Geçmiş etkinlik
+1045	Kalıcı (sistem kullanıcısı) erişim belirtecini yapıştırın
+1046	Öde (test)
+1047	{amount} öde (test)
+1048	Stripe üzerinden kartla ödeyin.
+1049	{v} öde
+1050	Razorpay üzerinden UPI AutoPay, kartlar veya netbanking ile ödeyin.
+1051	Ödeme iptal edildi. Sizden ücret alınmadı.
+1052	Ödeme başarısız
+1053	Ödeme bulunamadı
+1054	Ödeme aktarımı bulunamadı
+1055	{amount} tutarında ödeme aktarımı talep edildi (test modu).
+1056	Ödeme aktarımı talep edildi (test modu).
+1057	Ödeme aktarımları:
+1058	Kişiler
+1059	Kişiler kendi hatırlatma ayarlarını seçer
+1060	Bu aile çevresindeki kişiler
+1061	Davetiye başına kişi
+1062	Bağlantıya sahip kişiler yükleyebilir (hesap gerekmez). Herhangi bir fotoğrafı kaldırabilirsiniz.
+1063	Kalıcı erişim belirteci
+1064	Kişi
+1065	Kişi bulunamadı
+1066	Kişisel ayrıntı (isteğe bağlı)
+1067	Evcil hayvanlar
+1068	Kurye için telefon (isteğe bağlı)
+1069	Telefon bildirimleri
+1070	Telefon bildirimleri bu sunucuda henüz kurulmadı. Uyarılar uygulamada ve e-postayla gelir.
+1071	Telefon numarası kimliği
+1072	Telefon numarası kimliği, WhatsApp Manager → API kurulumundaki uzun numaradır
+1073	Fotoğraf
+1074	Fotoğraf albümleri
+1075	{uploader} tarafından fotoğraf
+1076	{title} için fotoğraf
+1077	{name} kişisinden fotoğraf
+1078	Fotoğraf bulunamadı
+1079	Fotoğraf ya da video (isteğe bağlı)
+1080	Eklenecek fotoğraf
+1081	Fotoğraflar
+1082	Fotoğraflar ({n})
+1083	Fotoğraflar en fazla 15 MB olabilir
+1084	Bir tarih seçin
+1085	Gelecekte bir tarih seçin
+1086	Gelecekte bir saat seçin
+1087	Geçerli bir saat dilimi seçin
+1088	Onaylı bir WhatsApp şablonu seçin
+1089	Onaylı bir WhatsApp şablonu seçin ya da e-posta ile gönderin
+1090	WhatsApp şablonlarınızdan birini seçin

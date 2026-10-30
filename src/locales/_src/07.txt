@@ -1,0 +1,218 @@
+1309	Sign-in failed
+1310	Sign-in was cancelled.
+1311	Signed out everywhere else.
+1312	Signed-in devices
+1313	Simple pricing
+1314	Simulate a declined card
+1315	Sister
+1316	Size
+1317	SMS (we remind you to send)
+1318	Someone else
+1319	Someone is starting the card right now — try again in a moment
+1320	Something went wrong
+1321	Son
+1322	Split the jobs: who’s getting the cake, who’s booking the table
+1323	Spreadsheet (.csv)
+1324	Start
+1325	Start a collection
+1326	Start a new card
+1327	Start a wishlist
+1328	Start another circle
+1329	Start free
+1330	Start one card that the whole family signs. We’ll write the first message and let everyone know.
+1331	Start the group card
+1332	Start the set-up again
+1333	Start your family circle
+1334	Starting…
+1335	Starts
+1336	State / county (optional)
+1337	Status
+1338	Sticker
+1339	Stickers
+1340	Stop emails
+1341	Stop sharing (the link stops working)
+1342	Stop WhatsApp messages
+1343	Street, town
+1344	Studio or artist name
+1345	Style
+1346	Summary
+1347	Support
+1348	Support view of {name}
+1349	Supporters
+1350	Suspended
+1351	Sympathy
+1352	System User
+1353	Tag
+1354	tag “{tag}”
+1355	tags
+1356	Tags (comma separated)
+1357	Tap “Write my wish”, or type your own.
+1358	Tap something to select it. Drag to move, use the corner to resize and the top dot to rotate.
+1359	Target (optional)
+1360	target {v}
+1361	Task not found
+1362	Team
+1363	Team member email
+1364	Telegram (we remind you to send)
+1365	Templates
+1366	terms
+1367	Terms
+1368	terms of use
+1369	Test card 4242 4242 4242 4242 · any future date · any CVC
+1370	Test checkout
+1371	Test mode.
+1372	Test payment — no real money
+1373	Text
+1374	Text colour
+1375	Text me a code
+1376	Text messages aren’t set up on this server yet
+1377	Thank you
+1378	Thank you — you’re on {name}.
+1379	Thank you — your order is confirmed.
+1380	Thank you so much for being part of {title}. It meant a lot!
+1381	Thank you so much for the lovely gift — it means a lot!
+1382	Thank you, teacher
+1383	Thank you! Your contribution has been received.
+1384	Thank you! Your donation has been received.
+1385	Thank your guests (everyone who came or left a message, once)
+1386	Thank-you emailed to {n} people
+1387	Thank-you emailed to {n} person
+1388	Thank-you sent to {n} guest
+1389	Thank-you sent to {n} guests
+1390	Thanks — your message has been added.
+1391	Thanks, {name}! {n} photo added.
+1392	Thanks, {name}! {n} photos added.
+1393	Thanks! It will appear once the host approves it.
+1394	Thanks! Your plan switches on as soon as the payment is confirmed — usually within a few seconds. Refresh this page in a moment.
+1395	Thanksgiving
+1396	That account is already linked to a different Blessly account
+1397	That birthday does not exist
+1398	That card image is too large
+1399	That card uses a photo that isn’t yours
+1400	That code has expired. Start again.
+1401	That code isn’t right
+1402	That code isn’t right — check the time on your phone is set automatically
+1403	That date does not exist
+1404	That event is not in this circle
+1405	That file isn’t a photo we can read
+1406	That file isn’t a photo we can read (use JPG, PNG, WebP or GIF)
+1407	That isn’t a card image we can use
+1408	That number is already used by another account
+1409	That password isn’t right
+1410	That photo isn’t in this album
+1411	That product isn’t available
+1412	That recording format isn’t supported
+1413	That recording is empty
+1414	That recording isn’t available
+1415	That sign-in option isn’t available.
+1416	That took too long — please try again.
+1417	That wishlist item no longer exists
+1418	That’s too large
+1419	The {name} plan includes {maxAlbums} albums. Upgrade to Family for more.
+1420	The {surname} family
+1421	the end of the period
+1422	The file is too big (2 MB max)
+1423	The file is too big (2 MB max).
+1424	The file is too big (2 MB max). Split it into smaller files.
+1425	The file needs a header row and at least one customer
+1426	The free plan allows {limit} people in a circle. The circle owner can upgrade to Family for up to {MAX_MEMBERS}.
+1427	The free plan can’t have a price
+1428	The maximum is {v1}
+1429	The minimum is {v1}
+1430	The payment didn’t go through. Nothing was taken — please try again.
+1431	The payment didn’t go through. Nothing was taken.
+1432	The payment page couldn’t be opened. Please try again in a minute.
+1433	The PDF has the front and inside as 15 × 20 cm pages — print double-sided, or at a print shop.
+1434	The RSVP deadline should be before the celebration
+1435	The server is missing ENCRYPTION_KEY, so it can’t store secrets (WhatsApp credentials, two-step verification keys) safely
+1436	The two passwords don’t match
+1437	The whole family
+1438	The wish is empty
+1439	The wish page shows the front and inside of this card above your message.
+1440	The Blessly team sets the verify token and app secret on the server. Customers who reply STOP are unsubscribed from WhatsApp automatically; START subscribes them again.
+1441	Their email
+1442	Their mobile
+1443	Their name on the wish
+1444	There’s no paid plan to cancel
+1445	There’s nothing to pay out
+1446	These are sandbox brands for testing. Real brands come from a gift card partner once it’s connected.
+1447	They’re already on your team
+1448	This account is suspended. Please contact support.
+1449	This album is full ({maxPhotosPerAlbum} photos on the {name} plan).
+1450	This album isn’t accepting photos
+1451	This browser can’t show notifications. You’ll still get alerts in the app and by email.
+1452	This card has too much on it
+1453	This celebration has already happened
+1454	This celebration has been cancelled.
+1455	This celebration has happened — thanks to everyone who came!
+1456	This celebration is cancelled.
+1457	This celebration is for invited guests
+1458	This celebration is for invited guests. Open it from your invitation.
+1459	This celebration is full
+1460	This celebration isn’t taking replies
+1461	This celebration was cancelled
+1462	This circle is full (6 people).
+1463	This collection has closed
+1464	This collection has closed.
+1465	This customer agreed to receive messages from us
+1466	This family circle is full ({limit} people)
+1467	This gift card was cancelled
+1468	This invite has expired. Ask {inviter} for a new link.
+1469	This invite has expired. Ask for a new link.
+1470	This invite has expired. Ask the owner for a new one.
+1471	This invite is for {email}, but you’re logged in as {email2}. Log out and log in (or sign up) with {email3}.
+1472	This invite is for {email}. Log in with that email to accept it.
+1473	This invite link doesn’t work
+1474	This invite link is not valid
+1475	This invite was already used.
+1476	This invite was cancelled. Ask {inviter} for a new link.
+1477	This invite was cancelled. Ask for a new link.
+1478	This is a sandbox card and can’t be spent.
+1479	This is how friends see your list.
+1480	This is your own list — friends reserve gifts from it
+1481	This link is not valid
+1482	This link may have expired or been removed.
+1483	This month
+1484	This page is full
+1485	This payment is {status}.
+1486	This permanently deletes your account
+1487	This plan isn’t on sale in that currency
+1488	This reset link has expired or was already used. Ask for a new one.
+1489	This unsubscribe link doesn’t work. You can also reply STOP to any WhatsApp message.
+1490	This WhatsApp number is already connected to another Blessly business
+1491	This wish page is full
+1492	This wish page is not accepting messages
+1493	Time
+1494	Time (optional)
+1495	Time zone
+1496	Timezone
+1497	Timezone (messages go out in this time)
+1498	Timezone (reminders arrive at 9am here)
+1499	To {name}
+1500	To do
+1501	to keep wishing customers after that.
+1502	To leave, first make someone else the owner.
+1503	To see delivered and read ticks, and to handle customers who reply STOP, the Blessly Meta app must receive your number’s webhooks. Callback URL:
+1504	to start again.
+1505	Today
+1506	Tomorrow
+1507	Tone
+1508	Too many attempts. Please wait a minute and try again.
+1509	Too many attempts. Please wait a minute.
+1510	Too many variables
+1511	Too many wrong codes. Start again.
+1512	Too pricey alone? Start a group gift
+1513	Tools
+1514	Towards: {title}
+1515	Town or city
+1516	Tracking number
+1517	Try {name}
+1518	Try another
+1519	Turn off
+1520	Turn on
+1521	Two-step verification
+1522	Two-step verification is already on
+1523	Two-step verification is off.
+1524	Two-step verification is on.
+1525	Two-step verification, Google and Apple, phone sign-in, password
+1526	Type

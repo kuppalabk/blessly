@@ -1,0 +1,218 @@
+437	Magpatuloy
+438	Magpatuloy sa bayad
+439	Magpatuloy gamit ang
+440	Mga kontribusyon
+441	Nakopya
+442	Kopyahin
+443	Kopyahin ang personal na link ni {name}
+444	Kopyahin ang mga code
+445	Hindi nakopya — pindutin nang matagal ang link para kopyahin ito
+446	Kopyahin ang link
+447	Kopyahin ang mensahe
+448	Kopyahin ang link ng pahina ng pagbati
+449	Hindi maidagdag
+450	Hindi maidagdag ang mensahe mo
+451	Hindi ma-apply
+452	Hindi makansela
+453	Hindi malikha
+454	Hindi malikha ang circle
+455	Hindi mabura
+456	Hindi ma-export
+457	Hindi makasali
+458	Hindi mabuksan ang editor
+459	Hindi mabuksan ang pahina ng bayad
+460	Hindi ma-post
+461	Hindi ma-save
+462	Hindi ma-save ang card
+463	Hindi ma-save ang larawan ng card
+464	Hindi maiskedyul
+465	Hindi maipadala
+466	Hindi makapagpadala ng code
+467	Hindi maipadala ang sagot mo
+468	Hindi masimulan ang card
+469	Hindi masimulan ang card
+470	Hindi ma-off ang mga notification
+471	Hindi ma-on ang mga notification
+472	Hindi magamit ang disenyong iyon
+473	Hindi maisulat ang pagbati
+474	Hindi ma-load ang mga template: {message}
+475	Hindi maabot ang {label}
+476	Bansa
+477	Bansa (kalendaryo ng mga pista)
+478	Bansa (para sa kalendaryo ng mga pista)
+479	Bansa (para sa mga numerong walang country code)
+480	Country code
+481	Cover ng {title}
+482	Gumawa
+483	Gumawa ng
+484	Gumawa ng family circle
+485	Gumawa ng link para maibahagi ang album sa kahit sino — sa WhatsApp, Facebook o sa mensahe.
+486	Gumawa ng pagbati
+487	Gumawa ng account
+488	Gumawa ng album
+489	Gumawa ng account
+490	Gumawa ng business workspace
+491	Gumawa ng pahina ng selebrasyon
+492	Gumawa ng family circle
+493	Gumawa ng invite link
+494	Gumawa ng mga template ng mensahe (hal. pagbati sa kaarawan) at maghintay ng pag-apruba.
+495	Gumawa ng share link
+496	Gumawa ng wishlist
+497	Gumawa ng account mo
+498	Gumawa ng libreng account mo
+499	Ginagawa…
+500	CSV file
+501	CSV text
+502	Pera
+503	Kasalukuyang password
+504	Custom na {v}
+505	Custom na kulay ng background
+506	Custom na plan
+507	Customer
+508	Hindi nakita ang customer
+509	Mga customer
+510	Hindi available ang pag-download ng data sa support view
+511	Petsa
+512	Petsa (opsyonal)
+513	Anak na babae
+514	Araw
+515	Burahin
+516	Burahin ang “{title}” at ang lahat ng {length} na larawan? Hindi na ito maibabalik.
+517	Burahin ang “{title}” kasama ang mga RSVP at task nito? Mawawala ito sa lahat ng nasa circle.
+518	Burahin si {name}
+519	Burahin si {name} at lahat ng paalala niya? Hindi na ito maibabalik.
+520	Burahin si {name}? Mananatili sa log mo ang kasaysayan ng mensahe niya nang wala ang pangalan niya.
+521	Burahin ang {title}
+522	Burahin ang album
+523	Burahin ang customer
+524	Burahin ang event
+525	Burahin nang tuluyan
+526	Burahin ang account ko
+527	Burahin ang account ko…
+528	Burahin ang pahina
+529	Burahin ang task na {title}
+530	Burahin ang card na ito? Ipapakita pa rin ng mga pagbating naipadala na gamit ito ang orihinal nitong disenyo.
+531	Burahin ang pahina ng selebrasyong ito, ang listahan ng bisita nito at lahat ng mensahe? Hindi na ito maibabalik.
+532	Burahin ang wishlist na ito?
+533	Burahin ang wishlist
+534	Naburang customer
+535	Naihatid
+536	Naihatid / nabasa
+537	Naghahatid sa (country codes)
+538	Mga update sa paghahatid
+539	Paglalarawan
+540	Disenyo
+541	Disenyo {n} ng 100:
+542	Disenyo {n} ng 250
+543	Disenyo {number}: {name}
+544	Pangalan ng disenyo
+545	Hindi nakita ang disenyo
+546	Disenyuhan ang sarili mong card
+547	Disenyuhan ang sarili mong card: palitan ang mga salita, font at kulay, magdagdag ng larawan, sticker, pirma o QR code — pagkatapos ay ipadala ito kasama ng pagbati o i-print.
+548	Dapat hindi bababa sa 900 pixels ang lapad ng mga disenyo para sa pag-print
+549	Dapat patayo ang mga disenyo, 3:4 (halimbawa 1500 × 2000 pixels)
+550	Mga detalye
+551	Development mode — walang text na naipadala. Ang code mo ay
+552	Development mode — ang code mo ay
+553	Pangangailangan sa pagkain (opsyonal)
+554	I-disconnect
+555	Diwali
+556	Huwag ipakita ang pangalan ko sa publiko
+557	Mag-donate
+558	Direktang mapupunta ang mga donasyon sa
+559	Tapos
+560	Tapos. Hindi na magpapadala sa iyo ng mga mensaheng ito ang {business}.
+561	I-download ang kopya ng lahat ng itinatago ng Blessly tungkol sa iyo, o burahin ang account mo. Basahin ang aming
+562	I-download ang sample na file
+563	I-download ang listahan ng bisita
+564	I-download ang data ko
+565	Drawing
+566	Lugar ng drawing
+567	Dress code, parking, ano ang dadalhin, sorpresang dapat ilihim…
+568	Due (opsyonal)
+569	Due date
+570	I-duplicate
+571	I-duplicate ang {title}
+572	hal. Asha
+573	hal. Mag-30 na si Asha
+574	hal. Ika-60 ni Papa — para sa cancer ward
+575	hal. Ika-80 kaarawan ni Dadi
+576	hal. Hapunan para sa ika-80 kaarawan ni Dadi
+577	hal. Pagbati sa Diwali 2026
+578	hal. Regalo sa pag-alis para kay Sam
+579	hal. mahilig mag-trekking, ang trip natin sa Goa
+580	hal. Araw ng pangalan
+581	hal. Bahay ni Nani
+582	hal. Nisha
+583	hal. Mag-order ng cake
+584	hal. ang trip natin sa Goa
+585	hal. Ang wedding registry namin
+586	hal. walang hagdan
+587	hal. Sweet Treats Bakery
+588	hal. The Garden Room
+589	hal. vegetarian, allergy sa nuts
+590	hal. vip
+591	hal. Nasa loob na kami ngayon — parehong address, sa likod na pinto.
+592	May personal na link ang bawat bisita. Walang ibang makakabukas ng pahina.
+593	Easter
+594	I-edit
+595	I-edit si {name}
+596	I-edit ang card
+597	I-edit ang customer
+598	I-edit ang event
+599	I-edit ang item
+600	I-edit ang tao
+601	I-edit ang mga listahan mo
+602	Eid
+603	email
+604	Email
+605	Email (para sa resibo)
+606	Email (para sa mga update at paalala)
+607	Email (opsyonal, para sa pasasalamat)
+608	Email (awtomatikong ipinapadala)
+609	Mensahe sa email
+610	Email lang
+611	Mali ang email o password
+612	Subject ng email
+613	Magtatapos (opsyonal)
+614	Engagement
+615	Maglagay ng pangalan
+616	Maglagay ng presyo gaya ng 1499 o 24.99
+617	Maglagay ng wastong email
+618	Maglagay ng wastong email address
+619	Maglagay ng wastong mobile number na may country code
+620	Maglagay ng wastong phone number
+621	Maglagay ng isa sa mga recovery code mo. Isang beses lang gumagana ang bawat isa.
+622	Maglagay ng target gaya ng 5000 o 49.99
+623	Ilagay ang email ng account mo at magpapadala kami ng link para makapili ng bagong password.
+624	Ilagay ang pangalan ng negosyo mo
+625	Ilagay ang mobile number mo na may country code, hal. +91 98765 43210
+626	Ilagay ang pangalan mo
+627	Event
+628	Mga detalye ng event
+629	Hindi nakita ang event
+630	Sinusuri ng Blessly ang bawat account bago ito gumana.
+631	Sabay-sabay na nag-aambag ang lahat para sa isang regalo, o nangangalap ng pera para sa charity
+632	Lahat ng narito ay makakatanggap ng paalala para sa mga taong ito. Mananatiling pribado ang iba mo pang tao.
+633	Makikita ng lahat sa circle na ito ang taong ito at makakatanggap ng mga paalala niya. Ikaw lang ang puwedeng mag-edit nito.
+634	Pumayag ang lahat sa file na ito na tumanggap ng mga mensahe mula sa negosyo ko
+635	Lahat ay pumipirma sa iisang card
+636	Lumabas
+637	Mag-e-expire
+638	Ine-export…
+639	Facebook
+640	Bayad na pumalya
+641	Pumalya
+642	Pumalya o hindi naipadala
+643	Pamilya
+644	Family Circle
+645	Family circle ng hanggang {n} na tao
+646	Mga family circle, album at mensahe ng negosyo
+647	Event ng pamilya
+648	Mga event ng pamilya
+649	Hindi nakita ang pamilya
+650	Family plan
+651	Mga pirma ng pamilya
+652	Paalam
+653	Ama
+654	Araw ng mga Ama

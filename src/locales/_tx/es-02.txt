@@ -1,0 +1,218 @@
+219	Añade tu número de registro benéfico (p. ej., 12A/80G en India, número de la Charity Commission en Reino Unido, EIN en EE. UU.)
+220	Añade a tu primera persona
+221	Añade tu nombre
+222	Añade tus fotos
+223	Añade tu felicitación para {recipientName}
+224	Añadido
+225	{n} invitado añadido
+226	{n} invitados añadidos
+227	Añadiendo…
+228	Dirección
+229	Dirección, línea 1
+230	Dirección, línea 2 (opcional)
+231	Administrador
+232	Administrador: también puede invitar y quitar
+233	Los administradores deben mantener activada la verificación en dos pasos
+234	Los administradores deben activar la verificación en dos pasos antes de usar el área de administración.
+235	Después de tu contraseña (o Google, Apple o un código por SMS), también introducirás un código de una app de autenticación como Google Authenticator, Microsoft Authenticator o 1Password.
+236	La IA no estaba disponible, así que usamos una plantilla integrada.
+237	Felicitaciones con IA · recordatorios inteligentes · familia
+238	La IA escribe la felicitación en tu tono e idioma. Elige uno de los 250 diseños de tarjeta por ocasión.
+239	Álbum
+240	Nombre del álbum
+241	Álbum no encontrado
+242	Ajustes del álbum
+243	Álbumes
+244	Avisos
+245	Todos
+246	Todos los álbumes
+247	Todos los cambios guardados
+248	todos los clientes
+249	Todos los círculos familiares
+250	Permite la cámara y el micrófono para grabar un vídeo.
+251	Permite el micrófono para grabar un mensaje de voz.
+252	Ya decidido
+253	¿Ya tienes una cuenta?
+254	Ya reservado
+255	Importe
+256	Importe (
+257	Ya existe una cuenta con este correo
+258	y
+259	aniversario
+260	Aniversario
+261	Felicitaciones de aniversario
+262	Respuesta
+263	Cualquiera
+264	Cualquiera puede abrirla y confirmar asistencia: ideal para eventos de la comunidad.
+265	Cualquiera con el enlace
+266	Cualquiera con este enlace puede ver el álbum.
+267	Apple
+268	Aplicar
+269	Solicitar como {kind}
+270	Aprobar
+271	Aprobado
+272	¿Vienes?
+273	Preguntar por necesidades de accesibilidad
+274	Preguntar por necesidades alimentarias
+275	Preguntar a los invitados si pueden venir (RSVP)
+276	Pide uno nuevo al responsable del negocio.
+277	Pedir al soporte de Blessly que cancele y reembolse un pedido
+278	Asignar a
+279	Felicitaciones de cumpleaños automáticas a tus clientes por WhatsApp y correo
+280	Automatización no encontrada
+281	Automatizaciones
+282	Baby shower
+283	Atrás
+284	Volver a {name}
+285	Volver a celebraciones
+286	Volver al inicio
+287	Volver a iniciar sesión
+288	Volver a mis tarjetas
+289	Volver a personas
+290	Volver a ajustes
+291	Volver a la tarjeta
+292	Volver a listas de deseos
+293	Fondo
+294	Foto de fondo
+295	Firma no válida
+296	Saldo:
+297	Sé el primero en dejar un mensaje para {recipientName}.
+298	Sé el primero en dejar un mensaje
+299	Mejor amigo
+300	Periodo de facturación
+301	cumpleaños
+302	Cumpleaños
+303	Las felicitaciones de cumpleaños y aniversario se envían solas ese día: por WhatsApp desde tu propio número de empresa o por correo
+304	Felicitaciones de cumpleaños
+305	Cumpleaños y aniversarios compartidos en {familyName}
+306	Cumpleaños, festividades y eventos familiares
+307	comprado
+308	Lo compré
+309	Traer al frente
+310	Hermano
+311	Explora 4.000 tarjetas
+312	Plantilla integrada. Las variaciones de tono en este idioma requieren activar el redactor con IA.
+313	Empresa
+314	Datos de la empresa
+315	Nombre de la empresa
+316	Nombre de la empresa (aparece en los mensajes)
+317	Plan Empresa
+318	Registro mercantil / GST (opcional)
+319	Ajustes de empresa
+320	Empresa: {n} felicitaciones a clientes al mes por WhatsApp y correo
+321	Comprar
+322	Comprar tarjeta regalo de {amount}
+323	Comprar una tarjeta regalo de {name}
+324	por
+325	Al crear una cuenta aceptas los
+326	De diseñadores independientes
+327	Calendario
+328	Campaña
+329	Nombre de la campaña
+330	Campaña no encontrada
+331	Campañas
+332	puede editar.
+333	Puede escribir
+334	Puede ver
+335	Puede ver: ve y confirma asistencia
+336	¿Puedes venir?
+337	no puede venir
+338	No puede venir
+339	No puedo ir
+340	No podré
+341	¿No puedes escanear? Introduce esta clave:
+342	Cancelar
+343	Cancelar y avisar a los invitados
+344	¿Cancelar y avisar a tus invitados?
+345	Cancela cuando quieras; tu plan funciona hasta el final del periodo pagado. Pueden aplicarse impuestos.
+346	Cancelar plan
+347	Cancelar la celebración
+348	¿Cancelar tu plan? Seguirá funcionando hasta el final del periodo que pagaste.
+349	Cancelado
+350	Cancelado: funciona hasta
+351	Pie de foto
+352	Código de la tarjeta
+353	Diseño de la tarjeta
+354	Diseñador de tarjetas
+355	Editor de tarjetas
+356	Biblioteca de tarjetas
+357	Nombre de la tarjeta
+358	Tarjeta no encontrada
+359	Celebrar
+360	Celebración
+361	Celebración no encontrada
+362	Celebraciones
+363	Centro
+364	Cambiar mi respuesta
+365	Cambiar número
+366	Cambiar contraseña
+367	Cambia textos, fuentes y colores; añade fotos, pegatinas, una firma o un código QR.
+368	Benéfica
+369	Nombre de la organización benéfica
+370	Revisa la dirección de correo
+371	Revisa el número de teléfono
+372	Comprueba que copiaste el enlace completo o pide uno nuevo.
+373	Revisa tu correo
+374	Comprobando este dispositivo…
+375	Comprobando con WhatsApp…
+376	Comprobando…
+377	Pago (modo de prueba)
+378	Pago no encontrado
+379	Aportar
+380	Elegir {name}
+381	Elige una tarjeta y un importe, y la enviaremos por correo: ahora o ese mismo día.
+382	Elige un chat
+383	Elige una fecha de cierre futura
+384	Elige un contacto
+385	Elige una fecha
+386	Elige una fecha que no haya pasado
+387	Elige una fecha dentro de un año
+388	Elige una tarjeta regalo
+389	Elige una nueva contraseña
+390	Elige una foto
+391	Elige una plantilla
+392	Elige una hora
+393	Elige una hora válida
+394	Elige una organización benéfica verificada
+395	Elige una dirección
+396	Elige una respuesta
+397	Elige una imagen
+398	Elige al menos una foto
+399	Elige portada o interior
+400	Elige uno de los importes mostrados
+401	Elige una de tus celebraciones
+402	Elige una de tus listas de deseos
+403	Elegir fotos
+404	Elige el plan Empresa
+405	Navidad
+406	Nombre del círculo
+407	Resumen del círculo
+408	Borrar
+409	Cerrar colecta
+410	Cerrar la tarjeta
+411	Cerrada a nuevas aportaciones.
+412	Cierra
+413	Cierra el (opcional)
+414	Código
+415	Código de tu app (para hacer cambios)
+416	Compañero de trabajo
+417	compañero@example.com
+418	Reúne y comparte fotos de cada ocasión
+419	Reúne las fotos de un cumpleaños, una boda o Diwali en un álbum, elige uno de 100 diseños y compártelo con la familia: ellos también pueden añadir sus fotos.
+420	Colecta
+421	Color
+422	Color {a}
+423	Tema de color
+424	Columnas que entendemos:
+425	vienen
+426	Vienen
+427	Próximamente
+428	Confirmar y activar
+429	Confirmar eliminación
+430	Confirmar salida
+431	Confirma que estos clientes aceptaron recibir tus mensajes
+432	Conectar
+433	Conectar WhatsApp
+434	Conecta WhatsApp primero
+435	Conecta WhatsApp en Ajustes para enviar mensajes de WhatsApp. Mientras tanto, los clientes con correo reciben el correo.
+436	conectado

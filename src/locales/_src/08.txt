@@ -1,0 +1,216 @@
+1527	Type DELETE to confirm
+1528	Type it again
+1529	Type your words
+1530	Unassigned
+1531	Unauthorized
+1532	Undo
+1533	Undo stroke
+1534	Unfavourite {title}
+1535	Unknown time zone
+1536	Unknown timezone
+1537	Unlimited photo albums, {photos} photos each
+1538	Unsaved changes
+1539	Unsubscribe
+1540	Unsubscribed
+1541	Unsubscribed from
+1542	Up ↕ down
+1543	upcoming events
+1544	Update posted and emailed to {n} guest
+1545	Update posted and emailed to {n} guests
+1546	Updates
+1547	Updates from {v}
+1548	Upgrade to Family
+1549	Upload a photo (JPG, PNG, WebP or GIF)
+1550	Upload an MP4 or WebM video
+1551	Upload design (3:4, at least 900 px wide)
+1552	Upload failed
+1553	Upload photo
+1554	Uploading…
+1555	Uploads
+1556	Use
+1557	Use a 2-letter country code
+1558	Use a different number
+1559	Use a link starting with https://
+1560	Use a ready-made design instead
+1561	Use a time like 19:30
+1562	Use a web link (https://…)
+1563	Use approve or reject
+1564	Use at least 8 characters
+1565	Use by
+1566	Use country codes like IN,GB
+1567	Use lowercase letters, numbers and dashes
+1568	Use my authenticator app
+1569	Use this card for a wish
+1570	Use this message
+1571	used {uses}×
+1572	User not found
+1573	Users, businesses, system health and audit log
+1574	Uses WhatsApp’s official Business Platform. Customers can reply STOP at any time
+1575	Vaisakhi
+1576	Valentine’s Day
+1577	Value
+1578	Venue
+1579	Verify
+1580	Vesak
+1581	Video
+1582	Video call link (optional)
+1583	Video message · {time}
+1584	Video message from {from}
+1585	Videos can be up to 40 MB
+1586	View as a friend
+1587	View page
+1588	Viewers can’t add events
+1589	Viewers can’t add tasks
+1590	Viewers can’t start the group card
+1591	vip, regular
+1592	Voice
+1593	Voice message · {time}
+1594	Voice message from {from}
+1595	Waiting
+1596	waiting for review
+1597	Waiting for review
+1598	wants {n}
+1599	Ways to sign in
+1600	We can’t post printed cards to that country yet
+1601	We need your email address to create an account. Please allow sharing it, or sign up with email.
+1602	We texted a code to {phone}.
+1603	Website (optional)
+1604	Wedding
+1605	Welcome back
+1606	Well done
+1607	What are you celebrating?
+1608	What is it?
+1609	What needs doing?
+1610	What would you like?
+1611	What’s been reserved is hidden from you.
+1612	What’s happening
+1613	whatsapp
+1614	WhatsApp
+1615	WhatsApp (we remind you to send)
+1616	WhatsApp / mobile
+1617	WhatsApp +{recipient}
+1618	WhatsApp Business
+1619	WhatsApp Business Account ID
+1620	WhatsApp Business Account ID is a long number
+1621	WhatsApp didn’t accept these details: {message}
+1622	WhatsApp not connected
+1623	WhatsApp only
+1624	WhatsApp only lets businesses start a conversation with a template Meta has approved. Create one in WhatsApp Manager (for example “Happy birthday
+1625	WhatsApp template
+1626	WhatsApp template (approved by Meta)
+1627	WhatsApp, or email if no WhatsApp
+1628	When
+1629	When (your device's time)
+1630	When and where
+1631	Where (optional)
+1632	White border
+1633	Who
+1634	Who can see it
+1635	Who is it for?
+1636	Who is this for?
+1637	Who is this wish for?
+1638	Who it’s for
+1639	Who it’s for (optional)
+1640	Who’s doing what
+1641	Wife
+1642	Wish
+1643	Wish drafted for you
+1644	Wish every customer, automatically
+1645	Wish language
+1646	Wish not found
+1647	Wish page not found
+1648	Wishes from friends
+1649	Wishes go out automatically on the day, in {timezone} time, to customers who agreed to messages. Each customer gets one message per occasion.
+1650	wishes in {language}
+1651	Wishlist
+1652	Wishlist not found
+1653	Wishlists
+1654	Blessly
+1655	Blessly — wishes and reminders for every occasion
+1656	Blessly for business
+1657	Blessly has paused sending for your business: {reason}. Nothing is sent until this is resolved — please contact support.
+1658	Blessly is free for personal reminders and wishes. Family and Business plans add bigger family circles, albums and automatic customer wishes on WhatsApp.
+1659	Blessly reminds you a week before every birthday, anniversary and festival, writes a heartfelt wish in {length} languages, and opens WhatsApp or Telegram with it ready to send.
+1660	Blessly test checkout
+1661	with the whatsapp_business_messaging and whatsapp_business_management permissions and generate a permanent token.
+1662	with your business name.
+1663	Work & milestones
+1664	Work anniversary
+1665	Works for accounts with a mobile number added in Settings → Sign-in and security.
+1666	Would love
+1667	Write a message or add a photo
+1668	Write a short message
+1669	Write a thank-you message
+1670	Write a wish
+1671	Write a wish for
+1672	Write my wish
+1673	Write or generate the wish first
+1674	Write the message
+1675	Write the update
+1676	Writing…
+1677	year
+1678	Yearly · save 20%
+1679	Yes, delete
+1680	Yes, I’ll be there
+1681	You
+1682	You already have a business workspace
+1683	You can apply again.
+1684	You can be in up to {MAX_FAMILIES_PER_USER} family circles
+1685	You can have up to 200 celebrations
+1686	You can have up to 50 wishlists
+1687	You can keep up to {MAX_DESIGNS} cards — delete some you don’t need
+1688	You can only change photos you added
+1689	You can only remove people with a lower role
+1690	You can only remove photos you added
+1691	You can only share albums with a family circle where you can add things
+1692	You can only share with a family circle where you can add people
+1693	You can only update tasks given to you
+1694	You can only view this album
+1695	You can schedule up to a year ahead
+1696	You can send thank-yous once the celebration has started
+1697	You can’t buy your own product
+1698	You can’t make it
+1699	You might come
+1700	You own this business already.
+1701	You’ll be able to manage customers, birthday automations and campaigns.
+1702	You’ll be logged out on your other devices.
+1703	you’ll join as: {role}
+1704	You’re already in — open the circle
+1705	You’re already on another business’s team. Leave it first.
+1706	You’re already on the {name} plan
+1707	You’re already unsubscribed.
+1708	You’re coming
+1709	You’re getting this
+1710	You’re offline
+1711	You’re on
+1712	You’re signed in on {n} device (including this one).
+1713	You’re signed in on {n} devices (including this one).
+1714	You’re the host.
+1715	You're the only one here, so leaving deletes {familyName}.
+1716	You’ve already applied
+1717	You’ve been invited to a family circle. Create a free account to join.
+1718	You’ve been invited to a family circle. Log in to join.
+1719	You’ve uploaded the most card photos we can keep (1,000)
+1720	Your {kind} account isn’t approved yet
+1721	Your application ({kind}) wasn’t approved.
+1722	Your campaigns
+1723	Your card: {title}
+1724	Your cards
+1725	Your circle is full ({n} people).
+1726	Your circles
+1727	Your current password isn’t right
+1728	Your data
+1729	Your free trial has ended, so nothing is being sent.
+1730	Your gift card
+1731	Your list is empty.
+1732	Your message
+1733	Your name
+1734	Your own people and reminders stay private
+1735	Your password
+1736	Your people
+1737	Your photo
+1738	Your plan
+1739	Your plan holds up to {v1} customers
+1740	Your plan includes {seats} team login{v2} (including you).
+1741	Your wish (edit freely)
+1742	Zoom

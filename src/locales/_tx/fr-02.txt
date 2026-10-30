@@ -1,0 +1,218 @@
+219	Ajoutez votre numéro d’enregistrement caritatif (p. ex. 12A/80G en Inde, numéro de la Charity Commission au Royaume-Uni, EIN aux États-Unis)
+220	Ajoutez votre première personne
+221	Ajoutez votre nom
+222	Ajoutez vos photos
+223	Ajoutez votre vœu pour {recipientName}
+224	Ajouté
+225	{n} invité ajouté
+226	{n} invités ajoutés
+227	Ajout…
+228	Adresse
+229	Adresse, ligne 1
+230	Adresse, ligne 2 (facultatif)
+231	Admin
+232	Admin — peut aussi inviter et retirer
+233	Les admins doivent garder la vérification en deux étapes activée
+234	Les admins doivent activer la vérification en deux étapes avant d’utiliser l’espace d’administration.
+235	Après votre mot de passe (ou Google, Apple ou un code SMS), vous saisirez aussi un code d’une application d’authentification comme Google Authenticator, Microsoft Authenticator ou 1Password.
+236	L’IA était indisponible, nous avons donc utilisé un modèle intégré.
+237	Vœux par IA · rappels intelligents · famille
+238	L’IA écrit le vœu dans votre ton et votre langue. Choisissez parmi 250 modèles de carte par occasion.
+239	Album
+240	Nom de l’album
+241	Album introuvable
+242	Paramètres de l’album
+243	Albums
+244	Alertes
+245	Tout
+246	Tous les albums
+247	Toutes les modifications sont enregistrées
+248	tous les clients
+249	Tous les cercles familiaux
+250	Autorisez la caméra et le micro pour enregistrer une vidéo.
+251	Autorisez le micro pour enregistrer un message vocal.
+252	Déjà décidé
+253	Vous avez déjà un compte ?
+254	Déjà pris
+255	Montant
+256	Montant (
+257	Un compte existe déjà avec cet e-mail
+258	et
+259	anniversaire de mariage
+260	Anniversaire de mariage
+261	Vœux d’anniversaire de mariage
+262	Réponse
+263	Tout le monde
+264	Tout le monde peut l’ouvrir et répondre — idéal pour les événements de quartier.
+265	Toute personne disposant du lien
+266	Toute personne disposant de ce lien peut voir l’album.
+267	Apple
+268	Appliquer
+269	Postuler en tant que {kind}
+270	Approuver
+271	Approuvé
+272	Vous venez ?
+273	Demander les besoins d’accessibilité
+274	Demander les régimes alimentaires
+275	Demander aux invités s’ils peuvent venir (RSVP)
+276	Demandez-en un nouveau au responsable de l’entreprise.
+277	Demander au support Blessly d’annuler et rembourser une commande
+278	Attribuer à
+279	Vœux d’anniversaire automatiques à vos clients sur WhatsApp et par e-mail
+280	Automatisation introuvable
+281	Automatisations
+282	Baby shower
+283	Retour
+284	Retour à {name}
+285	Retour aux fêtes
+286	Retour à l’accueil
+287	Retour à la connexion
+288	Retour à mes cartes
+289	Retour aux personnes
+290	Retour aux paramètres
+291	Retour à la carte
+292	Retour aux listes de souhaits
+293	Arrière-plan
+294	Photo d’arrière-plan
+295	Signature invalide
+296	Solde :
+297	Soyez le premier à laisser un message pour {recipientName}.
+298	Soyez le premier à laisser un message
+299	Meilleur ami
+300	Période de facturation
+301	anniversaire
+302	Anniversaire
+303	Les vœux d’anniversaire et d’anniversaire de mariage partent tout seuls le jour J — sur WhatsApp depuis votre propre numéro professionnel, ou par e-mail
+304	Vœux d’anniversaire
+305	Anniversaires partagés dans {familyName}
+306	Anniversaires, fêtes et événements familiaux
+307	acheté
+308	Je l’ai acheté
+309	Avancer
+310	Frère
+311	Parcourir 4 000 cartes
+312	Modèle intégré. Les variations de ton dans cette langue nécessitent d’activer le rédacteur IA.
+313	Entreprise
+314	Informations sur l’entreprise
+315	Nom de l’entreprise
+316	Nom de l’entreprise (affiché dans les messages)
+317	Offre Entreprise
+318	Immatriculation / TVA (facultatif)
+319	Paramètres de l’entreprise
+320	Entreprise : {n} vœux clients par mois sur WhatsApp et par e-mail
+321	Acheter
+322	Acheter une carte cadeau de {amount}
+323	Acheter une carte cadeau {name}
+324	par
+325	En créant un compte, vous acceptez les
+326	Par des designers indépendants
+327	Calendrier
+328	Campagne
+329	Nom de la campagne
+330	Campagne introuvable
+331	Campagnes
+332	peut modifier.
+333	Peut écrire
+334	Peut voir
+335	Peut voir — consulte et répond
+336	Pouvez-vous venir ?
+337	ne peut pas venir
+338	Ne peut pas venir
+339	Je ne peux pas
+340	Je ne pourrai pas
+341	Impossible de scanner ? Saisissez cette clé :
+342	Annuler
+343	Annuler et prévenir les invités
+344	Annuler et prévenir vos invités ?
+345	Résiliez à tout moment ; votre offre reste active jusqu’à la fin de la période payée. Des taxes peuvent s’appliquer.
+346	Résilier l’offre
+347	Annuler la fête
+348	Résilier votre offre ? Elle reste active jusqu’à la fin de la période payée.
+349	Annulé
+350	Résilié — actif jusqu’au
+351	Légende
+352	Code de la carte
+353	Design de la carte
+354	Créateur de cartes
+355	Éditeur de cartes
+356	Bibliothèque de cartes
+357	Nom de la carte
+358	Carte introuvable
+359	Célébrer
+360	Fête
+361	Fête introuvable
+362	Fêtes
+363	Centre
+364	Modifier ma réponse
+365	Changer de numéro
+366	Changer le mot de passe
+367	Modifiez textes, polices et couleurs ; ajoutez photos, autocollants, une signature ou un code QR.
+368	Association
+369	Nom de l’association
+370	Vérifiez l’adresse e-mail
+371	Vérifiez le numéro de téléphone
+372	Vérifiez que vous avez copié le lien en entier, ou demandez-en un nouveau.
+373	Consultez vos e-mails
+374	Vérification de cet appareil…
+375	Vérification avec WhatsApp…
+376	Vérification…
+377	Paiement (mode test)
+378	Paiement introuvable
+379	Participer
+380	Choisir {name}
+381	Choisissez une carte et un montant, et nous l’enverrons par e-mail — maintenant ou le jour J.
+382	Choisissez une discussion
+383	Choisissez une date de clôture future
+384	Choisissez un contact
+385	Choisissez une date
+386	Choisissez une date qui n’est pas passée
+387	Choisissez une date dans l’année
+388	Choisissez une carte cadeau
+389	Choisissez un nouveau mot de passe
+390	Choisissez une photo
+391	Choisissez un modèle
+392	Choisissez une heure
+393	Choisissez une heure valide
+394	Choisissez une association vérifiée
+395	Choisissez une adresse
+396	Choisissez une réponse
+397	Choisissez une image
+398	Choisissez au moins une photo
+399	Choisissez recto ou intérieur
+400	Choisissez l’un des montants proposés
+401	Choisissez l’une de vos fêtes
+402	Choisissez l’une de vos listes de souhaits
+403	Choisir des photos
+404	Choisissez l’offre Entreprise
+405	Noël
+406	Nom du cercle
+407	Résumé du cercle
+408	Effacer
+409	Clôturer la cagnotte
+410	Fermer la carte
+411	Fermée aux nouvelles participations.
+412	Clôture
+413	Clôture le (facultatif)
+414	Code
+415	Code de votre application (pour modifier)
+416	Collègue
+417	collegue@example.com
+418	Rassemblez et partagez les photos de chaque occasion
+419	Rassemblez les photos d’un anniversaire, d’un mariage ou de Diwali dans un album, choisissez parmi 100 designs et partagez-le avec la famille — chacun peut ajouter ses photos.
+420	Cagnotte
+421	Couleur
+422	Couleur {a}
+423	Thème de couleur
+424	Colonnes reconnues :
+425	viennent
+426	Viennent
+427	À venir
+428	Confirmer et activer
+429	Confirmer la suppression
+430	Confirmer le départ
+431	Confirmez que ces clients ont accepté de recevoir vos messages
+432	Connecter
+433	Connecter WhatsApp
+434	Connectez d’abord WhatsApp
+435	Connectez WhatsApp dans les Paramètres pour envoyer des messages WhatsApp. En attendant, les clients avec un e-mail reçoivent l’e-mail.
+436	connecté

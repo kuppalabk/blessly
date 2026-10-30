@@ -1,0 +1,218 @@
+655	Pendwa {title}
+656	Vipendwa
+657	Kampeni za sherehe kwa wateja wote au kikundi (Diwali, Eid, Krismasi…)
+658	Sherehe
+659	Chuja kwa hali
+660	kwanza, ili tuwe na picha zilizokamilika za kuchapisha.
+661	Fonti
+662	Kwa
+663	Kwa (si lazima)
+664	Kwa Anil
+665	Kwa biashara
+666	Kwa mfano walijisajili dukani, kwenye tovuti yako au wakati wa malipo. WhatsApp inaweza kuzuia namba zinazotuma ujumbe kwa watu bila ruhusa.
+667	Kwa Nisha
+668	kwa jina la kwanza la mteja na
+669	kwa hadi 6.
+670	kwa jina la biashara yako. Kiungo cha kujiondoa kinaongezwa kiotomatiki.
+671	Umesahau nenosiri
+672	Umesahau nenosiri lako?
+673	Bure
+674	Bure kwa salamu binafsi. Boresha kwa familia yako yote au biashara yako.
+675	Bure kwa watu hadi 3, au hadi {MAX_MEMBERS} kwa mpango wa Familia. Vikumbusho vyako binafsi vinabaki binafsi.
+676	Mpango wa bure · hauhitaji duka la programu · isakinishe kutoka kivinjari chako
+677	Jaribio la bure hadi {v}
+678	Jaribio la bure: ujumbe {n} hadi {date}.
+679	Rafiki
+680	Marafiki na familia wanaweza kuongeza ujumbe wao kwenye ukurasa wa salamu:
+681	Urafiki
+682	Kutoka
+683	Kutoka kwa {ownerName}. Gusa “Nitalipia” ili kuhifadhi zawadi, ili mtu asinunue mara mbili.
+684	Kuanzia siku hiyo
+685	Kutoka kwa watu wako
+686	Mbele
+687	Mbele ya kadi
+688	Kuchangisha · kimeandaliwa na {name}
+689	Ya kuchekesha
+690	Pata vikumbusho vya siku za kuzaliwa na maadhimisho ambayo familia inashiriki
+691	Pata vikumbusho kwenye kifaa hiki wiki moja kabla, siku moja kabla na siku yenyewe — hata Blessly ikiwa imefungwa.
+692	Pona haraka
+693	Kuanza
+694	Kadi ya zawadi haikupatikana
+695	Kadi za zawadi
+696	Kadi za zawadi, oda za duka na kadi zilizochapishwa
+697	Mawazo ya zawadi
+698	Orodha za zawadi kwa siku za kuzaliwa, harusi, watoto na sherehe za kuhamia nyumba mpya. Marafiki huhifadhi wanachotaka kununua, hivyo hakuna kinachonunuliwa mara mbili — na inabaki kuwa mshangao.
+699	Orodha za zawadi ambazo marafiki huhifadhi kutoka
+700	Ujumbe wa zawadi (si lazima)
+701	Ujumbe wa zawadi: “{v}”
+702	Kikumbusho cha zawadi
+703	Orodha ya matakwa ya zawadi (si lazima)
+704	Zawadi na malipo
+705	Zawadi na malipo
+706	Zawadi kutoka kwa wauzaji huru, zinazowasilishwa
+707	Zawadi kutoka kwa wauzaji huru, zilizokaguliwa na Blessly na kuwasilishwa na muuzaji.
+708	Ipe jina
+709	Ipe albamu jina
+710	Ipe kadi jina
+711	Ipe tukio jina
+712	Ipe kikundi chako jina
+713	Ipe orodha yako jina
+714	Mng'ao
+715	Nenda Blessly
+716	Anakuja
+717	Bahati njema
+718	Google
+719	Gradient kutoka {a} hadi {b}
+720	Kuhitimu
+721	Babu/Bibi
+722	Babu na Bibi
+723	Ruzuku haikupatikana
+724	Kadi ya kikundi
+725	Zawadi ya kikundi · imeandaliwa na {name}
+726	Zawadi za kikundi na michango
+727	Zawadi za kikundi huenda kwa mratibu, si shirika la hisani
+728	Zawadi za kikundi, kadi za zawadi, duka, kadi zilizochapishwa
+729	Mgeni
+730	Mgeni hakupatikana
+731	Wageni
+732	Wageni wanaweza kuacha ujumbe, picha na video
+733	Halloween
+734	Kwanza mkabidhi mtu mwingine umiliki
+735	Hanukkah
+736	Kwa moyo wote
+737	Habari, {v}
+738	Habari {name}! Umealikwa: {title} — {when}. Maelezo na RSVP: {link}
+739	Holi
+740	Nyumbani
+741	Sherehe ya kuhamia nyumba mpya
+742	Jinsi
+743	Jinsi inavyofanya kazi
+744	Ngapi
+745	Watu wangapi, ukiwemo wewe?
+746	Unataka kiasi gani
+747	Jinsi ya kuitumia
+748	Mume
+749	Ninaidhinisha ujumbe kabla haujaonekana
+750	Nitalifanya
+751	Nitalipia
+752	Nimezihifadhi
+753	Ikiwa {phone} ni ya akaunti ya Blessly, tumeituma msimbo wa tarakimu 6.
+754	Ikiwa kuna akaunti ya {email}, kiungo cha kuweka upya kiko njiani. Kinafanya kazi kwa dakika 60 — angalia pia folda ya barua taka.
+755	Ukipoteza simu yako, kila msimbo unakuruhusu kuingia mara moja. Yahifadhi mahali salama — hayataonyeshwa tena.
+756	Ingiza CSV
+757	Ingiza wateja
+758	Ingiza wateja kutoka jedwali; ona kilichowasilishwa na kilichosomwa
+759	Uingizaji umeshindwa
+760	Uingizaji umekamilika
+761	Matokeo ya uingizaji
+762	Ingiza hadi wateja {v1} kwa wakati mmoja
+763	Inaingiza…
+764	katika
+765	Baada ya siku {daysAway}
+766	Baada ya siku {n}
+767	Baada ya siku {n}
+768	Kwa heshima ya (si lazima)
+769	Kwa kumbukumbu ya upendo
+770	Katika Meta Business Suite, sanidi WhatsApp Manager ukitumia namba ya simu isiyotumika kwenye programu ya WhatsApp, kisha ongeza njia ya malipo.
+771	Inaendelea
+772	Ipo dukani
+773	Kwenye programu yako ya Meta, fungua WhatsApp → API setup kisha nakili
+774	IN,GB
+775	Wino {c}
+776	Rangi ya wino
+777	Ndani
+778	Ndani ya kadi
+779	Ndani ya kadi: {label}
+780	Instagram hairuhusu viungo kutoka tovuti. Kwenye simu yako tumia “Programu zaidi”, au nakili ujumbe na ubandike kwenye mazungumzo ya Instagram.
+781	JSON si sahihi
+782	Mwaliko
+783	Mwaliko umetumwa kwa {name}
+784	Mwaliko umetumwa kwa barua pepe kwa mgeni {n}
+785	Mialiko imetumwa kwa barua pepe kwa wageni {n}
+786	Alika
+787	Alika kama
+788	Mwaliko haukupatikana
+789	Alika jamaa
+790	Amealikwa
+791	Wageni waliolikwa pekee
+792	Wageni waliolikwa pekee — shiriki kiungo binafsi cha kila mgeni (kichupo cha Wageni), si hiki.
+793	imejazwa jina la kwanza la mteja na
+794	Kipengee hakikupatikana
+795	Vipengee
+796	Jiunge na {businessName}
+797	Jiunge na {family}
+798	Jiunge na timu ya biashara
+799	Jiunge na kikundi cha familia
+800	Jiunge mtandaoni
+801	Jiunge na kikundi cha familia
+802	Jiunge na timu
+803	Inajiunga…
+804	Mgeni tu
+805	Weka miundo 12 angalau ionekane kwa kila tukio
+806	Iache kuwa mshangao
+807	Aina
+808	lugha
+809	Lugha
+810	Lugha (programu na salamu)
+811	Ondoka
+812	Uondoke {familyName}? Watu uliowashiriki watarudi kuwa binafsi.
+813	Acha ujumbe
+814	Ondoka kwenye kikundi
+815	Kushoto
+816	Kushoto ↔ kulia
+817	Waruhusu wageni waongeze picha
+818	Unene wa mstari
+819	Kiungo
+820	Kiungo cha msimbo wa QR (video, orodha ya nyimbo, albamu ya picha, zawadi…)
+821	Kiungo lazima kianze na / au https://
+822	Kiungo si sahihi
+823	Kiungo cha duka (si lazima)
+824	Kimeunganishwa na kipengee cha orodha ya matakwa — kitaonekana hapo kama zawadi ya kikundi.
+825	LinkedIn
+826	hai
+827	Ingia
+828	Toka
+829	Umepoteza simu? Tumia msimbo wa urejeshaji
+830	Upendo na familia
+831	Imetengenezwa na
+832	Imetengenezwa na Blessly · unda yako bure
+833	Imetengenezwa na Blessly · tengeneza orodha yako ya matakwa
+834	Imetengenezwa na Blessly · panga sherehe yako bure
+835	Kuu
+836	Makar Sankranti / Pongal
+837	Mfanye {name} kuwa mmiliki? Wewe utakuwa msimamizi.
+838	Fanya jalada
+839	Fanya mmiliki
+840	Mfanye mtu mwingine kuwa mmiliki kabla hujaondoka
+841	Kwanza mfanye mtu mwingine kuwa mmiliki
+842	Simamia
+843	Simamia sherehe hii
+844	Ramani
+845	Weka zote kama zimesomwa
+846	Weka kama imewasilishwa
+847	Weka kama imekamilika
+848	Weka kama imesafirishwa
+849	labda
+850	Labda
+851	Mimi ({name})
+852	Meena Shah, meena@example.com\nTom +44 7700 900123
+853	Mwanachama
+854	Mwanachama — anaweza kuongeza matukio na kazi
+855	Mwanachama hakupatikana
+856	Wanachama: {v}
+857	Kumbukumbu
+858	Ujumbe
+859	Ujumbe (si lazima)
+860	Ujumbe haukupatikana
+861	Ujumbe kwa wachangiaji (si lazima)
+862	Ujumbe kwa wageni (si lazima)
+863	Aina ya ujumbe
+864	Ujumbe
+865	ujumbe kwa mwezi (WhatsApp na barua pepe). Gharama za WhatsApp kwa kila ujumbe hutozwa na Meta kwenye akaunti yako ya WhatsApp.
+866	Ujumbe hutumwa kutoka namba hii kupitia Jukwaa rasmi la Biashara la WhatsApp. Meta hutoza akaunti yako ya WhatsApp kwa kila ujumbe uliowasilishwa (kiwango cha masoko).
+867	Ujumbe umezimwa kwa sherehe hii
+868	Ujumbe unaweza kuwa hadi dakika 2
+869	Ujumbe kwa ajili ya {honoree}
+870	Ujumbe kutoka {businessName}
+871	simu ya mkononi
+872	Simu ya mkononi

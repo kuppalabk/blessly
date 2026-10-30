@@ -1,0 +1,216 @@
+1527	I-type ang DELETE para kumpirmahin
+1528	I-type muli
+1529	I-type ang mga salita mo
+1530	Hindi naitalaga
+1531	Walang pahintulot
+1532	I-undo
+1533	I-undo ang stroke
+1534	Alisin sa paborito ang {title}
+1535	Hindi kilalang time zone
+1536	Hindi kilalang timezone
+1537	Walang limitasyong photo album, {photos} na larawan bawat isa
+1538	Hindi pa na-save na mga pagbabago
+1539	Unsubscribe
+1540	Na-unsubscribe
+1541	Na-unsubscribe mula sa
+1542	Pataas ↕ pababa
+1543	paparating na event
+1544	Na-post ang update at naipadala sa email sa {n} na bisita
+1545	Na-post ang update at naipadala sa email sa {n} na bisita
+1546	Mga update
+1547	Mga update mula kay {v}
+1548	Mag-upgrade sa Family
+1549	Mag-upload ng larawan (JPG, PNG, WebP o GIF)
+1550	Mag-upload ng MP4 o WebM na video
+1551	Mag-upload ng disenyo (3:4, hindi bababa sa 900 px ang lapad)
+1552	Pumalya ang upload
+1553	Mag-upload ng larawan
+1554	Nag-u-upload…
+1555	Mga upload
+1556	Gamitin
+1557	Gumamit ng 2-letter na country code
+1558	Gumamit ng ibang numero
+1559	Gumamit ng link na nagsisimula sa https://
+1560	Gumamit na lang ng handang disenyo
+1561	Gumamit ng oras gaya ng 19:30
+1562	Gumamit ng web link (https://…)
+1563	Gamitin ang approve o reject
+1564	Gumamit ng hindi bababa sa 8 karakter
+1565	Gamitin bago ang
+1566	Gumamit ng country code gaya ng IN,GB
+1567	Gumamit ng maliliit na letra, numero at dash
+1568	Gamitin ang authenticator app ko
+1569	Gamitin ang card na ito para sa pagbati
+1570	Gamitin ang mensaheng ito
+1571	nagamit {uses}×
+1572	Hindi nakita ang user
+1573	Mga user, negosyo, kalusugan ng sistema at audit log
+1574	Gumagamit ng opisyal na Business Platform ng WhatsApp. Puwedeng sumagot ng STOP ang mga customer anumang oras
+1575	Vaisakhi
+1576	Araw ng mga Puso
+1577	Halaga
+1578	Venue
+1579	I-verify
+1580	Vesak
+1581	Video
+1582	Link ng video call (opsyonal)
+1583	Video message · {time}
+1584	Video message mula kay {from}
+1585	Hanggang 40 MB ang laki ng video
+1586	Tingnan bilang kaibigan
+1587	Tingnan ang pahina
+1588	Hindi puwedeng magdagdag ng event ang mga viewer
+1589	Hindi puwedeng magdagdag ng task ang mga viewer
+1590	Hindi puwedeng simulan ng mga viewer ang group card
+1591	vip, regular
+1592	Voice
+1593	Voice message · {time}
+1594	Voice message mula kay {from}
+1595	Naghihintay
+1596	naghihintay ng review
+1597	Naghihintay ng review
+1598	gusto ng {n}
+1599	Mga paraan ng pag-sign in
+1600	Hindi pa kami makapagpo-post ng naka-print na card sa bansang iyon
+1601	Kailangan namin ang email address mo para makagawa ng account. Pakipayagan ang pagbabahagi nito, o mag-sign up gamit ang email.
+1602	Nag-text kami ng code sa {phone}.
+1603	Website (opsyonal)
+1604	Kasal
+1605	Maligayang pagbabalik
+1606	Magaling
+1607	Ano ang ipinagdiriwang mo?
+1608	Ano ito?
+1609	Ano ang kailangang gawin?
+1610	Ano ang gusto mo?
+1611	Nakatago sa iyo ang mga nai-reserve na.
+1612	Ano ang nangyayari
+1613	whatsapp
+1614	WhatsApp
+1615	WhatsApp (ipapaalala namin sa iyo na magpadala)
+1616	WhatsApp / mobile
+1617	WhatsApp +{recipient}
+1618	WhatsApp Business
+1619	WhatsApp Business Account ID
+1620	Mahabang numero ang WhatsApp Business Account ID
+1621	Hindi tinanggap ng WhatsApp ang mga detalyeng ito: {message}
+1622	Hindi konektado ang WhatsApp
+1623	WhatsApp lang
+1624	Pinapayagan lang ng WhatsApp na magsimula ng usapan ang mga negosyo gamit ang template na naaprubahan ng Meta. Gumawa nito sa WhatsApp Manager (halimbawa “Happy birthday
+1625	WhatsApp template
+1626	WhatsApp template (naaprubahan ng Meta)
+1627	WhatsApp, o email kung walang WhatsApp
+1628	Kailan
+1629	Kailan (oras ng device mo)
+1630	Kailan at saan
+1631	Saan (opsyonal)
+1632	Puting border
+1633	Sino
+1634	Sino ang puwedeng makakita nito
+1635	Para kanino ito?
+1636	Para kanino ito?
+1637	Para kanino ang pagbating ito?
+1638	Para kanino ito
+1639	Para kanino ito (opsyonal)
+1640	Sino ang gagawa ng alin
+1641	Asawang babae
+1642	Pagbati
+1643	Nagawan ka na ng draft na pagbati
+1644	Batiin ang bawat customer, awtomatiko
+1645	Wika ng pagbati
+1646	Hindi nakita ang pagbati
+1647	Hindi nakita ang pahina ng pagbati
+1648	Mga pagbati mula sa mga kaibigan
+1649	Awtomatikong ipinapadala ang mga pagbati sa mismong araw, sa oras na {timezone}, sa mga customer na pumayag sa mga mensahe. Isang mensahe kada okasyon ang natatanggap ng bawat customer.
+1650	mga pagbati sa {language}
+1651	Wishlist
+1652	Hindi nakita ang wishlist
+1653	Mga wishlist
+1654	Blessly
+1655	Blessly — mga pagbati at paalala para sa bawat okasyon
+1656	Blessly para sa negosyo
+1657	Pansamantalang itinigil ng Blessly ang pagpapadala para sa negosyo mo: {reason}. Walang ipapadala hangga't hindi ito nareresolba — pakikontak ang support.
+1658	Libre ang Blessly para sa personal na paalala at pagbati. Nagdaragdag ang Family at Business plan ng mas malalaking family circle, album at awtomatikong pagbati sa mga customer sa WhatsApp.
+1659	Pinapaalalahanan ka ng Blessly isang linggo bago ang bawat kaarawan, anibersaryo at pista, sumusulat ng taos-pusong pagbati sa {length} na wika, at binubuksan ang WhatsApp o Telegram na handa nang ipadala.
+1660	Blessly test checkout
+1661	gamit ang whatsapp_business_messaging at whatsapp_business_management na permission at gumawa ng permanenteng token.
+1662	gamit ang pangalan ng negosyo mo.
+1663	Trabaho at mga milestone
+1664	Anibersaryo sa trabaho
+1665	Gumagana para sa mga account na may naidagdag na mobile number sa Settings → Sign-in and security.
+1666	Gustong-gusto
+1667	Sumulat ng mensahe o magdagdag ng larawan
+1668	Sumulat ng maikling mensahe
+1669	Sumulat ng mensahe ng pasasalamat
+1670	Sumulat ng pagbati
+1671	Sumulat ng pagbati para kay
+1672	Isulat ang pagbati ko
+1673	Isulat o gumawa muna ng pagbati
+1674	Isulat ang mensahe
+1675	Isulat ang update
+1676	Sumusulat…
+1677	taon
+1678	Taun-taon · makatipid ng 20%
+1679	Oo, burahin
+1680	Oo, pupunta ako
+1681	Ikaw
+1682	Mayroon ka nang business workspace
+1683	Puwede kang mag-apply muli.
+1684	Puwede kang nasa hanggang {MAX_FAMILIES_PER_USER} na family circle
+1685	Puwede kang magkaroon ng hanggang 200 selebrasyon
+1686	Puwede kang magkaroon ng hanggang 50 wishlist
+1687	Puwede kang magtago ng hanggang {MAX_DESIGNS} na card — burahin ang ilan na hindi mo kailangan
+1688	Ang mga larawang idinagdag mo lang ang puwede mong palitan
+1689	Ang mga taong may mas mababang role lang ang puwede mong alisin
+1690	Ang mga larawang idinagdag mo lang ang puwede mong alisin
+1691	Ang mga album lang sa family circle kung saan ka puwedeng magdagdag ng bagay ang puwede mong ibahagi
+1692	Sa family circle lang kung saan ka puwedeng magdagdag ng tao ka puwedeng magbahagi
+1693	Ang mga task na ibinigay sa iyo lang ang puwede mong i-update
+1694	Pagtingin lang ang puwede mo sa album na ito
+1695	Puwede kang mag-iskedyul hanggang isang taon nang maaga
+1696	Puwede kang magpadala ng pasasalamat kapag nagsimula na ang selebrasyon
+1697	Hindi mo puwedeng bilhin ang sarili mong produkto
+1698	Hindi ka makakarating
+1699	Baka makarating ka
+1700	Ikaw na ang may-ari ng negosyong ito.
+1701	Makakapamahala ka ng mga customer, awtomatikong kaarawan at kampanya.
+1702	Mala-log out ka sa iba mo pang device.
+1703	sasali ka bilang: {role}
+1704	Nasa loob ka na — buksan ang circle
+1705	Nasa team ka na ng ibang negosyo. Umalis ka muna doon.
+1706	Nasa {name} plan ka na
+1707	Na-unsubscribe ka na.
+1708	Darating ka
+1709	Natatanggap mo ito
+1710	Offline ka
+1711	Nasa iyo na
+1712	Naka-sign in ka sa {n} na device (kasama ang isang ito).
+1713	Naka-sign in ka sa {n} na device (kasama ang isang ito).
+1714	Ikaw ang host.
+1715	Ikaw lang ang narito, kaya ang pag-alis ay magbubura sa {familyName}.
+1716	Nakapag-apply ka na
+1717	Inimbitahan ka sa family circle. Gumawa ng libreng account para sumali.
+1718	Inimbitahan ka sa family circle. Mag-log in para sumali.
+1719	Naabot mo na ang pinakamaraming larawan ng card na kaya naming itago (1,000)
+1720	Hindi pa naaprubahan ang {kind} account mo
+1721	Hindi naaprubahan ang aplikasyon mo ({kind}).
+1722	Mga kampanya mo
+1723	Ang card mo: {title}
+1724	Mga card mo
+1725	Puno na ang circle mo ({n} na tao).
+1726	Mga circle mo
+1727	Mali ang kasalukuyan mong password
+1728	Ang data mo
+1729	Natapos na ang libre mong trial, kaya walang ipinapadala.
+1730	Ang gift card mo
+1731	Walang laman ang listahan mo.
+1732	Ang mensahe mo
+1733	Ang pangalan mo
+1734	Mananatiling pribado ang sarili mong tao at paalala
+1735	Ang password mo
+1736	Ang mga tao mo
+1737	Ang larawan mo
+1738	Ang plan mo
+1739	Hanggang {v1} na customer ang kasya sa plan mo
+1740	Kasama sa plan mo ang {seats} na team login{v2} (kasama ka).
+1741	Ang pagbati mo (puwedeng i-edit nang malaya)
+1742	Zoom

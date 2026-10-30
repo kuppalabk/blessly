@@ -1,0 +1,218 @@
+873	Ponsel (untuk WhatsApp dan SMS)
+874	Nomor ponsel
+875	bulan
+876	Bulan
+877	Bulanan
+878	Lainnya
+879	Aplikasi lain (Instagram…)
+880	Desain lainnya
+881	Paling populer
+882	Ibu
+883	Hari Ibu
+884	Pindahkan {title} ke bawah
+885	Pindahkan {title} ke atas
+886	Wajib ada
+887	Kartu saya
+888	Pesanan saya
+889	nama
+890	Nama
+891	Nama acara
+892	Nama perayaan
+893	Beri nama kampanye
+894	Beri nama desain Anda, lalu unggah.
+895	Navratri
+896	Perlu direncanakan untuk
+897	Jangan pernah lewatkan ulang tahun keluarga lagi
+898	Jangan lewatkan momen. Jangan lupakan orang yang berarti.
+899	Jangan lewatkan momen. Pengingat, ucapan yang ditulis AI dalam 32 bahasa, dan kartu indah untuk setiap acara.
+900	Baru
+901	Album baru
+902	Bayi baru lahir
+903	Kampanye baru
+904	Baru di sini?
+905	Pekerjaan baru
+906	Kata sandi baru
+907	Kode pemulihan baru
+908	Tugas baru
+909	Daftar keinginan baru
+910	Tahun Baru
+911	Lebih baru
+912	Berikutnya
+913	7 hari ke depan
+914	Desain berikutnya
+915	Bulan depan
+916	Acara berikutnya
+917	Bagus jika ada
+918	Belum ada peringatan. Pengingat akan muncul di sini sebelum setiap acara.
+919	tidak ada jawaban
+920	Belum ada jawaban
+921	Belum ada kampanye. Jadwalkan ucapan festival atau penawaran untuk sekelompok pelanggan.
+922	Belum ada kartu. Mulai satu di atas, atau pilih desain di Buat lalu ketuk “Sesuaikan desain ini”.
+923	Tidak ada persetujuan
+924	Tidak ada ulang tahun atau hari jadi pelanggan minggu ini.
+925	Tidak ada pelanggan yang cocok.
+926	Belum ada pelanggan. Tambahkan satu per satu atau impor spreadsheet.
+927	Belum ada tanggal
+928	Belum ada tanggal.
+929	Tidak ada perangkat yang menerimanya. Coba matikan lalu nyalakan lagi notifikasi.
+930	Belum ada donasi. Penggalang dana sekarang dapat memilih {name}.
+931	Belum ada acara. Tambahkan makan malam ulang tahun, puja, atau kumpul-kumpul.
+932	Belum ada kartu kelompok.
+933	Belum ada tamu. Tambahkan di atas
+934	Belum ada pesan
+935	Belum ada pesan. Tamu dapat meninggalkan pesan, foto, dan video di halaman ini.
+936	Belum ada orang di sini. Tambahkan keluarga, teman, dan rekan kerja beserta ulang tahun dan hari jadi mereka.
+937	Tidak ada yang cocok dengan “{q}”.
+938	Belum ada pesanan.
+939	Tidak ada kartu lain.
+940	Belum ada foto
+941	Belum ada foto.
+942	Tidak ada paket — pesan dijeda
+943	Belum ada produk.
+944	Tidak ada uang sungguhan yang berpindah — pembayaran memakai checkout uji coba.
+945	Tidak ada balasan
+946	Belum ada templat. Buat di WhatsApp Manager, lalu muat ulang.
+947	Belum ada amal terverifikasi
+948	Tidak ada daftar keinginan
+949	Belum ada yang dibagikan — tambahkan kakek/nenek, sepupu, dan bibi agar tidak ada yang terlewat.
+950	Tidak ada
+951	Belum ada — bagikan tautannya.
+952	tidak disetujui
+953	Tidak disetujui
+954	Tidak terhubung
+955	Tidak ditemukan
+956	Tidak dicantumkan di mana pun; bagikan tautan kepada siapa pun yang Anda inginkan.
+957	Tidak ada di tim
+958	Belum dipesan
+959	Tidak tersimpan
+960	Tidak terkirim
+961	Belum diatur — Anda masuk dengan opsi di bawah
+962	Catatan untuk {name} (opsional)
+963	Catatan
+964	Catatan — ukuran, warna, model (opsional)
+965	Catatan (opsional)
+966	Catatan untuk ucapan pribadi (opsional)
+967	Belum ada apa-apa di daftar ini.
+968	Belum ada rencana.
+969	Belum ada yang dipesan
+970	Belum ada yang dikirim ke {v}.
+971	Belum ada yang terkirim.
+972	Tidak ada bulan ini.
+973	Notifikasi diblokir untuk Blessly. Izinkan di pengaturan peramban atau ponsel Anda, lalu kembali ke sini.
+974	Nomor dihapus.
+975	Nomor terverifikasi.
+976	Acara
+977	Jenis acara
+978	Acara
+979	Acara dan pengingat
+980	dari {v} di paket Anda
+981	Mati
+982	Luring
+983	Lebih lama
+984	Nyala
+985	Nyala untuk perangkat ini dan {n} lainnya.
+986	Nyala untuk perangkat ini dan {n} lainnya.
+987	Nyala untuk perangkat ini.
+988	Di iPhone dan iPad, tambahkan Blessly ke Layar Utama dulu (Bagikan → Tambahkan ke Layar Utama), lalu buka dari sana untuk menyalakan notifikasi.
+989	Sedang dalam perjalanan
+990	Pada harinya
+991	Satu ketukan membuka WhatsApp atau Telegram dengan ucapan yang sudah siap. Email dapat terkirim sendiri pada harinya.
+992	Hanya pelanggan yang diberi tag
+993	Hanya pelanggan yang diberi tag (opsional)
+994	Hanya saya
+995	Hanya pembayaran yang sudah dibayar yang bisa dikembalikan
+996	Hanya kampanye yang dijadwalkan yang bisa dibatalkan
+997	Hanya pemilik usaha yang bisa melakukan ini
+998	Hanya pemilik usaha yang bisa mengeluarkan orang
+999	Hanya pemilik yang bisa mengubah peran
+1000	Hanya pemilik yang bisa mengubah koneksi WhatsApp.
+1001	Hanya pemilik yang bisa menghapus lingkaran
+1002	Hanya pemilik yang bisa mengundang admin
+1003	Hanya pemilik atau admin yang bisa membatalkan undangan
+1004	Hanya pemilik atau admin yang bisa mengundang orang
+1005	Hanya pemilik atau admin yang bisa mengeluarkan orang
+1006	Hanya pemilik atau admin yang bisa mengganti nama lingkaran
+1007	Hanya orang yang menambahkan acara ini, pemilik, atau admin yang bisa mengubahnya
+1008	Hanya orang yang menambahkan acara ini, pemilik, atau admin yang bisa menghapusnya
+1009	Hanya orang yang menambahkan tugas ini, pemilik, atau admin yang bisa menghapusnya
+1010	Hanya orang yang membuat album yang bisa mengubahnya
+1011	Hanya orang yang membuat album yang bisa menghapusnya
+1012	Hanya Anda yang bisa melihat orang ini dan pengingatnya.
+1013	Buka
+1014	Buka dari tautan di undangan Anda. Jika Anda diundang dan kehilangannya, minta penyelenggara mengirimnya lagi.
+1015	tugas terbuka
+1016	Buka kartu
+1017	Buka kartu dan ketuk
+1018	Buka kartu dan ketuk “Gunakan kartu ini” atau “PDF siap cetak” dulu, agar kami punya gambar final
+1019	Buka aplikasi autentikator Anda dan masukkan kode 6 digit untuk Blessly.
+1020	Membuka checkout…
+1021	Membuka editor…
+1022	Membuka pembayaran…
+1023	Membuka aplikasi Anda sendiri dengan pesan yang sudah siap. Anda yang mengetuk kirim, sehingga pesan berasal dari Anda.
+1024	atau
+1025	Atau jadwalkan
+1026	atau dengan email Anda
+1027	Pesanan yang akan dikirim
+1028	Lainnya
+1029	Kartu lainnya
+1030	Keluarga kami
+1031	Ringkasan
+1032	Pemilik
+1033	Halaman
+1034	Halaman {page} dari {pages}
+1035	Halaman tidak ditemukan
+1036	Dibayar
+1037	Pasangan
+1038	Mitra
+1039	Halaman pesta, undangan, dan RSVP
+1040	Kata sandi
+1041	Kata sandi diubah.
+1042	Kata sandi diatur.
+1043	Lalu
+1044	Acara lalu
+1045	Tempel token akses permanen (pengguna sistem)
+1046	Bayar (uji coba)
+1047	Bayar {amount} (uji coba)
+1048	Bayar dengan kartu melalui Stripe.
+1049	Bayarkan {v}
+1050	Bayar dengan UPI AutoPay, kartu, atau internet banking melalui Razorpay.
+1051	Pembayaran dibatalkan. Anda tidak dikenakan biaya.
+1052	Pembayaran gagal
+1053	Pembayaran tidak ditemukan
+1054	Pencairan tidak ditemukan
+1055	Pencairan {amount} diajukan (mode uji coba).
+1056	Pencairan diajukan (mode uji coba).
+1057	Pencairan:
+1058	Orang
+1059	Orang memilih pengaturan pengingat mereka sendiri
+1060	Orang di lingkaran ini
+1061	Orang per undangan
+1062	Orang dengan tautan dapat mengunggah (tanpa perlu akun). Anda dapat menghapus foto apa pun.
+1063	Token akses permanen
+1064	Orang
+1065	Orang tidak ditemukan
+1066	Detail pribadi (opsional)
+1067	Hewan peliharaan
+1068	Ponsel untuk kurir (opsional)
+1069	Notifikasi ponsel
+1070	Notifikasi ponsel belum diatur di server ini. Peringatan dikirim di aplikasi dan lewat email.
+1071	ID nomor ponsel
+1072	ID nomor ponsel adalah angka panjang dari WhatsApp Manager → API setup
+1073	Foto
+1074	Album foto
+1075	Foto oleh {uploader}
+1076	Foto untuk {title}
+1077	Foto dari {name}
+1078	Foto tidak ditemukan
+1079	Foto atau video (opsional)
+1080	Foto untuk ditambahkan
+1081	Foto
+1082	Foto ({n})
+1083	Foto dapat berukuran hingga 15 MB
+1084	Pilih tanggal
+1085	Pilih tanggal di masa depan
+1086	Pilih waktu di masa depan
+1087	Pilih zona waktu yang valid
+1088	Pilih templat WhatsApp yang sudah disetujui
+1089	Pilih templat WhatsApp yang sudah disetujui, atau kirim lewat email
+1090	Pilih salah satu templat WhatsApp Anda

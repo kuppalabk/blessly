@@ -1,0 +1,31 @@
+# Production on one server: docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
+# Only Caddy (80/443) is reachable from outside. The app and database stay on the private Docker network.
+services:
+  db:
+    restart: unless-stopped
+  migrate:
+    restart: "no"
+  web:
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: "postgres://${POSTGRES_USER:-blessly}:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}@db:5432/${POSTGRES_DB:-blessly}"
+      RATE_LIMIT_STORE: postgres
+      NODE_ENV: production
+  worker:
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: "postgres://${POSTGRES_USER:-blessly}:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}@db:5432/${POSTGRES_DB:-blessly}"
+      NODE_ENV: production
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    depends_on: [web]
+    ports: ["80:80", "443:443", "443:443/udp"]
+    environment:
+      DOMAIN: ${DOMAIN:?Set DOMAIN in .env}
+      ACME_EMAIL: ${ACME_EMAIL:?Set ACME_EMAIL in .env}
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+volumes: { caddy_data: {}, caddy_config: {} }

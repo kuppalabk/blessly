@@ -1,0 +1,218 @@
+655	Favorit {title}
+656	Favorit
+657	Kampanye festival ke semua pelanggan atau kelompok (Diwali, Idul Fitri, Natal…)
+658	Festival
+659	Saring berdasarkan status
+660	dulu, agar kami punya gambar final untuk dicetak.
+661	Font
+662	Untuk
+663	Untuk (opsional)
+664	Untuk Anil
+665	Untuk usaha
+666	Misalnya mereka mendaftar di toko, di situs Anda, atau saat checkout. WhatsApp dapat memblokir nomor yang mengirim pesan ke orang tanpa izin.
+667	Untuk Nisha
+668	untuk nama depan pelanggan dan
+669	untuk hingga 6.
+670	untuk nama usaha Anda. Tautan berhenti berlangganan ditambahkan otomatis.
+671	Lupa kata sandi
+672	Lupa kata sandi Anda?
+673	Gratis
+674	Gratis untuk ucapan pribadi. Tingkatkan untuk seluruh keluarga atau usaha Anda.
+675	Gratis untuk hingga 3 orang, atau hingga {MAX_MEMBERS} dengan paket Keluarga. Pengingat pribadi Anda tetap privat.
+676	Paket gratis · tidak perlu toko aplikasi · pasang dari peramban Anda
+677	Uji coba gratis hingga {v}
+678	Uji coba gratis: {n} pesan hingga {date}.
+679	Teman
+680	Teman dan keluarga dapat menambahkan ucapan mereka sendiri di halaman ucapan:
+681	Persahabatan
+682	Dari
+683	Dari {ownerName}. Ketuk “Saya yang bayar” untuk memesan hadiah agar tidak ada yang membeli dobel.
+684	Sejak hari itu
+685	Dari orang-orang Anda
+686	Depan
+687	Depan kartu
+688	Penggalangan dana · diselenggarakan oleh {name}
+689	Lucu
+690	Dapatkan pengingat untuk ulang tahun dan hari jadi yang dibagikan keluarga
+691	Dapatkan pengingat di perangkat ini seminggu sebelum, sehari sebelum, dan pada hari itu — bahkan saat Blessly ditutup.
+692	Semoga cepat sembuh
+693	Mulai
+694	Kartu hadiah tidak ditemukan
+695	Kartu hadiah
+696	Kartu hadiah, pesanan toko, dan kartu cetak
+697	Ide hadiah
+698	Daftar hadiah dan registri untuk ulang tahun, pernikahan, bayi, dan syukuran rumah baru. Teman-teman memesan barang yang akan mereka beli, sehingga tidak ada yang dobel — dan tetap menjadi kejutan.
+699	Daftar hadiah yang dipesan teman
+700	Catatan hadiah (opsional)
+701	Catatan hadiah: “{v}”
+702	Pengingat hadiah
+703	Daftar keinginan hadiah (opsional)
+704	Hadiah & pembayaran
+705	Hadiah dan pembayaran
+706	Hadiah dari penjual independen, dikirim
+707	Hadiah dari penjual independen, ditinjau oleh Blessly dan dikirim oleh penjual.
+708	Beri nama
+709	Beri nama album
+710	Beri nama kartu
+711	Beri nama acara
+712	Beri nama lingkaran Anda
+713	Beri nama daftar Anda
+714	Glow
+715	Buka Blessly
+716	Hadir
+717	Semoga berhasil
+718	Google
+719	Gradasi {a} ke {b}
+720	Kelulusan
+721	Kakek/nenek
+722	Kakek/nenek
+723	Hibah tidak ditemukan
+724	Kartu kelompok
+725	Hadiah kelompok · diselenggarakan oleh {name}
+726	Hadiah kelompok dan penggalangan dana
+727	Hadiah kelompok diserahkan ke penyelenggara, bukan amal
+728	Hadiah kelompok, kartu hadiah, toko, kartu cetak
+729	Tamu
+730	Tamu tidak ditemukan
+731	Tamu
+732	Tamu dapat meninggalkan pesan, foto, dan video
+733	Halloween
+734	Serahkan kepemilikan kepada orang lain terlebih dahulu
+735	Hanukkah
+736	Tulus
+737	Halo, {v}
+738	Halo {name}! Anda diundang: {title} — {when}. Rincian dan RSVP: {link}
+739	Holi
+740	Beranda
+741	Syukuran rumah baru
+742	Bagaimana
+743	Cara kerjanya
+744	Berapa banyak
+745	Berapa banyak orang, termasuk Anda?
+746	Seberapa besar Anda menginginkannya
+747	Cara menggunakannya
+748	Suami
+749	Saya menyetujui pesan sebelum muncul
+750	Biar saya yang urus
+751	Saya yang bayar
+752	Saya sudah menyimpannya
+753	Jika {phone} milik akun Blessly, kami sudah mengirimkan kode 6 digit ke sana.
+754	Jika ada akun untuk {email}, tautan atur ulang sedang dikirim. Tautan berlaku 60 menit — periksa juga folder spam.
+755	Jika Anda kehilangan ponsel, setiap kode hanya bisa dipakai sekali untuk masuk. Simpan di tempat aman — kode tidak akan ditampilkan lagi.
+756	Impor CSV
+757	Impor pelanggan
+758	Impor pelanggan dari spreadsheet; lihat apa yang terkirim dan baca
+759	Impor gagal
+760	Impor selesai
+761	Hasil impor
+762	Impor hingga {v1} pelanggan sekaligus
+763	Mengimpor…
+764	dalam
+765	Dalam {daysAway} hari
+766	Dalam {n} hari
+767	Dalam {n} hari
+768	Untuk menghormati (opsional)
+769	Dengan penuh kenangan
+770	Di Meta Business Suite, siapkan WhatsApp Manager dengan nomor ponsel yang tidak dipakai di aplikasi WhatsApp, dan tambahkan metode pembayaran.
+771	Sedang berlangsung
+772	Tersedia
+773	Di aplikasi Meta Anda, buka WhatsApp → API setup dan salin
+774	IN,GB
+775	Tinta {c}
+776	Warna tinta
+777	Bagian dalam
+778	Bagian dalam kartu
+779	Bagian dalam kartu: {label}
+780	Instagram tidak menerima tautan dari situs web. Di ponsel, gunakan “Aplikasi lainnya”, atau salin pesan dan tempelkan ke obrolan Instagram.
+781	JSON tidak valid
+782	Undangan
+783	Undangan dikirim ke {name}
+784	Undangan dikirim lewat email ke {n} tamu
+785	Undangan dikirim lewat email ke {n} tamu
+786	Undang
+787	Undang sebagai
+788	Undangan tidak ditemukan
+789	Undang kerabat
+790	Diundang
+791	Hanya tamu yang diundang
+792	Hanya tamu yang diundang — bagikan tautan pribadi setiap tamu (tab Tamu), bukan tautan ini.
+793	diisi dengan nama depan pelanggan dan
+794	Item tidak ditemukan
+795	Item
+796	Gabung {businessName}
+797	Gabung {family}
+798	Gabung tim usaha
+799	Gabung lingkaran keluarga
+800	Gabung online
+801	Gabung ke lingkaran keluarga
+802	Gabung ke tim
+803	Bergabung…
+804	Hanya tamunya
+805	Tampilkan minimal 12 desain untuk setiap acara
+806	Jadikan kejutan
+807	Jenis
+808	bahasa
+809	Bahasa
+810	Bahasa (aplikasi dan ucapan)
+811	Tinggalkan
+812	Tinggalkan {familyName}? Orang yang Anda bagikan akan kembali menjadi privat.
+813	Tinggalkan pesan
+814	Tinggalkan lingkaran
+815	Kiri
+816	Kiri ↔ kanan
+817	Izinkan tamu menambahkan foto
+818	Ketebalan garis
+819	Tautan
+820	Tautan untuk kode QR (video, daftar putar, album foto, hadiah…)
+821	Tautan harus diawali / atau https://
+822	Tautan tidak valid
+823	Tautan ke toko (opsional)
+824	Terhubung ke item daftar keinginan — akan tampil di sana sebagai hadiah kelompok.
+825	LinkedIn
+826	langsung
+827	Masuk
+828	Keluar
+829	Kehilangan ponsel? Gunakan kode pemulihan
+830	Cinta & keluarga
+831	Dibuat dengan
+832	Dibuat dengan Blessly · buat sendiri secara gratis
+833	Dibuat dengan Blessly · buat daftar keinginan Anda sendiri
+834	Dibuat dengan Blessly · rencanakan perayaan Anda sendiri secara gratis
+835	Utama
+836	Makar Sankranti / Pongal
+837	Jadikan {name} pemilik? Anda akan menjadi admin.
+838	Jadikan sampul
+839	Jadikan pemilik
+840	Jadikan orang lain pemilik sebelum Anda keluar
+841	Jadikan orang lain pemilik terlebih dahulu
+842	Kelola
+843	Kelola perayaan ini
+844	Peta
+845	Tandai semua sudah dibaca
+846	Tandai terkirim
+847	Tandai selesai
+848	Tandai dikirim
+849	mungkin
+850	Mungkin
+851	Saya ({name})
+852	Meena Shah, meena@example.com\nTom +44 7700 900123
+853	Anggota
+854	Anggota — bisa menambahkan acara dan tugas
+855	Anggota tidak ditemukan
+856	Anggota: {v}
+857	Kenangan
+858	Pesan
+859	Pesan (opsional)
+860	Pesan tidak ditemukan
+861	Pesan untuk kontributor (opsional)
+862	Pesan untuk tamu (opsional)
+863	Jenis pesan
+864	Pesan
+865	pesan per bulan (WhatsApp dan email). Biaya per pesan WhatsApp ditagihkan oleh Meta ke akun WhatsApp Anda.
+866	Pesan dikirim dari nomor ini melalui Business Platform resmi WhatsApp. Meta menagih akun WhatsApp Anda per pesan yang terkirim (tarif pemasaran).
+867	Pesan dinonaktifkan untuk perayaan ini
+868	Pesan dapat berdurasi hingga 2 menit
+869	Pesan untuk {honoree}
+870	Pesan dari {businessName}
+871	ponsel
+872	Ponsel

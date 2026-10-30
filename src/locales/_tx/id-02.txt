@@ -1,0 +1,218 @@
+219	Tambahkan nomor registrasi badan amal Anda (mis. 12A/80G di India, nomor Charity Commission di Inggris, EIN di AS)
+220	Tambahkan orang pertama Anda
+221	Tambahkan nama Anda
+222	Tambahkan foto Anda
+223	Tambahkan ucapan Anda untuk {recipientName}
+224	Ditambahkan
+225	{n} tamu ditambahkan
+226	{n} tamu ditambahkan
+227	Menambahkan…
+228	Alamat
+229	Alamat baris 1
+230	Alamat baris 2 (opsional)
+231	Admin
+232	Admin — juga bisa mengundang dan mengeluarkan
+233	Admin harus tetap mengaktifkan verifikasi dua langkah
+234	Admin harus mengaktifkan verifikasi dua langkah sebelum menggunakan area admin.
+235	Setelah kata sandi (atau Google, Apple, atau kode SMS), Anda juga memasukkan kode dari aplikasi autentikator seperti Google Authenticator, Microsoft Authenticator, atau 1Password.
+236	AI tidak tersedia, jadi kami memakai templat bawaan.
+237	Ucapan AI · pengingat pintar · keluarga
+238	AI menulis ucapan dengan gaya dan bahasa Anda. Pilih satu dari 250 desain kartu per acara.
+239	Album
+240	Nama album
+241	Album tidak ditemukan
+242	Pengaturan album
+243	Album
+244	Peringatan
+245	Semua
+246	Semua album
+247	Semua perubahan tersimpan
+248	semua pelanggan
+249	Semua lingkaran keluarga
+250	Izinkan kamera dan mikrofon untuk merekam video.
+251	Izinkan mikrofon untuk merekam pesan suara.
+252	Sudah diputuskan
+253	Sudah punya akun?
+254	Sudah diambil
+255	Jumlah
+256	Jumlah (
+257	Akun dengan email ini sudah ada
+258	dan
+259	hari jadi
+260	Hari jadi
+261	Ucapan hari jadi
+262	Jawaban
+263	Siapa saja
+264	Siapa saja bisa membuka dan mengonfirmasi kehadiran — cocok untuk acara komunitas.
+265	Siapa saja yang punya tautan
+266	Siapa saja yang punya tautan ini bisa melihat album.
+267	Apple
+268	Terapkan
+269	Daftar sebagai {kind}
+270	Setujui
+271	Disetujui
+272	Apakah Anda datang?
+273	Tanyakan kebutuhan aksesibilitas
+274	Tanyakan kebutuhan makanan
+275	Tanyakan tamu apakah bisa hadir (RSVP)
+276	Minta yang baru ke pemilik usaha.
+277	Minta dukungan Blessly membatalkan dan mengembalikan dana pesanan
+278	Tugaskan ke
+279	Ucapan ulang tahun otomatis untuk pelanggan Anda lewat WhatsApp dan email
+280	Otomasi tidak ditemukan
+281	Otomasi
+282	Baby shower
+283	Kembali
+284	Kembali ke {name}
+285	Kembali ke perayaan
+286	Kembali ke beranda
+287	Kembali ke masuk
+288	Kembali ke kartu saya
+289	Kembali ke orang
+290	Kembali ke pengaturan
+291	Kembali ke kartu
+292	Kembali ke daftar keinginan
+293	Latar belakang
+294	Foto latar
+295	Tanda tangan tidak valid
+296	Saldo:
+297	Jadilah yang pertama menulis pesan untuk {recipientName}.
+298	Jadilah yang pertama meninggalkan pesan
+299	Sahabat
+300	Periode tagihan
+301	ulang tahun
+302	Ulang tahun
+303	Ucapan ulang tahun dan hari jadi terkirim sendiri pada harinya — lewat WhatsApp dari nomor bisnis Anda sendiri, atau email
+304	Ucapan ulang tahun
+305	Ulang tahun dan hari jadi yang dibagikan di {familyName}
+306	Ulang tahun, hari raya, dan acara keluarga
+307	dibeli
+308	Sudah saya beli
+309	Majukan
+310	Saudara laki-laki
+311	Jelajahi 4.000 kartu
+312	Templat bawaan. Variasi gaya dalam bahasa ini memerlukan penulis AI diaktifkan.
+313	Bisnis
+314	Detail bisnis
+315	Nama bisnis
+316	Nama bisnis (tampil di pesan)
+317	Paket Bisnis
+318	Registrasi usaha / NPWP (opsional)
+319	Pengaturan bisnis
+320	Bisnis: {n} ucapan pelanggan per bulan lewat WhatsApp dan email
+321	Beli
+322	Beli kartu hadiah {amount}
+323	Beli kartu hadiah {name}
+324	oleh
+325	Dengan membuat akun Anda menyetujui
+326	Oleh desainer independen
+327	Kalender
+328	Kampanye
+329	Nama kampanye
+330	Kampanye tidak ditemukan
+331	Kampanye
+332	bisa mengedit.
+333	Bisa mengirim pesan
+334	Bisa melihat
+335	Bisa melihat — melihat dan mengonfirmasi kehadiran
+336	Bisakah Anda datang?
+337	tidak bisa datang
+338	Tidak bisa datang
+339	Tidak bisa hadir
+340	Tidak bisa ikut
+341	Tidak bisa memindai? Masukkan kunci ini:
+342	Batal
+343	Batalkan dan beri tahu tamu
+344	Batalkan dan beri tahu tamu Anda?
+345	Batalkan kapan saja; paket tetap berlaku hingga akhir periode yang dibayar. Pajak mungkin berlaku.
+346	Batalkan paket
+347	Batalkan perayaan
+348	Batalkan paket Anda? Paket tetap berlaku hingga akhir periode yang sudah dibayar.
+349	Dibatalkan
+350	Dibatalkan — berlaku hingga
+351	Keterangan
+352	Kode kartu
+353	Desain kartu
+354	Desainer kartu
+355	Editor kartu
+356	Pustaka kartu
+357	Nama kartu
+358	Kartu tidak ditemukan
+359	Rayakan
+360	Perayaan
+361	Perayaan tidak ditemukan
+362	Perayaan
+363	Tengah
+364	Ubah jawaban saya
+365	Ganti nomor
+366	Ganti kata sandi
+367	Ubah kata, font, dan warna; tambahkan foto, stiker, tanda tangan, atau kode QR.
+368	Amal
+369	Nama badan amal
+370	Periksa alamat email
+371	Periksa nomor telepon
+372	Pastikan Anda menyalin seluruh tautan, atau minta yang baru.
+373	Periksa email Anda
+374	Memeriksa perangkat ini…
+375	Memeriksa dengan WhatsApp…
+376	Memeriksa…
+377	Pembayaran (mode uji)
+378	Pembayaran tidak ditemukan
+379	Ikut patungan
+380	Pilih {name}
+381	Pilih kartu dan jumlah, lalu kami kirim lewat email — sekarang atau pada harinya.
+382	Pilih obrolan
+383	Pilih tanggal penutupan di masa depan
+384	Pilih kontak
+385	Pilih tanggal
+386	Pilih tanggal yang belum lewat
+387	Pilih tanggal dalam satu tahun
+388	Pilih kartu hadiah
+389	Buat kata sandi baru
+390	Pilih foto
+391	Pilih templat
+392	Pilih waktu
+393	Pilih waktu yang valid
+394	Pilih badan amal terverifikasi
+395	Pilih alamat
+396	Pilih jawaban
+397	Pilih gambar
+398	Pilih setidaknya satu foto
+399	Pilih depan atau bagian dalam
+400	Pilih salah satu jumlah yang ditampilkan
+401	Pilih salah satu perayaan Anda
+402	Pilih salah satu daftar keinginan Anda
+403	Pilih foto
+404	Pilih paket Bisnis
+405	Natal
+406	Nama lingkaran
+407	Ringkasan lingkaran
+408	Hapus
+409	Tutup patungan
+410	Tutup kartu
+411	Ditutup untuk kontribusi baru.
+412	Ditutup
+413	Ditutup pada (opsional)
+414	Kode
+415	Kode dari aplikasi Anda (untuk membuat perubahan)
+416	Rekan kerja
+417	colleague@example.com
+418	Kumpulkan dan bagikan foto dari setiap acara
+419	Kumpulkan foto ulang tahun, pernikahan, atau Diwali dalam satu album, pilih satu dari 100 desain, dan bagikan ke keluarga — mereka juga bisa menambahkan foto.
+420	Patungan
+421	Warna
+422	Warna {a}
+423	Tema warna
+424	Kolom yang kami pahami:
+425	datang
+426	Datang
+427	Akan datang
+428	Konfirmasi dan aktifkan
+429	Konfirmasi hapus
+430	Konfirmasi keluar
+431	Konfirmasi bahwa pelanggan ini setuju menerima pesan dari Anda
+432	Hubungkan
+433	Hubungkan WhatsApp
+434	Hubungkan WhatsApp terlebih dahulu
+435	Hubungkan WhatsApp di Pengaturan untuk mengirim pesan WhatsApp. Sampai saat itu, pelanggan yang punya email menerima email.
+436	terhubung

@@ -1,0 +1,218 @@
+873	Simu ya mkononi (kwa WhatsApp na SMS)
+874	Namba ya simu
+875	mwezi
+876	Mwezi
+877	Kila mwezi
+878	Zaidi
+879	Programu zaidi (Instagram…)
+880	Miundo zaidi
+881	Inayopendwa zaidi
+882	Mama
+883	Siku ya Mama
+884	Sogeza {title} chini
+885	Sogeza {title} juu
+886	Lazima uwe nayo
+887	Kadi zangu
+888	Oda zangu
+889	jina
+890	Jina
+891	Jina la tukio
+892	Jina la sherehe
+893	Taja kampeni
+894	Taja muundo wako, kisha uupakie.
+895	Navratri
+896	Inahitaji kupanga kwa ajili ya
+897	Usikose tena siku ya kuzaliwa ya familia
+898	Usikose hata wakati mmoja. Usimsahau mtu muhimu kamwe.
+899	Usikose hata wakati mmoja. Vikumbusho, salamu zilizoandikwa na AI kwa lugha 32 na kadi nzuri kwa kila tukio.
+900	Mpya
+901	Albamu mpya
+902	Mtoto mchanga
+903	Kampeni mpya
+904	Mgeni hapa?
+905	Kazi mpya
+906	Nenosiri jipya
+907	Misimbo mipya ya urejeshaji
+908	Kazi mpya
+909	Orodha mpya ya matakwa
+910	Mwaka Mpya
+911	Mpya zaidi
+912	Ifuatayo
+913	Siku 7 zijazo
+914	Muundo unaofuata
+915	Mwezi ujao
+916	Tukio linalofuata
+917	Vizuri kuwa nayo
+918	Hakuna arifa bado. Vikumbusho huonekana hapa kabla ya kila tukio.
+919	hakuna jibu
+920	Hakuna jibu bado
+921	Hakuna kampeni bado. Panga salamu za sherehe au ofa kwa kikundi cha wateja.
+922	Hakuna kadi bado. Anza moja hapo juu, au chagua muundo kwenye Unda kisha gusa “Badilisha muundo huu”.
+923	Hakuna ridhaa
+924	Hakuna siku za kuzaliwa au maadhimisho ya wateja wiki hii.
+925	Hakuna wateja wanaolingana.
+926	Bado hakuna wateja. Waongeze mmoja mmoja au ingiza jedwali.
+927	Bado hakuna tarehe
+928	Bado hakuna tarehe.
+929	Hakuna kifaa kilichoipokea. Jaribu kuzima na kuwasha arifa tena.
+930	Bado hakuna michango. Kampeni za kuchangisha sasa zinaweza kuchagua {name}.
+931	Bado hakuna matukio. Ongeza chakula cha jioni cha siku ya kuzaliwa, puja au mkutano wa kijamii.
+932	Bado hakuna kadi ya kikundi.
+933	Bado hakuna wageni. Waongeze hapo juu
+934	Hakuna ujumbe
+935	Bado hakuna ujumbe. Wageni wanaweza kuacha ujumbe, picha na video kwenye ukurasa.
+936	Bado hakuna mtu hapa. Ongeza familia, marafiki na wafanyakazi wenzako pamoja na siku zao za kuzaliwa na maadhimisho.
+937	Hakuna anayelingana na “{q}”.
+938	Bado hakuna oda.
+939	Hakuna kadi nyingine.
+940	Bado hakuna picha
+941	Bado hakuna picha.
+942	Hakuna mpango — ujumbe umesitishwa
+943	Bado hakuna bidhaa.
+944	Hakuna pesa halisi inayohamishwa — malipo yanatumia malipo ya majaribio.
+945	Hakuna jibu
+946	Bado hakuna violezo. Viunde kwenye WhatsApp Manager, kisha uonyeshe upya.
+947	Bado hakuna mashirika ya hisani yaliyothibitishwa
+948	Hakuna orodha ya matakwa
+949	Bado hakuna aliyeshiriki — ongeza babu na bibi, binamu na shangazi ili hakuna anayesahauliwa.
+950	Hakuna
+951	Bado hakuna — shiriki kiungo.
+952	haijaidhinishwa
+953	Haijaidhinishwa
+954	Haijaunganishwa
+955	Haijapatikana
+956	Haijaorodheshwa popote; shiriki kiungo na yeyote unayemtaka.
+957	Si sehemu ya timu
+958	Bado haijahifadhiwa
+959	Haijahifadhiwa
+960	Haijatumwa
+961	Haijawekwa — unaingia kwa kutumia chaguo zilizo hapa chini
+962	Ujumbe kwa {name} (si lazima)
+963	Maelezo
+964	Maelezo — ukubwa, rangi, modeli (si lazima)
+965	Maelezo (si lazima)
+966	Maelezo ya salamu binafsi (si lazima)
+967	Bado hakuna kitu kwenye orodha hii.
+968	Bado hakuna kilichopangwa.
+969	Bado hakuna kilichohifadhiwa
+970	Bado hakuna kilichotumwa kwa {v}.
+971	Bado hakuna kilichotumwa.
+972	Hakuna kitu mwezi huu.
+973	Arifa za Blessly zimezuiwa. Ziruhusu kwenye mipangilio ya kivinjari au simu yako, kisha urudi hapa.
+974	Namba imeondolewa.
+975	Namba imethibitishwa.
+976	Tukio
+977	Aina ya tukio
+978	Matukio
+979	Matukio na vikumbusho
+980	kati ya {v} kwenye mpango wako
+981	Imezimwa
+982	Nje ya mtandao
+983	Za zamani zaidi
+984	Imewashwa
+985	Imewashwa kwenye kifaa hiki na kingine {n}.
+986	Imewashwa kwenye kifaa hiki na vingine {n}.
+987	Imewashwa kwenye kifaa hiki.
+988	Kwenye iPhone na iPad, kwanza ongeza Blessly kwenye Home Screen (Share → Add to Home Screen), kisha ifungue kutoka hapo ili kuwasha arifa.
+989	Njiani
+990	Siku yenyewe
+991	Gusa mara moja kufungua WhatsApp au Telegram ukiwa na salamu tayari. Barua pepe inaweza kujituma yenyewe siku husika.
+992	Wateja waliowekewa lebo pekee
+993	Wateja waliowekewa lebo pekee (si lazima)
+994	Mimi pekee
+995	Malipo yaliyolipwa pekee ndiyo yanaweza kurejeshwa
+996	Kampeni zilizopangwa pekee ndizo zinaweza kughairiwa
+997	Mmiliki wa biashara pekee ndiye anayeweza kufanya hili
+998	Mmiliki wa biashara pekee ndiye anayeweza kuwaondoa watu
+999	Mmiliki pekee ndiye anayeweza kubadilisha majukumu
+1000	Mmiliki pekee ndiye anayeweza kubadilisha muunganisho wa WhatsApp.
+1001	Mmiliki pekee ndiye anayeweza kufuta kikundi
+1002	Mmiliki pekee ndiye anayeweza kualika wasimamizi
+1003	Mmiliki au msimamizi pekee ndiye anayeweza kughairi mialiko
+1004	Mmiliki au msimamizi pekee ndiye anayeweza kualika watu
+1005	Mmiliki au msimamizi pekee ndiye anayeweza kuwaondoa watu
+1006	Mmiliki au msimamizi pekee ndiye anayeweza kubadilisha jina la kikundi
+1007	Aliyeongeza tukio hili, mmiliki au msimamizi pekee ndiye anayeweza kulibadilisha
+1008	Aliyeongeza tukio hili, mmiliki au msimamizi pekee ndiye anayeweza kulifuta
+1009	Aliyeongeza kazi hii, mmiliki au msimamizi pekee ndiye anayeweza kuifuta
+1010	Aliyeunda albamu pekee ndiye anayeweza kuibadilisha
+1011	Aliyeunda albamu pekee ndiye anayeweza kuifuta
+1012	Wewe pekee ndiye unayeweza kumwona mtu huyu na vikumbusho vyake.
+1013	Fungua
+1014	Ifungue kupitia kiungo kwenye mwaliko wako. Ikiwa ulialikwa ukapoteza, muombe mwenyeji akutumie tena.
+1015	kazi zilizo wazi
+1016	Fungua kadi
+1017	Fungua kadi kisha gusa
+1018	Kwanza fungua kadi kisha gusa “Tumia kadi hii” au “PDF tayari kuchapishwa”, ili tuwe na picha zilizokamilika
+1019	Fungua programu yako ya uthibitishaji na uweke msimbo wa tarakimu 6 wa Blessly.
+1020	Inafungua malipo…
+1021	Inafungua kihariri…
+1022	Inafungua malipo…
+1023	Inafungua programu yako yenyewe ukiwa na ujumbe tayari. Unagusa kutuma, hivyo unatoka kwako.
+1024	au
+1025	Au panga ratiba
+1026	au kwa barua pepe yako
+1027	Oda za kutuma
+1028	Nyingine
+1029	Kadi nyingine
+1030	Familia yetu
+1031	Muhtasari
+1032	Mmiliki
+1033	Ukurasa
+1034	Ukurasa {page} kati ya {pages}
+1035	Ukurasa haukupatikana
+1036	Imelipwa
+1037	Mwenzi
+1038	Washirika
+1039	Kurasa za sherehe, mialiko na RSVP
+1040	Nenosiri
+1041	Nenosiri limebadilishwa.
+1042	Nenosiri limewekwa.
+1043	Zilizopita
+1044	Tukio lililopita
+1045	Bandika tokeni ya ufikiaji ya kudumu (mtumiaji wa mfumo)
+1046	Lipa (jaribio)
+1047	Lipa {amount} (jaribio)
+1048	Lipa kwa kadi kupitia Stripe.
+1049	Lipa {v}
+1050	Lipa kwa UPI AutoPay, kadi au benki mtandaoni kupitia Razorpay.
+1051	Malipo yameghairiwa. Hujatozwa.
+1052	Malipo yameshindwa
+1053	Malipo hayakupatikana
+1054	Malipo ya kutolewa hayakupatikana
+1055	Ombi la kutoa {amount} limetumwa (hali ya majaribio).
+1056	Ombi la kutoa malipo limetumwa (hali ya majaribio).
+1057	Malipo ya kutolewa:
+1058	Watu
+1059	Watu huchagua mipangilio yao ya vikumbusho
+1060	Watu kwenye kikundi hiki
+1061	Watu kwa kila mwaliko
+1062	Watu wenye kiungo wanaweza kupakia (hawahitaji akaunti). Unaweza kuondoa picha yoyote.
+1063	Tokeni ya ufikiaji ya kudumu
+1064	Mtu
+1065	Mtu hakupatikana
+1066	Maelezo binafsi (si lazima)
+1067	Wanyama kipenzi
+1068	Simu ya msafirishaji (si lazima)
+1069	Arifa za simu
+1070	Arifa za simu bado hazijasanidiwa kwenye seva hii. Arifa hufika kwenye programu na kwa barua pepe.
+1071	Kitambulisho cha namba ya simu
+1072	Kitambulisho cha namba ya simu ni namba ndefu kutoka WhatsApp Manager → API setup
+1073	Picha
+1074	Albamu za picha
+1075	Picha na {uploader}
+1076	Picha ya {title}
+1077	Picha kutoka kwa {name}
+1078	Picha haikupatikana
+1079	Picha au video (si lazima)
+1080	Picha ya kuongeza
+1081	Picha
+1082	Picha ({n})
+1083	Picha zinaweza kuwa hadi MB 15
+1084	Chagua tarehe
+1085	Chagua tarehe ya baadaye
+1086	Chagua saa ya baadaye
+1087	Chagua saa za eneo halali
+1088	Chagua kiolezo cha WhatsApp kilichoidhinishwa
+1089	Chagua kiolezo cha WhatsApp kilichoidhinishwa, au tuma kwa barua pepe
+1090	Chagua mojawapo ya violezo vyako vya WhatsApp

@@ -1,0 +1,218 @@
+437	Continuar
+438	Continuar al pago
+439	Continuar con
+440	Aportaciones
+441	Copiado
+442	Copiar
+443	Copiar el enlace personal de {name}
+444	Copiar códigos
+445	No se pudo copiar — mantén pulsado el enlace para copiarlo
+446	Copiar enlace
+447	Copiar mensaje
+448	Copiar enlace de la página del deseo
+449	No se pudo añadir
+450	No se pudo añadir tu mensaje
+451	No se pudo aplicar
+452	No se pudo cancelar
+453	No se pudo crear
+454	No se pudo crear el círculo
+455	No se pudo eliminar
+456	No se pudo exportar
+457	No se pudo unir
+458	No se pudo abrir el editor
+459	No se pudo abrir la página de pago
+460	No se pudo publicar
+461	No se pudo guardar
+462	No se pudo guardar la tarjeta
+463	No se pudo guardar la imagen de la tarjeta
+464	No se pudo programar
+465	No se pudo enviar
+466	No se pudo enviar un código
+467	No se pudo enviar tu respuesta
+468	No se pudo empezar una tarjeta
+469	No se pudo iniciar la tarjeta
+470	No se pudieron desactivar las notificaciones
+471	No se pudieron activar las notificaciones
+472	No se pudo usar ese diseño
+473	No se pudo escribir el deseo
+474	No se pudieron cargar las plantillas: {message}
+475	No se pudo conectar con {label}
+476	País
+477	País (calendario de festividades)
+478	País (para el calendario de festividades)
+479	País (para números de teléfono sin código)
+480	Código de país
+481	Portada de {title}
+482	Crear
+483	Crear un
+484	Crear un círculo familiar
+485	Crea un enlace para compartir el álbum con cualquiera: por WhatsApp, Facebook o mensaje.
+486	Crear un deseo
+487	Crear cuenta
+488	Crear álbum
+489	Crear una cuenta
+490	Crear espacio de trabajo para empresas
+491	Crear página de celebración
+492	Crear círculo familiar
+493	Crear enlace de invitación
+494	Crear plantillas de mensaje (p. ej., un deseo de cumpleaños) y esperar la aprobación.
+495	Crear enlace para compartir
+496	Crear lista de deseos
+497	Crea tu cuenta
+498	Crea tu cuenta gratuita
+499	Creando…
+500	Archivo CSV
+501	Texto CSV
+502	Moneda
+503	Contraseña actual
+504	Personalizado {v}
+505	Color de fondo personalizado
+506	Plan personalizado
+507	Cliente
+508	Cliente no encontrado
+509	Clientes
+510	Las descargas de datos no están disponibles en una vista de soporte
+511	Fecha
+512	Fecha (opcional)
+513	Hija
+514	Día
+515	Eliminar
+516	¿Eliminar “{title}” y sus {length} fotos? No se puede deshacer.
+517	¿Eliminar “{title}” con sus confirmaciones y tareas? Todos los del círculo lo perderán.
+518	Eliminar a {name}
+519	¿Eliminar a {name} y todos sus recordatorios? No se puede deshacer.
+520	¿Eliminar a {name}? Su historial de mensajes se mantendrá en tu registro sin su nombre.
+521	Eliminar {title}
+522	Eliminar álbum
+523	Eliminar cliente
+524	Eliminar evento
+525	Eliminar para siempre
+526	Eliminar mi cuenta
+527	Eliminar mi cuenta…
+528	Eliminar página
+529	Eliminar tarea {title}
+530	¿Eliminar esta tarjeta? Los deseos que ya enviaste con ella mostrarán su diseño original.
+531	¿Eliminar esta página de celebración, su lista de invitados y todos los mensajes? No se puede deshacer.
+532	¿Eliminar esta lista de deseos?
+533	Eliminar lista de deseos
+534	Cliente eliminado
+535	Entregado
+536	Entregado / leído
+537	Se entrega a (códigos de país)
+538	Novedades de entrega
+539	Descripción
+540	Diseño
+541	Diseño {n} de 100:
+542	Diseño {n} de 250
+543	Diseño {number}: {name}
+544	Nombre del diseño
+545	Diseño no encontrado
+546	Diseña tu propia tarjeta
+547	Diseña tu propia tarjeta: cambia las palabras, las fuentes y los colores, añade fotos, pegatinas, una firma o un código QR, y envíala con un deseo o imprímela.
+548	Los diseños deben tener al menos 900 píxeles de ancho para imprimir
+549	Los diseños deben estar en vertical, 3:4 (por ejemplo, 1500 × 2000 píxeles)
+550	Detalles
+551	Modo desarrollo — no se envió ningún texto. Tu código es
+552	Modo desarrollo — tu código es
+553	Necesidades alimentarias (opcional)
+554	Desconectar
+555	Diwali
+556	No mostrar mi nombre públicamente
+557	Donar
+558	Las donaciones van directamente a
+559	Hecho
+560	Hecho. {business} ya no te enviará estos mensajes.
+561	Descarga una copia de todo lo que Blessly guarda sobre ti, o elimina tu cuenta. Lee nuestra
+562	Descargar un archivo de ejemplo
+563	Descargar lista de invitados
+564	Descargar mis datos
+565	Dibujo
+566	Área de dibujo
+567	Código de vestimenta, aparcamiento, qué llevar, una sorpresa que guardar en secreto…
+568	Fecha límite (opcional)
+569	Fecha límite
+570	Duplicar
+571	Duplicar {title}
+572	p. ej., Asha
+573	p. ej., Asha cumple 30
+574	p. ej., 60 cumpleaños de papá — para la planta de oncología
+575	p. ej., 80 cumpleaños de Dadi
+576	p. ej., cena del 80 cumpleaños de Dadi
+577	p. ej., Felicitaciones de Diwali 2026
+578	p. ej., Regalo de despedida para Sam
+579	p. ej., le encanta el senderismo, nuestro viaje a Goa
+580	p. ej., Día del onomástico
+581	p. ej., casa de Nani
+582	p. ej., Nisha
+583	p. ej., Encargar la tarta
+584	p. ej., nuestro viaje a Goa
+585	p. ej., Nuestra lista de bodas
+586	p. ej., acceso sin escalones
+587	p. ej., Panadería Dulces Momentos
+588	p. ej., La sala del jardín
+589	p. ej., vegetariano, alergia a los frutos secos
+590	p. ej., vip
+591	p. ej., Nos hemos mudado dentro — misma dirección, por la puerta trasera.
+592	Cada invitado recibe un enlace personal. Nadie más puede abrir la página.
+593	Pascua
+594	Editar
+595	Editar a {name}
+596	Editar tarjeta
+597	Editar cliente
+598	Editar evento
+599	Editar elemento
+600	Editar persona
+601	Editar tus listas
+602	Eid
+603	correo
+604	Correo
+605	Correo (para un recibo)
+606	Correo (para novedades y un recordatorio)
+607	Correo (opcional, para un agradecimiento)
+608	Correo (se envía automáticamente)
+609	Mensaje por correo
+610	Solo correo
+611	El correo o la contraseña no son correctos
+612	Asunto del correo
+613	Termina (opcional)
+614	Compromiso
+615	Escribe un nombre
+616	Escribe un precio como 1499 o 24.99
+617	Escribe un correo válido
+618	Escribe una dirección de correo válida
+619	Escribe un número de móvil válido con el código de país
+620	Escribe un número de teléfono válido
+621	Escribe uno de tus códigos de recuperación. Cada uno funciona una sola vez.
+622	Escribe el objetivo como 5000 o 49.99
+623	Escribe el correo de tu cuenta y te enviaremos un enlace para elegir una nueva contraseña.
+624	Escribe el nombre de tu empresa
+625	Escribe tu número de móvil con el código de país, p. ej., +91 98765 43210
+626	Escribe tu nombre
+627	Evento
+628	Detalles del evento
+629	Evento no encontrado
+630	Blessly revisa cada cuenta antes de que se publique.
+631	Todos aportan para un regalo, o recaudan dinero para una organización benéfica
+632	Todos los de aquí reciben recordatorios de estas personas. Tus otras personas siguen privadas.
+633	Todos los de este círculo verán a esta persona y recibirán sus recordatorios. Solo tú puedes editarla.
+634	Todos en este archivo aceptaron recibir mensajes de mi empresa
+635	Todos firman una sola tarjeta
+636	Salir
+637	Caduca
+638	Exportando…
+639	Facebook
+640	Pago fallido
+641	Fallido
+642	Fallido o no enviado
+643	Familia
+644	Círculo familiar
+645	Círculo familiar de hasta {n} personas
+646	Círculos familiares, álbumes y mensajes de empresa
+647	Evento familiar
+648	Eventos familiares
+649	Familia no encontrada
+650	Plan familiar
+651	Firmas familiares
+652	Despedida
+653	Padre
+654	Día del Padre

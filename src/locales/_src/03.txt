@@ -1,0 +1,218 @@
+437	Continue
+438	Continue to payment
+439	Continue with
+440	Contributions
+441	Copied
+442	Copy
+443	Copy {name}’s personal link
+444	Copy codes
+445	Copy failed — press and hold the link to copy it
+446	Copy link
+447	Copy message
+448	Copy wish page link
+449	Could not add
+450	Could not add your message
+451	Could not apply
+452	Could not cancel
+453	Could not create
+454	Could not create the circle
+455	Could not delete
+456	Could not export
+457	Could not join
+458	Could not open the editor
+459	Could not open the payment page
+460	Could not post
+461	Could not save
+462	Could not save the card
+463	Could not save the card picture
+464	Could not schedule
+465	Could not send
+466	Could not send a code
+467	Could not send your answer
+468	Could not start a card
+469	Could not start the card
+470	Could not turn off notifications
+471	Could not turn on notifications
+472	Could not use that design
+473	Could not write the wish
+474	Couldn’t load templates: {message}
+475	Couldn’t reach {label}
+476	Country
+477	Country (festival calendar)
+478	Country (for festival calendar)
+479	Country (for phone numbers without a code)
+480	Country code
+481	Cover of {title}
+482	Create
+483	Create a
+484	Create a family circle
+485	Create a link to share the album with anyone — on WhatsApp, Facebook or by message.
+486	Create a wish
+487	Create account
+488	Create album
+489	Create an account
+490	Create business workspace
+491	Create celebration page
+492	Create family circle
+493	Create invite link
+494	Create message templates (e.g. a birthday wish) and wait for approval.
+495	Create share link
+496	Create wishlist
+497	Create your account
+498	Create your free account
+499	Creating…
+500	CSV file
+501	CSV text
+502	Currency
+503	Current password
+504	Custom {v}
+505	Custom background colour
+506	Custom plan
+507	Customer
+508	Customer not found
+509	Customers
+510	Data downloads aren’t available in a support view
+511	Date
+512	Date (optional)
+513	Daughter
+514	Day
+515	Delete
+516	Delete “{title}” and all {length} photos? This can’t be undone.
+517	Delete “{title}” with its RSVPs and tasks? Everyone in the circle loses it.
+518	Delete {name}
+519	Delete {name} and all their reminders? This can’t be undone.
+520	Delete {name}? Their message history stays in your log without their name.
+521	Delete {title}
+522	Delete album
+523	Delete customer
+524	Delete event
+525	Delete forever
+526	Delete my account
+527	Delete my account…
+528	Delete page
+529	Delete task {title}
+530	Delete this card? Wishes you already sent with it will show their original design.
+531	Delete this celebration page, its guest list and all messages? This can’t be undone.
+532	Delete this wishlist?
+533	Delete wishlist
+534	Deleted customer
+535	Delivered
+536	Delivered / read
+537	Delivers to (country codes)
+538	Delivery updates
+539	Description
+540	Design
+541	Design {n} of 100:
+542	Design {n} of 250
+543	Design {number}: {name}
+544	Design name
+545	Design not found
+546	Design your own card
+547	Design your own card: change the words, fonts and colours, add photos, stickers, a signature or a QR code — then send it with a wish or print it.
+548	Designs need to be at least 900 pixels wide for printing
+549	Designs need to be portrait, 3:4 (for example 1500 × 2000 pixels)
+550	Details
+551	Development mode — no text was sent. Your code is
+552	Development mode — your code is
+553	Dietary needs (optional)
+554	Disconnect
+555	Diwali
+556	Don’t show my name publicly
+557	Donate
+558	Donations go directly to
+559	Done
+560	Done. {business} won’t send you these messages any more.
+561	Download a copy of everything Blessly stores about you, or delete your account. Read our
+562	Download a sample file
+563	Download guest list
+564	Download my data
+565	Drawing
+566	Drawing area
+567	Dress code, parking, what to bring, a surprise to keep quiet about…
+568	Due (optional)
+569	Due date
+570	Duplicate
+571	Duplicate {title}
+572	e.g. Asha
+573	e.g. Asha turns 30
+574	e.g. Dad’s 60th — for the cancer ward
+575	e.g. Dadi’s 80th birthday
+576	e.g. Dadi’s 80th birthday dinner
+577	e.g. Diwali greetings 2026
+578	e.g. Leaving gift for Sam
+579	e.g. loves trekking, our Goa trip
+580	e.g. Name day
+581	e.g. Nani’s house
+582	e.g. Nisha
+583	e.g. Order the cake
+584	e.g. our Goa trip
+585	e.g. Our wedding registry
+586	e.g. step-free access
+587	e.g. Sweet Treats Bakery
+588	e.g. The Garden Room
+589	e.g. vegetarian, nut allergy
+590	e.g. vip
+591	e.g. We’ve moved inside — same address, back door.
+592	Each guest gets a personal link. Nobody else can open the page.
+593	Easter
+594	Edit
+595	Edit {name}
+596	Edit card
+597	Edit customer
+598	Edit event
+599	Edit item
+600	Edit person
+601	Edit your lists
+602	Eid
+603	email
+604	Email
+605	Email (for a receipt)
+606	Email (for updates and a reminder)
+607	Email (optional, for a thank-you)
+608	Email (sent automatically)
+609	Email message
+610	Email only
+611	Email or password is incorrect
+612	Email subject
+613	Ends (optional)
+614	Engagement
+615	Enter a name
+616	Enter a price like 1499 or 24.99
+617	Enter a valid email
+618	Enter a valid email address
+619	Enter a valid mobile number with country code
+620	Enter a valid phone number
+621	Enter one of your recovery codes. Each one works once.
+622	Enter the target like 5000 or 49.99
+623	Enter your account email and we’ll send you a link to choose a new password.
+624	Enter your business name
+625	Enter your mobile number with the country code, e.g. +91 98765 43210
+626	Enter your name
+627	Event
+628	Event details
+629	Event not found
+630	Every account is reviewed by Blessly before it goes live.
+631	Everyone chips in for one gift, or raises money for a charity
+632	Everyone here gets reminders for these people. Your other people stay private.
+633	Everyone in this circle will see this person and get their reminders. Only you can edit them.
+634	Everyone in this file agreed to receive messages from my business
+635	Everyone signs one card
+636	Exit
+637	Expires
+638	Exporting…
+639	Facebook
+640	Fail payment
+641	Failed
+642	Failed or not sent
+643	Family
+644	Family Circle
+645	Family circle of up to {n} people
+646	Family circles, albums and business messages
+647	Family event
+648	Family events
+649	Family not found
+650	Family plan
+651	Family signatures
+652	Farewell
+653	Father
+654	Father’s Day

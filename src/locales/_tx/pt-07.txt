@@ -1,0 +1,218 @@
+1309	Falha no login
+1310	O login foi cancelado.
+1311	Desconectado de todos os outros lugares.
+1312	Dispositivos conectados
+1313	Preços simples
+1314	Simular um cartão recusado
+1315	Irmã
+1316	Tamanho
+1317	SMS (lembramos você de enviar)
+1318	Outra pessoa
+1319	Alguém está começando o cartão agora — tente novamente em instantes
+1320	Algo deu errado
+1321	Filho
+1322	Divida as tarefas: quem vai levar o bolo, quem vai reservar a mesa
+1323	Planilha (.csv)
+1324	Começar
+1325	Iniciar uma arrecadação
+1326	Começar um novo cartão
+1327	Comece uma lista de desejos
+1328	Iniciar outro círculo
+1329	Comece grátis
+1330	Comece um cartão que a família inteira assina. Escreveremos a primeira mensagem e avisaremos todos.
+1331	Iniciar o cartão coletivo
+1332	Comece a configuração novamente
+1333	Comece seu círculo familiar
+1334	Iniciando…
+1335	Começa
+1336	Estado / condado (opcional)
+1337	Status
+1338	Adesivo
+1339	Adesivos
+1340	Parar e-mails
+1341	Parar de compartilhar (o link deixa de funcionar)
+1342	Parar mensagens do WhatsApp
+1343	Rua, cidade
+1344	Nome do estúdio ou artista
+1345	Estilo
+1346	Resumo
+1347	Suporte
+1348	Visualização de suporte de {name}
+1349	Apoiadores
+1350	Suspenso
+1351	Condolências
+1352	Usuário do sistema
+1353	Etiqueta
+1354	etiqueta “{tag}”
+1355	etiquetas
+1356	Etiquetas (separadas por vírgula)
+1357	Toque em “Escrever minha mensagem” ou digite a sua.
+1358	Toque em algo para selecioná-lo. Arraste para mover, use o canto para redimensionar e o ponto de cima para girar.
+1359	Meta (opcional)
+1360	meta {v}
+1361	Tarefa não encontrada
+1362	Equipe
+1363	E-mail do membro da equipe
+1364	Telegram (lembramos você de enviar)
+1365	Modelos
+1366	termos
+1367	Termos
+1368	termos de uso
+1369	Cartão de teste 4242 4242 4242 4242 · qualquer data futura · qualquer CVC
+1370	Checkout de teste
+1371	Modo de teste.
+1372	Pagamento de teste — sem dinheiro real
+1373	Texto
+1374	Cor do texto
+1375	Me envie um código por SMS
+1376	As mensagens de texto ainda não estão configuradas neste servidor
+1377	Obrigado
+1378	Obrigado — você está no {name}.
+1379	Obrigado — seu pedido foi confirmado.
+1380	Muito obrigado por fazer parte de {title}. Significou muito!
+1381	Muito obrigado pelo presente lindo — significou muito!
+1382	Obrigado, professor(a)
+1383	Obrigado! Sua contribuição foi recebida.
+1384	Obrigado! Sua doação foi recebida.
+1385	Agradeça aos convidados (todos que vieram ou deixaram uma mensagem, uma vez)
+1386	Agradecimento enviado por e-mail para {n} pessoas
+1387	Agradecimento enviado por e-mail para {n} pessoa
+1388	Agradecimento enviado para {n} convidado
+1389	Agradecimento enviado para {n} convidados
+1390	Obrigado — sua mensagem foi adicionada.
+1391	Obrigado, {name}! {n} foto adicionada.
+1392	Obrigado, {name}! {n} fotos adicionadas.
+1393	Obrigado! Ela aparecerá quando o anfitrião aprovar.
+1394	Obrigado! Seu plano será ativado assim que o pagamento for confirmado — normalmente em poucos segundos. Atualize esta página em instantes.
+1395	Ação de Graças
+1396	Essa conta já está vinculada a outra conta do Blessly
+1397	Esse aniversário não existe
+1398	A imagem do cartão é grande demais
+1399	Esse cartão usa uma foto que não é sua
+1400	Esse código expirou. Comece de novo.
+1401	Esse código não está certo
+1402	Esse código não está certo — verifique se a hora do seu celular está definida automaticamente
+1403	Essa data não existe
+1404	Esse evento não está neste círculo
+1405	Esse arquivo não é uma foto que conseguimos ler
+1406	Esse arquivo não é uma foto que conseguimos ler (use JPG, PNG, WebP ou GIF)
+1407	Essa não é uma imagem de cartão que podemos usar
+1408	Esse número já é usado por outra conta
+1409	Essa senha não está certa
+1410	Essa foto não está neste álbum
+1411	Esse produto não está disponível
+1412	Esse formato de gravação não é compatível
+1413	Essa gravação está vazia
+1414	Essa gravação não está disponível
+1415	Essa opção de login não está disponível.
+1416	Demorou demais — tente novamente.
+1417	Esse item da lista de desejos não existe mais
+1418	Muito grande
+1419	O plano {name} inclui {maxAlbums} álbuns. Faça upgrade para Família e tenha mais.
+1420	A família {surname}
+1421	o fim do período
+1422	O arquivo é grande demais (máximo de 2 MB)
+1423	O arquivo é grande demais (máximo de 2 MB).
+1424	O arquivo é grande demais (máximo de 2 MB). Divida-o em arquivos menores.
+1425	O arquivo precisa de uma linha de cabeçalho e pelo menos um cliente
+1426	O plano grátis permite {limit} pessoas em um círculo. O proprietário do círculo pode fazer upgrade para Família e ter até {MAX_MEMBERS}.
+1427	O plano grátis não pode ter preço
+1428	O máximo é {v1}
+1429	O mínimo é {v1}
+1430	O pagamento não foi concluído. Nada foi cobrado — tente novamente.
+1431	O pagamento não foi concluído. Nada foi cobrado.
+1432	Não foi possível abrir a página de pagamento. Tente novamente em um minuto.
+1433	O PDF tem a frente e o interior como páginas de 15 × 20 cm — imprima frente e verso, ou em uma gráfica.
+1434	O prazo de confirmação deve ser antes da celebração
+1435	Falta ENCRYPTION_KEY no servidor, então ele não consegue armazenar segredos (credenciais do WhatsApp, chaves de verificação em duas etapas) com segurança
+1436	As duas senhas não coincidem
+1437	Toda a família
+1438	A mensagem está vazia
+1439	A página da mensagem mostra a frente e o interior deste cartão acima da sua mensagem.
+1440	A equipe do Blessly define o token de verificação e o segredo do app no servidor. Clientes que respondem STOP são removidos do WhatsApp automaticamente; START os inscreve novamente.
+1441	O e-mail deles
+1442	O celular deles
+1443	O nome deles na mensagem
+1444	Não há plano pago para cancelar
+1445	Não há nada para repassar
+1446	Estas são marcas de sandbox para teste. As marcas reais virão de um parceiro de vale-presentes quando for conectado.
+1447	Eles já estão na sua equipe
+1448	Esta conta está suspensa. Entre em contato com o suporte.
+1449	Este álbum está cheio ({maxPhotosPerAlbum} fotos no plano {name}).
+1450	Este álbum não está aceitando fotos
+1451	Este navegador não pode mostrar notificações. Você ainda receberá alertas no app e por e-mail.
+1452	Este cartão tem coisas demais
+1453	Esta celebração já aconteceu
+1454	Esta celebração foi cancelada.
+1455	Esta celebração já aconteceu — obrigado a todos que vieram!
+1456	Esta celebração está cancelada.
+1457	Esta celebração é só para convidados
+1458	Esta celebração é só para convidados. Abra pelo seu convite.
+1459	Esta celebração está lotada
+1460	Esta celebração não está aceitando respostas
+1461	Esta celebração foi cancelada
+1462	Este círculo está lotado (6 pessoas).
+1463	Esta arrecadação foi encerrada
+1464	Esta arrecadação foi encerrada.
+1465	Este cliente concordou em receber mensagens nossas
+1466	Este círculo familiar está lotado ({limit} pessoas)
+1467	Este vale-presente foi cancelado
+1468	Este convite expirou. Peça um novo link para {inviter}.
+1469	Este convite expirou. Peça um novo link.
+1470	Este convite expirou. Peça um novo ao proprietário.
+1471	Este convite é para {email}, mas você está conectado como {email2}. Saia e entre (ou cadastre-se) com {email3}.
+1472	Este convite é para {email}. Entre com esse e-mail para aceitá-lo.
+1473	Este link de convite não funciona
+1474	Este link de convite não é válido
+1475	Este convite já foi usado.
+1476	Este convite foi cancelado. Peça um novo link para {inviter}.
+1477	Este convite foi cancelado. Peça um novo link.
+1478	Este é um cartão de sandbox e não pode ser usado.
+1479	É assim que os amigos veem sua lista.
+1480	Esta é a sua lista — os amigos reservam presentes dela
+1481	Este link não é válido
+1482	Este link pode ter expirado ou sido removido.
+1483	Este mês
+1484	Esta página está cheia
+1485	Este pagamento está {status}.
+1486	Isso exclui sua conta permanentemente
+1487	Este plano não está à venda nessa moeda
+1488	Este link de redefinição expirou ou já foi usado. Peça um novo.
+1489	Este link de cancelamento não funciona. Você também pode responder STOP a qualquer mensagem do WhatsApp.
+1490	Este número do WhatsApp já está conectado a outra empresa do Blessly
+1491	Esta página da mensagem está cheia
+1492	Esta página da mensagem não está aceitando mensagens
+1493	Horário
+1494	Horário (opcional)
+1495	Fuso horário
+1496	Fuso horário
+1497	Fuso horário (as mensagens são enviadas neste horário)
+1498	Fuso horário (os lembretes chegam às 9h aqui)
+1499	Para {name}
+1500	A fazer
+1501	para continuar enviando mensagens aos clientes depois disso.
+1502	Para sair, primeiro torne outra pessoa proprietária.
+1503	Para ver os checks de entregue e lido, e para tratar clientes que respondem STOP, o app da Meta do Blessly precisa receber os webhooks do seu número. URL de callback:
+1504	para começar de novo.
+1505	Hoje
+1506	Amanhã
+1507	Tom
+1508	Muitas tentativas. Aguarde um minuto e tente novamente.
+1509	Muitas tentativas. Aguarde um minuto.
+1510	Variáveis demais
+1511	Muitos códigos errados. Comece de novo.
+1512	Caro demais sozinho? Comece um presente coletivo
+1513	Ferramentas
+1514	Para: {title}
+1515	Cidade
+1516	Número de rastreio
+1517	Experimente {name}
+1518	Tente outro
+1519	Desativar
+1520	Ativar
+1521	Verificação em duas etapas
+1522	A verificação em duas etapas já está ativada
+1523	A verificação em duas etapas está desativada.
+1524	A verificação em duas etapas está ativada.
+1525	Verificação em duas etapas, Google e Apple, login por celular, senha
+1526	Tipo

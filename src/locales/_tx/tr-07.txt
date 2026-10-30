@@ -1,0 +1,218 @@
+1309	Giriş başarısız
+1310	Giriş iptal edildi.
+1311	Diğer her yerden çıkış yapıldı.
+1312	Giriş yapılmış cihazlar
+1313	Basit fiyatlandırma
+1314	Reddedilen bir kartı simüle et
+1315	Kız kardeş
+1316	Beden
+1317	SMS (göndermeniz için hatırlatırız)
+1318	Başka biri
+1319	Biri şu anda kartı başlatıyor — birazdan tekrar deneyin
+1320	Bir sorun oluştu
+1321	Oğul
+1322	İşleri paylaştırın: pastayı kim alacak, masayı kim ayırtacak
+1323	Tablo (.csv)
+1324	Başlat
+1325	Bir toplama başlatın
+1326	Yeni bir kart başlatın
+1327	Bir dilek listesi başlatın
+1328	Başka bir aile çevresi başlatın
+1329	Ücretsiz başlayın
+1330	Tüm ailenin imzalayacağı tek bir kart başlatın. İlk mesajı biz yazarız ve herkese haber veririz.
+1331	Grup kartını başlatın
+1332	Kurulumu yeniden başlatın
+1333	Aile çevrenizi başlatın
+1334	Başlatılıyor…
+1335	Başlangıç
+1336	Eyalet / ilçe (isteğe bağlı)
+1337	Durum
+1338	Çıkartma
+1339	Çıkartmalar
+1340	E-postaları durdur
+1341	Paylaşımı durdur (bağlantı çalışmaz)
+1342	WhatsApp mesajlarını durdur
+1343	Cadde, kasaba
+1344	Stüdyo veya sanatçı adı
+1345	Stil
+1346	Özet
+1347	Destek
+1348	{name} için destek görünümü
+1349	Destekçiler
+1350	Askıya alındı
+1351	Taziye
+1352	Sistem kullanıcısı
+1353	Etiket
+1354	“{tag}” etiketi
+1355	etiketler
+1356	Etiketler (virgülle ayrılmış)
+1357	“Dileğimi yaz”a dokunun ya da kendiniz yazın.
+1358	Seçmek için bir öğeye dokunun. Taşımak için sürükleyin, boyutlandırmak için köşeyi, döndürmek için üstteki noktayı kullanın.
+1359	Hedef (isteğe bağlı)
+1360	hedef {v}
+1361	Görev bulunamadı
+1362	Ekip
+1363	Ekip üyesinin e-postası
+1364	Telegram (göndermeniz için hatırlatırız)
+1365	Şablonlar
+1366	koşullar
+1367	Koşullar
+1368	kullanım koşulları
+1369	Test kartı 4242 4242 4242 4242 · herhangi bir gelecek tarih · herhangi bir CVC
+1370	Test ödemesi
+1371	Test modu.
+1372	Test ödemesi — gerçek para yok
+1373	Metin
+1374	Metin rengi
+1375	Bana kod gönderin
+1376	Kısa mesajlar bu sunucuda henüz kurulmadı
+1377	Teşekkür ederiz
+1378	Teşekkürler — {name} planındasınız.
+1379	Teşekkürler — siparişiniz onaylandı.
+1380	{title} etkinliğinin bir parçası olduğunuz için çok teşekkürler. Bizim için çok anlamlı!
+1381	Bu güzel hediye için çok teşekkürler — bizim için çok anlamlı!
+1382	Teşekkürler, öğretmenim
+1383	Teşekkürler! Katkınız alındı.
+1384	Teşekkürler! Bağışınız alındı.
+1385	Misafirlerinize teşekkür edin (gelen ya da mesaj bırakan herkese bir kez)
+1386	Teşekkür e-postası {n} kişiye gönderildi
+1387	Teşekkür e-postası {n} kişiye gönderildi
+1388	Teşekkür {n} misafire gönderildi
+1389	Teşekkür {n} misafire gönderildi
+1390	Teşekkürler — mesajınız eklendi.
+1391	Teşekkürler, {name}! {n} fotoğraf eklendi.
+1392	Teşekkürler, {name}! {n} fotoğraf eklendi.
+1393	Teşekkürler! Ev sahibi onayladığında görünecek.
+1394	Teşekkürler! Ödeme onaylanır onaylanmaz planınız açılır — genellikle birkaç saniye içinde. Birazdan bu sayfayı yenileyin.
+1395	Şükran Günü
+1396	Bu hesap zaten başka bir Blessly hesabına bağlı
+1397	Bu doğum günü mevcut değil
+1398	Bu kart görseli çok büyük
+1399	Bu kart size ait olmayan bir fotoğraf kullanıyor
+1400	Bu kodun süresi doldu. Baştan başlayın.
+1401	Bu kod doğru değil
+1402	Bu kod doğru değil — telefonunuzun saatinin otomatik ayarlandığını kontrol edin
+1403	Bu tarih mevcut değil
+1404	Bu etkinlik bu aile çevresinde değil
+1405	Bu dosya okuyabildiğimiz bir fotoğraf değil
+1406	Bu dosya okuyabildiğimiz bir fotoğraf değil (JPG, PNG, WebP veya GIF kullanın)
+1407	Bu, kullanabileceğimiz bir kart görseli değil
+1408	Bu numara başka bir hesap tarafından zaten kullanılıyor
+1409	Bu şifre doğru değil
+1410	Bu fotoğraf bu albümde değil
+1411	Bu ürün mevcut değil
+1412	Bu kayıt biçimi desteklenmiyor
+1413	Bu kayıt boş
+1414	Bu kayıt kullanılamıyor
+1415	Bu giriş seçeneği kullanılamıyor.
+1416	Çok uzun sürdü — lütfen tekrar deneyin.
+1417	Bu dilek listesi ürünü artık yok
+1418	Bu çok büyük
+1419	{name} planı {maxAlbums} albüm içerir. Daha fazlası için Aile planına yükseltin.
+1420	{surname} ailesi
+1421	dönemin sonu
+1422	Dosya çok büyük (en fazla 2 MB)
+1423	Dosya çok büyük (en fazla 2 MB).
+1424	Dosya çok büyük (en fazla 2 MB). Daha küçük dosyalara bölün.
+1425	Dosyada bir başlık satırı ve en az bir müşteri olmalı
+1426	Ücretsiz plan bir aile çevresinde {limit} kişiye izin verir. Aile çevresinin sahibi {MAX_MEMBERS} kişiye kadar Aile planına yükseltebilir.
+1427	Ücretsiz planın fiyatı olamaz
+1428	En fazla {v1}
+1429	En az {v1}
+1430	Ödeme tamamlanamadı. Sizden hiçbir şey alınmadı — lütfen tekrar deneyin.
+1431	Ödeme tamamlanamadı. Sizden hiçbir şey alınmadı.
+1432	Ödeme sayfası açılamadı. Lütfen bir dakika sonra tekrar deneyin.
+1433	PDF, ön ve iç yüzü 15 × 20 cm sayfalar olarak içerir — çift taraflı yazdırın ya da bir baskı merkezinde basın.
+1434	Katılım yanıtı son tarihi kutlamadan önce olmalı
+1435	Sunucuda ENCRYPTION_KEY eksik, bu yüzden gizli bilgileri (WhatsApp kimlik bilgileri, iki adımlı doğrulama anahtarları) güvenli şekilde saklayamaz
+1436	İki şifre eşleşmiyor
+1437	Tüm aile
+1438	Dilek boş
+1439	Dilek sayfası, mesajınızın üstünde bu kartın ön ve iç yüzünü gösterir.
+1440	Blessly ekibi doğrulama belirtecini ve uygulama sırrını sunucuda ayarlar. STOP yanıtı veren müşteriler WhatsApp aboneliğinden otomatik çıkarılır; START ile yeniden abone olurlar.
+1441	E-postaları
+1442	Cep numaraları
+1443	Dilekteki adları
+1444	İptal edilecek ücretli bir plan yok
+1445	Ödenecek bir şey yok
+1446	Bunlar test için sandbox markalarıdır. Bağlandığında gerçek markalar bir hediye kartı ortağından gelir.
+1447	Zaten ekibinizde
+1448	Bu hesap askıya alındı. Lütfen destekle iletişime geçin.
+1449	Bu albüm dolu ({name} planında {maxPhotosPerAlbum} fotoğraf).
+1450	Bu albüm fotoğraf kabul etmiyor
+1451	Bu tarayıcı bildirim gösteremiyor. Uyarıları yine uygulamada ve e-postayla alacaksınız.
+1452	Bu kartta çok fazla şey var
+1453	Bu kutlama zaten gerçekleşti
+1454	Bu kutlama iptal edildi.
+1455	Bu kutlama gerçekleşti — gelen herkese teşekkürler!
+1456	Bu kutlama iptal edildi.
+1457	Bu kutlama davetli misafirlere yönelik
+1458	Bu kutlama davetli misafirlere yönelik. Davetiyenizdeki bağlantıdan açın.
+1459	Bu kutlama dolu
+1460	Bu kutlama yanıt kabul etmiyor
+1461	Bu kutlama iptal edildi
+1462	Bu aile çevresi dolu (6 kişi).
+1463	Bu toplama kapandı
+1464	Bu toplama kapandı.
+1465	Bu müşteri bizden mesaj almayı kabul etti
+1466	Bu aile çevresi dolu ({limit} kişi)
+1467	Bu hediye kartı iptal edildi
+1468	Bu davetin süresi doldu. {inviter} kişisinden yeni bir bağlantı isteyin.
+1469	Bu davetin süresi doldu. Yeni bir bağlantı isteyin.
+1470	Bu davetin süresi doldu. Sahibinden yeni bir tane isteyin.
+1471	Bu davet {email} için, ancak {email2} hesabıyla giriş yapmışsınız. Çıkış yapıp {email3} ile giriş yapın (ya da kaydolun).
+1472	Bu davet {email} için. Kabul etmek için bu e-postayla giriş yapın.
+1473	Bu davet bağlantısı çalışmıyor
+1474	Bu davet bağlantısı geçersiz
+1475	Bu davet zaten kullanıldı.
+1476	Bu davet iptal edildi. {inviter} kişisinden yeni bir bağlantı isteyin.
+1477	Bu davet iptal edildi. Yeni bir bağlantı isteyin.
+1478	Bu bir sandbox kartıdır ve harcanamaz.
+1479	Arkadaşlarınız listenizi böyle görür.
+1480	Bu sizin kendi listeniz — arkadaşlar bu listeden hediye ayırtır
+1481	Bu bağlantı geçersiz
+1482	Bu bağlantının süresi dolmuş ya da kaldırılmış olabilir.
+1483	Bu ay
+1484	Bu sayfa dolu
+1485	Bu ödeme {status}.
+1486	Bu, hesabınızı kalıcı olarak siler
+1487	Bu plan o para biriminde satışta değil
+1488	Bu sıfırlama bağlantısının süresi dolmuş ya da zaten kullanılmış. Yeni bir tane isteyin.
+1489	Bu abonelikten çıkma bağlantısı çalışmıyor. Ayrıca herhangi bir WhatsApp mesajına STOP yanıtı verebilirsiniz.
+1490	Bu WhatsApp numarası zaten başka bir Blessly işletmesine bağlı
+1491	Bu dilek sayfası dolu
+1492	Bu dilek sayfası mesaj kabul etmiyor
+1493	Saat
+1494	Saat (isteğe bağlı)
+1495	Saat dilimi
+1496	Saat dilimi
+1497	Saat dilimi (mesajlar bu saate göre gönderilir)
+1498	Saat dilimi (hatırlatmalar burada sabah 9’da gelir)
+1499	{name} kişisine
+1500	Yapılacaklar
+1501	bundan sonra müşterilere dilek göndermeye devam etmek için.
+1502	Ayrılmak için önce başka birini sahip yapın.
+1503	Teslim edildi ve okundu işaretlerini görmek ve STOP yanıtı veren müşterileri yönetmek için Blessly Meta uygulaması numaranızın webhook’larını almalı. Geri çağırma URL’si:
+1504	yeniden başlamak için.
+1505	Bugün
+1506	Yarın
+1507	Ton
+1508	Çok fazla deneme. Lütfen bir dakika bekleyip tekrar deneyin.
+1509	Çok fazla deneme. Lütfen bir dakika bekleyin.
+1510	Çok fazla değişken
+1511	Çok fazla yanlış kod. Baştan başlayın.
+1512	Tek başına pahalı mı? Bir grup hediyesi başlatın
+1513	Araçlar
+1514	Hedef: {title}
+1515	İlçe veya şehir
+1516	Takip numarası
+1517	{name} deneyin
+1518	Başka birini deneyin
+1519	Kapat
+1520	Aç
+1521	İki adımlı doğrulama
+1522	İki adımlı doğrulama zaten açık
+1523	İki adımlı doğrulama kapalı.
+1524	İki adımlı doğrulama açık.
+1525	İki adımlı doğrulama, Google ve Apple, telefonla giriş, şifre
+1526	Tür
