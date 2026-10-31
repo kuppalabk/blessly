@@ -2,7 +2,9 @@
 	email {$ACME_EMAIL}
 }
 
-# Caddy terminates HTTPS (certificates from Let's Encrypt, renewed automatically) and forwards to the app.
+# Let's Encrypt certificate for the domain. Caddy renews it on its own
+# (about 30 days before expiry) and stores it in the caddy_data volume.
+# No cron job and no certificate files to copy in.
 {$DOMAIN} {
 	encode zstd gzip
 	reverse_proxy web:3000 {
@@ -17,4 +19,9 @@
 	request_body {
 		max_size 25MB
 	}
+}
+
+# Same certificate flow for www, then send visitors to the bare domain.
+www.{$DOMAIN} {
+	redir https://{$DOMAIN}{uri} permanent
 }

@@ -80,8 +80,8 @@ Use this when the database is DigitalOcean managed Postgres (or any other extern
 
 1. Copy the project to the droplet, excluding `node_modules`, `.next`, and `.env`.
 2. On the droplet, with `DATABASE_URL` set to the managed connection string (include `sslmode=require`):
-   `APP_URL=https://your-domain bash deploy/droplet-managed.sh`
-3. That file writes secrets into `.env` if they are not there, then runs `docker compose -f docker-compose.managed.yml up -d --build`.
+   `DOMAIN=blessly.co ACME_EMAIL=you@blessly.co APP_URL=https://blessly.co bash deploy/droplet-managed.sh`
+3. That file writes secrets into `.env` if they are not there, then runs `docker compose -f docker-compose.managed.yml up -d --build`. Caddy requests a Let's Encrypt certificate for the domain and for `www`, redirects `www` to the bare domain, and renews the certificate automatically. Ports 80 and 443 must reach the droplet, and both names must point at it.
 4. Add this droplet's public IP to the database trusted sources, or the app cannot connect.
 5. Without a domain, Caddy serves HTTPS with a local certificate and browsers show a warning. Point a domain at the droplet and switch to `docker-compose.prod.yml` plus `deploy/Caddyfile` when you want a public certificate. Do not put the database password in git.
 

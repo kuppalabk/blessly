@@ -48,8 +48,11 @@ services:
     restart: unless-stopped
     depends_on: [web]
     ports: ["80:80", "443:443", "443:443/udp"]
+    environment:
+      DOMAIN: ${DOMAIN:?Set DOMAIN in .env}
+      ACME_EMAIL: ${ACME_EMAIL:?Set ACME_EMAIL in .env}
     volumes:
-      - ./deploy/Caddyfile.ip:/etc/caddy/Caddyfile:ro
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
       - caddy_data:/data
       - caddy_config:/config
 volumes: { uploads: {}, caddy_data: {}, caddy_config: {} }

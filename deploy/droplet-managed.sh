@@ -2,7 +2,7 @@
 # Start Blessly on this droplet using DATABASE_URL from the environment or from .env.
 # Does not print secret values. Does not start a local Postgres.
 # Usage (on the droplet, from the project root, as root):
-#   DATABASE_URL='postgresql://...' APP_URL='https://your-domain-or-ip' bash deploy/droplet-managed.sh
+#   DOMAIN=blessly.co ACME_EMAIL=you@blessly.co APP_URL=https://blessly.co DATABASE_URL='postgresql://...' bash deploy/droplet-managed.sh
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
@@ -40,12 +40,26 @@ fi
 if [[ -n "${APP_URL:-}" ]]; then
   set_env APP_URL "$APP_URL"
 fi
+if [[ -n "${DOMAIN:-}" ]]; then
+  set_env DOMAIN "$DOMAIN"
+fi
+if [[ -n "${ACME_EMAIL:-}" ]]; then
+  set_env ACME_EMAIL "$ACME_EMAIL"
+fi
 if ! grep -q '^DATABASE_URL=.\+' .env; then
   echo "DATABASE_URL is missing. Pass it in the environment." >&2
   exit 1
 fi
 if ! grep -q '^APP_URL=.\+' .env; then
   echo "APP_URL is missing. Pass it in the environment (https://your-host)." >&2
+  exit 1
+fi
+if ! grep -q '^DOMAIN=.\+' .env; then
+  echo "DOMAIN is missing. Pass the bare domain (example: blessly.co)." >&2
+  exit 1
+fi
+if ! grep -q '^ACME_EMAIL=.\+' .env; then
+  echo "ACME_EMAIL is missing. Let's Encrypt uses it for expiry notices." >&2
   exit 1
 fi
 
