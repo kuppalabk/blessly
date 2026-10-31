@@ -12,6 +12,7 @@ x-build: &build
 
 services:
   migrate:
+    image: blessly:app
     build: *build
     command: npm run db:migrate
     env_file: .env
@@ -20,6 +21,7 @@ services:
       NODE_ENV: production
     restart: "no"
   web:
+    image: blessly:app
     build: *build
     env_file: .env
     environment:
@@ -32,6 +34,7 @@ services:
         condition: service_completed_successfully
     restart: unless-stopped
   worker:
+    image: blessly:app
     build: *build
     command: npm run jobs
     env_file: .env
@@ -43,6 +46,9 @@ services:
       migrate:
         condition: service_completed_successfully
     restart: unless-stopped
+    # The image health check calls the web port. The worker runs jobs and does not listen there.
+    healthcheck:
+      disable: true
   caddy:
     image: caddy:2
     restart: unless-stopped

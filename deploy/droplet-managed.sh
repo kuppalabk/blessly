@@ -63,6 +63,10 @@ if ! grep -q '^ACME_EMAIL=.\+' .env; then
   exit 1
 fi
 
-docker compose -f docker-compose.managed.yml up -d --build
+if docker image inspect blessly:app >/dev/null 2>&1; then
+  docker compose -f docker-compose.managed.yml up -d --no-build
+else
+  docker compose -f docker-compose.managed.yml up -d --build
+fi
 echo "Started. Check: docker compose -f docker-compose.managed.yml ps"
 echo "Health: curl -kfsS \"\${APP_URL}/api/health\" || curl -kfsS https://127.0.0.1/api/health"
