@@ -1,0 +1,218 @@
+1091	Chọn một người trong nhóm này
+1092	Chọn một người đã chia sẻ với nhóm này
+1093	Mã PIN
+1094	Gói
+1095	Lên kế hoạch tiệc mừng
+1096	Lên kế hoạch sự kiện cùng nhau và xem ai sẽ đến
+1097	Không tìm thấy gói
+1098	Lên kế hoạch cùng nhau
+1099	Gói: {name}
+1100	Các gói
+1101	Quản trị viên nền tảng
+1102	Vui lòng sửa các trường được đánh dấu.
+1103	Vui lòng đăng nhập
+1104	Vui lòng trả lời trước {deadline}.
+1105	Vui lòng chờ…
+1106	Thơ mộng
+1107	Đăng cập nhật (hiển thị trên trang và gửi email cho khách chưa từ chối)
+1108	Đăng lên
+1109	Đăng tin nhắn
+1110	Đăng lên mạng xã hội
+1111	Đăng cập nhật
+1112	Mã bưu chính / PIN
+1113	Đã đăng — cảm ơn bạn!
+1114	Đang đăng…
+1115	Đang chuẩn bị thiệp…
+1116	Đang chuẩn bị…
+1117	Xem trước
+1118	Xem trước trang lời chúc
+1119	Trước
+1120	Mẫu trước
+1121	Tháng trước
+1122	Giá
+1123	Giá (không bắt buộc)
+1124	Bảng giá
+1125	In và gửi
+1126	In và gửi “{title}”
+1127	In và gửi thiệp bạn đã thiết kế — mở một trong các thiệp của bạn
+1128	PDF sẵn sàng in
+1129	Thiệp in
+1130	Đang in
+1131	Quyền riêng tư
+1132	chính sách quyền riêng tư
+1133	Riêng tư — chỉ mình tôi
+1134	Đang xử lý…
+1135	Sản phẩm
+1136	Sản phẩm
+1137	Tiến độ
+1138	Khuyến mãi
+1139	Công khai
+1140	Đăng mẫu thiệp của bạn
+1141	Điểm cuối push phải là https
+1142	Thông báo đẩy chưa được thiết lập trên máy chủ này
+1143	Mã QR
+1144	Mã QR cho ứng dụng xác thực của bạn
+1145	Màu mã QR
+1146	Số lượng
+1147	Đang xếp hàng
+1148	Tạo nhanh
+1149	Raksha Bandhan
+1150	Ramadan
+1151	Đã đọc
+1152	Nhận quyên góp từ các chiến dịch gây quỹ
+1153	Tin nhắn gần đây
+1154	Tên người nhận
+1155	Email người nhận
+1156	Tên người nhận
+1157	Kết nối lại để xem người của bạn và lời nhắc. Mọi thứ bạn đã lưu vẫn an toàn.
+1158	Ghi âm tin nhắn trước
+1159	Ghi âm hoặc quay tin nhắn thoại/video
+1160	Ghi lại
+1161	Không thể ghi trong trình duyệt này.
+1162	Bản ghi có thể lên tới 40 MB
+1163	Mã khôi phục
+1164	Làm lại
+1165	Làm mới mẫu
+1166	Đang làm mới…
+1167	Đã hoàn tiền
+1168	Khu vực: IN, GB, US, AE hoặc GLOBAL, cách nhau bằng dấu phẩy
+1169	tổ chức từ thiện đã đăng ký {number} ({country})
+1170	Số đăng ký
+1171	Mối quan hệ
+1172	Nhắc tôi về các ngày đã chia sẻ
+1173	Lời nhắc gửi
+1174	Lời nhắc
+1175	Lời nhắc, lời chúc AI bằng 32 ngôn ngữ, 250 thiệp mỗi dịp
+1176	Xóa
+1177	Xóa {name}
+1178	Xóa {v}?
+1179	Bỏ yêu thích
+1180	Xóa dịp {n}
+1181	Xóa ảnh
+1182	Mở lại
+1183	Đã trả lời từ liên kết
+1184	Phản hồi
+1185	Phản hồi và khách mời
+1186	Đã đóng nhận phản hồi — hãy liên hệ người tổ chức
+1187	Đã đóng nhận phản hồi.
+1188	Trả lời
+1189	Trả lời trước (không bắt buộc)
+1190	Được yêu cầu theo quy định của WhatsApp và email. Nếu không có, sẽ không gửi gì cho họ.
+1191	Gửi lại
+1192	Không tìm thấy lượt giữ chỗ
+1193	Giữ chỗ
+1194	Giữ chỗ để không ai khác mua trùng. {first} sẽ không thấy là ai.
+1195	Đã giữ {taken} trên {quantity}
+1196	Bạn đã giữ chỗ.
+1197	Đang giữ chỗ…
+1198	Đặt lại mật khẩu
+1199	Nghỉ hưu
+1200	Tiết lộ quà của tôi
+1201	Tiết lộ quà của bạn trước
+1202	Viết lại
+1203	Phải
+1204	Vai trò của {name}
+1205	Xoay ·
+1206	Bo góc
+1207	Dòng {row}: {reason}
+1208	RSVP cho sự kiện gia đình và nhận công việc
+1209	Lưu
+1210	Lưu và gửi
+1211	Lưu thay đổi
+1212	Lưu khách hàng
+1213	Lưu mật khẩu mới
+1214	Lưu người
+1215	Lưu cài đặt
+1216	Lưu mã khôi phục của bạn
+1217	Đã lưu
+1218	Đang lưu…
+1219	Gửi lời cảm ơn (gửi email một lần cho mọi người đã để lại email)
+1220	Lên lịch
+1221	Lên lịch chiến dịch
+1222	Lên lịch trước tối đa một năm
+1223	Đã lên lịch
+1224	Không tìm thấy lịch gửi
+1225	Đang lên lịch…
+1226	Tìm kiếm
+1227	Tìm {length} người
+1228	Tìm khách hàng
+1229	Tìm theo tên, điện thoại hoặc email
+1230	Tìm người
+1231	Xem khách hàng
+1232	Xem tại {v}
+1233	Xem các gói
+1234	Xem ai đã giữ chỗ món nào? Điều này sẽ làm mất bất ngờ.
+1235	Xem lý do
+1236	Mục đã chọn
+1237	Bán quà trong cửa hàng Blessly
+1238	Bán, thiết kế hoặc gây quỹ
+1239	Bán, thiết kế hoặc gây quỹ cùng Blessly
+1240	Người bán
+1241	Tài khoản người bán, nhà thiết kế thiệp và tổ chức từ thiện
+1242	Gửi thẻ quà tặng qua email, hôm nay hoặc vào ngày sinh nhật của họ
+1243	Gửi liên kết mới
+1244	Gửi thông báo thử
+1245	Gửi lúc
+1246	Đưa xuống dưới
+1247	Gửi trước
+1248	Gửi câu trả lời của tôi
+1249	Gửi ngay
+1250	Gửi vào
+1251	Gửi vào (không bắt buộc — ví dụ ngày sinh nhật của họ)
+1252	Gửi hoặc lên lịch
+1253	Gửi liên kết đặt lại
+1254	Gửi lời cảm ơn
+1255	Gửi liên kết qua WhatsApp hoặc bất kỳ nơi nào. Liên kết có hiệu lực trong 7 ngày; ai có liên kết đều có thể tham gia cho đến khi nhóm đầy.
+1256	Gửi ảnh dưới dạng tệp tải lên
+1257	Gửi đến {recipientName}
+1258	Gửi lời chúc của bạn
+1259	Đang gửi
+1260	Đang gửi…
+1261	Đã gửi
+1262	Đã gửi — hãy kiểm tra thông báo của bạn.
+1263	Gửi vào {kind} của khách hàng, mỗi năm một lần.
+1264	Đã gửi trong tháng này
+1265	Được gửi qua Blessly thay mặt {businessName}.
+1266	Đã đặt
+1267	Đặt mật khẩu
+1268	Hãy đặt mật khẩu trước (Quên mật khẩu ở trang đăng nhập) để bạn vẫn có thể đăng nhập
+1269	Đặt mật khẩu
+1270	Thiết lập doanh nghiệp của bạn
+1271	Thiết lập doanh nghiệp của bạn trước
+1272	Đang thiết lập…
+1273	Cài đặt
+1274	Chia sẻ
+1275	Chia sẻ một kỷ niệm
+1276	Chia sẻ một ảnh hoặc kỷ niệm
+1277	Chia sẻ sinh nhật và ngày kỷ niệm — mọi người đều nhận lời nhắc
+1278	Chia sẻ lên mạng xã hội
+1279	Chia sẻ qua WhatsApp
+1280	Chia sẻ một liên kết; bạn bè đóng góp từ bất cứ đâu. Quà nhóm được chi trả cho bạn; quyên góp gây quỹ được chuyển thẳng đến tổ chức từ thiện đã xác minh.
+1281	Chia sẻ album trước
+1282	Chia sẻ với gia đình
+1283	Chia sẻ địa chỉ email của bạn với Blessly để tạo tài khoản
+1284	Được chia sẻ bởi
+1285	được chia sẻ bởi {name}
+1286	Được chia sẻ bởi {sharedBy}
+1287	được bạn chia sẻ
+1288	Ngày đã chia sẻ
+1289	người đã chia sẻ
+1290	Đã chia sẻ với
+1291	Đã chia sẻ với gia đình
+1292	Cửa hàng
+1293	Tên cửa hàng
+1294	Ngắn
+1295	Hiển thị mỗi người đã đóng góp bao nhiêu
+1296	Hiển thị trên trang tiệc mừng (không bắt buộc)
+1297	Hiển thị ai sẽ đến cho khách khác
+1298	Hiển thị {from}–{to} trên {total}
+1299	Cùng ký thiệp nhóm
+1300	Đăng nhập
+1301	Đăng nhập bằng mã
+1302	Ký một thiệp nhóm từ cả gia đình
+1303	Ký hoặc vẽ
+1304	Đăng xuất khỏi các thiết bị khác
+1305	Ký thiệp
+1306	Đăng nhập và bảo mật
+1307	Đăng nhập bằng tin nhắn văn bản chưa khả dụng
+1308	Đăng nhập không thành công. Vui lòng thử lại.

@@ -1,0 +1,218 @@
+219	Hayır kurumu sicil numaranızı ekleyin (ör. Hindistan’da 12A/80G, Birleşik Krallık’ta Charity Commission numarası, ABD’de EIN)
+220	İlk kişinizi ekleyin
+221	Adınızı ekleyin
+222	Fotoğraflarınızı ekleyin
+223	{recipientName} için dileğinizi ekleyin
+224	Eklendi
+225	{n} misafir eklendi
+226	{n} misafir eklendi
+227	Ekleniyor…
+228	Adres
+229	Adres satırı 1
+230	Adres satırı 2 (isteğe bağlı)
+231	Yönetici
+232	Yönetici — davet edip çıkarabilir de
+233	Yöneticiler iki adımlı doğrulamayı açık tutmalıdır
+234	Yöneticiler, yönetim alanını kullanmadan önce iki adımlı doğrulamayı açmalıdır.
+235	Şifrenizden (veya Google, Apple ya da SMS kodundan) sonra Google Authenticator, Microsoft Authenticator veya 1Password gibi bir doğrulama uygulamasından da kod gireceksiniz.
+236	Yapay zekâ kullanılamadığından yerleşik bir şablon kullandık.
+237	Yapay zekâ ile dilekler · akıllı hatırlatıcılar · aile
+238	Yapay zekâ dileği sizin üslubunuzda ve dilinizde yazar. Her özel gün için 250 kart tasarımından birini seçin.
+239	Albüm
+240	Albüm adı
+241	Albüm bulunamadı
+242	Albüm ayarları
+243	Albümler
+244	Uyarılar
+245	Tümü
+246	Tüm albümler
+247	Tüm değişiklikler kaydedildi
+248	tüm müşteriler
+249	Tüm aile çevreleri
+250	Video kaydetmek için kameraya ve mikrofona izin verin.
+251	Sesli mesaj kaydetmek için mikrofona izin verin.
+252	Zaten karar verildi
+253	Zaten hesabınız var mı?
+254	Zaten alınmış
+255	Tutar
+256	Tutar (
+257	Bu e-postayla bir hesap zaten var
+258	ve
+259	yıl dönümü
+260	Yıl dönümü
+261	Yıl dönümü dilekleri
+262	Yanıt
+263	Herkes
+264	Herkes açıp katılım yanıtı verebilir — topluluk etkinlikleri için ideal.
+265	Bağlantıya sahip herkes
+266	Bu bağlantıya sahip herkes albümü görebilir.
+267	Apple
+268	Uygula
+269	{kind} olarak başvur
+270	Onayla
+271	Onaylandı
+272	Geliyor musunuz?
+273	Erişilebilirlik ihtiyaçlarını sor
+274	Beslenme tercihlerini sor
+275	Misafirlere gelip gelemeyeceklerini sor (LCV)
+276	İşletme sahibinden yenisini isteyin.
+277	Blessly destekten bir siparişi iptal edip iade etmesini iste
+278	Atanan
+279	Müşterilerinize WhatsApp ve e-postayla otomatik doğum günü dilekleri
+280	Otomasyon bulunamadı
+281	Otomasyonlar
+282	Baby shower
+283	Geri
+284	{name} sayfasına dön
+285	Kutlamalara dön
+286	Ana sayfaya dön
+287	Girişe dön
+288	Kartlarıma dön
+289	Kişilere dön
+290	Ayarlara dön
+291	Karta dön
+292	İstek listelerine dön
+293	Arka plan
+294	Arka plan fotoğrafı
+295	Geçersiz imza
+296	Bakiye:
+297	{recipientName} için ilk mesajı siz bırakın.
+298	İlk mesajı siz bırakın
+299	En iyi arkadaş
+300	Fatura dönemi
+301	doğum günü
+302	Doğum günü
+303	Doğum günü ve yıl dönümü dilekleri o gün kendiliğinden gider — kendi işletme numaranızdan WhatsApp ile veya e-postayla
+304	Doğum günü dilekleri
+305	{familyName} içinde paylaşılan doğum günleri ve yıl dönümleri
+306	Doğum günleri, bayramlar ve aile etkinlikleri
+307	alındı
+308	Aldım
+309	Öne getir
+310	Erkek kardeş
+311	4.000 karta göz at
+312	Yerleşik şablon. Bu dilde üslup seçenekleri için yapay zekâ yazarının açık olması gerekir.
+313	İşletme
+314	İşletme bilgileri
+315	İşletme adı
+316	İşletme adı (mesajlarda görünür)
+317	İşletme planı
+318	Ticaret sicili / vergi no. (isteğe bağlı)
+319	İşletme ayarları
+320	İşletme: WhatsApp ve e-postayla ayda {n} müşteri dileği
+321	Satın al
+322	{amount} hediye kartı satın al
+323	{name} hediye kartı satın al
+324	yapan
+325	Hesap oluşturarak şunları kabul etmiş olursunuz:
+326	Bağımsız tasarımcılardan
+327	Takvim
+328	Kampanya
+329	Kampanya adı
+330	Kampanya bulunamadı
+331	Kampanyalar
+332	düzenleyebilir.
+333	Mesaj gönderebilir
+334	Görüntüleyebilir
+335	Görüntüleyebilir — görür ve katılım yanıtı verir
+336	Gelebilir misiniz?
+337	gelemiyor
+338	Gelemiyor
+339	Gidemem
+340	Katılamayacağım
+341	Tarayamıyor musunuz? Bu anahtarı girin:
+342	İptal
+343	İptal et ve misafirlere haber ver
+344	İptal edip misafirlerinize haber verilsin mi?
+345	İstediğiniz zaman iptal edin; planınız ödenen dönemin sonuna kadar çalışır. Vergi uygulanabilir.
+346	Planı iptal et
+347	Kutlamayı iptal et
+348	Planınız iptal edilsin mi? Ödediğiniz dönemin sonuna kadar çalışmaya devam eder.
+349	İptal edildi
+350	İptal edildi — şu tarihe kadar geçerli
+351	Açıklama
+352	Kart kodu
+353	Kart tasarımı
+354	Kart tasarımcısı
+355	Kart düzenleyici
+356	Kart kütüphanesi
+357	Kart adı
+358	Kart bulunamadı
+359	Kutla
+360	Kutlama
+361	Kutlama bulunamadı
+362	Kutlamalar
+363	Orta
+364	Yanıtımı değiştir
+365	Numarayı değiştir
+366	Şifreyi değiştir
+367	Yazıları, yazı tiplerini ve renkleri değiştirin; fotoğraf, çıkartma, imza veya QR kod ekleyin.
+368	Hayır kurumu
+369	Hayır kurumu adı
+370	E-posta adresini kontrol edin
+371	Telefon numarasını kontrol edin
+372	Bağlantının tamamını kopyaladığınızı kontrol edin veya yenisini isteyin.
+373	E-postanızı kontrol edin
+374	Bu cihaz kontrol ediliyor…
+375	WhatsApp ile kontrol ediliyor…
+376	Kontrol ediliyor…
+377	Ödeme (test modu)
+378	Ödeme bulunamadı
+379	Katkıda bulun
+380	{name} seç
+381	Bir kart ve tutar seçin, e-postayla gönderelim — şimdi ya da o gün.
+382	Bir sohbet seçin
+383	Gelecekte bir kapanış tarihi seçin
+384	Bir kişi seçin
+385	Bir tarih seçin
+386	Geçmemiş bir tarih seçin
+387	Bir yıl içinde bir tarih seçin
+388	Bir hediye kartı seçin
+389	Yeni bir şifre belirleyin
+390	Bir fotoğraf seçin
+391	Bir şablon seçin
+392	Bir saat seçin
+393	Geçerli bir saat seçin
+394	Doğrulanmış bir hayır kurumu seçin
+395	Bir adres seçin
+396	Bir yanıt seçin
+397	Bir görsel seçin
+398	En az bir fotoğraf seçin
+399	Ön yüz veya iç kısım seçin
+400	Gösterilen tutarlardan birini seçin
+401	Kutlamalarınızdan birini seçin
+402	İstek listelerinizden birini seçin
+403	Fotoğraf seç
+404	İşletme planını seçin
+405	Noel
+406	Çevre adı
+407	Çevre özeti
+408	Temizle
+409	Toplamayı kapat
+410	Kartı kapat
+411	Yeni katkılara kapalı.
+412	Kapanış
+413	Kapanış tarihi (isteğe bağlı)
+414	Kod
+415	Uygulamanızdaki kod (değişiklik yapmak için)
+416	İş arkadaşı
+417	colleague@example.com
+418	Her özel günün fotoğraflarını toplayın ve paylaşın
+419	Doğum günü, düğün veya Diwali fotoğraflarını tek bir albümde toplayın, 100 tasarımdan birini seçin ve ailenizle paylaşın — onlar da fotoğraf ekleyebilir.
+420	Toplama
+421	Renk
+422	Renk {a}
+423	Renk teması
+424	Anladığımız sütunlar:
+425	geliyor
+426	Geliyor
+427	Yaklaşanlar
+428	Onayla ve aç
+429	Silmeyi onayla
+430	Ayrılmayı onayla
+431	Bu müşterilerin sizden mesaj almayı kabul ettiğini onaylayın
+432	Bağla
+433	WhatsApp’ı bağla
+434	Önce WhatsApp’ı bağlayın
+435	WhatsApp mesajı göndermek için Ayarlar’dan WhatsApp’ı bağlayın. O zamana kadar e-postası olan müşterilere e-posta gider.
+436	bağlı

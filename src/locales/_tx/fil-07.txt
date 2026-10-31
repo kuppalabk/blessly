@@ -1,0 +1,218 @@
+1309	Pumalya ang sign-in
+1310	Nakansela ang sign-in.
+1311	Naka-sign out na sa iba pang lugar.
+1312	Mga naka-sign in na device
+1313	Simpleng presyo
+1314	I-simulate ang na-decline na card
+1315	Kapatid na babae
+1316	Laki
+1317	SMS (ipapaalala namin sa iyo na magpadala)
+1318	Ibang tao
+1319	May sinisimulan nang card ngayon — subukang muli maya-maya
+1320	May nangyaring mali
+1321	Anak na lalaki
+1322	Hatiin ang mga gawain: sino ang kukuha ng cake, sino ang magpapareserba ng mesa
+1323	Spreadsheet (.csv)
+1324	Simulan
+1325	Simulan ang koleksiyon
+1326	Simulan ang bagong card
+1327	Simulan ang wishlist
+1328	Simulan ang ibang circle
+1329	Magsimula nang libre
+1330	Simulan ang iisang card na pipirmahan ng buong pamilya. Kami ang susulat ng unang mensahe at ipapaalam sa lahat.
+1331	Simulan ang group card
+1332	Simulan muli ang set-up
+1333	Simulan ang family circle mo
+1334	Sinisimulan…
+1335	Nagsisimula
+1336	Estado / county (opsyonal)
+1337	Status
+1338	Sticker
+1339	Mga sticker
+1340	Itigil ang email
+1341	Itigil ang pagbabahagi (hihinto sa paggana ang link)
+1342	Itigil ang mga mensahe sa WhatsApp
+1343	Kalye, bayan
+1344	Pangalan ng studio o artist
+1345	Estilo
+1346	Buod
+1347	Support
+1348	Support view ng {name}
+1349	Mga tagasuporta
+1350	Sinuspinde
+1351	Pakikiramay
+1352	System User
+1353	Tag
+1354	tag na “{tag}”
+1355	mga tag
+1356	Mga tag (pinaghihiwalay ng kuwit)
+1357	Pindutin ang “Write my wish”, o mag-type ng sarili mo.
+1358	Pindutin ang isang bagay para piliin ito. I-drag para ilipat, gamitin ang sulok para palakihin o paliitin, at ang tuldok sa itaas para paikutin.
+1359	Target (opsyonal)
+1360	target {v}
+1361	Hindi nakita ang task
+1362	Team
+1363	Email ng miyembro ng team
+1364	Telegram (ipapaalala namin sa iyo na magpadala)
+1365	Mga template
+1366	mga tuntunin
+1367	Mga Tuntunin
+1368	mga tuntunin ng paggamit
+1369	Test card 4242 4242 4242 4242 · anumang petsa sa hinaharap · anumang CVC
+1370	Test checkout
+1371	Test mode.
+1372	Test na bayad — walang totoong pera
+1373	Text
+1374	Kulay ng teksto
+1375	I-text sa akin ang code
+1376	Hindi pa naka-set up ang text message sa server na ito
+1377	Salamat
+1378	Salamat — nasa {name} ka na.
+1379	Salamat — kumpirmado na ang order mo.
+1380	Maraming salamat sa pagiging bahagi ng {title}. Napakahalaga nito!
+1381	Maraming salamat sa magandang regalo — napakahalaga nito!
+1382	Salamat, guro
+1383	Salamat! Natanggap na ang kontribusyon mo.
+1384	Salamat! Natanggap na ang donasyon mo.
+1385	Pasalamatan ang mga bisita (lahat ng dumating o nag-iwan ng mensahe, isang beses)
+1386	Naipadala sa email ang pasasalamat sa {n} na tao
+1387	Naipadala sa email ang pasasalamat sa {n} na tao
+1388	Naipadala ang pasasalamat sa {n} na bisita
+1389	Naipadala ang pasasalamat sa {n} na bisita
+1390	Salamat — naidagdag na ang mensahe mo.
+1391	Salamat, {name}! Naidagdag ang {n} na larawan.
+1392	Salamat, {name}! Naidagdag ang {n} na larawan.
+1393	Salamat! Lalabas ito kapag naaprubahan ng host.
+1394	Salamat! Magiging aktibo ang plan mo sa sandaling makumpirma ang bayad — karaniwan sa loob ng ilang segundo. I-refresh ang pahinang ito maya-maya.
+1395	Thanksgiving
+1396	Naka-link na sa ibang Blessly account ang account na iyon
+1397	Wala ang kaarawang iyon
+1398	Masyadong malaki ang larawan ng card na iyon
+1399	Gumagamit ang card na iyon ng larawang hindi sa iyo
+1400	Nag-expire na ang code na iyon. Magsimulang muli.
+1401	Mali ang code na iyon
+1402	Mali ang code na iyon — tiyaking awtomatikong nakatakda ang oras sa telepono mo
+1403	Wala ang petsang iyon
+1404	Wala sa circle na ito ang event na iyon
+1405	Hindi namin mabasa ang file na iyon bilang larawan
+1406	Hindi namin mabasa ang file na iyon bilang larawan (gumamit ng JPG, PNG, WebP o GIF)
+1407	Hindi namin magamit ang larawang iyon bilang card
+1408	Ginagamit na ng ibang account ang numerong iyon
+1409	Mali ang password na iyon
+1410	Wala sa album na ito ang larawang iyon
+1411	Hindi available ang produktong iyon
+1412	Hindi suportado ang format ng recording na iyon
+1413	Walang laman ang recording na iyon
+1414	Hindi available ang recording na iyon
+1415	Hindi available ang sign-in option na iyon.
+1416	Masyadong matagal — pakisubukang muli.
+1417	Wala na ang item sa wishlist na iyon
+1418	Masyadong malaki iyan
+1419	Kasama sa {name} plan ang {maxAlbums} na album. Mag-upgrade sa Family para sa higit pa.
+1420	Ang pamilya {surname}
+1421	katapusan ng panahon
+1422	Masyadong malaki ang file (2 MB ang pinakamalaki)
+1423	Masyadong malaki ang file (2 MB ang pinakamalaki).
+1424	Masyadong malaki ang file (2 MB ang pinakamalaki). Hatiin ito sa mas maliliit na file.
+1425	Kailangan ng file ng header row at kahit isang customer
+1426	Pinapayagan ng libreng plan ang {limit} na tao sa isang circle. Puwedeng mag-upgrade ang owner ng circle sa Family para sa hanggang {MAX_MEMBERS}.
+1427	Hindi puwedeng magkaroon ng presyo ang libreng plan
+1428	Ang pinakamataas ay {v1}
+1429	Ang pinakamababa ay {v1}
+1430	Hindi natuloy ang bayad. Walang nasingil — pakisubukang muli.
+1431	Hindi natuloy ang bayad. Walang nasingil.
+1432	Hindi mabuksan ang pahina ng bayad. Pakisubukang muli sa loob ng isang minuto.
+1433	May harap at loob bilang 15 × 20 cm na pahina ang PDF — i-print sa magkabilang gilid, o sa print shop.
+1434	Dapat bago ang selebrasyon ang deadline ng RSVP
+1435	Kulang sa server ang ENCRYPTION_KEY, kaya hindi nito ligtas na maitatago ang mga secret (WhatsApp credentials, mga two-step verification key)
+1436	Hindi magkatugma ang dalawang password
+1437	Ang buong pamilya
+1438	Walang laman ang pagbati
+1439	Ipinapakita ng pahina ng pagbati ang harap at loob ng card na ito sa itaas ng mensahe mo.
+1440	Itinatakda ng team ng Blessly ang verify token at app secret sa server. Awtomatikong ina-unsubscribe sa WhatsApp ang mga customer na sumagot ng STOP; muling sinusubscribe sila ng START.
+1441	Email nila
+1442	Mobile nila
+1443	Pangalan nila sa pagbati
+1444	Walang bayad na plan na puwedeng kanselahin
+1445	Walang dapat i-payout
+1446	Sandbox brand ang mga ito para sa pagsubok. Manggagaling ang totoong brand sa gift card partner kapag nakakonekta na.
+1447	Nasa team mo na sila
+1448	Sinuspinde ang account na ito. Pakikontak ang support.
+1449	Puno na ang album na ito ({maxPhotosPerAlbum} na larawan sa {name} plan).
+1450	Hindi tumatanggap ng larawan ang album na ito
+1451	Hindi kayang magpakita ng notification ng browser na ito. Makakatanggap ka pa rin ng alerto sa app at email.
+1452	Sobra ang laman ng card na ito
+1453	Tapos na ang selebrasyong ito
+1454	Nakansela na ang selebrasyong ito.
+1455	Natapos na ang selebrasyon — salamat sa lahat ng dumating!
+1456	Nakansela ang selebrasyong ito.
+1457	Para lang ito sa mga inimbitahang bisita
+1458	Para lang ito sa mga inimbitahang bisita. Buksan ito mula sa imbitasyon mo.
+1459	Puno na ang selebrasyong ito
+1460	Hindi tumatanggap ng sagot ang selebrasyong ito
+1461	Nakansela ang selebrasyong ito
+1462	Puno na ang circle na ito (6 na tao).
+1463	Sarado na ang koleksiyong ito
+1464	Sarado na ang koleksiyong ito.
+1465	Pumayag ang customer na ito na tumanggap ng mga mensahe mula sa amin
+1466	Puno na ang family circle na ito ({limit} na tao)
+1467	Nakansela ang gift card na ito
+1468	Nag-expire na ang imbitasyong ito. Humingi ng bagong link kay {inviter}.
+1469	Nag-expire na ang imbitasyong ito. Humingi ng bagong link.
+1470	Nag-expire na ang imbitasyong ito. Humingi ng bago sa owner.
+1471	Para sa {email} ang imbitasyong ito, pero naka-log in ka bilang {email2}. Mag-log out at mag-log in (o mag-sign up) gamit ang {email3}.
+1472	Para sa {email} ang imbitasyong ito. Mag-log in gamit ang email na iyon para tanggapin ito.
+1473	Hindi gumagana ang invite link na ito
+1474	Hindi wasto ang invite link na ito
+1475	Nagamit na ang imbitasyong ito.
+1476	Nakansela ang imbitasyong ito. Humingi ng bagong link kay {inviter}.
+1477	Nakansela ang imbitasyong ito. Humingi ng bagong link.
+1478	Sandbox card ito at hindi ito magagamit.
+1479	Ganito nakikita ng mga kaibigan ang listahan mo.
+1480	Sarili mong listahan ito — nire-reserve ng mga kaibigan ang mga regalo mula rito
+1481	Hindi wasto ang link na ito
+1482	Maaaring nag-expire na o tinanggal na ang link na ito.
+1483	Ngayong buwan
+1484	Puno na ang pahinang ito
+1485	Ang bayad na ito ay {status}.
+1486	Permanenteng buburahin nito ang account mo
+1487	Hindi ibinebenta ang plan na ito sa currency na iyon
+1488	Nag-expire na o nagamit na ang reset link na ito. Humingi ng bago.
+1489	Hindi gumagana ang unsubscribe link na ito. Puwede ka ring sumagot ng STOP sa anumang WhatsApp message.
+1490	Naka-konekta na sa ibang Blessly business ang WhatsApp number na ito
+1491	Puno na ang pahina ng pagbating ito
+1492	Hindi tumatanggap ng mensahe ang pahina ng pagbating ito
+1493	Oras
+1494	Oras (opsyonal)
+1495	Time zone
+1496	Timezone
+1497	Timezone (sa oras na ito ipapadala ang mga mensahe)
+1498	Timezone (dumarating ang mga paalala ng 9am dito)
+1499	Para kay {name}
+1500	Gagawin
+1501	para patuloy na mabati ang mga customer pagkatapos noon.
+1502	Para umalis, gawing owner muna ang iba.
+1503	Para makita ang mga tick ng naihatid at nabasa, at para mahawakan ang mga customer na sumasagot ng STOP, dapat tumanggap ng webhooks ng numero mo ang Blessly Meta app. Callback URL:
+1504	para magsimulang muli.
+1505	Ngayon
+1506	Bukas
+1507	Tono
+1508	Sobrang dami ng pagsubok. Maghintay ng isang minuto at subukang muli.
+1509	Sobrang dami ng pagsubok. Maghintay ng isang minuto.
+1510	Sobrang dami ng variable
+1511	Sobrang dami ng maling code. Magsimulang muli.
+1512	Mahal kung mag-isa? Magsimula ng regalong pangkat
+1513	Mga tool
+1514	Para sa: {title}
+1515	Bayan o lungsod
+1516	Tracking number
+1517	Subukan si {name}
+1518	Subukan ang iba
+1519	I-off
+1520	I-on
+1521	Two-step verification
+1522	Naka-on na ang two-step verification
+1523	Naka-off ang two-step verification.
+1524	Naka-on ang two-step verification.
+1525	Two-step verification, Google at Apple, sign-in gamit ang telepono, password
+1526	Uri

@@ -1,0 +1,216 @@
+1527	Onaylamak için DELETE yazın
+1528	Tekrar yazın
+1529	Sözlerinizi yazın
+1530	Atanmamış
+1531	Yetkisiz
+1532	Geri al
+1533	Son çizgiyi geri al
+1534	{title} favorilerden çıkar
+1535	Bilinmeyen saat dilimi
+1536	Bilinmeyen saat dilimi
+1537	Sınırsız fotoğraf albümü, her birinde {photos} fotoğraf
+1538	Kaydedilmemiş değişiklikler
+1539	Abonelikten çık
+1540	Abonelikten çıkıldı
+1541	Abonelikten çıkıldı:
+1542	Yukarı ↕ aşağı
+1543	yaklaşan etkinlikler
+1544	Güncelleme paylaşıldı ve {n} misafire e-postayla gönderildi
+1545	Güncelleme paylaşıldı ve {n} misafire e-postayla gönderildi
+1546	Güncellemeler
+1547	{v} kişisinden güncellemeler
+1548	Aile planına yükselt
+1549	Bir fotoğraf yükleyin (JPG, PNG, WebP veya GIF)
+1550	Bir MP4 veya WebM video yükleyin
+1551	Tasarım yükle (3:4, en az 900 px genişlikte)
+1552	Yükleme başarısız
+1553	Fotoğraf yükle
+1554	Yükleniyor…
+1555	Yüklemeler
+1556	Kullan
+1557	2 harfli bir ülke kodu kullanın
+1558	Başka bir numara kullanın
+1559	https:// ile başlayan bir bağlantı kullanın
+1560	Bunun yerine hazır bir tasarım kullanın
+1561	19:30 gibi bir saat kullanın
+1562	Bir web bağlantısı kullanın (https://…)
+1563	Onayla veya reddet kullanın
+1564	En az 8 karakter kullanın
+1565	Son kullanma tarihi
+1566	IN,GB gibi ülke kodları kullanın
+1567	Küçük harf, rakam ve tire kullanın
+1568	Kimlik doğrulama uygulamamı kullan
+1569	Bu kartı bir dilek için kullan
+1570	Bu mesajı kullan
+1571	{uses} kez kullanıldı
+1572	Kullanıcı bulunamadı
+1573	Kullanıcılar, işletmeler, sistem sağlığı ve denetim günlüğü
+1574	WhatsApp’ın resmi İşletme Platformu’nu kullanır. Müşteriler istediği zaman STOP yanıtı verebilir
+1575	Vaisakhi
+1576	Sevgililer Günü
+1577	Değer
+1578	Mekan
+1579	Doğrula
+1580	Vesak
+1581	Video
+1582	Görüntülü görüşme bağlantısı (isteğe bağlı)
+1583	Video mesaj · {time}
+1584	{from} kişisinden video mesaj
+1585	Videolar en fazla 40 MB olabilir
+1586	Arkadaş olarak görüntüle
+1587	Sayfayı görüntüle
+1588	Görüntüleyenler etkinlik ekleyemez
+1589	Görüntüleyenler görev ekleyemez
+1590	Görüntüleyenler grup kartını başlatamaz
+1591	vip, düzenli
+1592	Ses
+1593	Sesli mesaj · {time}
+1594	{from} kişisinden sesli mesaj
+1595	Bekleniyor
+1596	inceleme bekleniyor
+1597	İnceleme bekleniyor
+1598	{n} istiyor
+1599	Giriş yolları
+1600	Bu ülkeye henüz basılı kart gönderemiyoruz
+1601	Hesap oluşturmak için e-posta adresinize ihtiyacımız var. Lütfen paylaşıma izin verin ya da e-postayla kaydolun.
+1602	{phone} numarasına bir kod gönderdik.
+1603	Web sitesi (isteğe bağlı)
+1604	Düğün
+1605	Tekrar hoş geldiniz
+1606	Aferin
+1607	Neyi kutluyorsunuz?
+1608	Bu nedir?
+1609	Ne yapılması gerekiyor?
+1610	Ne istersiniz?
+1611	Ayırtılanlar sizden gizlenir.
+1612	Neler oluyor
+1613	whatsapp
+1614	WhatsApp
+1615	WhatsApp (göndermeniz için hatırlatırız)
+1616	WhatsApp / cep
+1617	WhatsApp +{recipient}
+1618	WhatsApp Business
+1619	WhatsApp Business Hesap Kimliği
+1620	WhatsApp Business Hesap Kimliği uzun bir sayıdır
+1621	WhatsApp bu bilgileri kabul etmedi: {message}
+1622	WhatsApp bağlı değil
+1623	Yalnızca WhatsApp
+1624	WhatsApp, işletmelerin yalnızca Meta’nın onayladığı bir şablonla sohbet başlatmasına izin verir. WhatsApp Manager’da bir tane oluşturun (ör. “Happy birthday
+1625	WhatsApp şablonu
+1626	WhatsApp şablonu (Meta onaylı)
+1627	WhatsApp ya da WhatsApp yoksa e-posta
+1628	Ne zaman
+1629	Ne zaman (cihazınızın saati)
+1630	Ne zaman ve nerede
+1631	Nerede (isteğe bağlı)
+1632	Beyaz kenarlık
+1633	Kim
+1634	Kim görebilir
+1635	Kim için?
+1636	Bu kim için?
+1637	Bu dilek kim için?
+1638	Kim için
+1639	Kim için (isteğe bağlı)
+1640	Kim neyi yapıyor
+1641	Eş
+1642	Dilek
+1643	Dileğiniz sizin için taslak olarak hazırlandı
+1644	Her müşteriye otomatik dilek gönderin
+1645	Dilek dili
+1646	Dilek bulunamadı
+1647	Dilek sayfası bulunamadı
+1648	Arkadaşlardan dilekler
+1649	Dilekler, mesaj almayı kabul eden müşterilere gününde {timezone} saatine göre otomatik gönderilir. Her müşteri özel gün başına bir mesaj alır.
+1650	{language} dilinde dilekler
+1651	Dilek listesi
+1652	Dilek listesi bulunamadı
+1653	Dilek listeleri
+1654	Blessly
+1655	Blessly — her özel gün için dilekler ve hatırlatmalar
+1656	İşletmeler için Blessly
+1657	Blessly işletmeniz için göndermeyi durdurdu: {reason}. Bu çözülene kadar hiçbir şey gönderilmez — lütfen destekle iletişime geçin.
+1658	Blessly kişisel hatırlatmalar ve dilekler için ücretsizdir. Aile ve İşletme planları daha büyük aile çevreleri, albümler ve WhatsApp’ta otomatik müşteri dilekleri ekler.
+1659	Blessly her doğum günü, yıl dönümü ve festivalden bir hafta önce sizi hatırlatır, {length} dilde samimi bir dilek yazar ve hazır halde WhatsApp ya da Telegram’ı açar.
+1660	Blessly test ödemesi
+1661	whatsapp_business_messaging ve whatsapp_business_management izinleriyle ve kalıcı bir belirteç oluşturun.
+1662	işletme adınızla.
+1663	İş ve dönüm noktaları
+1664	İş yıl dönümü
+1665	Ayarlar → Giriş ve güvenlik bölümünde cep numarası eklenmiş hesaplarda çalışır.
+1666	Çok isterim
+1667	Bir mesaj yazın ya da fotoğraf ekleyin
+1668	Kısa bir mesaj yazın
+1669	Bir teşekkür mesajı yazın
+1670	Bir dilek yazın
+1671	Şunun için bir dilek yazın
+1672	Dileğimi yaz
+1673	Önce dileği yazın ya da oluşturun
+1674	Mesajı yazın
+1675	Güncellemeyi yazın
+1676	Yazılıyor…
+1677	yıl
+1678	Yıllık · %20 tasarruf
+1679	Evet, sil
+1680	Evet, orada olacağım
+1681	Siz
+1682	Zaten bir işletme çalışma alanınız var
+1683	Yeniden başvurabilirsiniz.
+1684	En fazla {MAX_FAMILIES_PER_USER} aile çevresinde olabilirsiniz
+1685	En fazla 200 kutlamanız olabilir
+1686	En fazla 50 dilek listeniz olabilir
+1687	En fazla {MAX_DESIGNS} kart tutabilirsiniz — ihtiyacınız olmayanları silin
+1688	Yalnızca eklediğiniz fotoğrafları değiştirebilirsiniz
+1689	Yalnızca daha düşük rolde olan kişileri kaldırabilirsiniz
+1690	Yalnızca eklediğiniz fotoğrafları kaldırabilirsiniz
+1691	Yalnızca öğe ekleyebildiğiniz bir aile çevresiyle albüm paylaşabilirsiniz
+1692	Yalnızca kişi ekleyebildiğiniz bir aile çevresiyle paylaşabilirsiniz
+1693	Yalnızca size verilen görevleri güncelleyebilirsiniz
+1694	Bu albümü yalnızca görüntüleyebilirsiniz
+1695	Bir yıl öncesine kadar zamanlayabilirsiniz
+1696	Kutlama başladıktan sonra teşekkür gönderebilirsiniz
+1697	Kendi ürününüzü satın alamazsınız
+1698	Gelemeyeceksiniz
+1699	Gelebilirsiniz
+1700	Bu işletme zaten size ait.
+1701	Müşterileri, doğum günü otomasyonlarını ve kampanyaları yönetebileceksiniz.
+1702	Diğer cihazlarınızda çıkış yapılacak.
+1703	şu rolle katılacaksınız: {role}
+1704	Zaten içerdesiniz — aile çevresini açın
+1705	Zaten başka bir işletmenin ekibindesiniz. Önce oradan ayrılın.
+1706	Zaten {name} planındasınız
+1707	Zaten abonelikten çıktınız.
+1708	Geliyorsunuz
+1709	Bunu alıyorsunuz
+1710	Çevrim dışısınız
+1711	Katılıyorsunuz
+1712	{n} cihazda giriş yaptınız (bu cihaz dahil).
+1713	{n} cihazda giriş yaptınız (bu cihaz dahil).
+1714	Ev sahibi sizsiniz.
+1715	Buradaki tek kişi sizsiniz, bu yüzden ayrılmak {familyName} çevresini siler.
+1716	Zaten başvurdunuz
+1717	Bir aile çevresine davet edildiniz. Katılmak için ücretsiz bir hesap oluşturun.
+1718	Bir aile çevresine davet edildiniz. Katılmak için giriş yapın.
+1719	Saklayabildiğimiz en fazla kart fotoğrafını yüklediniz (1.000)
+1720	{kind} hesabınız henüz onaylanmadı
+1721	Başvurunuz ({kind}) onaylanmadı.
+1722	Kampanyalarınız
+1723	Kartınız: {title}
+1724	Kartlarınız
+1725	Aile çevreniz dolu ({n} kişi).
+1726	Aile çevreleriniz
+1727	Mevcut şifreniz doğru değil
+1728	Verileriniz
+1729	Ücretsiz denemeniz sona erdi, bu yüzden hiçbir şey gönderilmiyor.
+1730	Hediye kartınız
+1731	Listeniz boş.
+1732	Mesajınız
+1733	Adınız
+1734	Kendi kişileriniz ve hatırlatmalarınız özel kalır
+1735	Şifreniz
+1736	Kişileriniz
+1737	Fotoğrafınız
+1738	Planınız
+1739	Planınız en fazla {v1} müşteriyi destekler
+1740	Planınız {seats} ekip girişi{v2} içerir (siz dahil).
+1741	Dileğiniz (istediğiniz gibi düzenleyin)
+1742	Zoom

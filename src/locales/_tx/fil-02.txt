@@ -1,0 +1,218 @@
+219	Idagdag ang registration number ng iyong charity (hal. 12A/80G sa India, numero ng Charity Commission sa UK, EIN sa US)
+220	Idagdag ang iyong unang tao
+221	Ilagay ang iyong pangalan
+222	Idagdag ang iyong mga larawan
+223	Idagdag ang iyong pagbati para kay {recipientName}
+224	Naidagdag
+225	{n} bisita ang naidagdag
+226	{n} bisita ang naidagdag
+227	Nagdadagdag…
+228	Address
+229	Address line 1
+230	Address line 2 (opsyonal)
+231	Admin
+232	Admin — puwede ring mag-imbita at mag-alis
+233	Kailangang panatilihing naka-on ng mga admin ang two-step verification
+234	Kailangang i-on ng mga admin ang two-step verification bago gamitin ang admin area.
+235	Pagkatapos ng password mo (o Google, Apple o text code), maglalagay ka rin ng code mula sa authenticator app gaya ng Google Authenticator, Microsoft Authenticator o 1Password.
+236	Hindi available ang AI, kaya gumamit kami ng built-in na template.
+237	Mga pagbati gamit ang AI · matatalinong paalala · pamilya
+238	Isinusulat ng AI ang pagbati sa iyong tono at wika. Pumili ng isa sa 250 disenyo ng card bawat okasyon.
+239	Album
+240	Pangalan ng album
+241	Hindi nakita ang album
+242	Settings ng album
+243	Mga album
+244	Mga alerto
+245	Lahat
+246	Lahat ng album
+247	Na-save ang lahat ng pagbabago
+248	lahat ng customer
+249	Lahat ng family circle
+250	Payagan ang camera at mikropono para mag-record ng video.
+251	Payagan ang mikropono para mag-record ng voice message.
+252	Napagpasyahan na
+253	May account ka na?
+254	Nakuha na
+255	Halaga
+256	Halaga (
+257	May account na sa email na ito
+258	at
+259	anibersaryo
+260	Anibersaryo
+261	Mga pagbati sa anibersaryo
+262	Sagot
+263	Kahit sino
+264	Kahit sino ay puwedeng magbukas at mag-RSVP — maganda para sa mga kaganapan ng komunidad.
+265	Kahit sinong may link
+266	Kahit sinong may link na ito ay makakakita ng album.
+267	Apple
+268	Ilapat
+269	Mag-apply bilang {kind}
+270	Aprubahan
+271	Naaprubahan
+272	Darating ka ba?
+273	Itanong ang mga pangangailangan sa accessibility
+274	Itanong ang mga pangangailangan sa pagkain
+275	Tanungin ang mga bisita kung makakarating sila (RSVP)
+276	Humingi ng bago sa may-ari ng negosyo.
+277	Hilingin sa Blessly support na kanselahin at i-refund ang isang order
+278	Italaga kay
+279	Awtomatikong pagbati sa kaarawan para sa mga customer mo sa WhatsApp at email
+280	Hindi nakita ang automation
+281	Mga automation
+282	Baby shower
+283	Bumalik
+284	Bumalik sa {name}
+285	Bumalik sa mga pagdiriwang
+286	Bumalik sa home
+287	Bumalik sa pag-log in
+288	Bumalik sa mga card ko
+289	Bumalik sa mga tao
+290	Bumalik sa settings
+291	Bumalik sa card
+292	Bumalik sa mga wishlist
+293	Background
+294	Larawan sa background
+295	Hindi wastong pirma
+296	Balanse:
+297	Maging una sa pagdagdag ng mensahe para kay {recipientName}.
+298	Maging una sa pag-iwan ng mensahe
+299	Matalik na kaibigan
+300	Panahon ng pagsingil
+301	kaarawan
+302	Kaarawan
+303	Kusang naipapadala ang mga pagbati sa kaarawan at anibersaryo sa mismong araw — sa WhatsApp mula sa sarili mong numero ng negosyo, o sa email
+304	Mga pagbati sa kaarawan
+305	Mga kaarawan at anibersaryong ibinahagi sa {familyName}
+306	Mga kaarawan, pista at kaganapan ng pamilya
+307	nabili
+308	Nabili ko na
+309	Iusad pasulong
+310	Kapatid na lalaki
+311	Mag-browse ng 4,000 card
+312	Built-in na template. Kailangang naka-on ang AI writer para sa iba't ibang tono sa wikang ito.
+313	Negosyo
+314	Mga detalye ng negosyo
+315	Pangalan ng negosyo
+316	Pangalan ng negosyo (makikita sa mga mensahe)
+317	Business plan
+318	Rehistro ng negosyo / GST (opsyonal)
+319	Settings ng negosyo
+320	Business: {n} pagbati sa customer bawat buwan sa WhatsApp at email
+321	Bumili
+322	Bumili ng {amount} gift card
+323	Bumili ng {name} gift card
+324	ni
+325	Sa paggawa ng account, sumasang-ayon ka sa
+326	Mula sa mga independent designer
+327	Kalendaryo
+328	Campaign
+329	Pangalan ng campaign
+330	Hindi nakita ang campaign
+331	Mga campaign
+332	puwedeng mag-edit.
+333	Puwedeng mag-mensahe
+334	Puwedeng tumingin
+335	Puwedeng tumingin — nakikita at nagre-RSVP
+336	Makakarating ka ba?
+337	hindi makakarating
+338	Hindi makakarating
+339	Hindi makakapunta
+340	Hindi ako aabot
+341	Hindi ma-scan? Ilagay ang key na ito:
+342	Kanselahin
+343	Kanselahin at sabihan ang mga bisita
+344	Kanselahin at sabihan ang iyong mga bisita?
+345	Kanselahin anumang oras; gagana ang plan mo hanggang matapos ang bayad na panahon. Maaaring may buwis.
+346	Kanselahin ang plan
+347	Kanselahin ang pagdiriwang
+348	Kanselahin ang plan mo? Gagana pa rin ito hanggang matapos ang panahong binayaran mo.
+349	Kinansela
+350	Kinansela — gumagana hanggang
+351	Caption
+352	Code ng card
+353	Disenyo ng card
+354	Designer ng card
+355	Editor ng card
+356	Library ng card
+357	Pangalan ng card
+358	Hindi nakita ang card
+359	Magdiwang
+360	Pagdiriwang
+361	Hindi nakita ang pagdiriwang
+362	Mga pagdiriwang
+363	Gitna
+364	Baguhin ang sagot ko
+365	Palitan ang numero
+366	Palitan ang password
+367	Palitan ang mga salita, font at kulay; magdagdag ng larawan, sticker, pirma o QR code.
+368	Charity
+369	Pangalan ng charity
+370	Tingnan ang email address
+371	Tingnan ang numero ng telepono
+372	Tiyaking nakopya mo ang buong link, o humingi ng bago.
+373	Tingnan ang iyong email
+374	Sinusuri ang device na ito…
+375	Sinusuri sa WhatsApp…
+376	Sinusuri…
+377	Checkout (test mode)
+378	Hindi nakita ang checkout
+379	Mag-ambag
+380	Piliin ang {name}
+381	Pumili ng card at halaga, at ie-email namin — ngayon, o sa mismong araw.
+382	Pumili ng chat
+383	Pumili ng petsa ng pagsasara sa hinaharap
+384	Pumili ng contact
+385	Pumili ng petsa
+386	Pumili ng petsang hindi pa lumilipas
+387	Pumili ng petsa sa loob ng isang taon
+388	Pumili ng gift card
+389	Pumili ng bagong password
+390	Pumili ng larawan
+391	Pumili ng template
+392	Pumili ng oras
+393	Pumili ng wastong oras
+394	Pumili ng beripikadong charity
+395	Pumili ng address
+396	Pumili ng sagot
+397	Pumili ng larawan
+398	Pumili ng kahit isang larawan
+399	Piliin ang harap o loob
+400	Pumili ng isa sa mga halagang ipinapakita
+401	Pumili ng isa sa iyong mga pagdiriwang
+402	Pumili ng isa sa iyong mga wishlist
+403	Pumili ng mga larawan
+404	Piliin ang Business plan
+405	Pasko
+406	Pangalan ng circle
+407	Buod ng circle
+408	I-clear
+409	Isara ang ambagan
+410	Isara ang card
+411	Sarado na sa mga bagong ambag.
+412	Magsasara
+413	Magsasara sa (opsyonal)
+414	Code
+415	Code mula sa app mo (para gumawa ng pagbabago)
+416	Katrabaho
+417	colleague@example.com
+418	Mangolekta at magbahagi ng mga larawan mula sa bawat okasyon
+419	Tipunin ang mga larawan mula sa kaarawan, kasal o Diwali sa isang album, pumili ng isa sa 100 disenyo at ibahagi sa pamilya — puwede rin silang magdagdag ng mga larawan.
+420	Ambagan
+421	Kulay
+422	Kulay {a}
+423	Tema ng kulay
+424	Mga column na naiintindihan namin:
+425	darating
+426	Darating
+427	Paparating
+428	Kumpirmahin at i-on
+429	Kumpirmahin ang pagbura
+430	Kumpirmahin ang pag-alis
+431	Kumpirmahin na pumayag ang mga customer na ito na makatanggap ng mga mensahe mula sa iyo
+432	Ikonekta
+433	Ikonekta ang WhatsApp
+434	Ikonekta muna ang WhatsApp
+435	Ikonekta ang WhatsApp sa Settings para magpadala ng mga mensahe sa WhatsApp. Hanggang doon, email ang matatanggap ng mga customer na may email.
+436	nakakonekta

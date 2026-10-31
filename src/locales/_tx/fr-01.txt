@@ -1,0 +1,218 @@
+1	— facultatif
+2	— trop de variables
+3	— votre dernier paiement a échoué ; veuillez mettre à jour votre moyen de paiement
+4	· {partySize} personnes
+5	· par {ownerName}
+6	· annulé
+7	· clôturé
+8	· couverture
+9	· la date peut varier
+10	· la date peut varier selon la région
+11	· souvenir
+12	· pas de consentement — ne recevra pas de messages
+13	· réf. {reference}
+14	· partagé
+15	· objectif {v}
+16	· suivi {tracking}
+17	· en attente d’approbation
+18	({pending} à approuver)
+19	(anonyme pour les autres)
+20	(vous)
+21	pour {honoree}
+22	pour {v}
+23	Enregistré : {consentSource}.
+24	avec le statut « {v} »
+25	— tous les membres reçoivent ces rappels.
+26	— lecture seule, en tant que {admin}. Rien ne peut être modifié.
+27	— rappels, vœux et albums pour chaque occasion.
+28	— partage la page du vœu avec l’aperçu de la carte
+29	— vous ne verrez pas quoi tant que vous ne choisissez pas de regarder.
+30	, {maybe} peut-être
+31	, ou partagez le lien — les personnes qui répondent sont ajoutées automatiquement
+32	, vos proches, rappels, vœux et pages de vœux, ainsi que votre entreprise et ses clients. Les cercles familiaux que vous possédez passent à la personne suivante du cercle. Action irréversible.
+33	 ! Profitez d’une petite douceur offerte chez
+34	. Dates comme 14/03, 14 mars ou 1990-03-14 (jour en premier). Les clients existants avec le même mobile ou e-mail sont mis à jour.
+35	. Seul(e)
+36	. Envoyez-le le jour J.
+37	. Blessly ne leur écrira pas là-bas.
+38	…ou collez-le ici
+39	 »), puis appuyez sur « Actualiser les modèles » dans Paramètres.
+40	({v} chacune, imprimée sur carton 350 g avec enveloppe, frais de port inclus)
+41	(obligatoire),
+42	{added} ajoutés · {updated} mis à jour · {skipped} ignorés
+43	{coming} viennent · {guests} sur la liste des invités
+44	{consented} ont accepté les messages
+45	{days} jours
+46	{going} viennent · {maybe} peut-être · {no} ne peuvent pas · {waiting} sans réponse
+47	{greeting}, {recipientName} — une carte de {senderName}
+48	{hostName} vous invite
+49	{inDays} jours
+50	{inviter} vous a invité(e) à
+51	{inviter} vous a invité(e) à rejoindre {family} sur Blessly — nous partagerons les anniversaires, organiserons des événements familiaux et signerons des cartes ensemble. Rejoignez-nous ici : {link}
+52	{label} (facultatif)
+53	{label} : jour
+54	{label} : mois
+55	La connexion avec {label} a échoué ({why}). Veuillez réessayer.
+56	La connexion avec {label} a échoué. Veuillez réessayer.
+57	{length} sur {limit} personnes · vous êtes {v}
+58	{length} sur {maxPhotos} photos · JPG, PNG, WebP ou GIF jusqu’à 15 Mo. Les données de localisation sont supprimées de chaque photo.
+59	{length} vœux dans les deux prochaines semaines
+60	{memberCount} sur {limit} personnes · {v}
+61	{mine} albums (illimités avec le forfait {plan}) · {photos} photos chacun
+62	{mine} sur {max} albums avec le forfait {plan} · {photos} photos chacun
+63	{n} client
+64	{n} clients
+65	{n} jour
+66	{n} jours
+67	{n} cadeau a été réservé
+68	{n} cadeaux ont été réservés
+69	{n} viennent
+70	{n} en stock
+71	{n} article
+72	{n} articles
+73	{n} message
+74	{n} messages
+75	{n} personnes
+76	{n} personnes viennent
+77	{n} personne
+78	{n} personne vient
+79	{n} photo
+80	{n} album photo
+81	{n} albums photo
+82	{n} photo partagée par {name} sur Blessly
+83	{n} photos
+84	{n} photos partagées par {name} sur Blessly
+85	{n} lus sur WhatsApp
+86	{n} code de secours restant.
+87	{n} codes de secours restants.
+88	{n} ligne
+89	{n} lignes
+90	{n} accès équipe
+91	{name} (vous)
+92	Carte cadeau {name} pour {recipientName}
+93	{name} a reçu votre réponse.
+94	{name} vous invite
+95	Forfait {name}
+96	{name} ne saura pas qui.
+97	{name}, {hostName} vous invite
+98	Liste de souhaits – {occasion}
+99	{phone} · connexion par code SMS
+100	{photos} photos chacun
+101	{provider} connecté
+102	{provider} est maintenant connecté.
+103	{quantity} réservés par vous.
+104	{raised} de {n} personnes
+105	{raised} de {n} personne
+106	{raised} collectés auprès de {n} personnes
+107	{raised} collectés auprès de {n} personne
+108	Il en reste {remaining} sur {quantity}
+109	Invitation {role}
+110	{seller} · livre en {v}
+111	{sent} envoyés · {delivered} livrés · {read} lus · {failed} non envoyés
+112	{signed} membres de la famille sur {total} ont signé
+113	Il en reste {stock}
+114	{title} par {by}
+115	{unread} non lues
+116	{used} messages utilisés sur {quota}
+117	{used} accès utilisés sur {seats}. Les membres de l’équipe peuvent gérer les clients, automatisations et campagnes ; seul le propriétaire modifie les paramètres et WhatsApp.
+118	{v} · envoyé par e-mail à {emailed}
+119	Plus que {v} jours, {v2} heures et {v3} minutes
+120	{v} activé
+121	+ Ajouter un événement familial
+122	+ Ajouter une occasion
+123	+ Vœu
+124	+ Inviter
+125	+ Photo
+126	+ Partager quelqu’un
+127	+ Signature ou dessin
+128	+ Texte
+129	■ Arrêter
+130	● Enregistrer un message vidéo
+131	● Enregistrer un message vocal
+132	✉️ L’imprimer et l’envoyer par la poste
+133	✎ Personnaliser ce modèle
+134	🎁 Liste de souhaits
+135	🎁 Cadeau commun
+136	🎉 C’est maintenant !
+137	🎙️ Un message vocal de {from}
+138	🎥 Un message vidéo de {from}
+139	💚 Collecte solidaire
+140	💝 {title} · {v} collectés
+141	💝 Ajouter un cadeau commun
+142	💝 Cadeau commun : {raised} collectés — participez
+143	💝 Cadeau commun : {raised} collectés sur {target} — participez
+144	📱 Se connecter avec un code SMS
+145	$ USD
+146	₹ INR
+147	1 · Occasion et personne
+148	1 · Se souvenir
+149	1 jour avant
+150	1. Scannez ceci avec votre application d’authentification :
+151	2 · Créer
+152	2 · Écrire le vœu
+153	2. Saisissez le code à 6 chiffres affiché
+154	250 modèles de cartes pour chacune des 40 occasions, en 32 langues.
+155	250 modèles pour chaque occasion
+156	3 · Partager
+157	3 · Choisir une carte · modèle {n} · {shown} sur {total} modèles
+158	3 · Votre carte
+159	3 jours avant
+160	4 · Message vocal ou vidéo (facultatif)
+161	40 occasions × 250 modèles (10 000 cartes), en 32 langues. Toutes les illustrations sont originales et libres d’utilisation.
+162	7 jours avant
+163	Une fête peut compter jusqu’à {MAX_GUESTS} invités
+164	Un client avec cet e-mail existe déjà
+165	Un client avec ce numéro existe déjà
+166	Un modèle ne peut pas être à la fois masqué et mis en avant
+167	Un cercle familial compte au maximum {limit} personnes
+168	Une liste peut contenir jusqu’à {MAX_ITEMS} articles
+169	Une page pour votre fête ou événement : invitations et réponses, compte à rebours, et un mur de messages, photos et souvenirs.
+170	Un vœu pour {name}
+171	Un vœu pour vous, {name}
+172	Un vœu de {name}
+173	À propos de vous
+174	Besoins d’accessibilité (facultatif)
+175	Compte introuvable
+176	Actions
+177	Ajouter
+178	Ajouter {s}
+179	Ajoutez une colonne « name »
+180	Ajoutez un anniversaire ou un anniversaire de mariage
+181	Ajoutez un anniversaire et nous vous le rappellerons une semaine avant, rédigerons le vœu la veille et vous préviendrons le jour J.
+182	Ajouter une légende
+183	Ajouter un événement familial
+184	Ajoutez un numéro de mobile ou un e-mail
+185	Ajoutez un nom
+186	Ajoutez une note (conservée dans le journal d’audit)
+187	Ajouter un produit
+188	Ajoutez un objet
+189	Ajouter une tâche
+190	Ajouter un article
+191	Ajouter un client
+192	Ajouter l’événement
+193	Ajouter des invités
+194	Ajoutez des invités — un par ligne : nom, puis e-mail et/ou téléphone
+195	Ajouter un souvenir
+196	Ajouter mon vœu
+197	Ajouter le numéro
+198	Ajoutez-en un pour vous connecter avec un code SMS
+199	Ajoutez vos proches une fois. Les fêtes de votre pays sont déjà dans votre calendrier.
+200	Ajouter une personne
+201	Ajouter des photos
+202	Ajouter le produit (envoyé pour vérification)
+203	Ajouter un code QR
+204	Ajouter quelqu’un
+205	Ajoutez quelqu’un de cher
+206	Ajoutez quelque chose qui vous ferait plaisir
+207	Ajouter la tâche
+208	Ajoutez l’adresse
+209	Ajoutez l’objet et le message de l’e-mail
+210	Ajoutez les personnes qui comptent
+211	Ajoutez le code postal
+212	Ajoutez le nom du destinataire
+213	Ajoutez la ville
+214	Ajouter au calendrier
+215	Ajouter à la carte
+216	Ajouter aux favoris
+217	Ajouter à la liste
+218	Ajouter à mon calendrier

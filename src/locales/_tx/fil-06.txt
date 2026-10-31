@@ -1,0 +1,218 @@
+1091	Pumili ng tao sa circle na ito
+1092	Pumili ng taong ibinahagi sa circle na ito
+1093	PIN
+1094	Plan
+1095	Magplano ng selebrasyon
+1096	Magplano ng mga event nang magkakasama at tingnan kung sino ang darating
+1097	Hindi nakita ang plan
+1098	Magplano nang magkasama
+1099	Plan: {name}
+1100	Mga plan
+1101	Platform admin
+1102	Pakiayos ang mga may markang field.
+1103	Mangyaring mag-log in
+1104	Pakisagot bago ang {deadline}.
+1105	Pakihintay…
+1106	Patula
+1107	Mag-post ng update (ipapakita sa pahina at ie-email sa mga bisitang hindi pa tumatanggi)
+1108	I-post sa
+1109	I-post ang mensahe
+1110	I-post sa social media
+1111	I-post ang update
+1112	Postcode / PIN
+1113	Na-post — salamat!
+1114	Nagpo-post…
+1115	Inihahanda ang card mo…
+1116	Inihahanda…
+1117	Preview
+1118	I-preview ang pahina ng pagbati
+1119	Nakaraan
+1120	Nakaraang disenyo
+1121	Nakaraang buwan
+1122	Presyo
+1123	Presyo (opsyonal)
+1124	Presyo
+1125	I-print at i-post
+1126	I-print at i-post ang “{title}”
+1127	I-print at i-post ang card na dinisenyo mo — buksan ang isa sa mga card mo
+1128	Print-ready na PDF
+1129	Mga naka-print na card
+1130	Nagpi-print
+1131	Privacy
+1132	patakaran sa privacy
+1133	Pribado — ako lang
+1134	Pinoproseso…
+1135	Produkto
+1136	Mga produkto
+1137	Progreso
+1138	Promosyon
+1139	Publiko
+1140	I-publish ang mga disenyo ng card mo
+1141	Dapat https ang push endpoint
+1142	Hindi pa naka-set up ang push notification sa server na ito
+1143	QR code
+1144	QR code para sa authenticator app mo
+1145	Kulay ng QR
+1146	Dami
+1147	Nakapila
+1148	Mabilisang gawa
+1149	Raksha Bandhan
+1150	Ramadan
+1151	Nabasa
+1152	Tumanggap ng donasyon mula sa mga fundraiser
+1153	Mga kamakailang mensahe
+1154	Pangalan ng tatanggap
+1155	Email ng tatanggap
+1156	Pangalan ng tatanggap
+1157	Kumonekta muli para makita ang mga tao at paalala mo. Ligtas ang anumang na-save mo.
+1158	Mag-record muna ng mensahe
+1159	Mag-record ng voice o video message
+1160	Mag-record muli
+1161	Hindi available ang recording sa browser na ito.
+1162	Hanggang 40 MB ang laki ng recording
+1163	Recovery code
+1164	Ulitin
+1165	I-refresh ang mga template
+1166	Nire-refresh…
+1167	Na-refund
+1168	Mga rehiyon: IN, GB, US, AE o GLOBAL, pinaghihiwalay ng kuwit
+1169	rehistradong charity {number} ({country})
+1170	Registration number
+1171	Relasyon
+1172	Paalalahanan ako tungkol sa mga ibinahaging petsa
+1173	Paalalang ipapadala
+1174	Mga paalala
+1175	Mga paalala, pagbating gawa ng AI sa 32 wika, 250 card kada okasyon
+1176	Alisin
+1177	Alisin si {name}
+1178	Alisin ang {v}?
+1179	Alisin sa paborito
+1180	Alisin ang okasyon {n}
+1181	Alisin ang larawan
+1182	Buksang muli
+1183	Sumagot mula sa link
+1184	Mga sagot
+1185	Mga sagot at bisita
+1186	Sarado na ang mga sagot — makipag-ugnayan sa host
+1187	Sarado na ang mga sagot.
+1188	Sumagot
+1189	Sumagot bago ang (opsyonal)
+1190	Kailangan ng mga patakaran ng WhatsApp at email. Kung wala ito, walang ipapadala sa kanila.
+1191	Ipadala muli
+1192	Hindi nakita ang reservation
+1193	I-reserve
+1194	I-reserve ito para walang ibang bumili ng parehong bagay. Hindi makikita ni {first} kung sino.
+1195	Na-reserve ang {taken} sa {quantity}
+1196	Ikaw ang nag-reserve.
+1197	Nire-reserve…
+1198	I-reset ang password mo
+1199	Pagreretiro
+1200	Ipakita ang mga regalo ko
+1201	Ipakita muna ang mga regalo mo
+1202	Isulat muli
+1203	Kanan
+1204	Role para kay {name}
+1205	Pag-ikot ·
+1206	Bilugang gilid
+1207	Row {row}: {reason}
+1208	Mag-RSVP sa mga event ng pamilya at kumuha ng task
+1209	I-save
+1210	I-save at ipadala
+1211	I-save ang mga pagbabago
+1212	I-save ang customer
+1213	I-save ang bagong password
+1214	I-save ang tao
+1215	I-save ang settings
+1216	I-save ang mga recovery code mo
+1217	Na-save
+1218	Sine-save…
+1219	Magpasalamat (isang beses na ie-email sa lahat ng nag-iwan ng email)
+1220	Mag-iskedyul
+1221	Mag-iskedyul ng kampanya
+1222	Mag-iskedyul hanggang isang taon nang maaga
+1223	Naka-iskedyul
+1224	Hindi nakita ang nakaiskedyul na pagpapadala
+1225	Nag-iiskedyul…
+1226	Maghanap
+1227	Maghanap sa {length} na tao
+1228	Maghanap ng customer
+1229	Maghanap ng pangalan, telepono o email
+1230	Maghanap ng tao
+1231	Tingnan ang mga customer
+1232	Tingnan sa {v}
+1233	Tingnan ang mga plan
+1234	Tingnan kung sino ang nag-reserve ng alin? Masisira nito ang sorpresa.
+1235	Tingnan kung bakit
+1236	Napiling item
+1237	Magbenta ng regalo sa Blessly shop
+1238	Magbenta, mag-disenyo o mangalap ng pondo
+1239	Magbenta, mag-disenyo o mangalap ng pondo gamit ang Blessly
+1240	Seller
+1241	Mga account ng seller, card designer at charity
+1242	Magpadala ng gift card sa email, ngayon o sa kaarawan nila
+1243	Magpadala ng bagong link
+1244	Magpadala ng test notification
+1245	Ipadala sa
+1246	Ipadala pabalik
+1247	Ipadala bago ang
+1248	Ipadala ang sagot ko
+1249	Ipadala ngayon
+1250	Ipadala sa
+1251	Ipadala sa (opsyonal — hal. kaarawan nila)
+1252	Ipadala o mag-iskedyul
+1253	Ipadala ang reset link
+1254	Magpadala ng pasasalamat
+1255	Ipadala ang link sa WhatsApp o saan man. Gumagana ito sa loob ng 7 araw; sinumang may hawak nito ay puwedeng sumali hanggang mapuno ang circle.
+1256	Ipadala ang larawan bilang file upload
+1257	Ipadala kay {recipientName}
+1258	Ipadala ang pagbati mo
+1259	Ipinapadala
+1260	Ipinapadala…
+1261	Naipadala
+1262	Naipadala — tingnan ang mga notification mo.
+1263	Ipinapadala sa {kind} ng customer, isang beses sa isang taon.
+1264	Naipadala ngayong buwan
+1265	Ipinadala sa pamamagitan ng Blessly para sa {businessName}.
+1266	Itakda
+1267	Magtakda ng password
+1268	Magtakda muna ng password (Forgot password sa login page) para makapag-sign in ka pa rin
+1269	Itakda ang password
+1270	I-set up ang negosyo mo
+1271	I-set up muna ang negosyo mo
+1272	Sine-set up…
+1273	Settings
+1274	Ibahagi
+1275	Magbahagi ng alaala
+1276	Magbahagi ng larawan o alaala
+1277	Magbahagi ng kaarawan at anibersaryo — lahat ay makakatanggap ng paalala
+1278	Ibahagi sa social media
+1279	Ibahagi sa WhatsApp
+1280	Isang link lang ang ibahagi; puwedeng mag-ambag ang mga kaibigan mula saan man. Ibibigay sa iyo ang mga regalong pangkat; diretso sa beripikadong charity ang mga fundraiser.
+1281	Ibahagi muna ang album
+1282	Ibahagi sa pamilya
+1283	Ibahagi ang email address mo sa Blessly para makagawa ng account
+1284	Ibinahagi ni
+1285	ibinahagi ni {name}
+1286	Ibinahagi ni {sharedBy}
+1287	ibinahagi mo
+1288	Mga ibinahaging petsa
+1289	ibinahaging tao
+1290	Ibinahagi sa
+1291	Ibinahagi sa pamilya
+1292	Shop
+1293	Pangalan ng shop
+1294	Maikli
+1295	Ipakita kung magkano ang ibinigay ng bawat tao
+1296	Ipakita sa pahina ng selebrasyon (opsyonal)
+1297	Ipakita kung sino ang darating sa ibang bisita
+1298	Ipinapakita ang {from}–{to} ng {total}
+1299	Pumirma sa group card nang magkakasama
+1300	Mag-sign in
+1301	Mag-sign in gamit ang code
+1302	Pumirma sa iisang group card mula sa buong pamilya
+1303	Pumirma o gumuhit
+1304	Mag-sign out sa ibang device
+1305	Pirmahan ang card
+1306	Sign-in at seguridad
+1307	Hindi pa available ang sign-in sa pamamagitan ng text message
+1308	Hindi gumana ang sign-in. Pakisubukang muli.

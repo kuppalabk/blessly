@@ -1,0 +1,218 @@
+1091	Bu aile çevresinden birini seçin
+1092	Bu aile çevresiyle paylaşılan birini seçin
+1093	PIN
+1094	Plan
+1095	Bir kutlama planlayın
+1096	Etkinlikleri birlikte planlayın ve kimin geleceğini görün
+1097	Plan bulunamadı
+1098	Birlikte planlayın
+1099	Plan: {name}
+1100	Planlar
+1101	Platform yöneticisi
+1102	Lütfen vurgulanan alanları düzeltin.
+1103	Lütfen giriş yapın
+1104	Lütfen {deadline} tarihine kadar yanıtlayın.
+1105	Lütfen bekleyin…
+1106	Şiirsel
+1107	Bir güncelleme paylaşın (sayfada gösterilir ve hayır demeyen misafirlere e-postayla gönderilir)
+1108	Şuraya paylaşın:
+1109	Mesajı paylaş
+1110	Sosyal medyada paylaş
+1111	Güncellemeyi paylaş
+1112	Posta kodu / PIN
+1113	Paylaşıldı — teşekkürler!
+1114	Paylaşılıyor…
+1115	Kartınız hazırlanıyor…
+1116	Hazırlanıyor…
+1117	Önizleme
+1118	Dilek sayfasını önizle
+1119	Önceki
+1120	Önceki tasarım
+1121	Önceki ay
+1122	Fiyat
+1123	Fiyat (isteğe bağlı)
+1124	Fiyatlandırma
+1125	Yazdır ve posta ile gönder
+1126	“{title}” kartını yazdır ve posta ile gönder
+1127	Tasarladığınız bir kartı yazdırın ve posta ile gönderin — kartlarınızdan birini açın
+1128	Baskıya hazır PDF
+1129	Basılı kartlar
+1130	Yazdırılıyor
+1131	Gizlilik
+1132	gizlilik politikası
+1133	Özel — yalnızca ben
+1134	İşleniyor…
+1135	Ürün
+1136	Ürünler
+1137	İlerleme
+1138	Promosyon
+1139	Herkese açık
+1140	Kart tasarımlarınızı yayımlayın
+1141	Push uç noktası https olmalıdır
+1142	Push bildirimleri bu sunucuda kurulmadı
+1143	QR kod
+1144	Kimlik doğrulama uygulamanız için QR kod
+1145	QR rengi
+1146	Adet
+1147	Sırada
+1148	Hızlı oluştur
+1149	Raksha Bandhan
+1150	Ramazan
+1151	Okundu
+1152	Bağış kampanyalarından bağış alın
+1153	Son mesajlar
+1154	Alıcının adı
+1155	Alıcının e-postası
+1156	Alıcının adı
+1157	Kişilerinizi ve hatırlatmalarınızı görmek için yeniden bağlanın. Kaydettiğiniz her şey güvende.
+1158	Önce bir mesaj kaydedin
+1159	Sesli ya da görüntülü mesaj kaydedin
+1160	Yeniden kaydet
+1161	Bu tarayıcıda kayıt kullanılamıyor.
+1162	Kayıtlar en fazla 40 MB olabilir
+1163	Kurtarma kodu
+1164	Yinele
+1165	Şablonları yenile
+1166	Yenileniyor…
+1167	İade edildi
+1168	Bölgeler: IN, GB, US, AE veya GLOBAL, virgülle ayrılmış
+1169	kayıtlı hayır kurumu {number} ({country})
+1170	Kayıt numarası
+1171	İlişki
+1172	Paylaşılan tarihler için beni hatırlat
+1173	Gönderilecek hatırlatma
+1174	Hatırlatmalar
+1175	Hatırlatmalar, 32 dilde yapay zekâ dilekleri, özel gün başına 250 kart
+1176	Kaldır
+1177	{name} kaldır
+1178	{v} kaldırılsın mı?
+1179	Favorilerden çıkar
+1180	{n}. özel günü kaldır
+1181	Fotoğrafı kaldır
+1182	Yeniden aç
+1183	Bağlantıdan yanıtlandı
+1184	Yanıtlar
+1185	Yanıtlar ve misafirler
+1186	Yanıtlar kapandı — ev sahibiyle iletişime geçin
+1187	Yanıtlar kapandı.
+1188	Yanıtla
+1189	Yanıt tarihi (isteğe bağlı)
+1190	WhatsApp ve e-posta kuralları gereği zorunlu. Bu olmadan kendilerine hiçbir şey gönderilmez.
+1191	Yeniden gönder
+1192	Ayırtma bulunamadı
+1193	Ayırt
+1194	Başkasının aynı şeyi almaması için ayırtın. {first} kimin ayırttığını görmez.
+1195	{quantity} adetten {taken} adedi ayırtıldı
+1196	Sizin tarafınızdan ayırtıldı.
+1197	Ayırtılıyor…
+1198	Şifrenizi sıfırlayın
+1199	Emeklilik
+1200	Hediyelerimi göster
+1201	Önce hediyelerinizi gösterin
+1202	Yeniden yaz
+1203	Sağ
+1204	{name} için rol
+1205	Döndürme ·
+1206	Yuvarlatılmış köşeler
+1207	Satır {row}: {reason}
+1208	Aile etkinliklerine katılım yanıtı verin ve görev üstlenin
+1209	Kaydet
+1210	Kaydet ve gönder
+1211	Değişiklikleri kaydet
+1212	Müşteriyi kaydet
+1213	Yeni şifreyi kaydet
+1214	Kişiyi kaydet
+1215	Ayarları kaydet
+1216	Kurtarma kodlarınızı kaydedin
+1217	Kaydedildi
+1218	Kaydediliyor…
+1219	Teşekkür edin (e-posta bırakan herkese bir kez e-posta ile gönderilir)
+1220	Zamanla
+1221	Kampanyayı zamanla
+1222	Bir yıl öncesine kadar zamanlayın
+1223	Zamanlandı
+1224	Zamanlanmış gönderim bulunamadı
+1225	Zamanlanıyor…
+1226	Ara
+1227	{length} kişide ara
+1228	Müşterilerde ara
+1229	Ad, telefon veya e-posta ara
+1230	Kişilerde ara
+1231	Müşterileri gör
+1232	{v} adresinde görün
+1233	Planları gör
+1234	Kimin neyi ayırttığını görmek ister misiniz? Bu sürprizi bozar.
+1235	Nedenini gör
+1236	Seçilen öğe
+1237	Blessly mağazasında hediye satın
+1238	Sat, tasarla ya da bağış topla
+1239	Blessly ile sat, tasarla ya da bağış topla
+1240	Satıcı
+1241	Satıcı, kart tasarımcısı ve hayır kurumu hesapları
+1242	Bugün ya da doğum gününde e-postayla bir hediye kartı gönderin
+1243	Yeni bağlantı gönderin
+1244	Test bildirimi gönderin
+1245	Gönderim saati
+1246	Geriye gönder
+1247	Son gönderim tarihi
+1248	Yanıtımı gönder
+1249	Şimdi gönder
+1250	Gönderim tarihi
+1251	Gönderim tarihi (isteğe bağlı — ör. doğum günleri)
+1252	Gönder ya da zamanla
+1253	Sıfırlama bağlantısı gönder
+1254	Teşekkür gönderin
+1255	Bağlantıyı WhatsApp’ta ya da başka yerde gönderin. 7 gün geçerlidir; aile çevresi dolana kadar bağlantıya sahip herkes katılabilir.
+1256	Fotoğrafı dosya yükleme olarak gönderin
+1257	{recipientName} kişisine gönder
+1258	Dileğinizi gönderin
+1259	Gönderiliyor
+1260	Gönderiliyor…
+1261	Gönderildi
+1262	Gönderildi — bildirimlerinizi kontrol edin.
+1263	Müşterinin {kind} gününde yılda bir kez gönderilir.
+1264	Bu ay gönderildi
+1265	{businessName} adına Blessly ile gönderildi.
+1266	Ayarla
+1267	Bir şifre belirleyin
+1268	Önce bir şifre belirleyin (giriş sayfasındaki Şifremi unuttum), böylece yine giriş yapabilirsiniz
+1269	Şifre belirle
+1270	İşletmenizi kurun
+1271	Önce işletmenizi kurun
+1272	Kuruluyor…
+1273	Ayarlar
+1274	Paylaş
+1275	Bir anı paylaşın
+1276	Bir fotoğraf ya da anı paylaşın
+1277	Doğum günlerini ve yıl dönümlerini paylaşın — herkes hatırlatmaları alır
+1278	Sosyal medyada paylaş
+1279	WhatsApp’ta paylaş
+1280	Tek bir bağlantı paylaşın; arkadaşlar her yerden katkıda bulunur. Grup hediyeleri size ödenir; bağış kampanyaları doğrudan doğrulanmış bir hayır kurumuna gider.
+1281	Önce albümü paylaşın
+1282	Aileyle paylaş
+1283	Hesap oluşturmak için e-posta adresinizi Blessly ile paylaşın
+1284	Paylaşan
+1285	{name} tarafından paylaşıldı
+1286	{sharedBy} tarafından paylaşıldı
+1287	sizin tarafınızdan paylaşıldı
+1288	Paylaşılan tarihler
+1289	paylaşılan kişiler
+1290	Paylaşılan kişiler
+1291	Aileyle paylaşıldı
+1292	Mağaza
+1293	Mağaza adı
+1294	Kısa
+1295	Her kişinin ne kadar katkı yaptığını göster
+1296	Bir kutlama sayfasında göster (isteğe bağlı)
+1297	Kimin geldiğini diğer misafirlere göster
+1298	{total} içinden {from}–{to} gösteriliyor
+1299	Grup kartlarını birlikte imzalayın
+1300	Giriş yap
+1301	Kodla giriş yap
+1302	Tüm aileden tek bir grup kartı imzalayın
+1303	İmzalayın ya da çizin
+1304	Diğer cihazlardan çıkış yap
+1305	Kartı imzalayın
+1306	Giriş ve güvenlik
+1307	Kısa mesajla giriş henüz kullanılamıyor
+1308	Giriş çalışmadı. Lütfen tekrar deneyin.

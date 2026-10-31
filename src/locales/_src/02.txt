@@ -1,0 +1,218 @@
+219	Add your charity registration number (e.g. 12A/80G in India, Charity Commission number in the UK, EIN in the US)
+220	Add your first person
+221	Add your name
+222	Add your photos
+223	Add your wish for {recipientName}
+224	Added
+225	Added {n} guest
+226	Added {n} guests
+227	Adding…
+228	Address
+229	Address line 1
+230	Address line 2 (optional)
+231	Admin
+232	Admin — can also invite and remove
+233	Admins must keep two-step verification on
+234	Admins must turn on two-step verification before using the admin area.
+235	After your password (or Google, Apple or a text code), you’ll also enter a code from an authenticator app such as Google Authenticator, Microsoft Authenticator or 1Password.
+236	AI was unavailable, so we used a built-in template.
+237	AI wishes · smart reminders · family
+238	AI writes the wish in your tone and language. Pick one of 250 card designs per occasion.
+239	Album
+240	Album name
+241	Album not found
+242	Album settings
+243	Albums
+244	Alerts
+245	All
+246	All albums
+247	All changes saved
+248	all customers
+249	All family circles
+250	Allow the camera and microphone to record a video.
+251	Allow the microphone to record a voice message.
+252	Already decided
+253	Already have an account?
+254	Already taken
+255	Amount
+256	Amount (
+257	An account with this email already exists
+258	and
+259	anniversary
+260	Anniversary
+261	Anniversary wishes
+262	Answer
+263	Anyone
+264	Anyone can open it and RSVP — good for community events.
+265	Anyone with the link
+266	Anyone with this link can see the album.
+267	Apple
+268	Apply
+269	Apply as a {kind}
+270	Approve
+271	Approved
+272	Are you coming?
+273	Ask about accessibility needs
+274	Ask about dietary needs
+275	Ask guests if they can come (RSVP)
+276	Ask the business owner for a new one.
+277	Ask Blessly support to cancel and refund an order
+278	Assign to
+279	Automatic birthday wishes to your customers on WhatsApp and email
+280	Automation not found
+281	Automations
+282	Baby shower
+283	Back
+284	Back to {name}
+285	Back to celebrations
+286	Back to home
+287	Back to log in
+288	Back to my cards
+289	Back to people
+290	Back to settings
+291	Back to the card
+292	Back to wishlists
+293	Background
+294	Background photo
+295	Bad signature
+296	Balance:
+297	Be the first to add a message for {recipientName}.
+298	Be the first to leave a message
+299	Best friend
+300	Billing period
+301	birthday
+302	Birthday
+303	Birthday and anniversary wishes go out by themselves on the day — on WhatsApp from your own business number, or by email
+304	Birthday wishes
+305	Birthdays and anniversaries shared in {familyName}
+306	Birthdays, festivals and family events
+307	bought
+308	Bought it
+309	Bring forward
+310	Brother
+311	Browse 4,000 cards
+312	Built-in template. Tone variations in this language need the AI writer to be switched on.
+313	Business
+314	Business details
+315	Business name
+316	Business name (shown in messages)
+317	Business plan
+318	Business registration / GST (optional)
+319	Business settings
+320	Business: {n} customer wishes a month on WhatsApp and email
+321	Buy
+322	Buy {amount} gift card
+323	Buy a {name} gift card
+324	by
+325	By creating an account you agree to the
+326	By independent designers
+327	Calendar
+328	Campaign
+329	Campaign name
+330	Campaign not found
+331	Campaigns
+332	can edit.
+333	Can message
+334	Can view
+335	Can view — sees and RSVPs
+336	Can you come?
+337	can’t come
+338	Can’t come
+339	Can’t go
+340	Can’t make it
+341	Can’t scan? Enter this key:
+342	Cancel
+343	Cancel and tell guests
+344	Cancel and tell your guests?
+345	Cancel any time; your plan works until the end of the paid period. Taxes may apply.
+346	Cancel plan
+347	Cancel the celebration
+348	Cancel your plan? It keeps working until the end of the period you paid for.
+349	Cancelled
+350	Cancelled — works until
+351	Caption
+352	Card code
+353	Card design
+354	Card designer
+355	Card editor
+356	Card library
+357	Card name
+358	Card not found
+359	Celebrate
+360	Celebration
+361	Celebration not found
+362	Celebrations
+363	Centre
+364	Change my answer
+365	Change number
+366	Change password
+367	Change words, fonts and colours, add photos, stickers, a signature or a QR code.
+368	Charity
+369	Charity name
+370	Check the email address
+371	Check the phone number
+372	Check you copied the whole link, or ask for a new one.
+373	Check your email
+374	Checking this device…
+375	Checking with WhatsApp…
+376	Checking…
+377	Checkout (test mode)
+378	Checkout not found
+379	Chip in
+380	Choose {name}
+381	Choose a card, pick an amount, and we’ll email it — now, or on the day.
+382	Choose a chat
+383	Choose a closing date in the future
+384	Choose a contact
+385	Choose a date
+386	Choose a date that hasn’t passed
+387	Choose a date within a year
+388	Choose a gift card
+389	Choose a new password
+390	Choose a photo
+391	Choose a template
+392	Choose a time
+393	Choose a valid time
+394	Choose a verified charity
+395	Choose an address
+396	Choose an answer
+397	Choose an image
+398	Choose at least one photo
+399	Choose front or inside
+400	Choose one of the amounts shown
+401	Choose one of your celebrations
+402	Choose one of your wishlists
+403	Choose photos
+404	Choose the Business plan
+405	Christmas
+406	Circle name
+407	Circle summary
+408	Clear
+409	Close collection
+410	Close the card
+411	Closed to new contributions.
+412	Closes
+413	Closes on (optional)
+414	Code
+415	Code from your app (to make changes)
+416	Colleague
+417	colleague@example.com
+418	Collect and share photos from every occasion
+419	Collect the photos from a birthday, wedding or Diwali in one album, pick one of 100 designs and share it with family — they can add their photos too.
+420	Collection
+421	Colour
+422	Colour {a}
+423	Colour theme
+424	Columns we understand:
+425	coming
+426	Coming
+427	Coming up
+428	Confirm and turn on
+429	Confirm delete
+430	Confirm leaving
+431	Confirm that these customers agreed to receive messages from you
+432	Connect
+433	Connect WhatsApp
+434	Connect WhatsApp first
+435	Connect WhatsApp in Settings to send WhatsApp messages. Until then, customers with an email get the email.
+436	connected

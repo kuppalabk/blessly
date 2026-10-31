@@ -1,0 +1,218 @@
+1091	Chagua mtu kwenye kikundi hiki
+1092	Chagua mtu aliyeshirikiwa na kikundi hiki
+1093	PIN
+1094	Mpango
+1095	Panga sherehe
+1096	Panga matukio pamoja na uone nani anakuja
+1097	Mpango haukupatikana
+1098	Panga pamoja
+1099	Mpango: {name}
+1100	Mipango
+1101	Msimamizi wa jukwaa
+1102	Tafadhali rekebisha sehemu zilizoangaziwa.
+1103	Tafadhali ingia
+1104	Tafadhali jibu kabla ya {deadline}.
+1105	Tafadhali subiri…
+1106	Ya kishairi
+1107	Chapisha taarifa (itaonekana kwenye ukurasa na kutumwa kwa barua pepe kwa wageni ambao hawajakataa)
+1108	Ichapishe kwenye
+1109	Chapisha ujumbe
+1110	Chapisha kwenye mitandao ya kijamii
+1111	Chapisha taarifa
+1112	Msimbo wa posta / PIN
+1113	Imechapishwa — asante!
+1114	Inachapisha…
+1115	Inaandaa kadi yako…
+1116	Inaandaa…
+1117	Onyesho la kukagua
+1118	Kagua ukurasa wa salamu
+1119	Iliyotangulia
+1120	Muundo uliotangulia
+1121	Mwezi uliopita
+1122	Bei
+1123	Bei (si lazima)
+1124	Bei
+1125	Chapisha na tuma kwa posta
+1126	Chapisha na tuma kwa posta “{title}”
+1127	Chapisha na utume kwa posta kadi uliyobuni — fungua moja ya kadi zako
+1128	PDF tayari kuchapishwa
+1129	Kadi zilizochapishwa
+1130	Inachapisha
+1131	Faragha
+1132	sera ya faragha
+1133	Binafsi — mimi pekee
+1134	Inachakata…
+1135	Bidhaa
+1136	Bidhaa
+1137	Maendeleo
+1138	Ofa
+1139	Hadharani
+1140	Chapisha miundo ya kadi zako
+1141	Push endpoint lazima iwe https
+1142	Arifa za push hazijasanidiwa kwenye seva hii
+1143	Msimbo wa QR
+1144	Msimbo wa QR wa programu yako ya uthibitishaji
+1145	Rangi ya QR
+1146	Kiasi
+1147	Imepangwa foleni
+1148	Unda haraka
+1149	Raksha Bandhan
+1150	Ramadhani
+1151	Imesomwa
+1152	Pokea michango kutoka kwa kampeni za kuchangisha
+1153	Ujumbe wa hivi karibuni
+1154	Jina la mpokeaji
+1155	Barua pepe ya mpokeaji
+1156	Jina la mpokeaji
+1157	Unganisha tena ili kuona watu wako na vikumbusho. Chochote ulichohifadhi kiko salama.
+1158	Kwanza rekodi ujumbe
+1159	Rekodi ujumbe wa sauti au video
+1160	Rekodi tena
+1161	Kurekodi hakupatikani kwenye kivinjari hiki.
+1162	Rekodi zinaweza kuwa hadi MB 40
+1163	Msimbo wa urejeshaji
+1164	Rudia
+1165	Onyesha upya violezo
+1166	Inaonyesha upya…
+1167	Imerejeshwa
+1168	Maeneo: IN, GB, US, AE au GLOBAL, yakitenganishwa kwa koma
+1169	shirika la hisani lililosajiliwa {number} ({country})
+1170	Namba ya usajili
+1171	Uhusiano
+1172	Nikumbushe kuhusu tarehe zilizoshirikiwa
+1173	Kikumbusho cha kutuma
+1174	Vikumbusho
+1175	Vikumbusho, salamu za AI kwa lugha 32, kadi 250 kwa kila tukio
+1176	Ondoa
+1177	Ondoa {name}
+1178	Ondoa {v}?
+1179	Ondoa kwenye vipendwa
+1180	Ondoa tukio {n}
+1181	Ondoa picha
+1182	Fungua tena
+1183	Amejibu kupitia kiungo
+1184	Majibu
+1185	Majibu na wageni
+1186	Majibu yamefungwa — wasiliana na mwenyeji
+1187	Majibu yamefungwa.
+1188	Jibu
+1189	Jibu kabla ya (si lazima)
+1190	Inahitajika na sheria za WhatsApp na barua pepe. Bila hiyo, hakuna kitakachotumwa kwao.
+1191	Tuma tena
+1192	Uhifadhi haukupatikana
+1193	Hifadhi
+1194	Ihifadhi ili mtu mwingine asinunue kitu hicho hicho. {first} hataona ni nani.
+1195	Imehifadhiwa {taken} kati ya {quantity}
+1196	Imehifadhiwa na wewe.
+1197	Inahifadhi…
+1198	Weka upya nenosiri lako
+1199	Kustaafu
+1200	Onyesha zawadi zangu
+1201	Onyesha zawadi zako kwanza
+1202	Andika upya
+1203	Kulia
+1204	Jukumu la {name}
+1205	Mzunguko ·
+1206	Pembe zilizozungushwa
+1207	Safu {row}: {reason}
+1208	RSVP kwa matukio ya familia na chukua kazi
+1209	Hifadhi
+1210	Hifadhi na tuma
+1211	Hifadhi mabadiliko
+1212	Hifadhi mteja
+1213	Hifadhi nenosiri jipya
+1214	Hifadhi mtu
+1215	Hifadhi mipangilio
+1216	Hifadhi misimbo yako ya urejeshaji
+1217	Imehifadhiwa
+1218	Inahifadhi…
+1219	Sema asante (kwa barua pepe mara moja kwa kila aliyeacha barua pepe)
+1220	Panga ratiba
+1221	Panga kampeni
+1222	Panga ratiba hadi mwaka mmoja mbele
+1223	Imepangwa
+1224	Utumaji uliopangwa haukupatikana
+1225	Inapanga ratiba…
+1226	Tafuta
+1227	Tafuta watu {length}
+1228	Tafuta wateja
+1229	Tafuta jina, simu au barua pepe
+1230	Tafuta watu
+1231	Ona wateja
+1232	Ione kwenye {v}
+1233	Ona mipango
+1234	Kuona nani alihifadhi nini? Hii inaharibu mshangao.
+1235	Ona sababu
+1236	Kipengee kilichochaguliwa
+1237	Uza zawadi kwenye duka la Blessly
+1238	Uza, buni au kuchangisha
+1239	Uza, buni au kuchangisha kwa Blessly
+1240	Muuzaji
+1241	Akaunti za muuzaji, mbuni wa kadi na shirika la hisani
+1242	Tuma kadi ya zawadi kwa barua pepe, leo au siku yao ya kuzaliwa
+1243	Tuma kiungo kipya
+1244	Tuma arifa ya majaribio
+1245	Tuma saa
+1246	Tuma nyuma
+1247	Tuma kabla ya
+1248	Tuma jibu langu
+1249	Tuma sasa
+1250	Tuma tarehe
+1251	Tuma tarehe (si lazima — mf. siku yao ya kuzaliwa)
+1252	Tuma au panga ratiba
+1253	Tuma kiungo cha kuweka upya
+1254	Tuma shukrani
+1255	Tuma kiungo kwenye WhatsApp au popote. Kinafanya kazi kwa siku 7; yeyote aliye nacho anaweza kujiunga hadi kikundi kijae.
+1256	Tuma picha kama faili lililopakiwa
+1257	Tuma kwa {recipientName}
+1258	Tuma salamu yako
+1259	Inatuma
+1260	Inatuma…
+1261	Imetumwa
+1262	Imetumwa — angalia arifa zako.
+1263	Hutumwa kwenye {kind} ya mteja, mara moja kwa mwaka.
+1264	Imetumwa mwezi huu
+1265	Imetumwa kupitia Blessly kwa niaba ya {businessName}.
+1266	Weka
+1267	Weka nenosiri
+1268	Kwanza weka nenosiri (Umesahau nenosiri kwenye ukurasa wa kuingia), ili uendelee kuingia
+1269	Weka nenosiri
+1270	Sanidi biashara yako
+1271	Kwanza sanidi biashara yako
+1272	Inasanidi…
+1273	Mipangilio
+1274	Shiriki
+1275	Shiriki kumbukumbu
+1276	Shiriki picha au kumbukumbu
+1277	Shiriki siku za kuzaliwa na maadhimisho — kila mtu anapata vikumbusho
+1278	Shiriki kwenye mitandao ya kijamii
+1279	Shiriki kwenye WhatsApp
+1280	Shiriki kiungo kimoja; marafiki wanachangia kutoka popote. Zawadi za kikundi hulipwa kwako; kampeni za kuchangisha huenda moja kwa moja kwa shirika la hisani lililothibitishwa.
+1281	Kwanza shiriki albamu
+1282	Shiriki na familia
+1283	Shiriki anwani yako ya barua pepe na Blessly ili kuunda akaunti
+1284	Imeshirikiwa na
+1285	imeshirikiwa na {name}
+1286	Imeshirikiwa na {sharedBy}
+1287	umeshirikisha
+1288	Tarehe zilizoshirikiwa
+1289	watu walioshirikiwa
+1290	Imeshirikiwa na
+1291	Imeshirikiwa na familia
+1292	Duka
+1293	Jina la duka
+1294	Fupi
+1295	Onyesha kila mtu alichotoa
+1296	Onyesha kwenye ukurasa wa sherehe (si lazima)
+1297	Onyesha nani anakuja kwa wageni wengine
+1298	Inaonyesha {from}–{to} kati ya {total}
+1299	Saini kadi za kikundi pamoja
+1300	Ingia
+1301	Ingia kwa msimbo
+1302	Saini kadi moja ya kikundi kutoka familia nzima
+1303	Saini au chora
+1304	Toka kwenye vifaa vingine
+1305	Saini kadi
+1306	Kuingia na usalama
+1307	Kuingia kwa ujumbe wa maandishi bado hakupatikani
+1308	Kuingia hakukufanikiwa. Tafadhali jaribu tena.

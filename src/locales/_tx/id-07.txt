@@ -1,0 +1,218 @@
+1309	Gagal masuk
+1310	Proses masuk dibatalkan.
+1311	Sudah keluar dari semua perangkat lain.
+1312	Perangkat yang sudah masuk
+1313	Harga sederhana
+1314	Simulasikan kartu yang ditolak
+1315	Kakak/adik perempuan
+1316	Ukuran
+1317	SMS (kami mengingatkan Anda untuk mengirim)
+1318	Orang lain
+1319	Seseorang sedang memulai kartu sekarang — coba lagi sebentar lagi
+1320	Terjadi kesalahan
+1321	Anak laki-laki
+1322	Bagi tugasnya: siapa yang memesan kue, siapa yang memesan meja
+1323	Spreadsheet (.csv)
+1324	Mulai
+1325	Mulai pengumpulan
+1326	Mulai kartu baru
+1327	Mulai daftar keinginan
+1328	Mulai lingkaran lain
+1329	Mulai gratis
+1330	Mulai satu kartu yang ditandatangani seluruh keluarga. Kami akan menulis pesan pertama dan memberi tahu semua orang.
+1331	Mulai kartu kelompok
+1332	Mulai pengaturan lagi
+1333	Mulai lingkaran keluarga Anda
+1334	Memulai…
+1335	Mulai
+1336	Provinsi / kabupaten (opsional)
+1337	Status
+1338	Stiker
+1339	Stiker
+1340	Berhenti kirim email
+1341	Berhenti berbagi (tautan tidak lagi berfungsi)
+1342	Berhenti pesan WhatsApp
+1343	Jalan, kota
+1344	Nama studio atau seniman
+1345	Gaya
+1346	Ringkasan
+1347	Dukungan
+1348	Tampilan dukungan untuk {name}
+1349	Pendukung
+1350	Ditangguhkan
+1351	Belasungkawa
+1352	Pengguna Sistem
+1353	Tag
+1354	tag “{tag}”
+1355	tag
+1356	Tag (dipisah koma)
+1357	Ketuk “Tulis ucapan saya”, atau ketik sendiri.
+1358	Ketuk sesuatu untuk memilihnya. Seret untuk memindahkan, gunakan sudut untuk mengubah ukuran, dan titik di atas untuk memutar.
+1359	Target (opsional)
+1360	target {v}
+1361	Tugas tidak ditemukan
+1362	Tim
+1363	Email anggota tim
+1364	Telegram (kami mengingatkan Anda untuk mengirim)
+1365	Templat
+1366	ketentuan
+1367	Ketentuan
+1368	ketentuan penggunaan
+1369	Kartu uji 4242 4242 4242 4242 · tanggal mendatang apa pun · CVC apa pun
+1370	Checkout uji coba
+1371	Mode uji coba.
+1372	Pembayaran uji coba — tidak ada uang sungguhan
+1373	Teks
+1374	Warna teks
+1375	Kirim kode lewat SMS
+1376	Pesan teks belum diatur di server ini
+1377	Terima kasih
+1378	Terima kasih — Anda ada di {name}.
+1379	Terima kasih — pesanan Anda sudah dikonfirmasi.
+1380	Terima kasih banyak sudah menjadi bagian dari {title}. Ini sangat berarti!
+1381	Terima kasih banyak atas hadiahnya yang indah — sangat berarti!
+1382	Terima kasih, Guru
+1383	Terima kasih! Kontribusi Anda sudah diterima.
+1384	Terima kasih! Donasi Anda sudah diterima.
+1385	Ucapkan terima kasih kepada tamu Anda (semua yang hadir atau meninggalkan pesan, sekali)
+1386	Ucapan terima kasih dikirim lewat email ke {n} orang
+1387	Ucapan terima kasih dikirim lewat email ke {n} orang
+1388	Ucapan terima kasih dikirim ke {n} tamu
+1389	Ucapan terima kasih dikirim ke {n} tamu
+1390	Terima kasih — pesan Anda sudah ditambahkan.
+1391	Terima kasih, {name}! {n} foto ditambahkan.
+1392	Terima kasih, {name}! {n} foto ditambahkan.
+1393	Terima kasih! Pesan akan muncul setelah penyelenggara menyetujuinya.
+1394	Terima kasih! Paket Anda aktif begitu pembayaran dikonfirmasi — biasanya dalam beberapa detik. Muat ulang halaman ini sebentar lagi.
+1395	Thanksgiving
+1396	Akun itu sudah terhubung ke akun Blessly lain
+1397	Ulang tahun itu tidak ada
+1398	Gambar kartu itu terlalu besar
+1399	Kartu itu memakai foto yang bukan milik Anda
+1400	Kode itu sudah kedaluwarsa. Mulai lagi.
+1401	Kode itu tidak benar
+1402	Kode itu tidak benar — pastikan waktu di ponsel Anda diatur otomatis
+1403	Tanggal itu tidak ada
+1404	Acara itu tidak ada di lingkaran ini
+1405	Berkas itu bukan foto yang bisa kami baca
+1406	Berkas itu bukan foto yang bisa kami baca (gunakan JPG, PNG, WebP, atau GIF)
+1407	Itu bukan gambar kartu yang bisa kami gunakan
+1408	Nomor itu sudah dipakai akun lain
+1409	Kata sandi itu tidak benar
+1410	Foto itu tidak ada di album ini
+1411	Produk itu tidak tersedia
+1412	Format rekaman itu tidak didukung
+1413	Rekaman itu kosong
+1414	Rekaman itu tidak tersedia
+1415	Opsi masuk itu tidak tersedia.
+1416	Prosesnya terlalu lama — silakan coba lagi.
+1417	Item daftar keinginan itu sudah tidak ada
+1418	Itu terlalu besar
+1419	Paket {name} mencakup {maxAlbums} album. Tingkatkan ke Keluarga untuk lebih banyak.
+1420	Keluarga {surname}
+1421	akhir periode
+1422	Berkas terlalu besar (maks. 2 MB)
+1423	Berkas terlalu besar (maks. 2 MB).
+1424	Berkas terlalu besar (maks. 2 MB). Pisahkan menjadi berkas yang lebih kecil.
+1425	Berkas harus memiliki baris judul dan setidaknya satu pelanggan
+1426	Paket gratis mengizinkan {limit} orang dalam satu lingkaran. Pemilik lingkaran dapat meningkatkan ke Keluarga untuk hingga {MAX_MEMBERS}.
+1427	Paket gratis tidak bisa memiliki harga
+1428	Maksimumnya {v1}
+1429	Minimumnya {v1}
+1430	Pembayaran tidak berhasil. Tidak ada yang dipotong — silakan coba lagi.
+1431	Pembayaran tidak berhasil. Tidak ada yang dipotong.
+1432	Halaman pembayaran tidak bisa dibuka. Silakan coba lagi dalam semenit.
+1433	PDF memuat bagian depan dan dalam sebagai halaman 15 × 20 cm — cetak bolak-balik, atau di tempat cetak.
+1434	Batas RSVP sebaiknya sebelum perayaan
+1435	Server tidak memiliki ENCRYPTION_KEY, sehingga tidak bisa menyimpan rahasia (kredensial WhatsApp, kunci verifikasi dua langkah) dengan aman
+1436	Kedua kata sandi tidak cocok
+1437	Seluruh keluarga
+1438	Ucapan kosong
+1439	Halaman ucapan menampilkan bagian depan dan dalam kartu ini di atas pesan Anda.
+1440	Tim Blessly mengatur token verifikasi dan rahasia aplikasi di server. Pelanggan yang membalas STOP otomatis berhenti berlangganan WhatsApp; START akan mengaktifkannya kembali.
+1441	Email mereka
+1442	Ponsel mereka
+1443	Nama mereka di ucapan
+1444	Tidak ada paket berbayar untuk dibatalkan
+1445	Tidak ada yang bisa dicairkan
+1446	Ini adalah merek sandbox untuk pengujian. Merek sungguhan akan berasal dari mitra kartu hadiah setelah terhubung.
+1447	Mereka sudah ada di tim Anda
+1448	Akun ini ditangguhkan. Silakan hubungi dukungan.
+1449	Album ini sudah penuh ({maxPhotosPerAlbum} foto di paket {name}).
+1450	Album ini tidak menerima foto
+1451	Peramban ini tidak dapat menampilkan notifikasi. Anda tetap akan menerima peringatan di aplikasi dan lewat email.
+1452	Kartu ini terlalu penuh
+1453	Perayaan ini sudah berlalu
+1454	Perayaan ini sudah dibatalkan.
+1455	Perayaan ini sudah berlangsung — terima kasih kepada semua yang datang!
+1456	Perayaan ini dibatalkan.
+1457	Perayaan ini hanya untuk tamu yang diundang
+1458	Perayaan ini hanya untuk tamu yang diundang. Buka dari undangan Anda.
+1459	Perayaan ini sudah penuh
+1460	Perayaan ini tidak menerima balasan
+1461	Perayaan ini dibatalkan
+1462	Lingkaran ini sudah penuh (6 orang).
+1463	Pengumpulan ini sudah ditutup
+1464	Pengumpulan ini sudah ditutup.
+1465	Pelanggan ini setuju menerima pesan dari kami
+1466	Lingkaran keluarga ini sudah penuh ({limit} orang)
+1467	Kartu hadiah ini dibatalkan
+1468	Undangan ini sudah kedaluwarsa. Minta {inviter} untuk tautan baru.
+1469	Undangan ini sudah kedaluwarsa. Minta tautan baru.
+1470	Undangan ini sudah kedaluwarsa. Minta pemilik membuat yang baru.
+1471	Undangan ini untuk {email}, tetapi Anda masuk sebagai {email2}. Keluar lalu masuk (atau daftar) dengan {email3}.
+1472	Undangan ini untuk {email}. Masuk dengan email tersebut untuk menerimanya.
+1473	Tautan undangan ini tidak berfungsi
+1474	Tautan undangan ini tidak valid
+1475	Undangan ini sudah pernah digunakan.
+1476	Undangan ini dibatalkan. Minta {inviter} untuk tautan baru.
+1477	Undangan ini dibatalkan. Minta tautan baru.
+1478	Ini adalah kartu sandbox dan tidak bisa dibelanjakan.
+1479	Begini cara teman-teman melihat daftar Anda.
+1480	Ini daftar Anda sendiri — teman-teman memesan hadiah dari sini
+1481	Tautan ini tidak valid
+1482	Tautan ini mungkin sudah kedaluwarsa atau dihapus.
+1483	Bulan ini
+1484	Halaman ini sudah penuh
+1485	Pembayaran ini {status}.
+1486	Ini akan menghapus akun Anda secara permanen
+1487	Paket ini tidak dijual dalam mata uang tersebut
+1488	Tautan atur ulang ini sudah kedaluwarsa atau sudah pernah digunakan. Minta yang baru.
+1489	Tautan berhenti berlangganan ini tidak berfungsi. Anda juga bisa membalas STOP pada pesan WhatsApp mana pun.
+1490	Nomor WhatsApp ini sudah terhubung ke usaha Blessly lain
+1491	Halaman ucapan ini sudah penuh
+1492	Halaman ucapan ini tidak menerima pesan
+1493	Waktu
+1494	Waktu (opsional)
+1495	Zona waktu
+1496	Zona waktu
+1497	Zona waktu (pesan dikirim dalam waktu ini)
+1498	Zona waktu (pengingat tiba pukul 9 pagi di sini)
+1499	Kepada {name}
+1500	Daftar tugas
+1501	untuk tetap bisa mengirim ucapan kepada pelanggan setelah itu.
+1502	Untuk keluar, jadikan orang lain pemilik terlebih dahulu.
+1503	Untuk melihat tanda terkirim dan dibaca, serta menangani pelanggan yang membalas STOP, aplikasi Meta Blessly harus menerima webhook nomor Anda. URL callback:
+1504	untuk memulai lagi.
+1505	Hari ini
+1506	Besok
+1507	Nada
+1508	Terlalu banyak percobaan. Silakan tunggu semenit dan coba lagi.
+1509	Terlalu banyak percobaan. Silakan tunggu semenit.
+1510	Terlalu banyak variabel
+1511	Terlalu banyak kode salah. Mulai lagi.
+1512	Terlalu mahal sendirian? Mulai hadiah kelompok
+1513	Alat
+1514	Untuk: {title}
+1515	Kota
+1516	Nomor resi
+1517	Coba {name}
+1518	Coba yang lain
+1519	Matikan
+1520	Nyalakan
+1521	Verifikasi dua langkah
+1522	Verifikasi dua langkah sudah aktif
+1523	Verifikasi dua langkah nonaktif.
+1524	Verifikasi dua langkah aktif.
+1525	Verifikasi dua langkah, Google dan Apple, masuk dengan ponsel, kata sandi
+1526	Ketik

@@ -1,0 +1,218 @@
+873	Mobile (for WhatsApp and SMS)
+874	Mobile number
+875	month
+876	Month
+877	Monthly
+878	More
+879	More apps (Instagram…)
+880	More designs
+881	Most popular
+882	Mother
+883	Mother’s Day
+884	Move {title} down
+885	Move {title} up
+886	Must have
+887	My cards
+888	My orders
+889	name
+890	Name
+891	Name of occasion
+892	Name of the celebration
+893	Name the campaign
+894	Name your design, then upload it.
+895	Navratri
+896	Needs to plan for
+897	Never miss a family birthday again
+898	Never miss a moment. Never forget someone who matters.
+899	Never miss a moment. Reminders, AI-written wishes in 32 languages and beautiful cards for every occasion.
+900	New
+901	New album
+902	New baby
+903	New campaign
+904	New here?
+905	New job
+906	New password
+907	New recovery codes
+908	New task
+909	New wishlist
+910	New Year
+911	Newer
+912	Next
+913	Next 7 days
+914	Next design
+915	Next month
+916	Next occasion
+917	Nice to have
+918	No alerts yet. Reminders appear here before each occasion.
+919	no answer
+920	No answer yet
+921	No campaigns yet. Schedule festival greetings or an offer for a group of customers.
+922	No cards yet. Start one above, or pick a design in Create and tap “Customise this design”.
+923	No consent
+924	No customer birthdays or anniversaries this week.
+925	No customers match.
+926	No customers yet. Add them one by one or import a spreadsheet.
+927	No dates yet
+928	No dates yet.
+929	No device received it. Try turning notifications off and on again.
+930	No donations yet. Fundraisers can now choose {name}.
+931	No events yet. Add a birthday dinner, a puja or a get-together.
+932	No group card yet.
+933	No guests yet. Add them above
+934	No messages
+935	No messages yet. Guests can leave messages, photos and videos on the page.
+936	No one here yet. Add family, friends and colleagues with their birthdays and anniversaries.
+937	No one matches “{q}”.
+938	No orders yet.
+939	No other cards.
+940	No photos yet
+941	No photos yet.
+942	No plan — messages are paused
+943	No products yet.
+944	No real money moves — payments use a pretend checkout.
+945	No reply
+946	No templates yet. Create them in WhatsApp Manager, then refresh.
+947	No verified charities yet
+948	No wishlist
+949	Nobody shared yet — add grandparents, cousins and aunties so no one forgets.
+950	None
+951	None yet — share the link.
+952	not approved
+953	Not approved
+954	Not connected
+955	Not found
+956	Not listed anywhere; share the link with who you like.
+957	Not on the team
+958	Not reserved yet
+959	Not saved
+960	Not sent
+961	Not set — you sign in with the options below
+962	Note for {name} (optional)
+963	Notes
+964	Notes — size, colour, model (optional)
+965	Notes (optional)
+966	Notes for personal wishes (optional)
+967	Nothing on this list yet.
+968	Nothing planned yet.
+969	Nothing reserved yet
+970	Nothing sent to {v} yet.
+971	Nothing sent yet.
+972	Nothing this month.
+973	Notifications are blocked for Blessly. Allow them in your browser or phone settings, then come back here.
+974	Number removed.
+975	Number verified.
+976	Occasion
+977	Occasion type
+978	Occasions
+979	Occasions and reminders
+980	of {v} in your plan
+981	Off
+982	Offline
+983	Older
+984	On
+985	On for this device and {n} other.
+986	On for this device and {n} others.
+987	On for this device.
+988	On iPhone and iPad, first add Blessly to your Home Screen (Share → Add to Home Screen), then open it from there to turn on notifications.
+989	On its way
+990	On the day
+991	One tap opens WhatsApp or Telegram with the wish ready. Email can send itself on the day.
+992	Only customers tagged
+993	Only customers tagged (optional)
+994	Only me
+995	Only paid payments can be refunded
+996	Only scheduled campaigns can be cancelled
+997	Only the business owner can do this
+998	Only the business owner can remove people
+999	Only the owner can change roles
+1000	Only the owner can change the WhatsApp connection.
+1001	Only the owner can delete the circle
+1002	Only the owner can invite admins
+1003	Only the owner or an admin can cancel invites
+1004	Only the owner or an admin can invite people
+1005	Only the owner or an admin can remove people
+1006	Only the owner or an admin can rename the circle
+1007	Only the person who added this event, the owner or an admin can change it
+1008	Only the person who added this event, the owner or an admin can delete it
+1009	Only the person who added this task, the owner or an admin can delete it
+1010	Only the person who made the album can change it
+1011	Only the person who made the album can delete it
+1012	Only you can see this person and their reminders.
+1013	Open
+1014	Open it from the link in your invitation. If you were invited and lost it, ask the host to send it again.
+1015	open tasks
+1016	Open the card
+1017	Open the card and tap
+1018	Open the card and tap “Use this card” or “Print-ready PDF” first, so we have the finished pictures
+1019	Open your authenticator app and enter the 6-digit code for Blessly.
+1020	Opening checkout…
+1021	Opening editor…
+1022	Opening payment…
+1023	Opens your own app with the message ready. You tap send, so it comes from you.
+1024	or
+1025	Or schedule
+1026	or with your email
+1027	Orders to send
+1028	Other
+1029	Other cards
+1030	Our family
+1031	Overview
+1032	Owner
+1033	Page
+1034	Page {page} of {pages}
+1035	Page not found
+1036	Paid
+1037	Partner
+1038	Partners
+1039	Party pages, invitations and RSVPs
+1040	Password
+1041	Password changed.
+1042	Password set.
+1043	Past
+1044	Past event
+1045	Paste the permanent (system user) access token
+1046	Pay (test)
+1047	Pay {amount} (test)
+1048	Pay by card through Stripe.
+1049	Pay out {v}
+1050	Pay with UPI AutoPay, cards or netbanking through Razorpay.
+1051	Payment cancelled. You haven’t been charged.
+1052	Payment failed
+1053	Payment not found
+1054	Payout not found
+1055	Payout of {amount} requested (test mode).
+1056	Payout requested (test mode).
+1057	Payouts:
+1058	People
+1059	People choose their own reminder settings
+1060	People in this circle
+1061	People per invitation
+1062	People with the link can upload (no account needed). You can remove any photo.
+1063	Permanent access token
+1064	Person
+1065	Person not found
+1066	Personal detail (optional)
+1067	Pets
+1068	Phone for the courier (optional)
+1069	Phone notifications
+1070	Phone notifications aren’t set up on this server yet. Alerts arrive in the app and by email.
+1071	Phone number ID
+1072	Phone number ID is the long number from WhatsApp Manager → API setup
+1073	Photo
+1074	Photo albums
+1075	Photo by {uploader}
+1076	Photo for {title}
+1077	Photo from {name}
+1078	Photo not found
+1079	Photo or video (optional)
+1080	Photo to add
+1081	Photos
+1082	Photos ({n})
+1083	Photos can be up to 15 MB
+1084	Pick a date
+1085	Pick a date in the future
+1086	Pick a time in the future
+1087	Pick a valid timezone
+1088	Pick an approved WhatsApp template
+1089	Pick an approved WhatsApp template, or send by email
+1090	Pick one of your WhatsApp templates

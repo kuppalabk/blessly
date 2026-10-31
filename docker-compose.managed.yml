@@ -1,0 +1,64 @@
+# Droplet production with an external Postgres (DigitalOcean managed database).
+# Does not start the local db service and does not replace DATABASE_URL.
+#   DATABASE_URL and APP_URL must be set in .env
+#   docker compose -f docker-compose.managed.yml up -d --build
+# The local-database stack (docker-compose.yml + docker-compose.prod.yml) is unchanged.
+x-build: &build
+  context: .
+  args:
+    HTTP_PROXY: ${HTTP_PROXY:-}
+    HTTPS_PROXY: ${HTTPS_PROXY:-}
+    NO_PROXY: ${NO_PROXY:-}
+
+services:
+  migrate:
+    image: blessly:app
+    build: *build
+    command: npm run db:migrate
+    env_file: .env
+    environment:
+      DATABASE_URL: ${DATABASE_URL:?Set DATABASE_URL in .env}
+      NODE_ENV: production
+    restart: "no"
+  web:
+    image: blessly:app
+    build: *build
+    env_file: .env
+    environment:
+      DATABASE_URL: ${DATABASE_URL:?Set DATABASE_URL in .env}
+      RATE_LIMIT_STORE: postgres
+      NODE_ENV: production
+    volumes: [uploads:/data/uploads]
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+    restart: unless-stopped
+  worker:
+    image: blessly:app
+    build: *build
+    command: npm run jobs
+    env_file: .env
+    environment:
+      DATABASE_URL: ${DATABASE_URL:?Set DATABASE_URL in .env}
+      NODE_ENV: production
+    volumes: [uploads:/data/uploads]
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+    restart: unless-stopped
+    # The image health check calls the web port. The worker runs jobs and does not listen there.
+    healthcheck:
+      disable: true
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    depends_on: [web]
+    ports: ["80:80", "443:443", "443:443/udp"]
+    environment:
+      DOMAIN: ${DOMAIN:?Set DOMAIN in .env}
+      ACME_EMAIL: ${ACME_EMAIL:?Set ACME_EMAIL in .env}
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+volumes: { uploads: {}, caddy_data: {}, caddy_config: {} }

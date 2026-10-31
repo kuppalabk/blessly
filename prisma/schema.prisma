@@ -1,0 +1,499 @@
+// Blessly data model — all modules.
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  USER
+  BUSINESS_OWNER
+  SUPPORT
+  MODERATOR
+  FINANCE
+  SUPER_ADMIN
+}
+
+enum UserStatus {
+  ACTIVE
+  SUSPENDED
+}
+
+enum PlanCode {
+  FREE
+  PLUS
+  FAMILY
+  BUSINESS
+  AGENCY
+}
+
+enum PersonGroup {
+  FAMILY
+  FRIENDS
+  WORK
+  OTHER
+}
+
+enum ReminderStage {
+  GIFT
+  IDEAS
+  DRAFT
+  SEND
+}
+
+enum ReminderStatus {
+  PENDING
+  NOTIFIED
+  DONE
+  DISMISSED
+}
+
+enum Channel {
+  EMAIL
+  SMS
+  WHATSAPP
+  TELEGRAM
+  PUSH
+}
+
+enum SendStatus {
+  SCHEDULED
+  SENT
+  ALERTED
+  FAILED
+  CANCELLED
+}
+
+enum MemberRole {
+  ADMIN
+  MEMBER
+  VIEWER
+}
+
+enum MemberStatus {
+  INVITED
+  ACTIVE
+}
+
+enum Rsvp {
+  YES
+  MAYBE
+  NO
+}
+
+enum ConnectionStatus {
+  NOT_CONNECTED
+  PENDING
+  CONNECTED
+}
+
+enum CampaignStatus {
+  DRAFT
+  SCHEDULED
+  SENDING
+  SENT
+  CANCELLED
+}
+
+enum TemplateStatus {
+  DRAFT
+  PENDING
+  PUBLISHED
+  REJECTED
+}
+
+model User {
+  id           String     @id @default(cuid())
+  email        String     @unique
+  passwordHash String
+  name         String
+  role         Role       @default(USER)
+  status       UserStatus @default(ACTIVE)
+  plan         PlanCode   @default(FREE)
+  language     String     @default("en")
+  timezone     String     @default("Europe/London")
+  createdAt    DateTime   @default(now())
+  lastActiveAt DateTime   @default(now())
+
+  sessions       Session[]
+  people         Person[]
+  reminders      Reminder[]
+  wishes         Wish[]
+  wishPages      WishPage[]
+  sends          ScheduledSend[]
+  circlesOwned   FamilyCircle[]
+  memberships    FamilyMember[]
+  albums         Album[]
+  businesses     Business[]
+  templates      Template[]
+  auditLogs      AuditLog[]
+  aiUsage        AiUsage[]
+}
+
+model Session {
+  id        String   @id @default(cuid())
+  tokenHash String   @unique
+  userId    String
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+model Person {
+  id           String      @id @default(cuid())
+  ownerId      String
+  name         String
+  relationship String
+  group        PersonGroup @default(OTHER)
+  phone        String?
+  email        String?
+  language     String      @default("en")
+  notes        String?
+  createdAt    DateTime    @default(now())
+  owner        User        @relation(fields: [ownerId], references: [id], onDelete: Cascade)
+  occasions    Occasion[]
+  wishes       Wish[]
+  albums       Album[]
+
+  @@index([ownerId])
+}
+
+model Occasion {
+  id         String     @id @default(cuid())
+  personId   String
+  type       String     // catalog id, e.g. birthday, anniversary
+  label      String?
+  month      Int
+  day        Int
+  year       Int?       // birth / wedding year, for "turns 30"
+  remindGift Boolean    @default(true)  // 7 days before
+  remindIdea Boolean    @default(true)  // 3 days before
+  remindDraft Boolean   @default(true)  // 1 day before
+  remindDay  Boolean    @default(true)  // on the day
+  sendTime   String     @default("09:00")
+  createdAt  DateTime   @default(now())
+  person     Person     @relation(fields: [personId], references: [id], onDelete: Cascade)
+  reminders  Reminder[]
+
+  @@index([personId])
+}
+
+model Reminder {
+  id             String         @id @default(cuid())
+  userId         String
+  occasionId     String
+  occurrenceDate DateTime       @db.Date
+  stage          ReminderStage
+  dueAt          DateTime
+  status         ReminderStatus @default(PENDING)
+  createdAt      DateTime       @default(now())
+  user           User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  occasion       Occasion       @relation(fields: [occasionId], references: [id], onDelete: Cascade)
+
+  @@unique([occasionId, occurrenceDate, stage])
+  @@index([userId, dueAt])
+  @@index([status, dueAt])
+}
+
+model Wish {
+  id           String    @id @default(cuid())
+  userId       String
+  personId     String?
+  occasionType String
+  language     String
+  tone         String
+  text         String
+  designNumber Int?      // 1..250 within the occasion's card library
+  source       String    @default("template") // template | ai
+  createdAt    DateTime  @default(now())
+  user         User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  person       Person?   @relation(fields: [personId], references: [id], onDelete: SetNull)
+  pages        WishPage[]
+  sends        ScheduledSend[]
+
+  @@index([userId])
+}
+
+model WishPage {
+  id            String          @id @default(cuid())
+  slug          String          @unique
+  ownerId       String
+  wishId        String?
+  title         String
+  recipientName String
+  occasionType  String
+  designNumber  Int
+  language      String          @default("en")
+  photoUrl      String?
+  isGroup       Boolean         @default(false)
+  opensAt       DateTime?
+  createdAt     DateTime        @default(now())
+  owner         User            @relation(fields: [ownerId], references: [id], onDelete: Cascade)
+  wish          Wish?           @relation(fields: [wishId], references: [id], onDelete: SetNull)
+  signatures    WishSignature[]
+}
+
+model WishSignature {
+  id         String   @id @default(cuid())
+  pageId     String
+  authorName String
+  message    String
+  createdAt  DateTime @default(now())
+  page       WishPage @relation(fields: [pageId], references: [id], onDelete: Cascade)
+
+  @@index([pageId])
+}
+
+model ScheduledSend {
+  id        String     @id @default(cuid())
+  userId    String
+  wishId    String?
+  channel   Channel
+  recipient String
+  body      String
+  sendAt    DateTime
+  status    SendStatus @default(SCHEDULED)
+  sentAt    DateTime?
+  error     String?
+  createdAt DateTime   @default(now())
+  user      User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  wish      Wish?      @relation(fields: [wishId], references: [id], onDelete: SetNull)
+
+  @@index([status, sendAt])
+}
+
+model FamilyCircle {
+  id         String         @id @default(cuid())
+  name       String
+  ownerId    String
+  inviteCode String         @unique
+  createdAt  DateTime       @default(now())
+  owner      User           @relation(fields: [ownerId], references: [id], onDelete: Cascade)
+  members    FamilyMember[]
+  events     FamilyEvent[]
+  tasks      FamilyTask[]
+}
+
+model FamilyMember {
+  id           String       @id @default(cuid())
+  circleId     String
+  userId       String?
+  displayName  String
+  invitedEmail String?
+  role         MemberRole   @default(MEMBER)
+  status       MemberStatus @default(INVITED)
+  createdAt    DateTime     @default(now())
+  circle       FamilyCircle @relation(fields: [circleId], references: [id], onDelete: Cascade)
+  user         User?        @relation(fields: [userId], references: [id], onDelete: SetNull)
+  rsvps        EventRsvp[]
+  tasks        FamilyTask[]
+
+  @@unique([circleId, userId])
+}
+
+model FamilyEvent {
+  id           String       @id @default(cuid())
+  circleId     String
+  title        String
+  occasionType String
+  date         DateTime
+  location     String?
+  wishPageId   String?
+  createdById  String
+  createdAt    DateTime     @default(now())
+  circle       FamilyCircle @relation(fields: [circleId], references: [id], onDelete: Cascade)
+  rsvps        EventRsvp[]
+  tasks        FamilyTask[]
+}
+
+model EventRsvp {
+  id        String       @id @default(cuid())
+  eventId   String
+  memberId  String
+  response  Rsvp
+  updatedAt DateTime     @updatedAt
+  event     FamilyEvent  @relation(fields: [eventId], references: [id], onDelete: Cascade)
+  member    FamilyMember @relation(fields: [memberId], references: [id], onDelete: Cascade)
+
+  @@unique([eventId, memberId])
+}
+
+model FamilyTask {
+  id         String        @id @default(cuid())
+  circleId   String
+  eventId    String?
+  title      String
+  assigneeId String?
+  dueDate    DateTime?
+  done       Boolean       @default(false)
+  createdAt  DateTime      @default(now())
+  circle     FamilyCircle  @relation(fields: [circleId], references: [id], onDelete: Cascade)
+  event      FamilyEvent?  @relation(fields: [eventId], references: [id], onDelete: SetNull)
+  assignee   FamilyMember? @relation(fields: [assigneeId], references: [id], onDelete: SetNull)
+}
+
+model Album {
+  id           String       @id @default(cuid())
+  ownerId      String
+  personId     String?
+  title        String
+  occasionType String
+  designNumber Int          // 1..100
+  shareSlug    String       @unique
+  allowFamilyUploads Boolean @default(true)
+  createdAt    DateTime     @default(now())
+  owner        User         @relation(fields: [ownerId], references: [id], onDelete: Cascade)
+  person       Person?      @relation(fields: [personId], references: [id], onDelete: SetNull)
+  photos       AlbumPhoto[]
+}
+
+model AlbumPhoto {
+  id          String    @id @default(cuid())
+  albumId     String
+  url         String
+  caption     String?
+  takenAt     DateTime?
+  addedByName String?
+  position    Int       @default(0)
+  width       Int?
+  height      Int?
+  createdAt   DateTime  @default(now())
+  album       Album     @relation(fields: [albumId], references: [id], onDelete: Cascade)
+
+  @@index([albumId, position])
+}
+
+model Business {
+  id             String           @id @default(cuid())
+  ownerId        String
+  name           String
+  logoUrl        String?
+  whatsappNumber String?
+  whatsappStatus ConnectionStatus @default(NOT_CONNECTED)
+  createdAt      DateTime         @default(now())
+  owner          User             @relation(fields: [ownerId], references: [id], onDelete: Cascade)
+  customers      Customer[]
+  campaigns      Campaign[]
+  templates      Template[]
+  messages       MessageLog[]
+}
+
+model Customer {
+  id               String    @id @default(cuid())
+  businessId       String
+  name             String
+  phone            String?
+  email            String?
+  language         String    @default("en")
+  birthdayMonth    Int?
+  birthdayDay      Int?
+  anniversaryMonth Int?
+  anniversaryDay   Int?
+  optIn            Boolean   @default(false)
+  optInAt          DateTime?
+  optOutAt         DateTime?
+  autoSend         Boolean   @default(true)
+  createdAt        DateTime  @default(now())
+  business         Business  @relation(fields: [businessId], references: [id], onDelete: Cascade)
+
+  @@index([businessId])
+}
+
+model Campaign {
+  id           String         @id @default(cuid())
+  businessId   String
+  name         String
+  occasionType String
+  templateId   String?
+  language     String         @default("en")
+  includeOffer Boolean        @default(false)
+  offerText    String?
+  segment      String         @default("all")
+  scheduledAt  DateTime?
+  status       CampaignStatus @default(DRAFT)
+  sentCount    Int            @default(0)
+  createdAt    DateTime       @default(now())
+  business     Business       @relation(fields: [businessId], references: [id], onDelete: Cascade)
+  template     Template?      @relation(fields: [templateId], references: [id], onDelete: SetNull)
+}
+
+model Template {
+  id              String         @id @default(cuid())
+  businessId      String?        // null = Blessly library template
+  createdById     String
+  name            String
+  occasionType    String
+  data            Json           // layers: background art, palette, pattern, text blocks, logo
+  status          TemplateStatus @default(DRAFT)
+  rejectionReason String?
+  whatsappApproved Boolean       @default(false)
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime       @updatedAt
+  business        Business?      @relation(fields: [businessId], references: [id], onDelete: Cascade)
+  createdBy       User           @relation(fields: [createdById], references: [id], onDelete: Cascade)
+  campaigns       Campaign[]
+
+  @@index([status])
+}
+
+model MessageLog {
+  id         String    @id @default(cuid())
+  businessId String?
+  channel    Channel
+  to         String
+  body       String
+  status     String
+  providerId String?
+  createdAt  DateTime  @default(now())
+  business   Business? @relation(fields: [businessId], references: [id], onDelete: SetNull)
+
+  @@index([businessId, createdAt])
+}
+
+model AuditLog {
+  id         String   @id @default(cuid())
+  actorId    String?
+  action     String
+  targetType String
+  targetId   String?
+  meta       Json?
+  createdAt  DateTime @default(now())
+  actor      User?    @relation(fields: [actorId], references: [id], onDelete: SetNull)
+
+  @@index([createdAt])
+}
+
+model AiUsage {
+  id     String   @id @default(cuid())
+  userId String
+  day    DateTime @db.Date
+  count  Int      @default(0)
+  user   User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, day])
+}
+
+model Plan {
+  code         PlanCode @id
+  name         String
+  monthlyPence Int
+  yearlyPence  Int
+  aiPerDay     Int      // -1 = unlimited
+  seats        Int
+}
+
+model FeatureFlag {
+  key     String  @id
+  enabled Boolean @default(false)
+  rollout String  @default("Off")
+}
+
+model RegionSetting {
+  code    String  @id // e.g. IN, GB, US
+  enabled Boolean @default(true)
+}

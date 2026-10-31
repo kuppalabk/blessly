@@ -1,0 +1,218 @@
+1	— isteğe bağlı
+2	— çok fazla değişken
+3	— son ödemeniz başarısız oldu; lütfen ödeme yönteminizi güncelleyin
+4	· {partySize} kişi
+5	· {ownerName} tarafından
+6	· iptal edildi
+7	· kapandı
+8	· kapak
+9	· tarih değişebilir
+10	· tarih bölgeye göre değişebilir
+11	· anı
+12	· izin yok — mesaj gönderilmeyecek
+13	· ref. {reference}
+14	· paylaşıldı
+15	· hedef {v}
+16	· takip {tracking}
+17	· onay bekliyor
+18	({pending} onay bekliyor)
+19	(diğerlerine anonim)
+20	(siz)
+21	{honoree} için
+22	{v} için
+23	Kayıt: {consentSource}.
+24	durumu “{v}” olan
+25	— oradaki herkes bu hatırlatmaları alır.
+26	— salt okunur, {admin} olarak. Hiçbir şey değiştirilemez.
+27	— her özel gün için hatırlatmalar, dilekler ve albümler.
+28	— dilek sayfasını kart önizlemesiyle paylaşır
+29	— siz bakmaya karar verene kadar ne olduğunu görmezsiniz.
+30	, {maybe} belki
+31	, ya da bağlantıyı paylaşın — yanıt verenler otomatik eklenir
+32	, kişileriniz, hatırlatmalarınız, dilekleriniz ve dilek sayfalarınız ile işletmeniz ve müşterileri. Sahibi olduğunuz aile çevreleri çevredeki bir sonraki kişiye geçer. Bu işlem geri alınamaz.
+33	! Bizden bir ikram sizi bekliyor:
+34	. 14/03, 14 Mar veya 1990-03-14 gibi tarihler (önce gün). Aynı cep telefonu veya e-postaya sahip mevcut müşteriler güncellenir.
+35	. Yalnızca
+36	. O gün gönderin.
+37	. Blessly onlara oradan mesaj göndermez.
+38	…veya buraya yapıştırın
+39	”), ardından Ayarlar’da “Şablonları yenile”ye basın.
+40	(tanesi {v}, zarflı 350 g karta basılır, kargo dahil)
+41	(zorunlu),
+42	{added} eklendi · {updated} güncellendi · {skipped} atlandı
+43	{coming} kişi geliyor · davetli listesinde {guests} kişi
+44	{consented} kişi mesajlara izin verdi
+45	{days} gün
+46	{going} geliyor · {maybe} belki · {no} gelemiyor · {waiting} yanıt vermedi
+47	{greeting}, {recipientName} — {senderName} tarafından bir kart
+48	{hostName} sizi davet ediyor
+49	{inDays} gün
+50	{inviter} sizi şuraya davet etti:
+51	{inviter} sizi Blessly’de {family} çevresine davet etti — doğum günlerini paylaşacak, aile etkinlikleri planlayacak ve birlikte kart imzalayacağız. Buradan katılın: {link}
+52	{label} (isteğe bağlı)
+53	{label} günü
+54	{label} ayı
+55	{label} ile giriş başarısız ({why}). Lütfen tekrar deneyin.
+56	{label} ile giriş başarısız. Lütfen tekrar deneyin.
+57	{limit} kişiden {length} · siz {v}
+58	{maxPhotos} fotoğraftan {length} · JPG, PNG, WebP veya GIF, en fazla 15 MB. Her fotoğraftan konum bilgisi silinir.
+59	Önümüzdeki iki haftada {length} dilek
+60	{limit} kişiden {memberCount} · {v}
+61	{mine} albüm ({plan} planında sınırsız) · her birinde {photos} fotoğraf
+62	{plan} planında {max} albümden {mine} · her birinde {photos} fotoğraf
+63	{n} müşteri
+64	{n} müşteri
+65	{n} gün
+66	{n} gün
+67	{n} hediye ayrıldı
+68	{n} hediye ayrıldı
+69	{n} kişi geliyor
+70	stokta {n}
+71	{n} ürün
+72	{n} ürün
+73	{n} mesaj
+74	{n} mesaj
+75	{n} kişi
+76	{n} kişi geliyor
+77	{n} kişi
+78	{n} kişi geliyor
+79	{n} fotoğraf
+80	{n} fotoğraf albümü
+81	{n} fotoğraf albümü
+82	{name} Blessly’de {n} fotoğraf paylaştı
+83	{n} fotoğraf
+84	{name} Blessly’de {n} fotoğraf paylaştı
+85	WhatsApp’ta {n} okundu
+86	{n} kurtarma kodu kaldı.
+87	{n} kurtarma kodu kaldı.
+88	{n} satır
+89	{n} satır
+90	{n} ekip girişi
+91	{name} (siz)
+92	{recipientName} için {name} hediye kartı
+93	{name} yanıtınızı aldı.
+94	{name} sizi davet ediyor
+95	{name} planı
+96	{name} kim olduğunu görmeyecek.
+97	{name}, {hostName} sizi davet ediyor
+98	{occasion} dilek listesi
+99	{phone} · SMS koduyla giriş
+100	her birinde {photos} fotoğraf
+101	{provider} bağlı
+102	{provider} artık bağlı.
+103	{quantity} tanesini siz ayırdınız.
+104	{n} kişiden {raised}
+105	{n} kişiden {raised}
+106	{n} kişiden {raised} toplandı
+107	{n} kişiden {raised} toplandı
+108	{quantity} taneden {remaining} kaldı
+109	{role} daveti
+110	{seller} · {v} adresine teslimat
+111	{sent} gönderildi · {delivered} teslim edildi · {read} okundu · {failed} gönderilmedi
+112	Aileden {total} kişiden {signed} imzaladı
+113	{stock} kaldı
+114	{by} — {title}
+115	{unread} okunmamış
+116	{quota} mesajdan {used} kullanıldı
+117	{seats} girişten {used} kullanıldı. Ekip üyeleri müşterileri, otomasyonları ve kampanyaları yönetebilir; ayarları ve WhatsApp’ı yalnızca sahip değiştirir.
+118	{v} · {emailed} kişiye e-postalandı
+119	{v} gün, {v2} saat ve {v3} dakika kaldı
+120	{v} açık
+121	+ Aile etkinliği ekle
+122	+ Özel gün ekle
+123	+ Kutlama mesajı
+124	+ Davet et
+125	+ Fotoğraf
+126	+ Birini paylaş
+127	+ İmza veya çizim
+128	+ Metin
+129	■ Durdur
+130	● Görüntülü mesaj kaydet
+131	● Sesli mesaj kaydet
+132	✉️ Basıp postayla gönder
+133	✎ Bu tasarımı özelleştir
+134	🎁 Hediye listesi
+135	🎁 Ortak hediye
+136	🎉 Şu anda devam ediyor!
+137	🎙️ {from} kişisinden sesli mesaj
+138	🎥 {from} kişisinden görüntülü mesaj
+139	💚 Bağış kampanyası
+140	💝 {title} · {v} toplandı
+141	💝 Ortak hediye ekle
+142	💝 Ortak hediye: {raised} toplandı — katıl
+143	💝 Ortak hediye: {target} hedefin {raised} toplandı — katıl
+144	📱 SMS koduyla giriş yap
+145	$ USD
+146	₹ INR
+147	1 · Özel gün ve kişi
+148	1 · Hatırla
+149	1 gün önce
+150	1. Bunu kimlik doğrulama uygulamanızla tarayın:
+151	2 · Oluştur
+152	2 · Dileği yaz
+153	2. Gösterilen 6 haneli kodu girin
+154	40 özel günün her biri için 250 kart tasarımı, 32 dilde.
+155	Her özel gün için 250 tasarım
+156	3 · Ulaştır
+157	3 · Kart seç · tasarım {n} · {total} tasarımdan {shown}
+158	3 · Kartınız
+159	3 gün önce
+160	4 · Sesli veya görüntülü mesaj (isteğe bağlı)
+161	40 özel gün × 250 tasarım (10.000 kart), 32 dilde. Tüm çizimler özgündür ve ücretsiz kullanılabilir.
+162	7 gün önce
+163	Bir kutlamada en fazla {MAX_GUESTS} davetli olabilir
+164	Bu e-postaya sahip bir müşteri zaten var
+165	Bu numaraya sahip bir müşteri zaten var
+166	Bir tasarım hem gizli hem öne çıkan olamaz
+167	Bir aile çevresinde en fazla {limit} kişi olur
+168	Bir listede en fazla {MAX_ITEMS} ürün olabilir
+169	Partiniz veya etkinliğiniz için bir sayfa: davetiyeler ve katılım yanıtları, geri sayım ve mesaj, fotoğraf ve anı duvarı.
+170	{name} için bir dilek
+171	Size bir dilek, {name}
+172	{name} tarafından bir dilek
+173	Hakkınızda
+174	Erişilebilirlik ihtiyaçları (isteğe bağlı)
+175	Hesap bulunamadı
+176	İşlemler
+177	Ekle
+178	{s} ekle
+179	“name” sütunu ekleyin
+180	Doğum günü veya yıldönümü ekleyin
+181	Bir doğum günü veya yıldönümü ekleyin; bir hafta önce hatırlatır, bir gün önce dileği hazırlar ve o gün size haber veririz.
+182	Açıklama ekle
+183	Aile etkinliği ekle
+184	Cep telefonu veya e-posta ekleyin
+185	Bir ad ekleyin
+186	Not ekleyin (denetim kaydında saklanır)
+187	Ürün ekle
+188	Konu ekleyin
+189	Görev ekle
+190	Öğe ekle
+191	Müşteri ekle
+192	Etkinlik ekle
+193	Davetli ekle
+194	Davetli ekleyin — her satıra bir kişi: ad, sonra e-posta ve/veya telefon
+195	Anı ekle
+196	Dileğimi ekle
+197	Numara ekle
+198	SMS koduyla giriş yapmak için bir numara ekleyin
+199	Kişileri bir kez ekleyin. Ülkenizin bayramları zaten takviminizde.
+200	Kişi ekle
+201	Fotoğraf ekle
+202	Ürün ekle (incelemeye gönderilir)
+203	QR kodu ekle
+204	Birini ekle
+205	Özel birini ekleyin
+206	Çok isteyeceğiniz bir şey ekleyin
+207	Görev ekle
+208	Adresi ekleyin
+209	E-posta konusunu ve mesajını ekleyin
+210	Önemli kişileri ekleyin
+211	Posta kodunu ekleyin
+212	Alıcının adını ekleyin
+213	Şehri ekleyin
+214	Takvime ekle
+215	Karta ekle
+216	Favorilere ekle
+217	Listeye ekle
+218	Takvimime ekle

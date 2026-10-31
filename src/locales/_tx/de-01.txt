@@ -1,0 +1,218 @@
+1	— optional
+2	— zu viele Variablen
+3	— deine letzte Zahlung ist fehlgeschlagen; bitte aktualisiere deine Zahlungsmethode
+4	· {partySize} Personen
+5	· von {ownerName}
+6	· abgesagt
+7	· geschlossen
+8	· Titelbild
+9	· Datum kann abweichen
+10	· Datum kann je nach Region abweichen
+11	· Erinnerung
+12	· keine Einwilligung — erhält keine Nachrichten
+13	· Ref. {reference}
+14	· geteilt
+15	· Ziel {v}
+16	· Sendungsnummer {tracking}
+17	· wartet auf Freigabe
+18	({pending} freizugeben)
+19	(für andere anonym)
+20	(du)
+21	für {honoree}
+22	für {v}
+23	Erfasst: {consentSource}.
+24	mit Status „{v}“
+25	— alle dort erhalten diese Erinnerungen.
+26	— nur Lesen, als {admin}. Nichts kann geändert werden.
+27	— Erinnerungen, Glückwünsche und Alben für jeden Anlass.
+28	— teilt die Glückwunschseite mit Kartenvorschau
+29	— du siehst erst was, wenn du nachschauen möchtest.
+30	, {maybe} vielleicht
+31	, oder teile den Link — wer antwortet, wird automatisch hinzugefügt
+32	, deine Personen, Erinnerungen, Glückwünsche und Glückwunschseiten sowie dein Unternehmen mit seinen Kunden. Familienkreise, die dir gehören, gehen an die nächste Person im Kreis über. Das kann nicht rückgängig gemacht werden.
+33	! Gönn dir eine kleine Aufmerksamkeit von uns bei
+34	. Datumsangaben wie 14/03, 14. Mär. oder 1990-03-14 (Tag zuerst). Bestehende Kunden mit gleicher Mobilnummer oder E-Mail werden aktualisiert.
+35	. Nur
+36	. Am Tag selbst senden.
+37	. Blessly schreibt ihnen dort nicht.
+38	…oder hier einfügen
+39	“), dann tippe in den Einstellungen auf „Vorlagen aktualisieren“.
+40	({v} pro Stück, gedruckt auf 350-g-Karton mit Umschlag, inkl. Versand)
+41	(Pflichtfeld),
+42	{added} hinzugefügt · {updated} aktualisiert · {skipped} übersprungen
+43	{coming} kommen · {guests} auf der Gästeliste
+44	{consented} haben Nachrichten zugestimmt
+45	{days} Tage
+46	{going} kommen · {maybe} vielleicht · {no} können nicht · {waiting} ohne Antwort
+47	{greeting}, {recipientName} — eine Karte von {senderName}
+48	{hostName} lädt dich ein
+49	{inDays} Tage
+50	{inviter} hat dich eingeladen zu
+51	{inviter} hat dich zu {family} auf Blessly eingeladen — wir teilen Geburtstage, planen Familienfeste und unterschreiben gemeinsam Karten. Hier beitreten: {link}
+52	{label} (optional)
+53	{label}: Tag
+54	{label}: Monat
+55	Anmeldung mit {label} fehlgeschlagen ({why}). Bitte versuche es erneut.
+56	Anmeldung mit {label} fehlgeschlagen. Bitte versuche es erneut.
+57	{length} von {limit} Personen · du bist {v}
+58	{length} von {maxPhotos} Fotos · JPG, PNG, WebP oder GIF bis 15 MB. Standortdaten werden aus jedem Foto entfernt.
+59	{length} Glückwünsche in den nächsten zwei Wochen
+60	{memberCount} von {limit} Personen · {v}
+61	{mine} Alben (unbegrenzt im Tarif {plan}) · je {photos} Fotos
+62	{mine} von {max} Alben im Tarif {plan} · je {photos} Fotos
+63	{n} Kunde
+64	{n} Kunden
+65	{n} Tag
+66	{n} Tage
+67	{n} Geschenk wurde reserviert
+68	{n} Geschenke wurden reserviert
+69	{n} kommen
+70	{n} auf Lager
+71	{n} Artikel
+72	{n} Artikel
+73	{n} Nachricht
+74	{n} Nachrichten
+75	{n} Personen
+76	{n} Personen kommen
+77	{n} Person
+78	{n} Person kommt
+79	{n} Foto
+80	{n} Fotoalbum
+81	{n} Fotoalben
+82	{n} Foto von {name} auf Blessly geteilt
+83	{n} Fotos
+84	{n} Fotos von {name} auf Blessly geteilt
+85	{n} auf WhatsApp gelesen
+86	Noch {n} Wiederherstellungscode.
+87	Noch {n} Wiederherstellungscodes.
+88	{n} Zeile
+89	{n} Zeilen
+90	{n} Team-Zugänge
+91	{name} (du)
+92	{name}-Gutschein für {recipientName}
+93	{name} hat deine Antwort.
+94	{name} lädt dich ein
+95	Tarif {name}
+96	{name} sieht nicht, wer.
+97	{name}, {hostName} lädt dich ein
+98	Wunschliste: {occasion}
+99	{phone} · Anmeldung per SMS-Code
+100	je {photos} Fotos
+101	{provider} verbunden
+102	{provider} ist jetzt verbunden.
+103	{quantity} von dir reserviert.
+104	{raised} von {n} Personen
+105	{raised} von {n} Person
+106	{raised} gesammelt von {n} Personen
+107	{raised} gesammelt von {n} Person
+108	Noch {remaining} von {quantity}
+109	Einladung als {role}
+110	{seller} · liefert nach {v}
+111	{sent} gesendet · {delivered} zugestellt · {read} gelesen · {failed} nicht gesendet
+112	{signed} von {total} aus der Familie haben unterschrieben
+113	Noch {stock}
+114	{title} von {by}
+115	{unread} ungelesen
+116	{used} von {quota} Nachrichten genutzt
+117	{used} von {seats} Zugängen genutzt. Teammitglieder können Kunden, Automationen und Kampagnen verwalten; nur der Inhaber ändert Einstellungen und WhatsApp.
+118	{v} · per E-Mail an {emailed}
+119	Noch {v} Tage, {v2} Stunden und {v3} Minuten
+120	{v} an
+121	+ Familienfest hinzufügen
+122	+ Anlass hinzufügen
+123	+ Glückwunsch
+124	+ Einladen
+125	+ Foto
+126	+ Jemanden teilen
+127	+ Unterschrift oder Zeichnung
+128	+ Text
+129	■ Stopp
+130	● Videonachricht aufnehmen
+131	● Sprachnachricht aufnehmen
+132	✉️ Drucken und per Post senden
+133	✎ Dieses Design anpassen
+134	🎁 Wunschliste
+135	🎁 Gemeinschaftsgeschenk
+136	🎉 Es ist so weit!
+137	🎙️ Eine Sprachnachricht von {from}
+138	🎥 Eine Videonachricht von {from}
+139	💚 Spendenaktion
+140	💝 {title} · {v} gesammelt
+141	💝 Gemeinschaftsgeschenk hinzufügen
+142	💝 Gemeinschaftsgeschenk: {raised} gesammelt — mach mit
+143	💝 Gemeinschaftsgeschenk: {raised} von {target} gesammelt — mach mit
+144	📱 Mit SMS-Code anmelden
+145	$ USD
+146	₹ INR
+147	1 · Anlass und Person
+148	1 · Erinnern
+149	1 Tag vorher
+150	1. Scanne dies mit deiner Authenticator-App:
+151	2 · Gestalten
+152	2 · Glückwunsch schreiben
+153	2. Gib den angezeigten 6-stelligen Code ein
+154	250 Kartendesigns für jeden von 40 Anlässen, in 32 Sprachen.
+155	250 Designs für jeden Anlass
+156	3 · Verbinden
+157	3 · Karte wählen · Design {n} · {shown} von {total} Designs
+158	3 · Deine Karte
+159	3 Tage vorher
+160	4 · Sprach- oder Videonachricht (optional)
+161	40 Anlässe × 250 Designs (10.000 Karten), in 32 Sprachen. Alle Motive sind eigene Werke und frei nutzbar.
+162	7 Tage vorher
+163	Eine Feier kann bis zu {MAX_GUESTS} Gäste haben
+164	Ein Kunde mit dieser E-Mail existiert bereits
+165	Ein Kunde mit dieser Nummer existiert bereits
+166	Ein Design kann nicht zugleich ausgeblendet und hervorgehoben sein
+167	Ein Familienkreis hat bis zu {limit} Personen
+168	Eine Liste kann bis zu {MAX_ITEMS} Artikel enthalten
+169	Eine Seite für deine Party oder Veranstaltung: Einladungen und Zusagen, ein Countdown und eine Pinnwand mit Nachrichten, Fotos und Erinnerungen.
+170	Ein Glückwunsch für {name}
+171	Ein Glückwunsch für dich, {name}
+172	Ein Glückwunsch von {name}
+173	Über dich
+174	Barrierefreiheit – Bedarf (optional)
+175	Konto nicht gefunden
+176	Aktionen
+177	Hinzufügen
+178	{s} hinzufügen
+179	Füge eine Spalte „name“ hinzu
+180	Füge einen Geburtstag oder Jahrestag hinzu
+181	Füge einen Geburtstag oder Jahrestag hinzu – wir erinnern dich eine Woche vorher, entwerfen den Glückwunsch am Vortag und melden uns am Tag selbst.
+182	Bildunterschrift hinzufügen
+183	Familienfest hinzufügen
+184	Füge eine Mobilnummer oder E-Mail hinzu
+185	Füge einen Namen hinzu
+186	Füge eine Notiz hinzu (wird im Prüfprotokoll gespeichert)
+187	Produkt hinzufügen
+188	Füge einen Betreff hinzu
+189	Aufgabe hinzufügen
+190	Artikel hinzufügen
+191	Kunde hinzufügen
+192	Termin hinzufügen
+193	Gäste hinzufügen
+194	Gäste hinzufügen — einer pro Zeile: Name, dann E-Mail und/oder Telefon
+195	Erinnerung hinzufügen
+196	Meinen Glückwunsch hinzufügen
+197	Nummer hinzufügen
+198	Füge eine hinzu, um dich mit SMS-Code anzumelden
+199	Personen einmal hinzufügen. Die Feiertage deines Landes stehen schon im Kalender.
+200	Person hinzufügen
+201	Fotos hinzufügen
+202	Produkt hinzufügen (wird geprüft)
+203	QR-Code hinzufügen
+204	Jemanden hinzufügen
+205	Füge einen besonderen Menschen hinzu
+206	Füge etwas hinzu, das du dir wünschst
+207	Aufgabe hinzufügen
+208	Füge die Adresse hinzu
+209	Füge Betreff und Text der E-Mail hinzu
+210	Füge die Menschen hinzu, die dir wichtig sind
+211	Füge die Postleitzahl hinzu
+212	Füge den Namen des Empfängers hinzu
+213	Füge Ort oder Stadt hinzu
+214	Zum Kalender hinzufügen
+215	Zur Karte hinzufügen
+216	Zu Favoriten hinzufügen
+217	Zur Liste hinzufügen
+218	Zu meinem Kalender hinzufügen

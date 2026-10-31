@@ -1,0 +1,218 @@
+655	Yêu thích {title}
+656	Yêu thích
+657	Chiến dịch lễ hội gửi tới tất cả khách hàng hoặc một nhóm (Diwali, Eid, Giáng sinh…)
+658	Lễ hội
+659	Lọc theo trạng thái
+660	trước, để chúng tôi có ảnh hoàn chỉnh để in.
+661	Phông chữ
+662	Dành cho
+663	Dành cho (không bắt buộc)
+664	Dành cho Anil
+665	Dành cho doanh nghiệp
+666	Ví dụ: họ đăng ký tại cửa hàng, trên trang web của bạn hoặc khi thanh toán. WhatsApp có thể chặn các số nhắn tin cho người khác khi chưa được phép.
+667	Dành cho Nisha
+668	cho tên của khách hàng và
+669	cho tối đa 6.
+670	cho tên doanh nghiệp của bạn. Liên kết hủy đăng ký sẽ được tự động thêm vào.
+671	Quên mật khẩu
+672	Quên mật khẩu?
+673	Miễn phí
+674	Miễn phí cho lời chúc cá nhân. Nâng cấp cho cả gia đình hoặc doanh nghiệp của bạn.
+675	Miễn phí cho tối đa 3 người, hoặc tối đa {MAX_MEMBERS} với gói Gia đình. Lời nhắc riêng tư của bạn vẫn được giữ kín.
+676	Gói miễn phí · không cần cửa hàng ứng dụng · cài đặt từ trình duyệt của bạn
+677	Dùng thử miễn phí đến {v}
+678	Dùng thử miễn phí: {n} tin nhắn đến {date}.
+679	Bạn bè
+680	Bạn bè và gia đình có thể tự thêm lời nhắn trên trang lời chúc:
+681	Tình bạn
+682	Từ
+683	Từ {ownerName}. Nhấn “Để mình lo” để giữ một món quà, tránh trùng lặp.
+684	Từ ngày
+685	Từ những người của bạn
+686	Mặt trước
+687	Mặt trước của thiệp
+688	Gây quỹ · do {name} tổ chức
+689	Hài hước
+690	Nhận lời nhắc cho các sinh nhật và ngày kỷ niệm mà gia đình chia sẻ
+691	Nhận lời nhắc trên thiết bị này một tuần trước, một ngày trước và vào đúng ngày — kể cả khi Blessly đã đóng.
+692	Chúc mau khỏe
+693	Bắt đầu
+694	Không tìm thấy thẻ quà tặng
+695	Thẻ quà tặng
+696	Thẻ quà tặng, đơn hàng cửa hàng và thiệp in
+697	Ý tưởng quà tặng
+698	Danh sách quà và bảng đăng ký cho sinh nhật, đám cưới, em bé và tân gia. Bạn bè giữ chỗ món quà sẽ mua, nên không bị trùng lặp — và vẫn là điều bất ngờ.
+699	Danh sách quà bạn bè có thể giữ chỗ
+700	Lời nhắn kèm quà (không bắt buộc)
+701	Lời nhắn kèm quà: “{v}”
+702	Nhắc nhở tặng quà
+703	Danh sách quà (không bắt buộc)
+704	Quà tặng & thanh toán
+705	Quà tặng và thanh toán
+706	Quà từ người bán độc lập, giao tận nơi
+707	Quà từ người bán độc lập, được Blessly xem xét và người bán giao hàng.
+708	Đặt tên cho nó
+709	Đặt tên cho album
+710	Đặt tên cho thiệp
+711	Đặt tên cho sự kiện
+712	Đặt tên cho nhóm của bạn
+713	Đặt tên cho danh sách của bạn
+714	Phát sáng
+715	Đến Blessly
+716	Sẽ đi
+717	Chúc may mắn
+718	Google
+719	Chuyển màu từ {a} đến {b}
+720	Lễ tốt nghiệp
+721	Ông/bà
+722	Ông bà
+723	Không tìm thấy khoản tài trợ
+724	Thiệp nhóm
+725	Quà nhóm · do {name} tổ chức
+726	Quà nhóm và gây quỹ
+727	Quà nhóm được chuyển cho người tổ chức, không phải tổ chức từ thiện
+728	Quà nhóm, thẻ quà tặng, cửa hàng, thiệp in
+729	Khách
+730	Không tìm thấy khách
+731	Khách mời
+732	Khách có thể để lại tin nhắn, ảnh và video
+733	Halloween
+734	Chuyển quyền sở hữu cho người khác trước
+735	Hanukkah
+736	Chân thành
+737	Xin chào, {v}
+738	Chào {name}! Bạn được mời: {title} — {when}. Chi tiết và RSVP: {link}
+739	Holi
+740	Trang chủ
+741	Tiệc tân gia
+742	Cách
+743	Cách hoạt động
+744	Bao nhiêu
+745	Bao nhiêu người, kể cả bạn?
+746	Bạn muốn bao nhiêu
+747	Cách sử dụng
+748	Chồng
+749	Tôi duyệt tin nhắn trước khi hiển thị
+750	Để mình làm
+751	Để mình lo
+752	Tôi đã lưu lại
+753	Nếu {phone} thuộc về một tài khoản Blessly, chúng tôi đã gửi một mã 6 chữ số.
+754	Nếu có tài khoản cho {email}, liên kết đặt lại mật khẩu đang được gửi. Liên kết có hiệu lực trong 60 phút — cũng hãy kiểm tra thư mục spam.
+755	Nếu mất điện thoại, mỗi mã cho phép bạn đăng nhập một lần. Hãy cất ở nơi an toàn — chúng sẽ không hiển thị lại.
+756	Nhập CSV
+757	Nhập khách hàng
+758	Nhập khách hàng từ bảng tính; xem những gì đã gửi và đã đọc
+759	Nhập thất bại
+760	Nhập hoàn tất
+761	Kết quả nhập
+762	Nhập tối đa {v1} khách hàng mỗi lần
+763	Đang nhập…
+764	trong
+765	Sau {daysAway} ngày
+766	Sau {n} ngày
+767	Sau {n} ngày
+768	Để tưởng nhớ (không bắt buộc)
+769	Để tưởng nhớ
+770	Trong Meta Business Suite, thiết lập WhatsApp Manager với một số điện thoại chưa được dùng trong ứng dụng WhatsApp, rồi thêm phương thức thanh toán.
+771	Đang thực hiện
+772	Còn hàng
+773	Trong ứng dụng Meta của bạn, mở WhatsApp → Thiết lập API và sao chép
+774	IN,GB
+775	Màu mực {c}
+776	Màu mực
+777	Mặt trong
+778	Mặt trong của thiệp
+779	Mặt trong của thiệp: {label}
+780	Instagram không chấp nhận liên kết từ trang web. Trên điện thoại, hãy dùng “Thêm ứng dụng”, hoặc sao chép tin nhắn và dán vào cuộc trò chuyện Instagram.
+781	JSON không hợp lệ
+782	Thiệp mời
+783	Đã gửi lời mời đến {name}
+784	Đã gửi email lời mời đến {n} khách
+785	Đã gửi email lời mời đến {n} khách
+786	Mời
+787	Mời với vai trò
+788	Không tìm thấy lời mời
+789	Mời người thân
+790	Đã mời
+791	Chỉ khách được mời
+792	Chỉ khách được mời — hãy chia sẻ liên kết riêng của từng khách (tab Khách mời), không dùng liên kết này.
+793	được điền bằng tên của khách hàng và
+794	Không tìm thấy mục
+795	Mục
+796	Tham gia {businessName}
+797	Tham gia {family}
+798	Tham gia nhóm doanh nghiệp
+799	Tham gia nhóm gia đình
+800	Tham gia trực tuyến
+801	Tham gia nhóm gia đình
+802	Tham gia nhóm
+803	Đang tham gia…
+804	Chỉ khách mời
+805	Giữ ít nhất 12 mẫu hiển thị cho mỗi dịp
+806	Giữ như một điều bất ngờ
+807	Loại
+808	ngôn ngữ
+809	Ngôn ngữ
+810	Ngôn ngữ (ứng dụng và lời chúc)
+811	Rời đi
+812	Rời {familyName}? Những người bạn đã chia sẻ sẽ trở lại chế độ riêng tư.
+813	Để lại lời nhắn
+814	Rời nhóm
+815	Trái
+816	Trái ↔ phải
+817	Cho phép khách thêm ảnh
+818	Độ dày nét
+819	Liên kết
+820	Liên kết cho mã QR (video, danh sách phát, album ảnh, quà tặng…)
+821	Liên kết phải bắt đầu bằng / hoặc https://
+822	Liên kết không hợp lệ
+823	Liên kết đến cửa hàng (không bắt buộc)
+824	Đã liên kết với một mục trong danh sách quà — mục này sẽ hiển thị ở đó như một quà nhóm.
+825	LinkedIn
+826	đang hoạt động
+827	Đăng nhập
+828	Đăng xuất
+829	Mất điện thoại? Dùng mã khôi phục
+830	Tình yêu & gia đình
+831	Được tạo bằng
+832	Được tạo bằng Blessly · tự tạo miễn phí
+833	Được tạo bằng Blessly · tự tạo danh sách quà
+834	Được tạo bằng Blessly · tự lên kế hoạch tiệc mừng miễn phí
+835	Chính
+836	Makar Sankranti / Pongal
+837	Đặt {name} làm chủ sở hữu? Bạn sẽ trở thành quản trị viên.
+838	Đặt làm ảnh bìa
+839	Đặt làm chủ sở hữu
+840	Đặt người khác làm chủ sở hữu trước khi rời đi
+841	Đặt người khác làm chủ sở hữu trước
+842	Quản lý
+843	Quản lý tiệc mừng này
+844	Bản đồ
+845	Đánh dấu tất cả là đã đọc
+846	Đánh dấu đã gửi đến
+847	Đánh dấu hoàn thành
+848	Đánh dấu đã giao vận
+849	có thể
+850	Có thể
+851	Tôi ({name})
+852	Meena Shah, meena@example.com\nTom +44 7700 900123
+853	Thành viên
+854	Thành viên — có thể thêm sự kiện và công việc
+855	Không tìm thấy thành viên
+856	Thành viên: {v}
+857	Kỷ niệm
+858	Tin nhắn
+859	Tin nhắn (không bắt buộc)
+860	Không tìm thấy tin nhắn
+861	Tin nhắn gửi người đóng góp (không bắt buộc)
+862	Tin nhắn gửi khách mời (không bắt buộc)
+863	Loại tin nhắn
+864	Tin nhắn
+865	tin nhắn mỗi tháng (WhatsApp và email). Phí riêng của WhatsApp cho mỗi tin nhắn do Meta tính vào tài khoản WhatsApp của bạn.
+866	Tin nhắn được gửi từ số này qua Nền tảng Doanh nghiệp chính thức của WhatsApp. Meta tính phí tài khoản WhatsApp của bạn cho mỗi tin nhắn đã gửi đến (mức giá tiếp thị).
+867	Tin nhắn đã bị tắt cho tiệc mừng này
+868	Tin nhắn có thể dài tối đa 2 phút
+869	Tin nhắn dành cho {honoree}
+870	Tin nhắn từ {businessName}
+871	di động
+872	Di động

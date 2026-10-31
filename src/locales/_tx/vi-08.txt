@@ -1,0 +1,216 @@
+1527	Nhập DELETE để xác nhận
+1528	Nhập lại
+1529	Nhập lời của bạn
+1530	Chưa phân công
+1531	Không có quyền
+1532	Hoàn tác
+1533	Hoàn tác nét vẽ
+1534	Bỏ yêu thích {title}
+1535	Múi giờ không xác định
+1536	Múi giờ không xác định
+1537	Album ảnh không giới hạn, mỗi album {photos} ảnh
+1538	Thay đổi chưa lưu
+1539	Hủy đăng ký
+1540	Đã hủy đăng ký
+1541	Đã hủy đăng ký khỏi
+1542	Lên ↕ xuống
+1543	sự kiện sắp tới
+1544	Đã đăng cập nhật và gửi email đến {n} khách
+1545	Đã đăng cập nhật và gửi email đến {n} khách
+1546	Cập nhật
+1547	Cập nhật từ {v}
+1548	Nâng cấp lên Gia đình
+1549	Tải lên một ảnh (JPG, PNG, WebP hoặc GIF)
+1550	Tải lên video MP4 hoặc WebM
+1551	Tải lên mẫu thiết kế (3:4, rộng ít nhất 900 px)
+1552	Tải lên thất bại
+1553	Tải ảnh lên
+1554	Đang tải lên…
+1555	Tải lên
+1556	Dùng
+1557	Dùng mã quốc gia gồm 2 chữ cái
+1558	Dùng số khác
+1559	Dùng liên kết bắt đầu bằng https://
+1560	Dùng mẫu có sẵn thay thế
+1561	Dùng thời gian như 19:30
+1562	Dùng liên kết web (https://…)
+1563	Dùng duyệt hoặc từ chối
+1564	Dùng ít nhất 8 ký tự
+1565	Dùng trước
+1566	Dùng mã quốc gia như IN,GB
+1567	Dùng chữ thường, số và dấu gạch ngang
+1568	Dùng ứng dụng xác thực của tôi
+1569	Dùng thiệp này cho lời chúc
+1570	Dùng tin nhắn này
+1571	đã dùng {uses}×
+1572	Không tìm thấy người dùng
+1573	Người dùng, doanh nghiệp, tình trạng hệ thống và nhật ký kiểm tra
+1574	Sử dụng Nền tảng Doanh nghiệp chính thức của WhatsApp. Khách hàng có thể trả lời STOP bất cứ lúc nào
+1575	Vaisakhi
+1576	Ngày Valentine
+1577	Giá trị
+1578	Địa điểm
+1579	Xác minh
+1580	Vesak
+1581	Video
+1582	Liên kết cuộc gọi video (không bắt buộc)
+1583	Tin nhắn video · {time}
+1584	Tin nhắn video từ {from}
+1585	Video có thể lên tới 40 MB
+1586	Xem như bạn bè
+1587	Xem trang
+1588	Người xem không thể thêm sự kiện
+1589	Người xem không thể thêm công việc
+1590	Người xem không thể bắt đầu thiệp nhóm
+1591	vip, thường
+1592	Giọng nói
+1593	Tin nhắn thoại · {time}
+1594	Tin nhắn thoại từ {from}
+1595	Đang chờ
+1596	đang chờ duyệt
+1597	Đang chờ duyệt
+1598	muốn {n}
+1599	Cách đăng nhập
+1600	Hiện chưa thể gửi thiệp in đến quốc gia đó
+1601	Chúng tôi cần địa chỉ email của bạn để tạo tài khoản. Vui lòng cho phép chia sẻ, hoặc đăng ký bằng email.
+1602	Chúng tôi đã nhắn mã đến {phone}.
+1603	Trang web (không bắt buộc)
+1604	Đám cưới
+1605	Chào mừng bạn trở lại
+1606	Làm tốt lắm
+1607	Bạn đang mừng dịp gì?
+1608	Đó là gì?
+1609	Cần làm gì?
+1610	Bạn muốn gì?
+1611	Những món đã được giữ chỗ sẽ bị ẩn với bạn.
+1612	Đang diễn ra
+1613	whatsapp
+1614	WhatsApp
+1615	WhatsApp (chúng tôi nhắc bạn gửi)
+1616	WhatsApp / di động
+1617	WhatsApp +{recipient}
+1618	WhatsApp Business
+1619	ID tài khoản WhatsApp Business
+1620	ID tài khoản WhatsApp Business là một dãy số dài
+1621	WhatsApp không chấp nhận các thông tin này: {message}
+1622	WhatsApp chưa được kết nối
+1623	Chỉ WhatsApp
+1624	WhatsApp chỉ cho phép doanh nghiệp bắt đầu cuộc trò chuyện bằng mẫu đã được Meta duyệt. Tạo mẫu trong WhatsApp Manager (ví dụ “Chúc mừng sinh nhật
+1625	Mẫu WhatsApp
+1626	Mẫu WhatsApp (được Meta duyệt)
+1627	WhatsApp, hoặc email nếu không có WhatsApp
+1628	Khi nào
+1629	Khi nào (theo giờ thiết bị của bạn)
+1630	Khi nào và ở đâu
+1631	Ở đâu (không bắt buộc)
+1632	Viền trắng
+1633	Ai
+1634	Ai có thể xem
+1635	Dành cho ai?
+1636	Dành cho ai?
+1637	Lời chúc này dành cho ai?
+1638	Dành cho ai
+1639	Dành cho ai (không bắt buộc)
+1640	Ai làm gì
+1641	Vợ
+1642	Lời chúc
+1643	Đã soạn lời chúc cho bạn
+1644	Gửi lời chúc cho mọi khách hàng, tự động
+1645	Ngôn ngữ lời chúc
+1646	Không tìm thấy lời chúc
+1647	Không tìm thấy trang lời chúc
+1648	Lời chúc từ bạn bè
+1649	Lời chúc được gửi tự động vào đúng ngày, theo giờ {timezone}, đến khách hàng đã đồng ý nhận tin nhắn. Mỗi khách hàng nhận một tin nhắn cho mỗi dịp.
+1650	lời chúc bằng {language}
+1651	Danh sách quà
+1652	Không tìm thấy danh sách quà
+1653	Danh sách quà
+1654	Blessly
+1655	Blessly — lời chúc và lời nhắc cho mọi dịp
+1656	Blessly cho doanh nghiệp
+1657	Blessly đã tạm dừng gửi tin nhắn cho doanh nghiệp của bạn: {reason}. Sẽ không có gì được gửi cho đến khi vấn đề này được giải quyết — vui lòng liên hệ bộ phận hỗ trợ.
+1658	Blessly miễn phí cho lời nhắc và lời chúc cá nhân. Gói Gia đình và Doanh nghiệp bổ sung nhóm gia đình lớn hơn, album và lời chúc tự động cho khách hàng qua WhatsApp.
+1659	Blessly nhắc bạn một tuần trước mỗi sinh nhật, ngày kỷ niệm và lễ hội, viết lời chúc chân thành bằng {length} ngôn ngữ, và mở WhatsApp hoặc Telegram với lời chúc đã sẵn sàng để gửi.
+1660	Thanh toán thử nghiệm Blessly
+1661	với quyền whatsapp_business_messaging và whatsapp_business_management, rồi tạo mã thông báo vĩnh viễn.
+1662	với tên doanh nghiệp của bạn.
+1663	Công việc & cột mốc
+1664	Kỷ niệm ngày làm việc
+1665	Áp dụng cho tài khoản đã thêm số di động trong Cài đặt → Đăng nhập và bảo mật.
+1666	Rất muốn
+1667	Viết tin nhắn hoặc thêm ảnh
+1668	Viết một tin nhắn ngắn
+1669	Viết lời cảm ơn
+1670	Viết lời chúc
+1671	Viết lời chúc cho
+1672	Viết lời chúc của tôi
+1673	Viết hoặc tạo lời chúc trước
+1674	Viết tin nhắn
+1675	Viết cập nhật
+1676	Đang viết…
+1677	năm
+1678	Hàng năm · tiết kiệm 20%
+1679	Có, xóa
+1680	Có, mình sẽ đến
+1681	Bạn
+1682	Bạn đã có không gian làm việc doanh nghiệp
+1683	Bạn có thể nộp đơn lại.
+1684	Bạn có thể tham gia tối đa {MAX_FAMILIES_PER_USER} nhóm gia đình
+1685	Bạn có thể có tối đa 200 tiệc mừng
+1686	Bạn có thể có tối đa 50 danh sách quà
+1687	Bạn có thể giữ tối đa {MAX_DESIGNS} thiệp — hãy xóa bớt những thiệp không cần
+1688	Bạn chỉ có thể thay đổi ảnh do mình thêm
+1689	Bạn chỉ có thể xóa người có vai trò thấp hơn
+1690	Bạn chỉ có thể xóa ảnh do mình thêm
+1691	Bạn chỉ có thể chia sẻ album với nhóm gia đình mà bạn có thể thêm nội dung
+1692	Bạn chỉ có thể chia sẻ với nhóm gia đình mà bạn có thể thêm người
+1693	Bạn chỉ có thể cập nhật công việc được giao cho bạn
+1694	Bạn chỉ có thể xem album này
+1695	Bạn có thể lên lịch trước tối đa một năm
+1696	Bạn có thể gửi lời cảm ơn khi tiệc mừng đã bắt đầu
+1697	Bạn không thể mua sản phẩm của chính mình
+1698	Bạn không thể đến
+1699	Bạn có thể đến
+1700	Bạn đã sở hữu doanh nghiệp này rồi.
+1701	Bạn sẽ có thể quản lý khách hàng, tự động hóa sinh nhật và chiến dịch.
+1702	Bạn sẽ bị đăng xuất khỏi các thiết bị khác.
+1703	bạn sẽ tham gia với vai trò: {role}
+1704	Bạn đã tham gia — mở nhóm
+1705	Bạn đã ở trong nhóm của doanh nghiệp khác. Hãy rời nhóm đó trước.
+1706	Bạn đang dùng gói {name}
+1707	Bạn đã hủy đăng ký rồi.
+1708	Bạn sẽ đến
+1709	Bạn nhận được tin này
+1710	Bạn đang ngoại tuyến
+1711	Bạn đang ở
+1712	Bạn đang đăng nhập trên {n} thiết bị (kể cả thiết bị này).
+1713	Bạn đang đăng nhập trên {n} thiết bị (kể cả thiết bị này).
+1714	Bạn là người tổ chức.
+1715	Bạn là người duy nhất ở đây, nên rời đi sẽ xóa {familyName}.
+1716	Bạn đã nộp đơn rồi
+1717	Bạn được mời tham gia một nhóm gia đình. Tạo tài khoản miễn phí để tham gia.
+1718	Bạn được mời tham gia một nhóm gia đình. Đăng nhập để tham gia.
+1719	Bạn đã tải lên số ảnh thiệp tối đa chúng tôi có thể lưu (1.000)
+1720	Tài khoản {kind} của bạn chưa được duyệt
+1721	Đơn đăng ký ({kind}) của bạn không được duyệt.
+1722	Chiến dịch của bạn
+1723	Thiệp của bạn: {title}
+1724	Thiệp của bạn
+1725	Nhóm của bạn đã đầy ({n} người).
+1726	Nhóm của bạn
+1727	Mật khẩu hiện tại của bạn không đúng
+1728	Dữ liệu của bạn
+1729	Thời gian dùng thử miễn phí của bạn đã kết thúc, nên hiện không có gì được gửi.
+1730	Thẻ quà tặng của bạn
+1731	Danh sách của bạn trống.
+1732	Tin nhắn của bạn
+1733	Tên của bạn
+1734	Những người và lời nhắc riêng của bạn vẫn được giữ kín
+1735	Mật khẩu của bạn
+1736	Những người của bạn
+1737	Ảnh của bạn
+1738	Gói của bạn
+1739	Gói của bạn chứa tối đa {v1} khách hàng
+1740	Gói của bạn bao gồm {seats} tài khoản đăng nhập nhóm{v2} (kể cả bạn).
+1741	Lời chúc của bạn (chỉnh sửa tự do)
+1742	Zoom

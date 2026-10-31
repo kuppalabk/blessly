@@ -1,0 +1,218 @@
+437	Tiếp tục
+438	Tiếp tục thanh toán
+439	Tiếp tục với
+440	Đóng góp
+441	Đã sao chép
+442	Sao chép
+443	Sao chép liên kết riêng của {name}
+444	Sao chép mã
+445	Sao chép thất bại — nhấn giữ liên kết để sao chép
+446	Sao chép liên kết
+447	Sao chép tin nhắn
+448	Sao chép liên kết trang lời chúc
+449	Không thể thêm
+450	Không thể thêm lời nhắn của bạn
+451	Không thể áp dụng
+452	Không thể hủy
+453	Không thể tạo
+454	Không thể tạo nhóm
+455	Không thể xóa
+456	Không thể xuất
+457	Không thể tham gia
+458	Không thể mở trình chỉnh sửa
+459	Không thể mở trang thanh toán
+460	Không thể đăng
+461	Không thể lưu
+462	Không thể lưu thiệp
+463	Không thể lưu ảnh thiệp
+464	Không thể lên lịch
+465	Không thể gửi
+466	Không thể gửi mã
+467	Không thể gửi câu trả lời của bạn
+468	Không thể bắt đầu thiệp
+469	Không thể bắt đầu thiệp
+470	Không thể tắt thông báo
+471	Không thể bật thông báo
+472	Không thể dùng mẫu thiết kế đó
+473	Không thể viết lời chúc
+474	Không thể tải mẫu: {message}
+475	Không thể kết nối tới {label}
+476	Quốc gia
+477	Quốc gia (lịch lễ hội)
+478	Quốc gia (cho lịch lễ hội)
+479	Quốc gia (cho số điện thoại không có mã vùng)
+480	Mã quốc gia
+481	Ảnh bìa của {title}
+482	Tạo
+483	Tạo một
+484	Tạo nhóm gia đình
+485	Tạo liên kết để chia sẻ album với bất kỳ ai — qua WhatsApp, Facebook hoặc tin nhắn.
+486	Tạo lời chúc
+487	Tạo tài khoản
+488	Tạo album
+489	Tạo tài khoản
+490	Tạo không gian làm việc doanh nghiệp
+491	Tạo trang tiệc mừng
+492	Tạo nhóm gia đình
+493	Tạo liên kết mời
+494	Tạo mẫu tin nhắn (ví dụ lời chúc sinh nhật) và chờ duyệt.
+495	Tạo liên kết chia sẻ
+496	Tạo danh sách quà
+497	Tạo tài khoản của bạn
+498	Tạo tài khoản miễn phí của bạn
+499	Đang tạo…
+500	Tệp CSV
+501	Nội dung CSV
+502	Tiền tệ
+503	Mật khẩu hiện tại
+504	{v} tùy chỉnh
+505	Màu nền tùy chỉnh
+506	Gói tùy chỉnh
+507	Khách hàng
+508	Không tìm thấy khách hàng
+509	Khách hàng
+510	Không thể tải dữ liệu trong chế độ xem hỗ trợ
+511	Ngày
+512	Ngày (không bắt buộc)
+513	Con gái
+514	Ngày
+515	Xóa
+516	Xóa “{title}” và tất cả {length} ảnh? Thao tác này không thể hoàn tác.
+517	Xóa “{title}” cùng các phản hồi RSVP và công việc? Mọi người trong nhóm sẽ mất nội dung này.
+518	Xóa {name}
+519	Xóa {name} và tất cả lời nhắc của người này? Thao tác này không thể hoàn tác.
+520	Xóa {name}? Lịch sử tin nhắn của họ vẫn còn trong nhật ký nhưng không kèm tên.
+521	Xóa {title}
+522	Xóa album
+523	Xóa khách hàng
+524	Xóa sự kiện
+525	Xóa vĩnh viễn
+526	Xóa tài khoản của tôi
+527	Xóa tài khoản của tôi…
+528	Xóa trang
+529	Xóa công việc {title}
+530	Xóa thiệp này? Các lời chúc bạn đã gửi kèm thiệp sẽ hiển thị theo mẫu gốc.
+531	Xóa trang tiệc mừng này, danh sách khách và tất cả tin nhắn? Thao tác này không thể hoàn tác.
+532	Xóa danh sách quà này?
+533	Xóa danh sách quà
+534	Khách hàng đã xóa
+535	Đã gửi đến
+536	Đã gửi / đã đọc
+537	Gửi đến (mã quốc gia)
+538	Cập nhật giao hàng
+539	Mô tả
+540	Thiết kế
+541	Mẫu {n} trên 100:
+542	Mẫu {n} trên 250
+543	Mẫu {number}: {name}
+544	Tên mẫu
+545	Không tìm thấy mẫu
+546	Tự thiết kế thiệp
+547	Tự thiết kế thiệp: thay đổi lời, phông chữ và màu sắc, thêm ảnh, nhãn dán, chữ ký hoặc mã QR — rồi gửi kèm lời chúc hoặc in ra.
+548	Mẫu thiết kế cần rộng ít nhất 900 pixel để in
+549	Mẫu thiết kế cần theo chiều dọc, tỉ lệ 3:4 (ví dụ 1500 × 2000 pixel)
+550	Chi tiết
+551	Chế độ phát triển — chưa gửi tin nhắn nào. Mã của bạn là
+552	Chế độ phát triển — mã của bạn là
+553	Nhu cầu ăn uống (không bắt buộc)
+554	Ngắt kết nối
+555	Diwali
+556	Không hiển thị tên tôi công khai
+557	Quyên góp
+558	Khoản quyên góp được chuyển thẳng đến
+559	Xong
+560	Xong. {business} sẽ không gửi các tin nhắn này cho bạn nữa.
+561	Tải bản sao toàn bộ dữ liệu Blessly lưu về bạn, hoặc xóa tài khoản. Đọc
+562	Tải tệp mẫu
+563	Tải danh sách khách
+564	Tải dữ liệu của tôi
+565	Hình vẽ
+566	Vùng vẽ
+567	Trang phục, chỗ đậu xe, những thứ cần mang, điều bất ngờ cần giữ kín…
+568	Hạn chót (không bắt buộc)
+569	Ngày đến hạn
+570	Nhân bản
+571	Nhân bản {title}
+572	VD: Asha
+573	VD: Asha tròn 30 tuổi
+574	VD: Sinh nhật 60 của bố — dành cho khoa ung bướu
+575	VD: Sinh nhật 80 của Dadi
+576	VD: Bữa tối sinh nhật 80 của Dadi
+577	VD: Lời chúc Diwali 2026
+578	VD: Quà chia tay cho Sam
+579	VD: thích leo núi, chuyến đi Goa của chúng tôi
+580	VD: Ngày đặt tên
+581	VD: Nhà của Nani
+582	VD: Nisha
+583	VD: Đặt bánh kem
+584	VD: chuyến đi Goa của chúng tôi
+585	VD: Danh sách quà cưới của chúng tôi
+586	VD: lối đi không bậc thang
+587	VD: Tiệm bánh Sweet Treats
+588	VD: Phòng Garden
+589	VD: ăn chay, dị ứng hạt
+590	VD: vip
+591	VD: Chúng tôi đã chuyển vào trong — cùng địa chỉ, đi cửa sau.
+592	Mỗi khách nhận một liên kết riêng. Không ai khác có thể mở trang này.
+593	Lễ Phục sinh
+594	Chỉnh sửa
+595	Chỉnh sửa {name}
+596	Chỉnh sửa thiệp
+597	Chỉnh sửa khách hàng
+598	Chỉnh sửa sự kiện
+599	Chỉnh sửa mục
+600	Chỉnh sửa người
+601	Chỉnh sửa danh sách của bạn
+602	Eid
+603	email
+604	Email
+605	Email (để nhận biên lai)
+606	Email (để nhận cập nhật và nhắc nhở)
+607	Email (không bắt buộc, để gửi lời cảm ơn)
+608	Email (gửi tự động)
+609	Tin nhắn email
+610	Chỉ email
+611	Email hoặc mật khẩu không đúng
+612	Tiêu đề email
+613	Kết thúc (không bắt buộc)
+614	Lễ đính hôn
+615	Nhập tên
+616	Nhập giá, ví dụ 1499 hoặc 24.99
+617	Nhập email hợp lệ
+618	Nhập địa chỉ email hợp lệ
+619	Nhập số di động hợp lệ kèm mã quốc gia
+620	Nhập số điện thoại hợp lệ
+621	Nhập một trong các mã khôi phục của bạn. Mỗi mã chỉ dùng được một lần.
+622	Nhập mục tiêu, ví dụ 5000 hoặc 49.99
+623	Nhập email tài khoản và chúng tôi sẽ gửi liên kết để bạn đặt mật khẩu mới.
+624	Nhập tên doanh nghiệp của bạn
+625	Nhập số di động kèm mã quốc gia, ví dụ +91 98765 43210
+626	Nhập tên của bạn
+627	Sự kiện
+628	Chi tiết sự kiện
+629	Không tìm thấy sự kiện
+630	Mọi tài khoản đều được Blessly xem xét trước khi kích hoạt.
+631	Mọi người cùng góp chung cho một món quà, hoặc gây quỹ cho một tổ chức từ thiện
+632	Mọi người ở đây đều nhận lời nhắc cho những người này. Những người khác của bạn vẫn được giữ riêng tư.
+633	Mọi người trong nhóm này sẽ thấy người này và nhận lời nhắc của họ. Chỉ bạn mới có thể chỉnh sửa.
+634	Mọi người trong tệp này đã đồng ý nhận tin nhắn từ doanh nghiệp của tôi
+635	Mọi người cùng ký một thiệp
+636	Thoát
+637	Hết hạn
+638	Đang xuất…
+639	Facebook
+640	Giả lập thanh toán thất bại
+641	Thất bại
+642	Thất bại hoặc chưa gửi
+643	Gia đình
+644	Nhóm gia đình
+645	Nhóm gia đình tối đa {n} người
+646	Nhóm gia đình, album và tin nhắn doanh nghiệp
+647	Sự kiện gia đình
+648	Sự kiện gia đình
+649	Không tìm thấy nhóm gia đình
+650	Gói gia đình
+651	Chữ ký gia đình
+652	Tiễn biệt
+653	Bố
+654	Ngày của Cha

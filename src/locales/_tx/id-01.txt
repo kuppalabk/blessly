@@ -1,0 +1,218 @@
+1	— opsional
+2	— terlalu banyak variabel
+3	— pembayaran terakhir Anda gagal; perbarui metode pembayaran Anda
+4	· {partySize} orang
+5	· oleh {ownerName}
+6	· dibatalkan
+7	· ditutup
+8	· sampul
+9	· tanggal bisa berubah
+10	· tanggal bisa berbeda per wilayah
+11	· kenangan
+12	· tanpa persetujuan — tidak akan dikirimi pesan
+13	· ref {reference}
+14	· dibagikan
+15	· target {v}
+16	· pelacakan {tracking}
+17	· menunggu persetujuan
+18	({pending} perlu disetujui)
+19	(anonim bagi orang lain)
+20	(Anda)
+21	untuk {honoree}
+22	untuk {v}
+23	Tercatat: {consentSource}.
+24	dengan status “{v}”
+25	— semua orang di sana mendapat pengingat ini.
+26	— hanya baca, sebagai {admin}. Tidak ada yang bisa diubah.
+27	— pengingat, ucapan, dan album untuk setiap momen.
+28	— membagikan halaman ucapan dengan pratinjau kartu
+29	— Anda tidak akan tahu apa sampai memilih untuk melihat.
+30	, {maybe} mungkin
+31	, atau bagikan tautan — yang membalas otomatis ditambahkan
+32	, orang-orang Anda, pengingat, ucapan dan halaman ucapan, serta bisnis Anda beserta pelanggannya. Lingkaran keluarga milik Anda berpindah ke anggota berikutnya. Tindakan ini tidak bisa dibatalkan.
+33	! Nikmati suguhan dari kami di
+34	. Tanggal seperti 14/03, 14 Mar, atau 1990-03-14 (hari dulu). Pelanggan yang sudah ada dengan nomor ponsel atau email yang sama akan diperbarui.
+35	. Hanya
+36	. Kirim pada harinya.
+37	. Blessly tidak akan mengirim pesan kepada mereka di sana.
+38	…atau tempel di sini
+39	”), lalu tekan “Muat ulang templat” di Pengaturan.
+40	({v} per kartu, dicetak di kertas 350gsm dengan amplop, sudah termasuk ongkos kirim)
+41	(wajib),
+42	{added} ditambahkan · {updated} diperbarui · {skipped} dilewati
+43	{coming} hadir · {guests} di daftar tamu
+44	{consented} setuju menerima pesan
+45	{days} hari
+46	{going} hadir · {maybe} mungkin · {no} tidak bisa · {waiting} belum membalas
+47	{greeting}, {recipientName} — kartu dari {senderName}
+48	{hostName} mengundang Anda
+49	{inDays} hari
+50	{inviter} mengundang Anda ke
+51	{inviter} mengundang Anda ke {family} di Blessly — kita akan berbagi ulang tahun, merencanakan acara keluarga, dan menandatangani kartu bersama. Bergabung di sini: {link}
+52	{label} (opsional)
+53	Hari {label}
+54	Bulan {label}
+55	Masuk dengan {label} gagal ({why}). Silakan coba lagi.
+56	Masuk dengan {label} gagal. Silakan coba lagi.
+57	{length} dari {limit} orang · Anda {v}
+58	{length} dari {maxPhotos} foto · JPG, PNG, WebP, atau GIF hingga 15 MB. Data lokasi dihapus dari setiap foto.
+59	{length} ucapan dalam dua minggu ke depan
+60	{memberCount} dari {limit} orang · {v}
+61	{mine} album (tak terbatas di paket {plan}) · masing-masing {photos} foto
+62	{mine} dari {max} album di paket {plan} · masing-masing {photos} foto
+63	{n} pelanggan
+64	{n} pelanggan
+65	{n} hari
+66	{n} hari
+67	{n} hadiah sudah dipesan
+68	{n} hadiah sudah dipesan
+69	{n} hadir
+70	{n} tersedia
+71	{n} barang
+72	{n} barang
+73	{n} pesan
+74	{n} pesan
+75	{n} orang
+76	{n} orang akan datang
+77	{n} orang
+78	{n} orang akan datang
+79	{n} foto
+80	{n} album foto
+81	{n} album foto
+82	{n} foto dibagikan oleh {name} di Blessly
+83	{n} foto
+84	{n} foto dibagikan oleh {name} di Blessly
+85	{n} dibaca di WhatsApp
+86	Tersisa {n} kode pemulihan.
+87	Tersisa {n} kode pemulihan.
+88	{n} baris
+89	{n} baris
+90	{n} akses tim
+91	{name} (Anda)
+92	Kartu hadiah {name} untuk {recipientName}
+93	{name} sudah menerima jawaban Anda.
+94	{name} mengundang Anda
+95	Paket {name}
+96	{name} tidak akan tahu siapa.
+97	{name}, {hostName} mengundang Anda
+98	Daftar keinginan {occasion}
+99	{phone} · masuk dengan kode SMS
+100	masing-masing {photos} foto
+101	{provider} terhubung
+102	{provider} sekarang terhubung.
+103	{quantity} dipesan oleh Anda.
+104	{raised} dari {n} orang
+105	{raised} dari {n} orang
+106	{raised} terkumpul dari {n} orang
+107	{raised} terkumpul dari {n} orang
+108	Tersisa {remaining} dari {quantity}
+109	Undangan {role}
+110	{seller} · kirim ke {v}
+111	{sent} terkirim · {delivered} diterima · {read} dibaca · {failed} tidak terkirim
+112	{signed} dari {total} anggota keluarga sudah menandatangani
+113	Tersisa {stock}
+114	{title} oleh {by}
+115	{unread} belum dibaca
+116	{used} dari {quota} pesan terpakai
+117	{used} dari {seats} akses terpakai. Anggota tim bisa mengelola pelanggan, otomatisasi, dan kampanye; hanya pemilik yang mengubah pengaturan dan WhatsApp.
+118	{v} · dikirim lewat email ke {emailed}
+119	{v} hari, {v2} jam, dan {v3} menit lagi
+120	{v} aktif
+121	+ Tambah acara keluarga
+122	+ Tambah momen
+123	+ Ucapan
+124	+ Undang
+125	+ Foto
+126	+ Bagikan seseorang
+127	+ Tanda tangan atau gambar
+128	+ Teks
+129	■ Berhenti
+130	● Rekam pesan video
+131	● Rekam pesan suara
+132	✉️ Cetak dan kirim via pos
+133	✎ Sesuaikan desain ini
+134	🎁 Daftar keinginan hadiah
+135	🎁 Hadiah patungan
+136	🎉 Sedang berlangsung!
+137	🎙️ Pesan suara dari {from}
+138	🎥 Pesan video dari {from}
+139	💚 Penggalangan dana
+140	💝 {title} · {v} terkumpul
+141	💝 Tambah hadiah patungan
+142	💝 Hadiah patungan: {raised} terkumpul — ikut patungan
+143	💝 Hadiah patungan: {raised} dari {target} terkumpul — ikut patungan
+144	📱 Masuk dengan kode SMS
+145	$ USD
+146	₹ INR
+147	1 · Momen dan orang
+148	1 · Ingat
+149	1 hari sebelumnya
+150	1. Pindai ini dengan aplikasi autentikator Anda:
+151	2 · Buat
+152	2 · Tulis ucapan
+153	2. Masukkan kode 6 digit yang ditampilkan
+154	250 desain kartu untuk masing-masing dari 40 momen, dalam 32 bahasa.
+155	250 desain untuk setiap momen
+156	3 · Sampaikan
+157	3 · Pilih kartu · desain {n} · {shown} dari {total} desain
+158	3 · Kartu Anda
+159	3 hari sebelumnya
+160	4 · Pesan suara atau video (opsional)
+161	40 momen × 250 desain (10.000 kartu), dalam 32 bahasa. Semua ilustrasi orisinal dan bebas digunakan.
+162	7 hari sebelumnya
+163	Sebuah perayaan bisa memiliki hingga {MAX_GUESTS} tamu
+164	Pelanggan dengan email ini sudah ada
+165	Pelanggan dengan nomor ini sudah ada
+166	Desain tidak bisa sekaligus disembunyikan dan ditampilkan unggulan
+167	Lingkaran keluarga berisi hingga {limit} orang
+168	Daftar bisa berisi hingga {MAX_ITEMS} barang
+169	Halaman untuk pesta atau acara Anda: undangan dan konfirmasi kehadiran, hitung mundur, serta dinding pesan, foto, dan kenangan.
+170	Ucapan untuk {name}
+171	Ucapan untuk Anda, {name}
+172	Ucapan dari {name}
+173	Tentang Anda
+174	Kebutuhan aksesibilitas (opsional)
+175	Akun tidak ditemukan
+176	Tindakan
+177	Tambah
+178	Tambah {s}
+179	Tambahkan kolom “name”
+180	Tambahkan ulang tahun atau hari jadi
+181	Tambahkan ulang tahun atau hari jadi, kami akan mengingatkan seminggu sebelumnya, menyiapkan ucapan sehari sebelumnya, dan memberi tahu Anda pada harinya.
+182	Tambahkan keterangan
+183	Tambah acara keluarga
+184	Tambahkan nomor ponsel atau email
+185	Tambahkan nama
+186	Tambahkan catatan (disimpan di log audit)
+187	Tambah produk
+188	Tambahkan subjek
+189	Tambah tugas
+190	Tambah barang
+191	Tambah pelanggan
+192	Tambah acara
+193	Tambah tamu
+194	Tambah tamu — satu per baris: nama, lalu email dan/atau telepon
+195	Tambah kenangan
+196	Tambahkan ucapan saya
+197	Tambah nomor
+198	Tambahkan untuk masuk dengan kode SMS
+199	Tambahkan orang sekali saja. Hari raya negara Anda sudah ada di kalender.
+200	Tambah orang
+201	Tambah foto
+202	Tambah produk (dikirim untuk ditinjau)
+203	Tambah kode QR
+204	Tambah seseorang
+205	Tambahkan orang istimewa
+206	Tambahkan sesuatu yang Anda inginkan
+207	Tambah tugas
+208	Tambahkan alamat
+209	Tambahkan subjek dan isi email
+210	Tambahkan orang-orang yang berarti
+211	Tambahkan kode pos
+212	Tambahkan nama penerima
+213	Tambahkan kota
+214	Tambahkan ke kalender
+215	Tambahkan ke kartu
+216	Tambahkan ke favorit
+217	Tambahkan ke daftar
+218	Tambahkan ke kalender saya

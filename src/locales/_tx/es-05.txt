@@ -1,0 +1,218 @@
+873	Móvil (para WhatsApp y SMS)
+874	Número de móvil
+875	mes
+876	Mes
+877	Mensual
+878	Más
+879	Más apps (Instagram…)
+880	Más diseños
+881	Lo más popular
+882	Madre
+883	Día de la Madre
+884	Mover {title} hacia abajo
+885	Mover {title} hacia arriba
+886	Imprescindible
+887	Mis tarjetas
+888	Mis pedidos
+889	nombre
+890	Nombre
+891	Nombre de la ocasión
+892	Nombre de la celebración
+893	Pon nombre a la campaña
+894	Pon nombre a tu diseño y luego súbelo.
+895	Navratri
+896	Necesita planificar para
+897	No te pierdas nunca un cumpleaños familiar
+898	No te pierdas nunca un momento. Nunca olvides a alguien importante.
+899	No te pierdas ni un momento. Recordatorios, deseos escritos con IA en 32 idiomas y bonitas tarjetas para cada ocasión.
+900	Nuevo
+901	Nuevo álbum
+902	Nuevo bebé
+903	Nueva campaña
+904	¿Eres nuevo aquí?
+905	Nuevo trabajo
+906	Nueva contraseña
+907	Nuevos códigos de recuperación
+908	Nueva tarea
+909	Nueva lista de deseos
+910	Año Nuevo
+911	Más recientes
+912	Siguiente
+913	Próximos 7 días
+914	Siguiente diseño
+915	Próximo mes
+916	Próxima ocasión
+917	Bueno tenerlo
+918	Aún no hay avisos. Los recordatorios aparecen aquí antes de cada ocasión.
+919	sin respuesta
+920	Aún sin respuesta
+921	Aún no hay campañas. Programa felicitaciones de festividades o una oferta para un grupo de clientes.
+922	Aún no hay tarjetas. Empieza una arriba o elige un diseño en Crear y pulsa “Personalizar este diseño”.
+923	Sin consentimiento
+924	Esta semana no hay cumpleaños ni aniversarios de clientes.
+925	Ningún cliente coincide.
+926	Aún no hay clientes. Añádelos uno a uno o importa una hoja de cálculo.
+927	Aún no hay fechas
+928	Aún no hay fechas.
+929	Ningún dispositivo lo recibió. Prueba a desactivar y volver a activar las notificaciones.
+930	Aún no hay donaciones. Los recaudadores ya pueden elegir {name}.
+931	Aún no hay eventos. Añade una cena de cumpleaños, un puja o una reunión.
+932	Aún no hay tarjeta de grupo.
+933	Aún no hay invitados. Añádelos arriba
+934	Sin mensajes
+935	Aún no hay mensajes. Los invitados pueden dejar mensajes, fotos y vídeos en la página.
+936	Aún no hay nadie. Añade familiares, amigos y compañeros con sus cumpleaños y aniversarios.
+937	Nadie coincide con “{q}”.
+938	Aún no hay pedidos.
+939	No hay otras tarjetas.
+940	Aún no hay fotos
+941	Aún no hay fotos.
+942	Sin plan — los mensajes están en pausa
+943	Aún no hay productos.
+944	No se mueve dinero real: los pagos usan un pago de prueba.
+945	Sin respuesta
+946	Aún no hay plantillas. Créalas en WhatsApp Manager y luego actualiza.
+947	Aún no hay organizaciones benéficas verificadas
+948	Sin lista de deseos
+949	Todavía nadie se ha compartido: añade abuelos, primos y tías para que nadie se olvide.
+950	Ninguno
+951	Aún ninguno — comparte el enlace.
+952	no aprobado
+953	No aprobado
+954	No conectado
+955	No encontrado
+956	No aparece en ningún sitio; comparte el enlace con quien quieras.
+957	No está en el equipo
+958	Aún no reservado
+959	No guardado
+960	No enviado
+961	Sin configurar: inicias sesión con las opciones de abajo
+962	Nota para {name} (opcional)
+963	Notas
+964	Notas — talla, color, modelo (opcional)
+965	Notas (opcional)
+966	Notas para deseos personales (opcional)
+967	Aún no hay nada en esta lista.
+968	Aún no hay nada planeado.
+969	Aún no hay nada reservado
+970	Aún no se ha enviado nada a {v}.
+971	Aún no se ha enviado nada.
+972	Nada este mes.
+973	Las notificaciones están bloqueadas para Blessly. Permítelas en los ajustes del navegador o del teléfono y vuelve aquí.
+974	Número eliminado.
+975	Número verificado.
+976	Ocasión
+977	Tipo de ocasión
+978	Ocasiones
+979	Ocasiones y recordatorios
+980	de {v} de tu plan
+981	Desactivado
+982	Sin conexión
+983	Más antiguos
+984	Activado
+985	Activado en este dispositivo y en {n} más.
+986	Activado en este dispositivo y en {n} más.
+987	Activado en este dispositivo.
+988	En iPhone y iPad, primero añade Blessly a la pantalla de inicio (Compartir → Añadir a pantalla de inicio) y luego ábrelo desde ahí para activar las notificaciones.
+989	En camino
+990	El mismo día
+991	Un toque abre WhatsApp o Telegram con el deseo listo. El correo puede enviarse solo el día indicado.
+992	Solo clientes con etiqueta
+993	Solo clientes con etiqueta (opcional)
+994	Solo yo
+995	Solo se pueden reembolsar los pagos realizados
+996	Solo se pueden cancelar las campañas programadas
+997	Solo el propietario de la empresa puede hacer esto
+998	Solo el propietario de la empresa puede quitar personas
+999	Solo el propietario puede cambiar los roles
+1000	Solo el propietario puede cambiar la conexión de WhatsApp.
+1001	Solo el propietario puede eliminar el círculo
+1002	Solo el propietario puede invitar a administradores
+1003	Solo el propietario o un administrador puede cancelar invitaciones
+1004	Solo el propietario o un administrador puede invitar a personas
+1005	Solo el propietario o un administrador puede quitar personas
+1006	Solo el propietario o un administrador puede cambiar el nombre del círculo
+1007	Solo quien añadió este evento, el propietario o un administrador puede cambiarlo
+1008	Solo quien añadió este evento, el propietario o un administrador puede eliminarlo
+1009	Solo quien añadió esta tarea, el propietario o un administrador puede eliminarla
+1010	Solo quien creó el álbum puede cambiarlo
+1011	Solo quien creó el álbum puede eliminarlo
+1012	Solo tú puedes ver a esta persona y sus recordatorios.
+1013	Abrir
+1014	Ábrelo desde el enlace de tu invitación. Si te invitaron y lo perdiste, pide al anfitrión que te lo envíe de nuevo.
+1015	tareas abiertas
+1016	Abre la tarjeta
+1017	Abre la tarjeta y pulsa
+1018	Abre primero la tarjeta y pulsa “Usar esta tarjeta” o “PDF listo para imprimir”, para que tengamos las imágenes terminadas
+1019	Abre tu app de autenticación e introduce el código de 6 dígitos de Blessly.
+1020	Abriendo la pasarela de pago…
+1021	Abriendo el editor…
+1022	Abriendo el pago…
+1023	Abre tu propia app con el mensaje listo. Tú pulsas enviar, así que sale de tu parte.
+1024	o
+1025	O programar
+1026	o con tu correo
+1027	Pedidos por enviar
+1028	Otro
+1029	Otras tarjetas
+1030	Nuestra familia
+1031	Resumen
+1032	Propietario
+1033	Página
+1034	Página {page} de {pages}
+1035	Página no encontrada
+1036	Pagado
+1037	Pareja
+1038	Parejas
+1039	Páginas de fiesta, invitaciones y confirmaciones
+1040	Contraseña
+1041	Contraseña cambiada.
+1042	Contraseña establecida.
+1043	Pasado
+1044	Evento pasado
+1045	Pega el token de acceso permanente (usuario del sistema)
+1046	Pagar (prueba)
+1047	Pagar {amount} (prueba)
+1048	Paga con tarjeta a través de Stripe.
+1049	Desembolsar {v}
+1050	Paga con UPI AutoPay, tarjetas o banca en línea a través de Razorpay.
+1051	Pago cancelado. No se te ha cobrado nada.
+1052	El pago falló
+1053	Pago no encontrado
+1054	Desembolso no encontrado
+1055	Desembolso de {amount} solicitado (modo de prueba).
+1056	Desembolso solicitado (modo de prueba).
+1057	Desembolsos:
+1058	Personas
+1059	Cada persona elige sus propios ajustes de recordatorio
+1060	Personas en este círculo
+1061	Personas por invitación
+1062	Las personas con el enlace pueden subir fotos (no hace falta cuenta). Puedes quitar cualquier foto.
+1063	Token de acceso permanente
+1064	Persona
+1065	Persona no encontrada
+1066	Dato personal (opcional)
+1067	Mascotas
+1068	Teléfono para el mensajero (opcional)
+1069	Notificaciones en el teléfono
+1070	Las notificaciones en el teléfono aún no están configuradas en este servidor. Los avisos llegan a la app y por correo.
+1071	ID de número de teléfono
+1072	El ID de número de teléfono es el número largo de WhatsApp Manager → Configuración de la API
+1073	Foto
+1074	Álbumes de fotos
+1075	Foto de {uploader}
+1076	Foto para {title}
+1077	Foto de {name}
+1078	Foto no encontrada
+1079	Foto o vídeo (opcional)
+1080	Foto para añadir
+1081	Fotos
+1082	Fotos ({n})
+1083	Las fotos pueden pesar hasta 15 MB
+1084	Elige una fecha
+1085	Elige una fecha futura
+1086	Elige una hora futura
+1087	Elige una zona horaria válida
+1088	Elige una plantilla de WhatsApp aprobada
+1089	Elige una plantilla de WhatsApp aprobada, o envía por correo
+1090	Elige una de tus plantillas de WhatsApp

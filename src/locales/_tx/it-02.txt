@@ -1,0 +1,218 @@
+219	Aggiungi il numero di registrazione dell’ente benefico (es. 12A/80G in India, numero della Charity Commission nel Regno Unito, EIN negli Stati Uniti)
+220	Aggiungi la tua prima persona
+221	Aggiungi il tuo nome
+222	Aggiungi le tue foto
+223	Aggiungi il tuo augurio per {recipientName}
+224	Aggiunto
+225	{n} invitato aggiunto
+226	{n} invitati aggiunti
+227	Aggiunta in corso…
+228	Indirizzo
+229	Indirizzo, riga 1
+230	Indirizzo, riga 2 (facoltativo)
+231	Amministratore
+232	Amministratore: può anche invitare e rimuovere
+233	Gli amministratori devono mantenere attiva la verifica in due passaggi
+234	Gli amministratori devono attivare la verifica in due passaggi prima di usare l’area di amministrazione.
+235	Dopo la password (o Google, Apple o un codice SMS), inserirai anche un codice da un’app di autenticazione come Google Authenticator, Microsoft Authenticator o 1Password.
+236	L’IA non era disponibile, quindi abbiamo usato un modello integrato.
+237	Auguri con IA · promemoria intelligenti · famiglia
+238	L’IA scrive l’augurio nel tuo tono e nella tua lingua. Scegli tra 250 design di biglietto per occasione.
+239	Album
+240	Nome dell’album
+241	Album non trovato
+242	Impostazioni album
+243	Album
+244	Avvisi
+245	Tutti
+246	Tutti gli album
+247	Tutte le modifiche salvate
+248	tutti i clienti
+249	Tutte le cerchie familiari
+250	Consenti fotocamera e microfono per registrare un video.
+251	Consenti il microfono per registrare un messaggio vocale.
+252	Già deciso
+253	Hai già un account?
+254	Già preso
+255	Importo
+256	Importo (
+257	Esiste già un account con questa email
+258	e
+259	anniversario
+260	Anniversario
+261	Auguri di anniversario
+262	Risposta
+263	Chiunque
+264	Chiunque può aprirla e rispondere: ideale per eventi di comunità.
+265	Chiunque abbia il link
+266	Chiunque abbia questo link può vedere l’album.
+267	Apple
+268	Applica
+269	Candidati come {kind}
+270	Approva
+271	Approvato
+272	Vieni?
+273	Chiedi esigenze di accessibilità
+274	Chiedi esigenze alimentari
+275	Chiedi agli invitati se possono venire (RSVP)
+276	Chiedine uno nuovo al titolare dell’attività.
+277	Chiedi al supporto Blessly di annullare e rimborsare un ordine
+278	Assegna a
+279	Auguri di compleanno automatici ai tuoi clienti su WhatsApp ed email
+280	Automazione non trovata
+281	Automazioni
+282	Baby shower
+283	Indietro
+284	Torna a {name}
+285	Torna alle feste
+286	Torna alla home
+287	Torna all’accesso
+288	Torna ai miei biglietti
+289	Torna alle persone
+290	Torna alle impostazioni
+291	Torna al biglietto
+292	Torna alle liste dei desideri
+293	Sfondo
+294	Foto di sfondo
+295	Firma non valida
+296	Saldo:
+297	Sii il primo a lasciare un messaggio per {recipientName}.
+298	Sii il primo a lasciare un messaggio
+299	Migliore amico
+300	Periodo di fatturazione
+301	compleanno
+302	Compleanno
+303	Gli auguri di compleanno e anniversario partono da soli nel giorno giusto: su WhatsApp dal tuo numero aziendale o via email
+304	Auguri di compleanno
+305	Compleanni e anniversari condivisi in {familyName}
+306	Compleanni, feste ed eventi di famiglia
+307	acquistato
+308	L’ho comprato
+309	Porta avanti
+310	Fratello
+311	Sfoglia 4.000 biglietti
+312	Modello integrato. Le varianti di tono in questa lingua richiedono l’attivazione dello scrittore IA.
+313	Attività
+314	Dati dell’attività
+315	Nome dell’attività
+316	Nome dell’attività (mostrato nei messaggi)
+317	Piano Business
+318	Registro imprese / P. IVA (facoltativo)
+319	Impostazioni attività
+320	Business: {n} auguri ai clienti al mese su WhatsApp ed email
+321	Acquista
+322	Acquista una gift card da {amount}
+323	Acquista una gift card {name}
+324	di
+325	Creando un account accetti i
+326	Di designer indipendenti
+327	Calendario
+328	Campagna
+329	Nome della campagna
+330	Campagna non trovata
+331	Campagne
+332	può modificare.
+333	Può scrivere
+334	Può vedere
+335	Può vedere: vede e risponde
+336	Puoi venire?
+337	non può venire
+338	Non può venire
+339	Non posso
+340	Non ce la faccio
+341	Non riesci a scansionare? Inserisci questa chiave:
+342	Annulla
+343	Annulla e avvisa gli invitati
+344	Annullare e avvisare i tuoi invitati?
+345	Disdici quando vuoi; il piano resta attivo fino alla fine del periodo pagato. Possono essere applicate imposte.
+346	Disdici piano
+347	Annulla la festa
+348	Disdire il piano? Resta attivo fino alla fine del periodo pagato.
+349	Annullato
+350	Disdetto: attivo fino al
+351	Didascalia
+352	Codice del biglietto
+353	Design del biglietto
+354	Designer di biglietti
+355	Editor di biglietti
+356	Libreria di biglietti
+357	Nome del biglietto
+358	Biglietto non trovato
+359	Festeggia
+360	Festa
+361	Festa non trovata
+362	Feste
+363	Centro
+364	Cambia la mia risposta
+365	Cambia numero
+366	Cambia password
+367	Cambia testi, caratteri e colori; aggiungi foto, adesivi, una firma o un codice QR.
+368	Ente benefico
+369	Nome dell’ente benefico
+370	Controlla l’indirizzo email
+371	Controlla il numero di telefono
+372	Verifica di aver copiato tutto il link, o chiedine uno nuovo.
+373	Controlla la tua email
+374	Verifica di questo dispositivo…
+375	Verifica con WhatsApp…
+376	Verifica in corso…
+377	Pagamento (modalità test)
+378	Pagamento non trovato
+379	Partecipa
+380	Scegli {name}
+381	Scegli un biglietto e un importo, e lo invieremo via email: ora o nel giorno giusto.
+382	Scegli una chat
+383	Scegli una data di chiusura futura
+384	Scegli un contatto
+385	Scegli una data
+386	Scegli una data non ancora passata
+387	Scegli una data entro un anno
+388	Scegli una gift card
+389	Scegli una nuova password
+390	Scegli una foto
+391	Scegli un modello
+392	Scegli un orario
+393	Scegli un orario valido
+394	Scegli un ente benefico verificato
+395	Scegli un indirizzo
+396	Scegli una risposta
+397	Scegli un’immagine
+398	Scegli almeno una foto
+399	Scegli fronte o interno
+400	Scegli uno degli importi mostrati
+401	Scegli una delle tue feste
+402	Scegli una delle tue liste dei desideri
+403	Scegli foto
+404	Scegli il piano Business
+405	Natale
+406	Nome della cerchia
+407	Riepilogo della cerchia
+408	Cancella
+409	Chiudi la raccolta
+410	Chiudi il biglietto
+411	Chiusa a nuovi contributi.
+412	Chiude
+413	Chiude il (facoltativo)
+414	Codice
+415	Codice dalla tua app (per apportare modifiche)
+416	Collega
+417	collega@example.com
+418	Raccogli e condividi le foto di ogni occasione
+419	Raccogli le foto di un compleanno, un matrimonio o Diwali in un album, scegli uno dei 100 design e condividilo con la famiglia: anche loro possono aggiungere foto.
+420	Raccolta
+421	Colore
+422	Colore {a}
+423	Tema colore
+424	Colonne che riconosciamo:
+425	vengono
+426	Vengono
+427	In arrivo
+428	Conferma e attiva
+429	Conferma eliminazione
+430	Conferma uscita
+431	Conferma che questi clienti hanno accettato di ricevere tuoi messaggi
+432	Collega
+433	Collega WhatsApp
+434	Collega prima WhatsApp
+435	Collega WhatsApp nelle Impostazioni per inviare messaggi WhatsApp. Nel frattempo, i clienti con email ricevono l’email.
+436	collegato

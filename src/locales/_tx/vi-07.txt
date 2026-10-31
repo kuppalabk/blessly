@@ -1,0 +1,218 @@
+1309	Đăng nhập thất bại
+1310	Đã hủy đăng nhập.
+1311	Đã đăng xuất khỏi mọi nơi khác.
+1312	Thiết bị đã đăng nhập
+1313	Giá đơn giản
+1314	Giả lập thẻ bị từ chối
+1315	Chị/em gái
+1316	Kích thước
+1317	SMS (chúng tôi nhắc bạn gửi)
+1318	Người khác
+1319	Có người đang bắt đầu thiệp — thử lại sau ít phút
+1320	Có lỗi xảy ra
+1321	Con trai
+1322	Chia việc: ai lo bánh, ai đặt bàn
+1323	Bảng tính (.csv)
+1324	Bắt đầu
+1325	Bắt đầu gom quà
+1326	Bắt đầu thiệp mới
+1327	Bắt đầu danh sách quà
+1328	Bắt đầu nhóm khác
+1329	Bắt đầu miễn phí
+1330	Bắt đầu một thiệp mà cả gia đình cùng ký. Chúng tôi sẽ viết lời nhắn đầu tiên và thông báo cho mọi người.
+1331	Bắt đầu thiệp nhóm
+1332	Bắt đầu thiết lập lại
+1333	Bắt đầu nhóm gia đình của bạn
+1334	Đang bắt đầu…
+1335	Bắt đầu
+1336	Bang / quận (không bắt buộc)
+1337	Trạng thái
+1338	Nhãn dán
+1339	Nhãn dán
+1340	Dừng email
+1341	Ngừng chia sẻ (liên kết sẽ không còn hoạt động)
+1342	Dừng tin nhắn WhatsApp
+1343	Đường, thị trấn
+1344	Tên studio hoặc nghệ sĩ
+1345	Kiểu
+1346	Tóm tắt
+1347	Hỗ trợ
+1348	Chế độ hỗ trợ của {name}
+1349	Người ủng hộ
+1350	Đã tạm khóa
+1351	Chia buồn
+1352	Người dùng hệ thống
+1353	Thẻ
+1354	thẻ “{tag}”
+1355	thẻ
+1356	Thẻ (cách nhau bằng dấu phẩy)
+1357	Nhấn “Viết lời chúc của tôi”, hoặc tự nhập.
+1358	Nhấn vào một mục để chọn. Kéo để di chuyển, dùng góc để đổi kích thước và chấm trên cùng để xoay.
+1359	Mục tiêu (không bắt buộc)
+1360	mục tiêu {v}
+1361	Không tìm thấy công việc
+1362	Nhóm
+1363	Email thành viên nhóm
+1364	Telegram (chúng tôi nhắc bạn gửi)
+1365	Mẫu
+1366	điều khoản
+1367	Điều khoản
+1368	điều khoản sử dụng
+1369	Thẻ thử 4242 4242 4242 4242 · ngày tương lai bất kỳ · CVC bất kỳ
+1370	Thanh toán thử nghiệm
+1371	Chế độ thử nghiệm.
+1372	Thanh toán thử — không có tiền thật
+1373	Văn bản
+1374	Màu chữ
+1375	Gửi mã qua tin nhắn cho tôi
+1376	Tin nhắn văn bản chưa được thiết lập trên máy chủ này
+1377	Cảm ơn bạn
+1378	Cảm ơn bạn — bạn đang ở {name}.
+1379	Cảm ơn bạn — đơn hàng đã được xác nhận.
+1380	Cảm ơn bạn rất nhiều vì đã là một phần của {title}. Điều này thật ý nghĩa!
+1381	Cảm ơn bạn rất nhiều vì món quà đáng yêu — điều này thật ý nghĩa!
+1382	Cảm ơn thầy/cô
+1383	Cảm ơn bạn! Đóng góp của bạn đã được ghi nhận.
+1384	Cảm ơn bạn! Khoản quyên góp của bạn đã được ghi nhận.
+1385	Cảm ơn khách mời (mọi người đã đến hoặc để lại lời nhắn, mỗi người một lần)
+1386	Đã gửi email cảm ơn đến {n} người
+1387	Đã gửi email cảm ơn đến {n} người
+1388	Đã gửi lời cảm ơn đến {n} khách
+1389	Đã gửi lời cảm ơn đến {n} khách
+1390	Cảm ơn — tin nhắn của bạn đã được thêm.
+1391	Cảm ơn {name}! Đã thêm {n} ảnh.
+1392	Cảm ơn {name}! Đã thêm {n} ảnh.
+1393	Cảm ơn! Nội dung sẽ hiển thị khi người tổ chức duyệt.
+1394	Cảm ơn! Gói của bạn sẽ được kích hoạt ngay khi thanh toán được xác nhận — thường trong vài giây. Hãy làm mới trang sau ít phút.
+1395	Lễ Tạ ơn
+1396	Tài khoản đó đã được liên kết với một tài khoản Blessly khác
+1397	Sinh nhật đó không tồn tại
+1398	Ảnh thiệp đó quá lớn
+1399	Thiệp đó dùng một ảnh không phải của bạn
+1400	Mã này đã hết hạn. Hãy bắt đầu lại.
+1401	Mã này không đúng
+1402	Mã này không đúng — hãy kiểm tra điện thoại của bạn đã tự động đặt giờ chưa
+1403	Ngày đó không tồn tại
+1404	Sự kiện đó không có trong nhóm này
+1405	Tệp này không phải ảnh mà chúng tôi có thể đọc
+1406	Tệp này không phải ảnh mà chúng tôi có thể đọc (dùng JPG, PNG, WebP hoặc GIF)
+1407	Đây không phải ảnh thiệp mà chúng tôi có thể dùng
+1408	Số này đã được dùng bởi tài khoản khác
+1409	Mật khẩu đó không đúng
+1410	Ảnh đó không có trong album này
+1411	Sản phẩm đó không khả dụng
+1412	Định dạng bản ghi này không được hỗ trợ
+1413	Bản ghi này trống
+1414	Bản ghi này không khả dụng
+1415	Tùy chọn đăng nhập này không khả dụng.
+1416	Mất quá nhiều thời gian — vui lòng thử lại.
+1417	Mục trong danh sách quà này không còn tồn tại
+1418	Quá lớn
+1419	Gói {name} bao gồm {maxAlbums} album. Nâng cấp lên Gia đình để có thêm.
+1420	Gia đình {surname}
+1421	cuối kỳ
+1422	Tệp quá lớn (tối đa 2 MB)
+1423	Tệp quá lớn (tối đa 2 MB).
+1424	Tệp quá lớn (tối đa 2 MB). Hãy chia thành các tệp nhỏ hơn.
+1425	Tệp cần có hàng tiêu đề và ít nhất một khách hàng
+1426	Gói miễn phí cho phép {limit} người trong một nhóm. Chủ nhóm có thể nâng cấp lên Gia đình để có tối đa {MAX_MEMBERS} người.
+1427	Gói miễn phí không thể có giá
+1428	Tối đa là {v1}
+1429	Tối thiểu là {v1}
+1430	Thanh toán không thành công. Chưa có khoản nào bị trừ — vui lòng thử lại.
+1431	Thanh toán không thành công. Chưa có khoản nào bị trừ.
+1432	Không thể mở trang thanh toán. Vui lòng thử lại sau một phút.
+1433	PDF có mặt trước và mặt trong dưới dạng trang 15 × 20 cm — in hai mặt, hoặc in tại tiệm in.
+1434	Hạn RSVP nên trước tiệc mừng
+1435	Máy chủ thiếu ENCRYPTION_KEY, nên không thể lưu an toàn các thông tin bí mật (thông tin đăng nhập WhatsApp, khóa xác minh hai bước)
+1436	Hai mật khẩu không khớp
+1437	Cả gia đình
+1438	Lời chúc đang trống
+1439	Trang lời chúc hiển thị mặt trước và mặt trong của thiệp này phía trên lời nhắn của bạn.
+1440	Nhóm Blessly đặt verify token và app secret trên máy chủ. Khách hàng trả lời STOP sẽ tự động hủy đăng ký WhatsApp; START sẽ đăng ký lại cho họ.
+1441	Email của họ
+1442	Số di động của họ
+1443	Tên của họ trên lời chúc
+1444	Không có gói trả phí nào để hủy
+1445	Không có gì để chi trả
+1446	Đây là các thương hiệu sandbox để thử nghiệm. Thương hiệu thật sẽ đến từ đối tác thẻ quà tặng khi được kết nối.
+1447	Họ đã có trong nhóm của bạn
+1448	Tài khoản này đã bị tạm khóa. Vui lòng liên hệ bộ phận hỗ trợ.
+1449	Album này đã đầy ({maxPhotosPerAlbum} ảnh trong gói {name}).
+1450	Album này không nhận ảnh
+1451	Trình duyệt này không thể hiển thị thông báo. Bạn vẫn sẽ nhận cảnh báo trong ứng dụng và qua email.
+1452	Thiệp này có quá nhiều nội dung
+1453	Tiệc mừng này đã diễn ra
+1454	Tiệc mừng này đã bị hủy.
+1455	Tiệc mừng này đã diễn ra — cảm ơn tất cả những ai đã đến!
+1456	Tiệc mừng này đã bị hủy.
+1457	Tiệc mừng này chỉ dành cho khách được mời
+1458	Tiệc mừng này chỉ dành cho khách được mời. Hãy mở từ thiệp mời của bạn.
+1459	Tiệc mừng này đã đủ người
+1460	Tiệc mừng này không nhận phản hồi
+1461	Tiệc mừng này đã bị hủy
+1462	Nhóm này đã đầy (6 người).
+1463	Đợt gom quà này đã đóng
+1464	Đợt gom quà này đã đóng.
+1465	Khách hàng này đã đồng ý nhận tin nhắn từ chúng tôi
+1466	Nhóm gia đình này đã đầy ({limit} người)
+1467	Thẻ quà tặng này đã bị hủy
+1468	Lời mời này đã hết hạn. Hãy nhờ {inviter} gửi liên kết mới.
+1469	Lời mời này đã hết hạn. Hãy yêu cầu liên kết mới.
+1470	Lời mời này đã hết hạn. Hãy nhờ chủ sở hữu gửi lời mời mới.
+1471	Lời mời này dành cho {email}, nhưng bạn đang đăng nhập bằng {email2}. Hãy đăng xuất rồi đăng nhập (hoặc đăng ký) bằng {email3}.
+1472	Lời mời này dành cho {email}. Hãy đăng nhập bằng email đó để chấp nhận.
+1473	Liên kết mời này không hoạt động
+1474	Liên kết mời này không hợp lệ
+1475	Lời mời này đã được sử dụng.
+1476	Lời mời này đã bị hủy. Hãy nhờ {inviter} gửi liên kết mới.
+1477	Lời mời này đã bị hủy. Hãy yêu cầu liên kết mới.
+1478	Đây là thẻ sandbox và không thể sử dụng.
+1479	Đây là cách bạn bè thấy danh sách của bạn.
+1480	Đây là danh sách của bạn — bạn bè sẽ giữ chỗ quà từ đây
+1481	Liên kết này không hợp lệ
+1482	Liên kết này có thể đã hết hạn hoặc bị xóa.
+1483	Tháng này
+1484	Trang này đã đầy
+1485	Khoản thanh toán này {status}.
+1486	Thao tác này sẽ xóa vĩnh viễn tài khoản của bạn
+1487	Gói này không được bán bằng đơn vị tiền tệ đó
+1488	Liên kết đặt lại này đã hết hạn hoặc đã được sử dụng. Hãy yêu cầu liên kết mới.
+1489	Liên kết hủy đăng ký này không hoạt động. Bạn cũng có thể trả lời STOP cho bất kỳ tin nhắn WhatsApp nào.
+1490	Số WhatsApp này đã được kết nối với một doanh nghiệp Blessly khác
+1491	Trang lời chúc này đã đầy
+1492	Trang lời chúc này không nhận tin nhắn
+1493	Thời gian
+1494	Thời gian (không bắt buộc)
+1495	Múi giờ
+1496	Múi giờ
+1497	Múi giờ (tin nhắn được gửi theo giờ này)
+1498	Múi giờ (lời nhắc đến lúc 9 giờ sáng theo giờ này)
+1499	Đến {name}
+1500	Cần làm
+1501	để tiếp tục gửi lời chúc cho khách hàng sau đó.
+1502	Để rời đi, trước tiên hãy đặt người khác làm chủ sở hữu.
+1503	Để xem dấu đã gửi và đã đọc, cũng như xử lý khách hàng trả lời STOP, ứng dụng Meta Blessly phải nhận webhook của số bạn. URL gọi lại:
+1504	để bắt đầu lại.
+1505	Hôm nay
+1506	Ngày mai
+1507	Giọng điệu
+1508	Quá nhiều lần thử. Vui lòng chờ một phút rồi thử lại.
+1509	Quá nhiều lần thử. Vui lòng chờ một phút.
+1510	Quá nhiều biến
+1511	Quá nhiều mã sai. Hãy bắt đầu lại.
+1512	Quá đắt nếu mua một mình? Bắt đầu quà nhóm
+1513	Công cụ
+1514	Hướng tới: {title}
+1515	Thị trấn hoặc thành phố
+1516	Mã vận đơn
+1517	Thử {name}
+1518	Thử cái khác
+1519	Tắt
+1520	Bật
+1521	Xác minh hai bước
+1522	Xác minh hai bước đã được bật
+1523	Xác minh hai bước đang tắt.
+1524	Xác minh hai bước đang bật.
+1525	Xác minh hai bước, Google và Apple, đăng nhập bằng điện thoại, mật khẩu
+1526	Loại

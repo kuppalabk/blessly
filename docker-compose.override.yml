@@ -1,0 +1,5 @@
+# Local development only: Compose loads this file automatically when you run "docker compose up".
+# Production passes its own -f files, so this file is not used there.
+services:
+  web:
+    ports: ["3000:3000"]

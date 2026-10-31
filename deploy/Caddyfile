@@ -1,0 +1,27 @@
+{
+	email {$ACME_EMAIL}
+}
+
+# Let's Encrypt certificate for the domain. Caddy renews it on its own
+# (about 30 days before expiry) and stores it in the caddy_data volume.
+# No cron job and no certificate files to copy in.
+{$DOMAIN} {
+	encode zstd gzip
+	reverse_proxy web:3000 {
+		header_up X-Forwarded-Host {host}
+	}
+	header {
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		-Server
+	}
+	request_body {
+		max_size 25MB
+	}
+}
+
+# Same certificate flow for www, then send visitors to the bare domain.
+www.{$DOMAIN} {
+	redir https://{$DOMAIN}{uri} permanent
+}

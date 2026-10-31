@@ -1,0 +1,218 @@
+1	— si lazima
+2	— vigezo vingi mno
+3	— malipo yako ya mwisho hayakufaulu; tafadhali sasisha njia ya malipo
+4	· watu {partySize}
+5	· ya {ownerName}
+6	· imeghairiwa
+7	· imefungwa
+8	· jalada
+9	· tarehe inaweza kubadilika
+10	· tarehe inaweza kutofautiana kwa eneo
+11	· kumbukumbu
+12	· hakuna ridhaa — hatatumiwa ujumbe
+13	· kumbukumbu namba {reference}
+14	· imeshirikiwa
+15	· lengo {v}
+16	· ufuatiliaji {tracking}
+17	· inasubiri idhini
+18	({pending} zinasubiri idhini)
+19	(bila jina kwa wengine)
+20	(wewe)
+21	kwa ajili ya {honoree}
+22	kwa ajili ya {v}
+23	Imerekodiwa: {consentSource}.
+24	yenye hali “{v}”
+25	— kila mtu pale hupokea vikumbusho hivi.
+26	— kusoma tu, kama {admin}. Hakuna kinachoweza kubadilishwa.
+27	— vikumbusho, salamu na albamu kwa kila tukio.
+28	— hushiriki ukurasa wa salamu pamoja na onyesho la kadi
+29	— hutajua ni nini hadi uchague kuangalia.
+30	, {maybe} labda
+31	, au shiriki kiungo — wanaojibu huongezwa kiotomatiki
+32	, watu wako, vikumbusho, salamu na kurasa za salamu, na biashara yako pamoja na wateja wake. Vikundi vya familia unavyomiliki vitahamishiwa kwa mwanachama anayefuata. Hili haliwezi kutenduliwa.
+33	! Furahia zawadi kutoka kwetu katika
+34	. Tarehe kama 14/03, 14 Mar au 1990-03-14 (siku kwanza). Wateja waliopo wenye simu au barua pepe ileile watasasishwa.
+35	. Pekee
+36	. Tuma siku hiyohiyo.
+37	. Blessly haitawatumia ujumbe huko.
+38	…au bandika hapa
+39	”), kisha bonyeza “Onyesha upya violezo” katika Mipangilio.
+40	({v} kila moja, imechapishwa kwenye kadi ya 350gsm na bahasha, gharama ya posta imejumuishwa)
+41	(lazima),
+42	{added} zimeongezwa · {updated} zimesasishwa · {skipped} zimerukwa
+43	{coming} wanakuja · {guests} kwenye orodha ya wageni
+44	{consented} wamekubali kupokea ujumbe
+45	siku {days}
+46	{going} wanakuja · {maybe} labda · {no} hawawezi · {waiting} hawajajibu
+47	{greeting}, {recipientName} — kadi kutoka kwa {senderName}
+48	{hostName} anakualika
+49	siku {inDays}
+50	{inviter} amekualika kwenye
+51	{inviter} amekualika kwenye {family} katika Blessly — tutashirikiana siku za kuzaliwa, kupanga matukio ya familia na kusaini kadi pamoja. Jiunge hapa: {link}
+52	{label} (si lazima)
+53	Siku ya {label}
+54	Mwezi wa {label}
+55	Kuingia kwa {label} hakukufaulu ({why}). Tafadhali jaribu tena.
+56	Kuingia kwa {label} hakukufaulu. Tafadhali jaribu tena.
+57	Watu {length} kati ya {limit} · wewe ni {v}
+58	Picha {length} kati ya {maxPhotos} · JPG, PNG, WebP au GIF hadi MB 15. Data ya mahali huondolewa kwenye kila picha.
+59	Salamu {length} katika wiki mbili zijazo
+60	Watu {memberCount} kati ya {limit} · {v}
+61	Albamu {mine} (bila kikomo kwenye mpango wa {plan}) · picha {photos} kila moja
+62	Albamu {mine} kati ya {max} kwenye mpango wa {plan} · picha {photos} kila moja
+63	Mteja {n}
+64	Wateja {n}
+65	Siku {n}
+66	Siku {n}
+67	Zawadi {n} imehifadhiwa
+68	Zawadi {n} zimehifadhiwa
+69	{n} wanakuja
+70	{n} zipo
+71	Kitu {n}
+72	Vitu {n}
+73	Ujumbe {n}
+74	Jumbe {n}
+75	Watu {n}
+76	Watu {n} wanakuja
+77	Mtu {n}
+78	Mtu {n} anakuja
+79	Picha {n}
+80	Albamu {n} ya picha
+81	Albamu {n} za picha
+82	Picha {n} iliyoshirikiwa na {name} kwenye Blessly
+83	Picha {n}
+84	Picha {n} zilizoshirikiwa na {name} kwenye Blessly
+85	{n} zimesomwa kwenye WhatsApp
+86	Msimbo {n} wa kurejesha umebaki.
+87	Misimbo {n} ya kurejesha imebaki.
+88	Safu {n}
+89	Safu {n}
+90	Akaunti {n} za timu
+91	{name} (wewe)
+92	Kadi ya zawadi ya {name} kwa {recipientName}
+93	{name} amepokea jibu lako.
+94	{name} anakualika
+95	Mpango wa {name}
+96	{name} hatajua ni nani.
+97	{name}, {hostName} anakualika
+98	Orodha ya matamanio ya {occasion}
+99	{phone} · kuingia kwa msimbo wa SMS
+100	picha {photos} kila moja
+101	{provider} imeunganishwa
+102	{provider} sasa imeunganishwa.
+103	Umehifadhi {quantity}.
+104	{raised} kutoka kwa watu {n}
+105	{raised} kutoka kwa mtu {n}
+106	{raised} zimechangwa na watu {n}
+107	{raised} zimechangwa na mtu {n}
+108	{remaining} kati ya {quantity} zimebaki
+109	Mwaliko wa {role}
+110	{seller} · inafikishwa {v}
+111	{sent} zimetumwa · {delivered} zimefika · {read} zimesomwa · {failed} hazikutumwa
+112	{signed} kati ya {total} wa familia wamesaini
+113	{stock} zimebaki
+114	{title} ya {by}
+115	{unread} hazijasomwa
+116	Ujumbe {used} kati ya {quota} umetumika
+117	Akaunti {used} kati ya {seats} zimetumika. Wanatimu wanaweza kushughulikia wateja, mifumo ya kiotomatiki na kampeni; mmiliki pekee hubadilisha mipangilio na WhatsApp.
+118	{v} · barua pepe imetumwa kwa {emailed}
+119	Zimebaki siku {v}, saa {v2} na dakika {v3}
+120	{v} imewashwa
+121	+ Ongeza tukio la familia
+122	+ Ongeza tukio
+123	+ Salamu
+124	+ Alika
+125	+ Picha
+126	+ Shiriki mtu
+127	+ Sahihi au mchoro
+128	+ Maandishi
+129	■ Simamisha
+130	● Rekodi ujumbe wa video
+131	● Rekodi ujumbe wa sauti
+132	✉️ Chapisha na utume kwa posta
+133	✎ Badilisha muundo huu
+134	🎁 Orodha ya zawadi unazotamani
+135	🎁 Zawadi ya pamoja
+136	🎉 Inaendelea sasa!
+137	🎙️ Ujumbe wa sauti kutoka kwa {from}
+138	🎥 Ujumbe wa video kutoka kwa {from}
+139	💚 Uchangishaji
+140	💝 {title} · {v} zimechangwa
+141	💝 Ongeza zawadi ya pamoja
+142	💝 Zawadi ya pamoja: {raised} zimechangwa — changia
+143	💝 Zawadi ya pamoja: {raised} kati ya {target} — changia
+144	📱 Ingia kwa msimbo wa ujumbe mfupi
+145	$ USD
+146	₹ INR
+147	1 · Tukio na mtu
+148	1 · Kumbuka
+149	Siku 1 kabla
+150	1. Changanua huu kwa programu yako ya uthibitishaji:
+151	2 · Unda
+152	2 · Andika salamu
+153	2. Weka msimbo wa tarakimu 6 unaoonyeshwa
+154	Miundo 250 ya kadi kwa kila moja ya matukio 40, kwa lugha 32.
+155	Miundo 250 kwa kila tukio
+156	3 · Fikisha
+157	3 · Chagua kadi · muundo {n} · miundo {shown} kati ya {total}
+158	3 · Kadi yako
+159	Siku 3 kabla
+160	4 · Ujumbe wa sauti au video (si lazima)
+161	Matukio 40 × miundo 250 (kadi 10,000), kwa lugha 32. Michoro yote ni halisi na ni bure kutumia.
+162	Siku 7 kabla
+163	Sherehe inaweza kuwa na wageni hadi {MAX_GUESTS}
+164	Mteja mwenye barua pepe hii tayari yupo
+165	Mteja mwenye namba hii tayari yupo
+166	Muundo hauwezi kufichwa na kuangaziwa kwa wakati mmoja
+167	Kikundi cha familia kina watu hadi {limit}
+168	Orodha inaweza kuwa na vitu hadi {MAX_ITEMS}
+169	Ukurasa wa sherehe au tukio lako: mialiko na RSVP, hesabu ya kurudi nyuma, na ukuta wa jumbe, picha na kumbukumbu.
+170	Salamu kwa {name}
+171	Salamu kwako, {name}
+172	Salamu kutoka kwa {name}
+173	Kuhusu wewe
+174	Mahitaji ya ufikivu (si lazima)
+175	Akaunti haikupatikana
+176	Vitendo
+177	Ongeza
+178	Ongeza {s}
+179	Ongeza safu ya “name”
+180	Ongeza siku ya kuzaliwa au maadhimisho
+181	Ongeza siku ya kuzaliwa au maadhimisho — tutakukumbusha wiki moja kabla, tutaandaa salamu siku moja kabla na kukujulisha siku hiyo.
+182	Ongeza maelezo
+183	Ongeza tukio la familia
+184	Ongeza namba ya simu au barua pepe
+185	Ongeza jina
+186	Ongeza dokezo (huhifadhiwa kwenye kumbukumbu za ukaguzi)
+187	Ongeza bidhaa
+188	Ongeza kichwa cha barua
+189	Ongeza kazi
+190	Ongeza kitu
+191	Ongeza mteja
+192	Ongeza tukio
+193	Ongeza wageni
+194	Ongeza wageni — mmoja kwa kila mstari: jina, kisha barua pepe na/au simu
+195	Ongeza kumbukumbu
+196	Ongeza salamu yangu
+197	Ongeza namba
+198	Ongeza moja ili uingie kwa msimbo wa ujumbe mfupi
+199	Ongeza watu mara moja. Sikukuu za nchi yako tayari ziko kwenye kalenda.
+200	Ongeza mtu
+201	Ongeza picha
+202	Ongeza bidhaa (itakaguliwa)
+203	Ongeza msimbo wa QR
+204	Ongeza mtu
+205	Ongeza mtu maalum
+206	Ongeza kitu ungependa kupata
+207	Ongeza kazi
+208	Ongeza anwani
+209	Ongeza kichwa na ujumbe wa barua pepe
+210	Ongeza watu muhimu
+211	Ongeza msimbo wa posta
+212	Ongeza jina la mpokeaji
+213	Ongeza jiji au mji
+214	Ongeza kwenye kalenda
+215	Ongeza kwenye kadi
+216	Ongeza kwenye vipendwa
+217	Ongeza kwenye orodha
+218	Ongeza kwenye kalenda yangu

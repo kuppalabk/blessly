@@ -1,0 +1,216 @@
+1527	Gib zur Bestätigung DELETE ein
+1528	Gib es noch einmal ein
+1529	Schreibe deine Worte
+1530	Nicht zugewiesen
+1531	Nicht autorisiert
+1532	Rückgängig
+1533	Strich rückgängig machen
+1534	{title} aus Favoriten entfernen
+1535	Unbekannte Zeitzone
+1536	Unbekannte Zeitzone
+1537	Unbegrenzt viele Fotoalben, je {photos} Fotos
+1538	Nicht gespeicherte Änderungen
+1539	Abmelden
+1540	Abgemeldet
+1541	Abgemeldet von
+1542	Oben ↕ unten
+1543	anstehende Termine
+1544	Update veröffentlicht und per E-Mail an {n} Gast gesendet
+1545	Update veröffentlicht und per E-Mail an {n} Gäste gesendet
+1546	Updates
+1547	Updates von {v}
+1548	Auf Familie upgraden
+1549	Lade ein Foto hoch (JPG, PNG, WebP oder GIF)
+1550	Lade ein MP4- oder WebM-Video hoch
+1551	Design hochladen (3:4, mindestens 900 px breit)
+1552	Upload fehlgeschlagen
+1553	Foto hochladen
+1554	Wird hochgeladen…
+1555	Uploads
+1556	Verwenden
+1557	Verwende einen zweistelligen Ländercode
+1558	Andere Nummer verwenden
+1559	Verwende einen Link, der mit https:// beginnt
+1560	Verwende stattdessen ein fertiges Design
+1561	Verwende eine Uhrzeit wie 19:30
+1562	Verwende einen Weblink (https://…)
+1563	Verwende genehmigen oder ablehnen
+1564	Verwende mindestens 8 Zeichen
+1565	Verwenden bis
+1566	Verwende Ländercodes wie IN,GB
+1567	Verwende Kleinbuchstaben, Zahlen und Bindestriche
+1568	Meine Authenticator-App verwenden
+1569	Diese Karte für einen Wunsch verwenden
+1570	Diese Nachricht verwenden
+1571	{uses}× verwendet
+1572	Benutzer nicht gefunden
+1573	Benutzer, Unternehmen, Systemzustand und Protokoll
+1574	Nutzt die offizielle Business-Plattform von WhatsApp. Kunden können jederzeit mit STOP antworten
+1575	Vaisakhi
+1576	Valentinstag
+1577	Wert
+1578	Veranstaltungsort
+1579	Bestätigen
+1580	Vesak
+1581	Video
+1582	Link zum Videoanruf (optional)
+1583	Videonachricht · {time}
+1584	Videonachricht von {from}
+1585	Videos können bis zu 40 MB groß sein
+1586	Als Freund ansehen
+1587	Seite ansehen
+1588	Betrachter können keine Termine hinzufügen
+1589	Betrachter können keine Aufgaben hinzufügen
+1590	Betrachter können die Gemeinschaftskarte nicht starten
+1591	vip, regulär
+1592	Sprache
+1593	Sprachnachricht · {time}
+1594	Sprachnachricht von {from}
+1595	Wartet
+1596	wartet auf Prüfung
+1597	Wartet auf Prüfung
+1598	möchte {n}
+1599	Anmeldewege
+1600	Wir können gedruckte Karten in dieses Land noch nicht versenden
+1601	Wir benötigen deine E-Mail-Adresse, um ein Konto zu erstellen. Bitte erlaube die Freigabe oder registriere dich per E-Mail.
+1602	Wir haben einen Code an {phone} per SMS gesendet.
+1603	Website (optional)
+1604	Hochzeit
+1605	Willkommen zurück
+1606	Gut gemacht
+1607	Was feierst du?
+1608	Was ist es?
+1609	Was muss erledigt werden?
+1610	Was wünschst du dir?
+1611	Was reserviert wurde, ist für dich verborgen.
+1612	Was ist los
+1613	whatsapp
+1614	WhatsApp
+1615	WhatsApp (wir erinnern dich ans Senden)
+1616	WhatsApp / Handy
+1617	WhatsApp +{recipient}
+1618	WhatsApp Business
+1619	WhatsApp-Business-Konto-ID
+1620	Die WhatsApp-Business-Konto-ID ist eine lange Zahl
+1621	WhatsApp hat diese Angaben nicht akzeptiert: {message}
+1622	WhatsApp nicht verbunden
+1623	Nur WhatsApp
+1624	WhatsApp erlaubt Unternehmen nur, eine Unterhaltung mit einer von Meta genehmigten Vorlage zu beginnen. Erstelle eine im WhatsApp Manager (zum Beispiel „Alles Gute zum Geburtstag
+1625	WhatsApp-Vorlage
+1626	WhatsApp-Vorlage (von Meta genehmigt)
+1627	WhatsApp oder E-Mail, falls kein WhatsApp
+1628	Wann
+1629	Wann (Zeit deines Geräts)
+1630	Wann und wo
+1631	Wo (optional)
+1632	Weißer Rand
+1633	Wer
+1634	Wer kann es sehen
+1635	Für wen ist es?
+1636	Für wen ist das?
+1637	Für wen ist dieser Wunsch?
+1638	Für wen es ist
+1639	Für wen es ist (optional)
+1640	Wer macht was
+1641	Ehefrau
+1642	Wunsch
+1643	Wunsch für dich entworfen
+1644	Jedem Kunden automatisch Wünsche schicken
+1645	Sprache des Wunsches
+1646	Wunsch nicht gefunden
+1647	Wunschseite nicht gefunden
+1648	Wünsche von Freunden
+1649	Wünsche werden am Tag selbst automatisch in der Zeitzone {timezone} an Kunden gesendet, die Nachrichten zugestimmt haben. Jeder Kunde erhält eine Nachricht pro Anlass.
+1650	Wünsche auf {language}
+1651	Wunschliste
+1652	Wunschliste nicht gefunden
+1653	Wunschlisten
+1654	Blessly
+1655	Blessly — Wünsche und Erinnerungen für jeden Anlass
+1656	Blessly für Unternehmen
+1657	Blessly hat den Versand für dein Unternehmen pausiert: {reason}. Bis das geklärt ist, wird nichts gesendet — bitte wende dich an den Support.
+1658	Blessly ist für persönliche Erinnerungen und Wünsche kostenlos. Familien- und Unternehmenstarife bieten größere Familienkreise, Alben und automatische Kundenwünsche über WhatsApp.
+1659	Blessly erinnert dich eine Woche vor jedem Geburtstag, Jahrestag und Fest, schreibt einen herzlichen Wunsch in {length} Sprachen und öffnet WhatsApp oder Telegram mit dem fertigen Wunsch zum Senden.
+1660	Blessly-Test-Kasse
+1661	mit den Berechtigungen whatsapp_business_messaging und whatsapp_business_management und erstelle ein dauerhaftes Token.
+1662	mit dem Namen deines Unternehmens.
+1663	Arbeit & Meilensteine
+1664	Arbeitsjubiläum
+1665	Funktioniert für Konten mit einer Handynummer, die unter Einstellungen → Anmeldung und Sicherheit hinzugefügt wurde.
+1666	Würde sich sehr freuen
+1667	Schreibe eine Nachricht oder füge ein Foto hinzu
+1668	Schreibe eine kurze Nachricht
+1669	Schreibe eine Dankesnachricht
+1670	Schreibe einen Wunsch
+1671	Schreibe einen Wunsch für
+1672	Meinen Wunsch schreiben
+1673	Schreibe oder erstelle zuerst den Wunsch
+1674	Schreibe die Nachricht
+1675	Schreibe das Update
+1676	Wird geschrieben…
+1677	Jahr
+1678	Jährlich · 20 % sparen
+1679	Ja, löschen
+1680	Ja, ich bin dabei
+1681	Du
+1682	Du hast bereits einen Unternehmensbereich
+1683	Du kannst dich erneut bewerben.
+1684	Du kannst in bis zu {MAX_FAMILIES_PER_USER} Familienkreisen sein
+1685	Du kannst bis zu 200 Feiern haben
+1686	Du kannst bis zu 50 Wunschlisten haben
+1687	Du kannst bis zu {MAX_DESIGNS} Karten behalten — lösche einige, die du nicht brauchst
+1688	Du kannst nur Fotos ändern, die du hinzugefügt hast
+1689	Du kannst nur Personen mit einer niedrigeren Rolle entfernen
+1690	Du kannst nur Fotos entfernen, die du hinzugefügt hast
+1691	Du kannst Alben nur mit einem Familienkreis teilen, in dem du etwas hinzufügen kannst
+1692	Du kannst nur mit einem Familienkreis teilen, in dem du Personen hinzufügen kannst
+1693	Du kannst nur Aufgaben aktualisieren, die dir zugewiesen wurden
+1694	Du kannst dieses Album nur ansehen
+1695	Du kannst bis zu einem Jahr im Voraus planen
+1696	Du kannst Dank senden, sobald die Feier begonnen hat
+1697	Du kannst dein eigenes Produkt nicht kaufen
+1698	Du kannst nicht kommen
+1699	Du kommst vielleicht
+1700	Dir gehört dieses Unternehmen bereits.
+1701	Du kannst dann Kunden, automatische Geburtstagsnachrichten und Kampagnen verwalten.
+1702	Du wirst auf deinen anderen Geräten abgemeldet.
+1703	du trittst bei als: {role}
+1704	Du bist bereits dabei — öffne den Familienkreis
+1705	Du bist bereits im Team eines anderen Unternehmens. Verlasse es zuerst.
+1706	Du hast bereits den Tarif {name}
+1707	Du bist bereits abgemeldet.
+1708	Du kommst
+1709	Du erhältst das, weil
+1710	Du bist offline
+1711	Du bist dabei
+1712	Du bist auf {n} Gerät angemeldet (dieses eingeschlossen).
+1713	Du bist auf {n} Geräten angemeldet (dieses eingeschlossen).
+1714	Du bist der Gastgeber.
+1715	Du bist hier die einzige Person, daher löscht das Verlassen {familyName}.
+1716	Du hast dich bereits beworben
+1717	Du wurdest zu einem Familienkreis eingeladen. Erstelle ein kostenloses Konto, um beizutreten.
+1718	Du wurdest zu einem Familienkreis eingeladen. Melde dich an, um beizutreten.
+1719	Du hast die maximale Anzahl an Kartenfotos hochgeladen, die wir speichern können (1.000)
+1720	Dein {kind}-Konto ist noch nicht genehmigt
+1721	Deine Bewerbung ({kind}) wurde nicht genehmigt.
+1722	Deine Kampagnen
+1723	Deine Karte: {title}
+1724	Deine Karten
+1725	Dein Familienkreis ist voll ({n} Personen).
+1726	Deine Familienkreise
+1727	Dein aktuelles Passwort ist nicht richtig
+1728	Deine Daten
+1729	Deine kostenlose Testphase ist beendet, daher wird nichts gesendet.
+1730	Dein Gutschein
+1731	Deine Liste ist leer.
+1732	Deine Nachricht
+1733	Dein Name
+1734	Deine eigenen Personen und Erinnerungen bleiben privat
+1735	Dein Passwort
+1736	Deine Personen
+1737	Dein Foto
+1738	Dein Tarif
+1739	Dein Tarif umfasst bis zu {v1} Kunden
+1740	Dein Tarif umfasst {seats} Team-Anmeldung{v2} (dich eingeschlossen).
+1741	Dein Wunsch (frei bearbeitbar)
+1742	Zoom

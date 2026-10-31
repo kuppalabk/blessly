@@ -1,0 +1,218 @@
+1309	Échec de la connexion
+1310	La connexion a été annulée.
+1311	Déconnecté partout ailleurs.
+1312	Appareils connectés
+1313	Tarifs simples
+1314	Simuler une carte refusée
+1315	Sœur
+1316	Taille
+1317	SMS (nous vous rappelons d’envoyer)
+1318	Quelqu’un d’autre
+1319	Quelqu’un commence la carte à l’instant — réessayez dans un moment
+1320	Une erreur s’est produite
+1321	Fils
+1322	Répartissez les tâches : qui s’occupe du gâteau, qui réserve la table
+1323	Tableur (.csv)
+1324	Commencer
+1325	Lancer une collecte
+1326	Commencer une nouvelle carte
+1327	Commencer une liste de souhaits
+1328	Créer un autre cercle
+1329	Commencer gratuitement
+1330	Commencez une carte que toute la famille signe. Nous rédigerons le premier message et préviendrons tout le monde.
+1331	Commencer la carte collective
+1332	Recommencer la configuration
+1333	Commencez votre cercle familial
+1334	Démarrage…
+1335	Début
+1336	Région / comté (facultatif)
+1337	Statut
+1338	Autocollant
+1339	Autocollants
+1340	Arrêter les e-mails
+1341	Arrêter le partage (le lien ne fonctionnera plus)
+1342	Arrêter les messages WhatsApp
+1343	Rue, ville
+1344	Nom du studio ou de l’artiste
+1345	Style
+1346	Résumé
+1347	Assistance
+1348	Vue d’assistance de {name}
+1349	Soutiens
+1350	Suspendu
+1351	Condoléances
+1352	Utilisateur système
+1353	Étiquette
+1354	étiquette « {tag} »
+1355	étiquettes
+1356	Étiquettes (séparées par des virgules)
+1357	Appuyez sur « Rédiger mon vœu », ou écrivez le vôtre.
+1358	Touchez un élément pour le sélectionner. Faites glisser pour déplacer, utilisez le coin pour redimensionner et le point du haut pour faire pivoter.
+1359	Objectif (facultatif)
+1360	objectif {v}
+1361	Tâche introuvable
+1362	Équipe
+1363	E-mail du membre de l’équipe
+1364	Telegram (nous vous rappelons d’envoyer)
+1365	Modèles
+1366	conditions
+1367	Conditions
+1368	conditions d’utilisation
+1369	Carte de test 4242 4242 4242 4242 · date future quelconque · CVC quelconque
+1370	Paiement test
+1371	Mode test.
+1372	Paiement test — aucun argent réel
+1373	Texte
+1374	Couleur du texte
+1375	M’envoyer un code par SMS
+1376	Les SMS ne sont pas encore configurés sur ce serveur
+1377	Merci
+1378	Merci — vous êtes inscrit(e) sur {name}.
+1379	Merci — votre commande est confirmée.
+1380	Merci beaucoup d’avoir fait partie de {title}. Cela compte beaucoup !
+1381	Merci beaucoup pour ce magnifique cadeau — cela me touche beaucoup !
+1382	Merci, professeur
+1383	Merci ! Votre contribution a bien été reçue.
+1384	Merci ! Votre don a bien été reçu.
+1385	Remercier vos invités (tous ceux qui sont venus ou ont laissé un message, une seule fois)
+1386	Remerciement envoyé par e-mail à {n} personnes
+1387	Remerciement envoyé par e-mail à {n} personne
+1388	Remerciement envoyé à {n} invité
+1389	Remerciement envoyé à {n} invités
+1390	Merci — votre message a été ajouté.
+1391	Merci, {name} ! {n} photo ajoutée.
+1392	Merci, {name} ! {n} photos ajoutées.
+1393	Merci ! Il apparaîtra une fois approuvé par l’organisateur.
+1394	Merci ! Votre forfait s’activera dès que le paiement sera confirmé — en général en quelques secondes. Actualisez cette page dans un instant.
+1395	Thanksgiving
+1396	Ce compte est déjà lié à un autre compte Blessly
+1397	Cet anniversaire n’existe pas
+1398	L’image de cette carte est trop volumineuse
+1399	Cette carte utilise une photo qui ne vous appartient pas
+1400	Ce code a expiré. Recommencez.
+1401	Ce code n’est pas valide
+1402	Ce code n’est pas valide — vérifiez que l’heure de votre téléphone est réglée automatiquement
+1403	Cette date n’existe pas
+1404	Cet événement ne fait pas partie de ce cercle
+1405	Ce fichier n’est pas une photo que nous pouvons lire
+1406	Ce fichier n’est pas une photo lisible (utilisez JPG, PNG, WebP ou GIF)
+1407	Cette image n’est pas utilisable comme carte
+1408	Ce numéro est déjà utilisé par un autre compte
+1409	Ce mot de passe n’est pas valide
+1410	Cette photo ne figure pas dans cet album
+1411	Ce produit n’est pas disponible
+1412	Ce format d’enregistrement n’est pas pris en charge
+1413	Cet enregistrement est vide
+1414	Cet enregistrement n’est pas disponible
+1415	Cette option de connexion n’est pas disponible.
+1416	Cela a pris trop de temps — veuillez réessayer.
+1417	Cet article de liste de souhaits n’existe plus
+1418	C’est trop volumineux
+1419	Le forfait {name} inclut {maxAlbums} albums. Passez au forfait Famille pour en avoir davantage.
+1420	La famille {surname}
+1421	la fin de la période
+1422	Le fichier est trop volumineux (2 Mo maximum)
+1423	Le fichier est trop volumineux (2 Mo maximum).
+1424	Le fichier est trop volumineux (2 Mo maximum). Divisez-le en fichiers plus petits.
+1425	Le fichier doit comporter une ligne d’en-tête et au moins un client
+1426	Le forfait gratuit autorise {limit} personnes par cercle. Le propriétaire du cercle peut passer au forfait Famille pour jusqu’à {MAX_MEMBERS}.
+1427	Le forfait gratuit ne peut pas avoir de prix
+1428	Le maximum est {v1}
+1429	Le minimum est {v1}
+1430	Le paiement n’a pas abouti. Aucun montant n’a été débité — veuillez réessayer.
+1431	Le paiement n’a pas abouti. Aucun montant n’a été débité.
+1432	La page de paiement n’a pas pu s’ouvrir. Veuillez réessayer dans une minute.
+1433	Le PDF contient le recto et l’intérieur sur des pages de 15 × 20 cm — imprimez recto verso, ou chez un imprimeur.
+1434	La date limite de réponse doit précéder la fête
+1435	Il manque ENCRYPTION_KEY sur le serveur ; impossible de stocker en sécurité les secrets (identifiants WhatsApp, clés de vérification en deux étapes)
+1436	Les deux mots de passe ne correspondent pas
+1437	Toute la famille
+1438	Le vœu est vide
+1439	La page du vœu affiche le recto et l’intérieur de cette carte au-dessus de votre message.
+1440	L’équipe Blessly définit le jeton de vérification et le secret de l’application sur le serveur. Les clients qui répondent STOP sont automatiquement désabonnés de WhatsApp ; START les réabonne.
+1441	Leur e-mail
+1442	Leur mobile
+1443	Leur nom sur le vœu
+1444	Il n’y a pas de forfait payant à résilier
+1445	Il n’y a rien à verser
+1446	Ce sont des marques de test (sandbox). Les vraies marques proviennent d’un partenaire cartes cadeaux une fois connecté.
+1447	Ils font déjà partie de votre équipe
+1448	Ce compte est suspendu. Veuillez contacter l’assistance.
+1449	Cet album est plein ({maxPhotosPerAlbum} photos avec le forfait {name}).
+1450	Cet album n’accepte pas de photos
+1451	Ce navigateur ne peut pas afficher de notifications. Vous recevrez toujours des alertes dans l’application et par e-mail.
+1452	Cette carte contient trop d’éléments
+1453	Cette fête a déjà eu lieu
+1454	Cette fête a été annulée.
+1455	Cette fête a eu lieu — merci à tous ceux qui sont venus !
+1456	Cette fête est annulée.
+1457	Cette fête est réservée aux invités
+1458	Cette fête est réservée aux invités. Ouvrez-la depuis votre invitation.
+1459	Cette fête est complète
+1460	Cette fête n’accepte plus de réponses
+1461	Cette fête a été annulée
+1462	Ce cercle est complet (6 personnes).
+1463	Cette collecte est clôturée
+1464	Cette collecte est clôturée.
+1465	Ce client a accepté de recevoir nos messages
+1466	Ce cercle familial est complet ({limit} personnes)
+1467	Cette carte cadeau a été annulée
+1468	Cette invitation a expiré. Demandez un nouveau lien à {inviter}.
+1469	Cette invitation a expiré. Demandez un nouveau lien.
+1470	Cette invitation a expiré. Demandez-en une nouvelle au propriétaire.
+1471	Cette invitation est pour {email}, mais vous êtes connecté(e) en tant que {email2}. Déconnectez-vous puis connectez-vous (ou inscrivez-vous) avec {email3}.
+1472	Cette invitation est pour {email}. Connectez-vous avec cette adresse pour l’accepter.
+1473	Ce lien d’invitation ne fonctionne pas
+1474	Ce lien d’invitation n’est pas valide
+1475	Cette invitation a déjà été utilisée.
+1476	Cette invitation a été annulée. Demandez un nouveau lien à {inviter}.
+1477	Cette invitation a été annulée. Demandez un nouveau lien.
+1478	Il s’agit d’une carte test (sandbox) qui ne peut pas être utilisée.
+1479	Voici ce que voient vos amis de votre liste.
+1480	C’est votre propre liste — vos amis y réservent des cadeaux
+1481	Ce lien n’est pas valide
+1482	Ce lien a peut-être expiré ou été supprimé.
+1483	Ce mois-ci
+1484	Cette page est complète
+1485	Ce paiement est {status}.
+1486	Cela supprime définitivement votre compte
+1487	Ce forfait n’est pas proposé dans cette devise
+1488	Ce lien de réinitialisation a expiré ou a déjà été utilisé. Demandez-en un nouveau.
+1489	Ce lien de désinscription ne fonctionne pas. Vous pouvez aussi répondre STOP à n’importe quel message WhatsApp.
+1490	Ce numéro WhatsApp est déjà connecté à une autre entreprise Blessly
+1491	Cette page de vœux est complète
+1492	Cette page de vœux n’accepte pas de messages
+1493	Heure
+1494	Heure (facultatif)
+1495	Fuseau horaire
+1496	Fuseau horaire
+1497	Fuseau horaire (les messages partent à cette heure)
+1498	Fuseau horaire (les rappels arrivent à 9 h ici)
+1499	À {name}
+1500	À faire
+1501	pour continuer à souhaiter leur anniversaire à vos clients après cela.
+1502	Pour partir, désignez d’abord quelqu’un d’autre comme propriétaire.
+1503	Pour voir les coches de remise et de lecture, et gérer les clients qui répondent STOP, l’application Meta de Blessly doit recevoir les webhooks de votre numéro. URL de rappel :
+1504	pour recommencer.
+1505	Aujourd’hui
+1506	Demain
+1507	Ton
+1508	Trop de tentatives. Veuillez patienter une minute et réessayer.
+1509	Trop de tentatives. Veuillez patienter une minute.
+1510	Trop de variables
+1511	Trop de codes erronés. Recommencez.
+1512	Trop cher seul ? Lancez un cadeau collectif
+1513	Outils
+1514	Pour : {title}
+1515	Ville
+1516	Numéro de suivi
+1517	Essayez {name}
+1518	Essayer un autre
+1519	Désactiver
+1520	Activer
+1521	Vérification en deux étapes
+1522	La vérification en deux étapes est déjà activée
+1523	La vérification en deux étapes est désactivée.
+1524	La vérification en deux étapes est activée.
+1525	Vérification en deux étapes, Google et Apple, connexion par téléphone, mot de passe
+1526	Type

@@ -1,0 +1,218 @@
+1	— facoltativo
+2	— troppe variabili
+3	— l’ultimo pagamento non è andato a buon fine; aggiorna il metodo di pagamento
+4	· {partySize} persone
+5	· di {ownerName}
+6	· annullato
+7	· chiuso
+8	· copertina
+9	· la data può variare
+10	· la data può variare in base alla regione
+11	· ricordo
+12	· nessun consenso — non riceverà messaggi
+13	· rif. {reference}
+14	· condiviso
+15	· obiettivo {v}
+16	· tracciamento {tracking}
+17	· in attesa di approvazione
+18	({pending} da approvare)
+19	(anonimo per gli altri)
+20	(tu)
+21	per {honoree}
+22	per {v}
+23	Registrato: {consentSource}.
+24	con stato “{v}”
+25	— tutti lì ricevono questi promemoria.
+26	— sola lettura, come {admin}. Non si può modificare nulla.
+27	— promemoria, auguri e album per ogni occasione.
+28	— condivide la pagina degli auguri con l’anteprima del biglietto
+29	— non vedrai cosa finché non decidi di guardare.
+30	, {maybe} forse
+31	, oppure condividi il link — chi risponde viene aggiunto automaticamente
+32	, le tue persone, i promemoria, gli auguri e le pagine degli auguri, e la tua attività con i suoi clienti. Le cerchie familiari di tua proprietà passano alla persona successiva della cerchia. Non si può annullare.
+33	! Goditi un pensiero offerto da noi presso
+34	. Date come 14/03, 14 mar o 1990-03-14 (prima il giorno). I clienti esistenti con lo stesso cellulare o email vengono aggiornati.
+35	. Solo
+36	. Invialo il giorno stesso.
+37	. Blessly non scriverà loro lì.
+38	…oppure incollalo qui
+39	”), poi premi “Aggiorna modelli” in Impostazioni.
+40	({v} ciascuno, stampato su cartoncino da 350 g con busta, spedizione inclusa)
+41	(obbligatorio),
+42	{added} aggiunti · {updated} aggiornati · {skipped} saltati
+43	{coming} partecipano · {guests} nella lista invitati
+44	{consented} hanno accettato i messaggi
+45	{days} giorni
+46	{going} partecipano · {maybe} forse · {no} non possono · {waiting} senza risposta
+47	{greeting}, {recipientName} — un biglietto da {senderName}
+48	{hostName} ti invita
+49	{inDays} giorni
+50	{inviter} ti ha invitato a
+51	{inviter} ti ha invitato in {family} su Blessly — condivideremo compleanni, organizzeremo eventi di famiglia e firmeremo biglietti insieme. Unisciti qui: {link}
+52	{label} (facoltativo)
+53	{label}: giorno
+54	{label}: mese
+55	Accesso con {label} non riuscito ({why}). Riprova.
+56	Accesso con {label} non riuscito. Riprova.
+57	{length} di {limit} persone · sei {v}
+58	{length} di {maxPhotos} foto · JPG, PNG, WebP o GIF fino a 15 MB. I dati di posizione vengono rimossi da ogni foto.
+59	{length} auguri nelle prossime due settimane
+60	{memberCount} di {limit} persone · {v}
+61	{mine} album (illimitati con il piano {plan}) · {photos} foto ciascuno
+62	{mine} di {max} album con il piano {plan} · {photos} foto ciascuno
+63	{n} cliente
+64	{n} clienti
+65	{n} giorno
+66	{n} giorni
+67	{n} regalo è stato prenotato
+68	{n} regali sono stati prenotati
+69	{n} partecipano
+70	{n} disponibili
+71	{n} articolo
+72	{n} articoli
+73	{n} messaggio
+74	{n} messaggi
+75	{n} persone
+76	Partecipano {n} persone
+77	{n} persona
+78	Partecipa {n} persona
+79	{n} foto
+80	{n} album fotografico
+81	{n} album fotografici
+82	{n} foto condivisa da {name} su Blessly
+83	{n} foto
+84	{n} foto condivise da {name} su Blessly
+85	{n} letti su WhatsApp
+86	Resta {n} codice di recupero.
+87	Restano {n} codici di recupero.
+88	{n} riga
+89	{n} righe
+90	{n} accessi per il team
+91	{name} (tu)
+92	Carta regalo {name} per {recipientName}
+93	{name} ha ricevuto la tua risposta.
+94	{name} ti invita
+95	Piano {name}
+96	{name} non saprà chi.
+97	{name}, {hostName} ti invita
+98	Lista desideri: {occasion}
+99	{phone} · accedi con un codice SMS
+100	{photos} foto ciascuno
+101	{provider} collegato
+102	{provider} è ora collegato.
+103	{quantity} prenotati da te.
+104	{raised} da {n} persone
+105	{raised} da {n} persona
+106	{raised} raccolti da {n} persone
+107	{raised} raccolti da {n} persona
+108	Ne restano {remaining} su {quantity}
+109	Invito come {role}
+110	{seller} · spedisce in {v}
+111	{sent} inviati · {delivered} consegnati · {read} letti · {failed} non inviati
+112	{signed} su {total} familiari hanno firmato
+113	Ne restano {stock}
+114	{title} di {by}
+115	{unread} non letti
+116	{used} di {quota} messaggi usati
+117	{used} di {seats} accessi usati. I membri del team possono gestire clienti, automazioni e campagne; solo il titolare modifica le impostazioni e WhatsApp.
+118	{v} · inviato via email a {emailed}
+119	Mancano {v} giorni, {v2} ore e {v3} minuti
+120	{v} attivo
+121	+ Aggiungi un evento di famiglia
+122	+ Aggiungi ricorrenza
+123	+ Auguri
+124	+ Invita
+125	+ Foto
+126	+ Condividi qualcuno
+127	+ Firma o disegno
+128	+ Testo
+129	■ Stop
+130	● Registra un videomessaggio
+131	● Registra un messaggio vocale
+132	✉️ Stampalo e spediscilo
+133	✎ Personalizza questo design
+134	🎁 Lista desideri
+135	🎁 Regalo di gruppo
+136	🎉 Sta succedendo ora!
+137	🎙️ Un messaggio vocale da {from}
+138	🎥 Un videomessaggio da {from}
+139	💚 Raccolta fondi
+140	💝 {title} · {v} raccolti
+141	💝 Aggiungi un regalo di gruppo
+142	💝 Regalo di gruppo: {raised} raccolti — partecipa
+143	💝 Regalo di gruppo: {raised} raccolti su {target} — partecipa
+144	📱 Accedi con un codice SMS
+145	$ USD
+146	₹ INR
+147	1 · Occasione e persona
+148	1 · Ricorda
+149	1 giorno prima
+150	1. Scansiona con la tua app di autenticazione:
+151	2 · Crea
+152	2 · Scrivi gli auguri
+153	2. Inserisci il codice a 6 cifre mostrato
+154	250 design di biglietti per ciascuna delle 40 occasioni, in 32 lingue.
+155	250 design per ogni occasione
+156	3 · Condividi
+157	3 · Scegli un biglietto · design {n} · {shown} di {total} design
+158	3 · Il tuo biglietto
+159	3 giorni prima
+160	4 · Messaggio vocale o video (facoltativo)
+161	40 occasioni × 250 design (10.000 biglietti), in 32 lingue. Tutte le illustrazioni sono originali e di libero utilizzo.
+162	7 giorni prima
+163	Una festa può avere fino a {MAX_GUESTS} invitati
+164	Esiste già un cliente con questa email
+165	Esiste già un cliente con questo numero
+166	Un design non può essere sia nascosto sia in evidenza
+167	Una cerchia familiare ha al massimo {limit} persone
+168	Una lista può avere fino a {MAX_ITEMS} articoli
+169	Una pagina per la tua festa o evento: inviti e risposte, un conto alla rovescia e una bacheca di messaggi, foto e ricordi.
+170	Auguri per {name}
+171	Auguri per te, {name}
+172	Auguri da {name}
+173	Chi sei
+174	Esigenze di accessibilità (facoltativo)
+175	Account non trovato
+176	Azioni
+177	Aggiungi
+178	Aggiungi {s}
+179	Aggiungi una colonna “name”
+180	Aggiungi un compleanno o un anniversario
+181	Aggiungi un compleanno o un anniversario: te lo ricorderemo una settimana prima, prepareremo gli auguri il giorno prima e ti avviseremo il giorno stesso.
+182	Aggiungi una didascalia
+183	Aggiungi un evento di famiglia
+184	Aggiungi un cellulare o un’email
+185	Aggiungi un nome
+186	Aggiungi una nota (salvata nel registro di controllo)
+187	Aggiungi un prodotto
+188	Aggiungi un oggetto
+189	Aggiungi un’attività
+190	Aggiungi un articolo
+191	Aggiungi cliente
+192	Aggiungi evento
+193	Aggiungi invitati
+194	Aggiungi invitati — uno per riga: nome, poi email e/o telefono
+195	Aggiungi ricordo
+196	Aggiungi i miei auguri
+197	Aggiungi numero
+198	Aggiungine uno per accedere con un codice SMS
+199	Aggiungi le persone una volta sola. Le feste del tuo paese sono già nel calendario.
+200	Aggiungi persona
+201	Aggiungi foto
+202	Aggiungi prodotto (inviato per revisione)
+203	Aggiungi codice QR
+204	Aggiungi qualcuno
+205	Aggiungi una persona speciale
+206	Aggiungi qualcosa che ti piacerebbe
+207	Aggiungi attività
+208	Aggiungi l’indirizzo
+209	Aggiungi oggetto e messaggio dell’email
+210	Aggiungi le persone che contano
+211	Aggiungi il CAP
+212	Aggiungi il nome del destinatario
+213	Aggiungi città o paese
+214	Aggiungi al calendario
+215	Aggiungi al biglietto
+216	Aggiungi ai preferiti
+217	Aggiungi alla lista
+218	Aggiungi al mio calendario

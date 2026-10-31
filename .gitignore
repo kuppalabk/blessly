@@ -1,0 +1,14 @@
+node_modules
+.next
+.env.local
+test-results
+playwright-report
+*.tsbuildinfo
+next-env.d.ts
+/uploads
+
+# Secrets: never commit. Keep .env.example (no values) in git.
+.env
+.env.*
+!.env.example
+.do/secrets.env

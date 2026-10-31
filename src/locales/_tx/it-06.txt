@@ -1,0 +1,218 @@
+1091	Scegli qualcuno in questa cerchia
+1092	Scegli qualcuno condiviso con questa cerchia
+1093	PIN
+1094	Piano
+1095	Organizza una celebrazione
+1096	Organizzate insieme gli eventi e vedete chi viene
+1097	Piano non trovato
+1098	Organizzate insieme
+1099	Piano: {name}
+1100	Piani
+1101	Amministratore della piattaforma
+1102	Correggi i campi evidenziati.
+1103	Accedi, per favore
+1104	Rispondi entro {deadline}, per favore.
+1105	Attendi…
+1106	Poetico
+1107	Pubblica un aggiornamento (mostrato nella pagina e inviato via email agli invitati che non hanno detto no)
+1108	Pubblicalo su
+1109	Pubblica messaggio
+1110	Pubblica sui social
+1111	Pubblica aggiornamento
+1112	CAP / PIN
+1113	Pubblicato — grazie!
+1114	Pubblicazione in corso…
+1115	Preparazione del biglietto…
+1116	Preparazione…
+1117	Anteprima
+1118	Anteprima pagina degli auguri
+1119	Precedente
+1120	Design precedente
+1121	Mese precedente
+1122	Prezzo
+1123	Prezzo (facoltativo)
+1124	Prezzi
+1125	Stampa e spedisci
+1126	Stampa e spedisci “{title}”
+1127	Stampa e spedisci un biglietto che hai creato — apri uno dei tuoi biglietti
+1128	PDF pronto per la stampa
+1129	Biglietti stampati
+1130	Stampa in corso
+1131	Privacy
+1132	informativa sulla privacy
+1133	Privato — solo io
+1134	Elaborazione…
+1135	Prodotto
+1136	Prodotti
+1137	Avanzamento
+1138	Promozione
+1139	Pubblico
+1140	Pubblica i tuoi design di biglietti
+1141	L’endpoint push deve essere https
+1142	Le notifiche push non sono configurate su questo server
+1143	Codice QR
+1144	Codice QR per la tua app di autenticazione
+1145	Colore del codice QR
+1146	Quantità
+1147	In coda
+1148	Creazione rapida
+1149	Raksha Bandhan
+1150	Ramadan
+1151	Letto
+1152	Ricevi donazioni dalle raccolte fondi
+1153	Messaggi recenti
+1154	Nome del destinatario
+1155	Email del destinatario
+1156	Nome del destinatario
+1157	Riconnettiti per vedere le tue persone e i promemoria. Tutto ciò che hai salvato è al sicuro.
+1158	Registra prima un messaggio
+1159	Registra un messaggio vocale o video
+1160	Registra di nuovo
+1161	La registrazione non è disponibile in questo browser.
+1162	Le registrazioni possono arrivare fino a 40 MB
+1163	Codice di recupero
+1164	Ripeti
+1165	Aggiorna modelli
+1166	Aggiornamento…
+1167	Rimborsato
+1168	Regioni: IN, GB, US, AE o GLOBAL, separate da virgole
+1169	ente benefico registrato {number} ({country})
+1170	Numero di registrazione
+1171	Rapporto
+1172	Ricordami le date condivise
+1173	Promemoria per l’invio
+1174	Promemoria
+1175	Promemoria, auguri con IA in 32 lingue, 250 biglietti per occasione
+1176	Rimuovi
+1177	Rimuovi {name}
+1178	Rimuovere {v}?
+1179	Rimuovi dai preferiti
+1180	Rimuovi occasione {n}
+1181	Rimuovi foto
+1182	Riapri
+1183	Risposto dal link
+1184	Risposte
+1185	Risposte e invitati
+1186	Le risposte sono chiuse — contatta l’organizzatore
+1187	Le risposte sono chiuse.
+1188	Rispondi
+1189	Rispondi entro (facoltativo)
+1190	Richiesto dalle regole di WhatsApp ed email. Senza, non si invia nulla.
+1191	Reinvia
+1192	Prenotazione non trovata
+1193	Riserva
+1194	Riservalo così nessun altro compra la stessa cosa. {first} non vedrà chi è stato.
+1195	Riservati {taken} su {quantity}
+1196	Riservato da te.
+1197	Prenotazione in corso…
+1198	Reimposta la tua password
+1199	Pensionamento
+1200	Mostra i miei regali
+1201	Prima mostra i tuoi regali
+1202	Riscrivi
+1203	Destra
+1204	Ruolo per {name}
+1205	Rotazione ·
+1206	Angoli arrotondati
+1207	Riga {row}: {reason}
+1208	Rispondi agli RSVP per gli eventi familiari e prendi in carico le attività
+1209	Salva
+1210	Salva e invia
+1211	Salva modifiche
+1212	Salva cliente
+1213	Salva nuova password
+1214	Salva persona
+1215	Salva impostazioni
+1216	Salva i tuoi codici di recupero
+1217	Salvato
+1218	Salvataggio…
+1219	Ringrazia (inviato una sola volta via email a tutti quelli che hanno lasciato un’email)
+1220	Programma
+1221	Programma campagna
+1222	Programma fino a un anno prima
+1223	Programmato
+1224	Invio programmato non trovato
+1225	Programmazione…
+1226	Cerca
+1227	Cerca tra {length} persone
+1228	Cerca clienti
+1229	Cerca per nome, telefono o email
+1230	Cerca persone
+1231	Vedi clienti
+1232	Vedilo a {v}
+1233	Vedi piani
+1234	Vuoi vedere chi ha riservato cosa? Così si rovina la sorpresa.
+1235	Scopri perché
+1236	Elemento selezionato
+1237	Vendi regali nello shop Blessly
+1238	Vendi, progetta o raccogli fondi
+1239	Vendi, progetta o raccogli fondi con Blessly
+1240	Venditore
+1241	Account per venditori, progettisti di biglietti ed enti benefici
+1242	Invia una gift card via email, oggi o nel giorno del suo compleanno
+1243	Invia un nuovo link
+1244	Invia una notifica di prova
+1245	Invia alle
+1246	Porta indietro
+1247	Invia entro
+1248	Invia la mia risposta
+1249	Invia ora
+1250	Invia il
+1251	Invia il (facoltativo — ad esempio il giorno del suo compleanno)
+1252	Invia o programma
+1253	Invia link di reimpostazione
+1254	Invia ringraziamenti
+1255	Invia il link su WhatsApp o dove preferisci. Funziona per 7 giorni; chiunque lo abbia può unirsi finché la cerchia non è piena.
+1256	Invia la foto come file caricato
+1257	Invia a {recipientName}
+1258	Invia il tuo augurio
+1259	Invio in corso
+1260	Invio in corso…
+1261	Inviato
+1262	Inviato — controlla le tue notifiche.
+1263	Inviato nel {kind} del cliente, una volta l’anno.
+1264	Inviati questo mese
+1265	Inviato con Blessly per conto di {businessName}.
+1266	Imposta
+1267	Imposta una password
+1268	Prima imposta una password (Password dimenticata nella pagina di accesso), così potrai comunque accedere
+1269	Imposta password
+1270	Configura la tua attività
+1271	Prima configura la tua attività
+1272	Configurazione in corso…
+1273	Impostazioni
+1274	Condividi
+1275	Condividi un ricordo
+1276	Condividi una foto o un ricordo
+1277	Condividi compleanni e anniversari — tutti ricevono i promemoria
+1278	Condividi sui social
+1279	Condividi su WhatsApp
+1280	Condividi un unico link; gli amici contribuiscono da ovunque. I regali di gruppo vengono versati a te; le raccolte fondi vanno direttamente a un ente benefico verificato.
+1281	Prima condividi l’album
+1282	Condividi con la famiglia
+1283	Condividi il tuo indirizzo email con Blessly per creare un account
+1284	Condiviso da
+1285	condiviso da {name}
+1286	Condiviso da {sharedBy}
+1287	condiviso da te
+1288	Date condivise
+1289	persone condivise
+1290	Condiviso con
+1291	Condiviso con la famiglia
+1292	Shop
+1293	Nome dello shop
+1294	Breve
+1295	Mostra quanto ha dato ciascuna persona
+1296	Mostra nella pagina della celebrazione (facoltativo)
+1297	Mostra chi viene agli altri invitati
+1298	Mostrati {from}–{to} di {total}
+1299	Firmate insieme i biglietti di gruppo
+1300	Accedi
+1301	Accedi con un codice
+1302	Firma un unico biglietto di gruppo con tutta la famiglia
+1303	Firma o disegna
+1304	Esci dagli altri dispositivi
+1305	Firma il biglietto
+1306	Accesso e sicurezza
+1307	L’accesso tramite SMS non è ancora disponibile
+1308	Accesso non riuscito. Riprova, per favore.

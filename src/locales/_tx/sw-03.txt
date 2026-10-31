@@ -1,0 +1,218 @@
+437	Endelea
+438	Endelea kwenye malipo
+439	Endelea kwa
+440	Michango
+441	Imenakiliwa
+442	Nakili
+443	Nakili kiungo binafsi cha {name}
+444	Nakili misimbo
+445	Kunakili kumeshindikana — bonyeza na ushikilie kiungo ili ukinakili
+446	Nakili kiungo
+447	Nakili ujumbe
+448	Nakili kiungo cha ukurasa wa salamu
+449	Imeshindikana kuongeza
+450	Imeshindikana kuongeza ujumbe wako
+451	Imeshindikana kutuma ombi
+452	Imeshindikana kughairi
+453	Imeshindikana kuunda
+454	Imeshindikana kuunda kikundi
+455	Imeshindikana kufuta
+456	Imeshindikana kuhamisha data
+457	Imeshindikana kujiunga
+458	Imeshindikana kufungua kihariri
+459	Imeshindikana kufungua ukurasa wa malipo
+460	Imeshindikana kuchapisha
+461	Imeshindikana kuhifadhi
+462	Imeshindikana kuhifadhi kadi
+463	Imeshindikana kuhifadhi picha ya kadi
+464	Imeshindikana kupanga ratiba
+465	Imeshindikana kutuma
+466	Imeshindikana kutuma msimbo
+467	Imeshindikana kutuma jibu lako
+468	Imeshindikana kuanza kadi
+469	Imeshindikana kuanza kadi
+470	Imeshindikana kuzima arifa
+471	Imeshindikana kuwasha arifa
+472	Imeshindikana kutumia muundo huo
+473	Imeshindikana kuandika salamu
+474	Imeshindikana kupakia violezo: {message}
+475	Haikuweza kufikia {label}
+476	Nchi
+477	Nchi (kalenda ya sherehe)
+478	Nchi (kwa kalenda ya sherehe)
+479	Nchi (kwa namba za simu zisizo na msimbo)
+480	Msimbo wa nchi
+481	Jalada la {title}
+482	Unda
+483	Unda
+484	Unda kikundi cha familia
+485	Unda kiungo cha kushiriki albamu na mtu yeyote — kwenye WhatsApp, Facebook au kwa ujumbe.
+486	Unda salamu
+487	Unda akaunti
+488	Unda albamu
+489	Unda akaunti
+490	Unda eneo la kazi la biashara
+491	Unda ukurasa wa sherehe
+492	Unda kikundi cha familia
+493	Unda kiungo cha mwaliko
+494	Unda violezo vya ujumbe (k.m. salamu ya siku ya kuzaliwa) kisha usubiri idhini.
+495	Unda kiungo cha kushiriki
+496	Unda orodha ya matakwa
+497	Unda akaunti yako
+498	Unda akaunti yako ya bure
+499	Inaunda…
+500	Faili la CSV
+501	Maandishi ya CSV
+502	Sarafu
+503	Nenosiri la sasa
+504	{v} maalum
+505	Rangi maalum ya mandharinyuma
+506	Mpango maalum
+507	Mteja
+508	Mteja hakupatikana
+509	Wateja
+510	Upakuaji wa data haupatikani katika mwonekano wa msaada
+511	Tarehe
+512	Tarehe (si lazima)
+513	Binti
+514	Siku
+515	Futa
+516	Ufute “{title}” na picha zote {length}? Hili haliwezi kutenduliwa.
+517	Ufute “{title}” pamoja na RSVP na kazi zake? Kila mtu kwenye kikundi atapoteza.
+518	Futa {name}
+519	Ufute {name} na vikumbusho vyake vyote? Hili haliwezi kutenduliwa.
+520	Ufute {name}? Historia ya ujumbe wao itabaki kwenye kumbukumbu zako bila jina lao.
+521	Futa {title}
+522	Futa albamu
+523	Futa mteja
+524	Futa tukio
+525	Futa kabisa
+526	Futa akaunti yangu
+527	Futa akaunti yangu…
+528	Futa ukurasa
+529	Futa kazi {title}
+530	Ufute kadi hii? Salamu ulizotuma nayo zitaonyesha muundo wake wa asili.
+531	Ufute ukurasa huu wa sherehe, orodha yake ya wageni na ujumbe wote? Hili haliwezi kutenduliwa.
+532	Ufute orodha hii ya matakwa?
+533	Futa orodha ya matakwa
+534	Mteja aliyefutwa
+535	Imewasilishwa
+536	Imewasilishwa / imesomwa
+537	Hufikia (misimbo ya nchi)
+538	Taarifa za uwasilishaji
+539	Maelezo
+540	Muundo
+541	Muundo {n} kati ya 100:
+542	Muundo {n} kati ya 250
+543	Muundo {number}: {name}
+544	Jina la muundo
+545	Muundo haukupatikana
+546	Buni kadi yako mwenyewe
+547	Buni kadi yako mwenyewe: badilisha maneno, fonti na rangi, ongeza picha, vibandiko, sahihi au msimbo wa QR — kisha uitume pamoja na salamu au uchapishe.
+548	Miundo inapaswa kuwa na upana wa angalau pikseli 900 kwa uchapishaji
+549	Miundo inapaswa kuwa ya wima, 3:4 (mf. pikseli 1500 × 2000)
+550	Maelezo
+551	Hali ya maendeleo — hakuna maandishi yaliyotumwa. Msimbo wako ni
+552	Hali ya maendeleo — msimbo wako ni
+553	Mahitaji ya lishe (si lazima)
+554	Tenganisha
+555	Diwali
+556	Usionyeshe jina langu hadharani
+557	Changia
+558	Michango huenda moja kwa moja kwa
+559	Imekamilika
+560	Imekamilika. {business} haitakutumia tena ujumbe huu.
+561	Pakua nakala ya kila kitu ambacho Blessly inahifadhi kukuhusu, au futa akaunti yako. Soma
+562	Pakua faili la mfano
+563	Pakua orodha ya wageni
+564	Pakua data yangu
+565	Mchoro
+566	Eneo la kuchora
+567	Mavazi, maegesho, cha kuleta, mshangao wa kuweka siri…
+568	Tarehe ya mwisho (si lazima)
+569	Tarehe ya mwisho
+570	Tengeneza nakala
+571	Tengeneza nakala ya {title}
+572	mf. Asha
+573	mf. Asha anatimiza miaka 30
+574	mf. Siku ya kuzaliwa ya baba miaka 60 — kwa wodi ya saratani
+575	mf. Siku ya kuzaliwa ya Dadi miaka 80
+576	mf. Chakula cha jioni cha siku ya kuzaliwa ya Dadi miaka 80
+577	mf. Salamu za Diwali 2026
+578	mf. Zawadi ya kuaga kwa Sam
+579	mf. anapenda kutembea milimani, safari yetu ya Goa
+580	mf. Siku ya jina
+581	mf. Nyumbani kwa Nani
+582	mf. Nisha
+583	mf. Agiza keki
+584	mf. safari yetu ya Goa
+585	mf. Orodha yetu ya harusi
+586	mf. njia isiyo na ngazi
+587	mf. Sweet Treats Bakery
+588	mf. The Garden Room
+589	mf. mboga, mzio wa karanga
+590	mf. vip
+591	mf. Tumehamia ndani — anwani ile ile, mlango wa nyuma.
+592	Kila mgeni anapata kiungo binafsi. Hakuna mwingine anayeweza kufungua ukurasa.
+593	Pasaka
+594	Hariri
+595	Hariri {name}
+596	Hariri kadi
+597	Hariri mteja
+598	Hariri tukio
+599	Hariri kipengee
+600	Hariri mtu
+601	Hariri orodha zako
+602	Eid
+603	barua pepe
+604	Barua pepe
+605	Barua pepe (kwa risiti)
+606	Barua pepe (kwa taarifa na kikumbusho)
+607	Barua pepe (si lazima, kwa shukrani)
+608	Barua pepe (hutumwa kiotomatiki)
+609	Ujumbe wa barua pepe
+610	Barua pepe pekee
+611	Barua pepe au nenosiri si sahihi
+612	Kichwa cha barua pepe
+613	Huisha (si lazima)
+614	Uchumba
+615	Weka jina
+616	Weka bei kama 1499 au 24.99
+617	Weka barua pepe halali
+618	Weka anwani halali ya barua pepe
+619	Weka namba halali ya simu pamoja na msimbo wa nchi
+620	Weka namba halali ya simu
+621	Weka mojawapo ya misimbo yako ya urejeshaji. Kila moja hufanya kazi mara moja.
+622	Weka lengo kama 5000 au 49.99
+623	Weka barua pepe ya akaunti yako nasi tutakutumia kiungo cha kuchagua nenosiri jipya.
+624	Weka jina la biashara yako
+625	Weka namba yako ya simu pamoja na msimbo wa nchi, mf. +91 98765 43210
+626	Weka jina lako
+627	Tukio
+628	Maelezo ya tukio
+629	Tukio halikupatikana
+630	Kila akaunti hukaguliwa na Blessly kabla haijaanza kutumika.
+631	Kila mtu anachangia zawadi moja, au anakusanya fedha kwa ajili ya shirika la hisani
+632	Kila mtu hapa atapata vikumbusho kwa watu hawa. Watu wako wengine wanabaki binafsi.
+633	Kila mtu kwenye kikundi hiki ataona mtu huyu na kupata vikumbusho vyake. Wewe pekee ndiye unayeweza kumhariri.
+634	Kila mtu kwenye faili hili amekubali kupokea ujumbe kutoka kwa biashara yangu
+635	Kila mtu anatia sahihi kwenye kadi moja
+636	Toka
+637	Huisha muda
+638	Inahamisha…
+639	Facebook
+640	Malipo yameshindwa
+641	Imeshindwa
+642	Imeshindwa au haijatumwa
+643	Familia
+644	Kikundi cha Familia
+645	Kikundi cha familia cha watu hadi {n}
+646	Vikundi vya familia, albamu na ujumbe wa biashara
+647	Tukio la familia
+648	Matukio ya familia
+649	Familia haikupatikana
+650	Mpango wa familia
+651	Sahihi za familia
+652	Kuaga
+653	Baba
+654	Siku ya Baba

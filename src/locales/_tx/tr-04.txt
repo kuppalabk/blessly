@@ -1,0 +1,218 @@
+655	{title} favorilere ekle
+656	Favoriler
+657	Tüm müşterilere ya da bir gruba festival kampanyaları (Diwali, Bayram, Noel…)
+658	Festivaller
+659	Duruma göre filtrele
+660	önce, böylece baskı için hazır resimlerimiz olur.
+661	Yazı tipi
+662	İçin
+663	İçin (isteğe bağlı)
+664	Anil için
+665	İşletme için
+666	Örneğin mağazada, web sitenizde ya da ödeme sırasında kaydolmuş olabilirler. WhatsApp, izinsiz kişilere mesaj gönderen numaraları engelleyebilir.
+667	Nisha için
+668	müşterinin adı için ve
+669	en fazla 6 için.
+670	işletme adınız için. Abonelikten çıkma bağlantısı otomatik eklenir.
+671	Şifremi unuttum
+672	Şifrenizi mi unuttunuz?
+673	Ücretsiz
+674	Kişisel dilekler için ücretsiz. Tüm aileniz ya da işletmeniz için yükseltin.
+675	En fazla 3 kişiye kadar ücretsiz, Aile planıyla {MAX_MEMBERS} kişiye kadar. Özel hatırlatmalarınız özel kalır.
+676	Ücretsiz plan · uygulama mağazasına gerek yok · tarayıcınızdan yükleyin
+677	{v} tarihine kadar ücretsiz deneme
+678	Ücretsiz deneme: {date} tarihine kadar {n} mesaj.
+679	Arkadaş
+680	Arkadaşlar ve aile üyeleri dilek sayfasına kendi mesajlarını ekleyebilir:
+681	Arkadaşlık
+682	Gönderen
+683	{ownerName} listesinden. Kimsenin aynı hediyeyi almaması için “Ben alacağım”a dokunup hediyeyi ayırtın.
+684	Gününden itibaren
+685	Kişilerinizden
+686	Ön
+687	Kartın ön yüzü
+688	Bağış kampanyası · düzenleyen: {name}
+689	Komik
+690	Ailenizin paylaştığı doğum günleri ve yıl dönümleri için hatırlatma alın
+691	Blessly kapalıyken bile bu cihazda bir hafta önce, bir gün önce ve gününde hatırlatma alın.
+692	Geçmiş olsun
+693	Başlarken
+694	Hediye kartı bulunamadı
+695	Hediye kartları
+696	Hediye kartları, mağaza siparişleri ve basılı kartlar
+697	Hediye fikirleri
+698	Doğum günleri, düğünler, bebekler ve ev hediyeleri için hediye listeleri ve kayıt listeleri. Arkadaşlar alacakları hediyeyi ayırtır, böylece hiçbir şey iki kez alınmaz — ve sürpriz bozulmaz.
+699	Arkadaşların hediye ayırttığı listeler
+700	Hediye notu (isteğe bağlı)
+701	Hediye notu: “{v}”
+702	Hediye hatırlatması
+703	Hediye dilek listesi (isteğe bağlı)
+704	Hediyeler ve ödemeler
+705	Hediyeler ve ödemeler
+706	Bağımsız satıcılardan hediyeler, teslim edilir
+707	Bağımsız satıcılardan hediyeler; Blessly tarafından incelenir ve satıcı tarafından teslim edilir.
+708	Bir ad verin
+709	Albüme bir ad verin
+710	Karta bir ad verin
+711	Etkinliğe bir ad verin
+712	Aile çevrenize bir ad verin
+713	Listenize bir ad verin
+714	Parıltı
+715	Blessly’e git
+716	Katılıyor
+717	Bol şans
+718	Google
+719	{a} ile {b} arasında degrade
+720	Mezuniyet
+721	Büyükebeveyn
+722	Büyükebeveynler
+723	Hibe bulunamadı
+724	Grup kartı
+725	Grup hediyesi · düzenleyen: {name}
+726	Grup hediyeleri ve bağış kampanyaları
+727	Grup hediyeleri bir hayır kurumuna değil, düzenleyene gider
+728	Grup hediyeleri, hediye kartları, mağaza, basılı kartlar
+729	Misafir
+730	Misafir bulunamadı
+731	Misafirler
+732	Misafirler mesaj, fotoğraf ve video bırakabilir
+733	Cadılar Bayramı
+734	Önce sahipliği başka birine devredin
+735	Hanuka
+736	Samimi
+737	Merhaba, {v}
+738	Merhaba {name}! Davetlisiniz: {title} — {when}. Ayrıntılar ve katılım yanıtı: {link}
+739	Holi
+740	Ana sayfa
+741	Yeni ev kutlaması
+742	Nasıl
+743	Nasıl çalışır
+744	Kaç kişi
+745	Siz dahil kaç kişi?
+746	Ne kadar istediğiniz
+747	Nasıl kullanılır
+748	Koca
+749	Mesajlar görünmeden önce onaylarım
+750	Ben yaparım
+751	Ben alırım
+752	Kaydettim
+753	{phone} bir Blessly hesabına aitse, ona 6 haneli bir kod gönderdik.
+754	{email} için bir hesap varsa sıfırlama bağlantısı yolda. 60 dakika geçerlidir — spam klasörünüzü de kontrol edin.
+755	Telefonunuzu kaybederseniz her kod bir kez giriş yapmanızı sağlar. Güvenli bir yerde saklayın — bir daha gösterilmeyecek.
+756	CSV içe aktar
+757	Müşterileri içe aktar
+758	Müşterileri bir tablodan içe aktarın; neyin teslim edilip okunduğunu görün
+759	İçe aktarma başarısız
+760	İçe aktarma tamamlandı
+761	İçe aktarma sonucu
+762	Seferde en fazla {v1} müşteri içe aktarın
+763	İçe aktarılıyor…
+764	içinde
+765	{daysAway} gün içinde
+766	{n} gün içinde
+767	{n} gün içinde
+768	Onuruna (isteğe bağlı)
+769	Sevgiyle anısına
+770	Meta Business Suite’te, WhatsApp uygulamasında kullanılmayan bir telefon numarasıyla WhatsApp Manager’ı kurun ve bir ödeme yöntemi ekleyin.
+771	Devam ediyor
+772	Stokta
+773	Meta uygulamanızda WhatsApp → API kurulumunu açın ve şunu kopyalayın:
+774	IN,GB
+775	Mürekkep {c}
+776	Mürekkep rengi
+777	İç
+778	Kartın iç kısmı
+779	Kartın iç kısmı: {label}
+780	Instagram web sitelerinden gelen bağlantıları kabul etmez. Telefonunuzda “Diğer uygulamalar”ı kullanın ya da mesajı kopyalayıp bir Instagram sohbetine yapıştırın.
+781	Geçersiz JSON
+782	Davetiye
+783	{name} kişisine davetiye gönderildi
+784	Davetiye {n} misafire e-postayla gönderildi
+785	Davetiyeler {n} misafire e-postayla gönderildi
+786	Davet et
+787	Şu rolle davet et
+788	Davet bulunamadı
+789	Akrabaları davet et
+790	Davetli
+791	Yalnızca davetli misafirler
+792	Yalnızca davetli misafirler — bunu değil, her misafirin kişisel bağlantısını paylaşın (Misafirler sekmesi).
+793	müşterinin adıyla ve doldurulur, ayrıca
+794	Ürün bulunamadı
+795	Ürünler
+796	{businessName} işletmesine katıl
+797	{family} çevresine katıl
+798	İşletme ekibine katıl
+799	Aile çevresine katıl
+800	Çevrim içi katıl
+801	Aile çevresine katılın
+802	Ekibe katılın
+803	Katılınıyor…
+804	Yalnızca misafir
+805	Her özel gün için en az 12 tasarımı görünür tutun
+806	Sürprizi koruyun
+807	Tür
+808	dil
+809	Dil
+810	Dil (uygulama ve dilekler)
+811	Ayrıl
+812	{familyName} çevresinden ayrılınsın mı? Paylaştığınız kişiler yeniden özel olur.
+813	Mesaj bırakın
+814	Aile çevresinden ayrıl
+815	Sol
+816	Sol ↔ sağ
+817	Misafirlerin fotoğraf eklemesine izin verin
+818	Çizgi kalınlığı
+819	Bağlantı
+820	QR kod için bağlantı (video, çalma listesi, fotoğraf albümü, hediye…)
+821	Bağlantı / ya da https:// ile başlamalı
+822	Bağlantı geçersiz
+823	Mağaza bağlantısı (isteğe bağlı)
+824	Bir dilek listesi ürününe bağlı — orada grup hediyesi olarak görünecek.
+825	LinkedIn
+826	canlı
+827	Giriş yap
+828	Çıkış yap
+829	Telefonunuzu mu kaybettiniz? Kurtarma kodu kullanın
+830	Aşk ve aile
+831	Şununla yapıldı:
+832	Blessly ile yapıldı · kendinizinkini ücretsiz oluşturun
+833	Blessly ile yapıldı · kendi dilek listenizi oluşturun
+834	Blessly ile yapıldı · kendi kutlamanızı ücretsiz planlayın
+835	Ana
+836	Makar Sankranti / Pongal
+837	{name} sahip yapılsın mı? Yönetici olacaksınız.
+838	Kapak yap
+839	Sahip yap
+840	Ayrılmadan önce başka birini sahip yapın
+841	Önce başka birini sahip yapın
+842	Yönet
+843	Bu kutlamayı yönet
+844	Harita
+845	Tümünü okundu olarak işaretle
+846	Teslim edildi olarak işaretle
+847	Tamamlandı olarak işaretle
+848	Kargolandı olarak işaretle
+849	belki
+850	Belki
+851	Ben ({name})
+852	Meena Shah, meena@example.com\nTom +44 7700 900123
+853	Üye
+854	Üye — etkinlik ve görev ekleyebilir
+855	Üye bulunamadı
+856	Üyeler: {v}
+857	Anılar
+858	Mesaj
+859	Mesaj (isteğe bağlı)
+860	Mesaj bulunamadı
+861	Katkıda bulunanlara mesaj (isteğe bağlı)
+862	Misafirlere mesaj (isteğe bağlı)
+863	Mesaj türü
+864	Mesajlar
+865	ayda mesaj (WhatsApp ve e-posta). WhatsApp’ın mesaj başına kendi ücretleri Meta tarafından WhatsApp hesabınıza yansıtılır.
+866	Mesajlar bu numaradan WhatsApp’ın resmi İşletme Platformu üzerinden gönderilir. Meta, teslim edilen her mesaj için WhatsApp hesabınızdan ücret alır (pazarlama tarifesi).
+867	Bu kutlama için mesajlar kapalı
+868	Mesajlar en fazla 2 dakika olabilir
+869	{honoree} için mesajlar
+870	{businessName} işletmesinden mesajlar
+871	cep
+872	Cep

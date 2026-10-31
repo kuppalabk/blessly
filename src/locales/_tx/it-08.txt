@@ -1,0 +1,216 @@
+1527	Scrivi DELETE per confermare
+1528	Scrivilo di nuovo
+1529	Scrivi le tue parole
+1530	Non assegnato
+1531	Non autorizzato
+1532	Annulla
+1533	Annulla tratto
+1534	Rimuovi {title} dai preferiti
+1535	Fuso orario sconosciuto
+1536	Fuso orario sconosciuto
+1537	Album fotografici illimitati, {photos} foto ciascuno
+1538	Modifiche non salvate
+1539	Annulla iscrizione
+1540	Iscrizione annullata
+1541	Iscrizione annullata da
+1542	Su ↕ giù
+1543	prossimi eventi
+1544	Aggiornamento pubblicato e inviato via email a {n} invitato
+1545	Aggiornamento pubblicato e inviato via email a {n} invitati
+1546	Aggiornamenti
+1547	Aggiornamenti da {v}
+1548	Passa al piano Famiglia
+1549	Carica una foto (JPG, PNG, WebP o GIF)
+1550	Carica un video MP4 o WebM
+1551	Carica design (3:4, almeno 900 px di larghezza)
+1552	Caricamento non riuscito
+1553	Carica foto
+1554	Caricamento in corso…
+1555	Caricamenti
+1556	Usa
+1557	Usa un codice paese di 2 lettere
+1558	Usa un altro numero
+1559	Usa un link che inizia con https://
+1560	Usa invece un design pronto
+1561	Usa un orario come 19:30
+1562	Usa un link web (https://…)
+1563	Usa approva o rifiuta
+1564	Usa almeno 8 caratteri
+1565	Usa entro
+1566	Usa codici paese come IN,GB
+1567	Usa lettere minuscole, numeri e trattini
+1568	Usa la mia app di autenticazione
+1569	Usa questo biglietto per un augurio
+1570	Usa questo messaggio
+1571	usato {uses}×
+1572	Utente non trovato
+1573	Utenti, attività, stato del sistema e registro delle attività
+1574	Usa la Business Platform ufficiale di WhatsApp. I clienti possono rispondere STOP in qualsiasi momento
+1575	Vaisakhi
+1576	San Valentino
+1577	Valore
+1578	Luogo
+1579	Verifica
+1580	Vesak
+1581	Video
+1582	Link della videochiamata (facoltativo)
+1583	Messaggio video · {time}
+1584	Messaggio video da {from}
+1585	I video possono arrivare fino a 40 MB
+1586	Visualizza come amico
+1587	Vedi pagina
+1588	Chi guarda non può aggiungere eventi
+1589	Chi guarda non può aggiungere attività
+1590	Chi guarda non può avviare il biglietto di gruppo
+1591	vip, regolare
+1592	Vocale
+1593	Messaggio vocale · {time}
+1594	Messaggio vocale da {from}
+1595	In attesa
+1596	in attesa di revisione
+1597	In attesa di revisione
+1598	vuole {n}
+1599	Modi per accedere
+1600	Non possiamo ancora spedire biglietti stampati in quel paese
+1601	Ci serve il tuo indirizzo email per creare un account. Consenti di condividerlo, oppure registrati con l’email.
+1602	Abbiamo inviato un codice via SMS a {phone}.
+1603	Sito web (facoltativo)
+1604	Matrimonio
+1605	Bentornato
+1606	Bravo
+1607	Cosa festeggiate?
+1608	Cos’è?
+1609	Cosa va fatto?
+1610	Cosa ti piacerebbe?
+1611	Ciò che è stato riservato ti è nascosto.
+1612	Cosa succede
+1613	whatsapp
+1614	WhatsApp
+1615	WhatsApp (ti ricordiamo di inviarlo)
+1616	WhatsApp / cellulare
+1617	WhatsApp +{recipient}
+1618	WhatsApp Business
+1619	ID account WhatsApp Business
+1620	L’ID account WhatsApp Business è un numero lungo
+1621	WhatsApp non ha accettato questi dati: {message}
+1622	WhatsApp non collegato
+1623	Solo WhatsApp
+1624	WhatsApp permette alle attività di iniziare una conversazione solo con un modello approvato da Meta. Creane uno in WhatsApp Manager (ad esempio “Buon compleanno
+1625	Modello WhatsApp
+1626	Modello WhatsApp (approvato da Meta)
+1627	WhatsApp, oppure email se non c’è WhatsApp
+1628	Quando
+1629	Quando (ora del tuo dispositivo)
+1630	Quando e dove
+1631	Dove (facoltativo)
+1632	Bordo bianco
+1633	Chi
+1634	Chi può vederlo
+1635	Per chi è?
+1636	Per chi è?
+1637	Per chi è questo augurio?
+1638	Per chi è
+1639	Per chi è (facoltativo)
+1640	Chi fa cosa
+1641	Moglie
+1642	Augurio
+1643	Augurio preparato per te
+1644	Fai gli auguri a ogni cliente, in automatico
+1645	Lingua dell’augurio
+1646	Augurio non trovato
+1647	Pagina degli auguri non trovata
+1648	Auguri dagli amici
+1649	Gli auguri partono in automatico il giorno giusto, all’orario {timezone}, ai clienti che hanno accettato i messaggi. Ogni cliente riceve un messaggio per occasione.
+1650	auguri in {language}
+1651	Lista dei desideri
+1652	Lista dei desideri non trovata
+1653	Liste dei desideri
+1654	Blessly
+1655	Blessly — auguri e promemoria per ogni occasione
+1656	Blessly per le attività
+1657	Blessly ha sospeso l’invio per la tua attività: {reason}. Non si invia nulla finché il problema non è risolto — contatta il supporto, per favore.
+1658	Blessly è gratuito per promemoria e auguri personali. I piani Famiglia e Attività aggiungono cerchie familiari più grandi, album e auguri automatici ai clienti su WhatsApp.
+1659	Blessly ti ricorda una settimana prima di ogni compleanno, anniversario e festività, scrive un augurio sincero in {length} lingue e apre WhatsApp o Telegram con l’augurio pronto da inviare.
+1660	Checkout di prova Blessly
+1661	con i permessi whatsapp_business_messaging e whatsapp_business_management, e genera un token permanente.
+1662	con il nome della tua attività.
+1663	Lavoro e traguardi
+1664	Anniversario di lavoro
+1665	Funziona per gli account con un numero di cellulare aggiunto in Impostazioni → Accesso e sicurezza.
+1666	Ci piacerebbe molto
+1667	Scrivi un messaggio o aggiungi una foto
+1668	Scrivi un messaggio breve
+1669	Scrivi un messaggio di ringraziamento
+1670	Scrivi un augurio
+1671	Scrivi un augurio per
+1672	Scrivi il mio augurio
+1673	Prima scrivi o genera l’augurio
+1674	Scrivi il messaggio
+1675	Scrivi l’aggiornamento
+1676	Scrittura in corso…
+1677	anno
+1678	Annuale · risparmia il 20%
+1679	Sì, elimina
+1680	Sì, ci sarò
+1681	Tu
+1682	Hai già uno spazio di lavoro aziendale
+1683	Puoi candidarti di nuovo.
+1684	Puoi far parte di al massimo {MAX_FAMILIES_PER_USER} cerchie familiari
+1685	Puoi avere fino a 200 celebrazioni
+1686	Puoi avere fino a 50 liste dei desideri
+1687	Puoi conservare fino a {MAX_DESIGNS} biglietti — eliminane qualcuno che non ti serve
+1688	Puoi modificare solo le foto che hai aggiunto
+1689	Puoi rimuovere solo persone con un ruolo inferiore
+1690	Puoi rimuovere solo le foto che hai aggiunto
+1691	Puoi condividere album solo con una cerchia familiare in cui puoi aggiungere elementi
+1692	Puoi condividere solo con una cerchia familiare in cui puoi aggiungere persone
+1693	Puoi aggiornare solo le attività assegnate a te
+1694	Puoi solo visualizzare questo album
+1695	Puoi programmare fino a un anno prima
+1696	Puoi inviare ringraziamenti una volta iniziata la celebrazione
+1697	Non puoi acquistare un tuo prodotto
+1698	Non ce la faccio
+1699	Potresti venire
+1700	Sei già il proprietario di questa attività.
+1701	Potrai gestire clienti, automazioni dei compleanni e campagne.
+1702	Verrai disconnesso dagli altri dispositivi.
+1703	entrerai come: {role}
+1704	Sei già dentro — apri la cerchia
+1705	Sei già nel team di un’altra attività. Prima esci da lì.
+1706	Sei già nel piano {name}
+1707	Hai già annullato l’iscrizione.
+1708	Vieni
+1709	Ricevi questo messaggio
+1710	Sei offline
+1711	Sei nel piano
+1712	Hai effettuato l’accesso su {n} dispositivo (incluso questo).
+1713	Hai effettuato l’accesso su {n} dispositivi (incluso questo).
+1714	Sei tu l’organizzatore.
+1715	Sei l’unico qui, quindi uscendo eliminerai {familyName}.
+1716	Ti sei già candidato
+1717	Sei stato invitato in una cerchia familiare. Crea un account gratuito per unirti.
+1718	Sei stato invitato in una cerchia familiare. Accedi per unirti.
+1719	Hai caricato il massimo di foto di biglietti che possiamo conservare (1.000)
+1720	Il tuo account {kind} non è ancora approvato
+1721	La tua candidatura ({kind}) non è stata approvata.
+1722	Le tue campagne
+1723	Il tuo biglietto: {title}
+1724	I tuoi biglietti
+1725	La tua cerchia è piena ({n} persone).
+1726	Le tue cerchie
+1727	La tua password attuale non è corretta
+1728	I tuoi dati
+1729	La tua prova gratuita è terminata, quindi non si invia nulla.
+1730	La tua gift card
+1731	La tua lista è vuota.
+1732	Il tuo messaggio
+1733	Il tuo nome
+1734	Le tue persone e i tuoi promemoria restano privati
+1735	La tua password
+1736	Le tue persone
+1737	La tua foto
+1738	Il tuo piano
+1739	Il tuo piano include fino a {v1} clienti
+1740	Il tuo piano include {seats} accesso{v2} al team (incluso il tuo).
+1741	Il tuo augurio (modificabile liberamente)
+1742	Zoom

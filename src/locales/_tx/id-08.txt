@@ -1,0 +1,216 @@
+1527	Ketik DELETE untuk mengonfirmasi
+1528	Ketik lagi
+1529	Ketik kata-kata Anda
+1530	Belum ditugaskan
+1531	Tidak diizinkan
+1532	Urungkan
+1533	Urungkan goresan
+1534	Hapus favorit {title}
+1535	Zona waktu tidak dikenal
+1536	Zona waktu tidak dikenal
+1537	Album foto tak terbatas, {photos} foto per album
+1538	Perubahan belum disimpan
+1539	Berhenti berlangganan
+1540	Berhenti berlangganan
+1541	Berhenti berlangganan dari
+1542	Naik ↕ turun
+1543	acara mendatang
+1544	Pembaruan dikirim dan lewat email ke {n} tamu
+1545	Pembaruan dikirim dan lewat email ke {n} tamu
+1546	Pembaruan
+1547	Pembaruan dari {v}
+1548	Tingkatkan ke Keluarga
+1549	Unggah foto (JPG, PNG, WebP, atau GIF)
+1550	Unggah video MP4 atau WebM
+1551	Unggah desain (3:4, lebar minimal 900 px)
+1552	Unggahan gagal
+1553	Unggah foto
+1554	Mengunggah…
+1555	Unggahan
+1556	Gunakan
+1557	Gunakan kode negara 2 huruf
+1558	Gunakan nomor lain
+1559	Gunakan tautan yang diawali https://
+1560	Gunakan desain siap pakai saja
+1561	Gunakan waktu seperti 19:30
+1562	Gunakan tautan web (https://…)
+1563	Pakai setujui atau tolak
+1564	Gunakan minimal 8 karakter
+1565	Gunakan sebelum
+1566	Gunakan kode negara seperti IN,GB
+1567	Gunakan huruf kecil, angka, dan tanda hubung
+1568	Gunakan aplikasi autentikator saya
+1569	Gunakan kartu ini untuk ucapan
+1570	Gunakan pesan ini
+1571	dipakai {uses}×
+1572	Pengguna tidak ditemukan
+1573	Pengguna, usaha, kesehatan sistem, dan log audit
+1574	Menggunakan Business Platform resmi WhatsApp. Pelanggan dapat membalas STOP kapan saja
+1575	Vaisakhi
+1576	Hari Valentine
+1577	Nilai
+1578	Lokasi
+1579	Verifikasi
+1580	Vesak
+1581	Video
+1582	Tautan panggilan video (opsional)
+1583	Pesan video · {time}
+1584	Pesan video dari {from}
+1585	Video dapat berukuran hingga 40 MB
+1586	Lihat sebagai teman
+1587	Lihat halaman
+1588	Penonton tidak dapat menambahkan acara
+1589	Penonton tidak dapat menambahkan tugas
+1590	Penonton tidak dapat memulai kartu kelompok
+1591	vip, reguler
+1592	Suara
+1593	Pesan suara · {time}
+1594	Pesan suara dari {from}
+1595	Menunggu
+1596	menunggu tinjauan
+1597	Menunggu tinjauan
+1598	ingin {n}
+1599	Cara masuk
+1600	Kami belum bisa mengirim kartu cetak ke negara itu
+1601	Kami memerlukan alamat email Anda untuk membuat akun. Silakan izinkan berbagi, atau daftar dengan email.
+1602	Kami mengirim kode lewat SMS ke {phone}.
+1603	Situs web (opsional)
+1604	Pernikahan
+1605	Selamat datang kembali
+1606	Kerja bagus
+1607	Apa yang sedang Anda rayakan?
+1608	Apa itu?
+1609	Apa yang perlu dikerjakan?
+1610	Apa yang Anda inginkan?
+1611	Hadiah yang sudah dipesan disembunyikan dari Anda.
+1612	Yang sedang terjadi
+1613	whatsapp
+1614	WhatsApp
+1615	WhatsApp (kami mengingatkan Anda untuk mengirim)
+1616	WhatsApp / ponsel
+1617	WhatsApp +{recipient}
+1618	WhatsApp Business
+1619	ID Akun WhatsApp Business
+1620	ID Akun WhatsApp Business adalah angka panjang
+1621	WhatsApp tidak menerima rincian ini: {message}
+1622	WhatsApp belum terhubung
+1623	Hanya WhatsApp
+1624	WhatsApp hanya memungkinkan usaha memulai percakapan dengan templat yang sudah disetujui Meta. Buat satu di WhatsApp Manager (misalnya “Selamat ulang tahun
+1625	Templat WhatsApp
+1626	Templat WhatsApp (disetujui oleh Meta)
+1627	WhatsApp, atau email jika tidak ada WhatsApp
+1628	Kapan
+1629	Kapan (waktu perangkat Anda)
+1630	Kapan dan di mana
+1631	Di mana (opsional)
+1632	Bingkai putih
+1633	Siapa
+1634	Siapa yang bisa melihatnya
+1635	Untuk siapa?
+1636	Ini untuk siapa?
+1637	Ucapan ini untuk siapa?
+1638	Untuk siapa
+1639	Untuk siapa (opsional)
+1640	Siapa mengerjakan apa
+1641	Istri
+1642	Ucapan
+1643	Ucapan sudah disusun untuk Anda
+1644	Kirim ucapan ke setiap pelanggan, otomatis
+1645	Bahasa ucapan
+1646	Ucapan tidak ditemukan
+1647	Halaman ucapan tidak ditemukan
+1648	Ucapan dari teman-teman
+1649	Ucapan dikirim otomatis pada harinya, sesuai waktu {timezone}, kepada pelanggan yang setuju menerima pesan. Setiap pelanggan menerima satu pesan per acara.
+1650	ucapan dalam {language}
+1651	Daftar keinginan
+1652	Daftar keinginan tidak ditemukan
+1653	Daftar keinginan
+1654	Blessly
+1655	Blessly — ucapan dan pengingat untuk setiap acara
+1656	Blessly untuk bisnis
+1657	Blessly telah menjeda pengiriman untuk usaha Anda: {reason}. Tidak ada yang dikirim sampai masalah ini selesai — silakan hubungi dukungan.
+1658	Blessly gratis untuk pengingat dan ucapan pribadi. Paket Keluarga dan Bisnis menambahkan lingkaran keluarga yang lebih besar, album, dan ucapan otomatis untuk pelanggan lewat WhatsApp.
+1659	Blessly mengingatkan Anda seminggu sebelum setiap ulang tahun, hari jadi, dan festival, menulis ucapan yang tulus dalam {length} bahasa, dan membuka WhatsApp atau Telegram dengan ucapan siap dikirim.
+1660	Checkout uji coba Blessly
+1661	dengan izin whatsapp_business_messaging dan whatsapp_business_management, lalu buat token permanen.
+1662	dengan nama usaha Anda.
+1663	Pekerjaan & pencapaian
+1664	Hari jadi kerja
+1665	Berfungsi untuk akun yang nomor ponselnya ditambahkan di Pengaturan → Masuk dan keamanan.
+1666	Ingin sekali
+1667	Tulis pesan atau tambahkan foto
+1668	Tulis pesan singkat
+1669	Tulis pesan ucapan terima kasih
+1670	Tulis ucapan
+1671	Tulis ucapan untuk
+1672	Tulis ucapan saya
+1673	Tulis atau buat ucapan dulu
+1674	Tulis pesannya
+1675	Tulis pembaruannya
+1676	Menulis…
+1677	tahun
+1678	Tahunan · hemat 20%
+1679	Ya, hapus
+1680	Ya, saya akan datang
+1681	Anda
+1682	Anda sudah punya ruang kerja usaha
+1683	Anda bisa mengajukan lagi.
+1684	Anda bisa berada di hingga {MAX_FAMILIES_PER_USER} lingkaran keluarga
+1685	Anda bisa memiliki hingga 200 perayaan
+1686	Anda bisa memiliki hingga 50 daftar keinginan
+1687	Anda bisa menyimpan hingga {MAX_DESIGNS} kartu — hapus yang tidak Anda perlukan
+1688	Anda hanya bisa mengubah foto yang Anda tambahkan
+1689	Anda hanya bisa mengeluarkan orang dengan peran lebih rendah
+1690	Anda hanya bisa menghapus foto yang Anda tambahkan
+1691	Anda hanya bisa membagikan album ke lingkaran keluarga tempat Anda bisa menambahkan item
+1692	Anda hanya bisa berbagi dengan lingkaran keluarga tempat Anda bisa menambahkan orang
+1693	Anda hanya bisa memperbarui tugas yang diberikan kepada Anda
+1694	Anda hanya bisa melihat album ini
+1695	Anda bisa menjadwalkan hingga setahun ke depan
+1696	Anda bisa mengirim ucapan terima kasih setelah perayaan dimulai
+1697	Anda tidak bisa membeli produk Anda sendiri
+1698	Saya tidak bisa datang
+1699	Mungkin saya datang
+1700	Anda sudah memiliki usaha ini.
+1701	Anda bisa mengelola pelanggan, otomatisasi ulang tahun, dan kampanye.
+1702	Anda akan keluar di perangkat lain.
+1703	Anda akan bergabung sebagai: {role}
+1704	Anda sudah bergabung — buka lingkaran
+1705	Anda sudah ada di tim usaha lain. Keluar dulu.
+1706	Anda sudah di paket {name}
+1707	Anda sudah berhenti berlangganan.
+1708	Anda akan datang
+1709	Anda menerima ini
+1710	Anda sedang luring
+1711	Anda ada di
+1712	Anda masuk di {n} perangkat (termasuk perangkat ini).
+1713	Anda masuk di {n} perangkat (termasuk perangkat ini).
+1714	Anda adalah penyelenggara.
+1715	Anda satu-satunya di sini, jadi keluar akan menghapus {familyName}.
+1716	Anda sudah mengajukan
+1717	Anda diundang ke lingkaran keluarga. Buat akun gratis untuk bergabung.
+1718	Anda diundang ke lingkaran keluarga. Masuk untuk bergabung.
+1719	Anda sudah mengunggah jumlah foto kartu terbanyak yang bisa kami simpan (1.000)
+1720	Akun {kind} Anda belum disetujui
+1721	Pengajuan Anda ({kind}) tidak disetujui.
+1722	Kampanye Anda
+1723	Kartu Anda: {title}
+1724	Kartu Anda
+1725	Lingkaran Anda penuh ({n} orang).
+1726	Lingkaran Anda
+1727	Kata sandi saat ini tidak benar
+1728	Data Anda
+1729	Uji coba gratis Anda sudah berakhir, sehingga tidak ada yang dikirim.
+1730	Kartu hadiah Anda
+1731	Daftar Anda kosong.
+1732	Pesan Anda
+1733	Nama Anda
+1734	Orang dan pengingat pribadi Anda tetap privat
+1735	Kata sandi Anda
+1736	Orang-orang Anda
+1737	Foto Anda
+1738	Paket Anda
+1739	Paket Anda menampung hingga {v1} pelanggan
+1740	Paket Anda mencakup {seats} login tim{v2} (termasuk Anda).
+1741	Ucapan Anda (edit sesuka hati)
+1742	Perbesar

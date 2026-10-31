@@ -1,0 +1,218 @@
+873	Mobile (para sa WhatsApp at SMS)
+874	Mobile number
+875	buwan
+876	Buwan
+877	Buwan-buwan
+878	Higit pa
+879	Higit pang app (Instagram…)
+880	Higit pang disenyo
+881	Pinakasikat
+882	Ina
+883	Araw ng mga Ina
+884	Ilipat pababa ang {title}
+885	Ilipat pataas ang {title}
+886	Dapat meron
+887	Mga card ko
+888	Mga order ko
+889	pangalan
+890	Pangalan
+891	Pangalan ng okasyon
+892	Pangalan ng selebrasyon
+893	Pangalanan ang kampanya
+894	Pangalanan ang disenyo mo, pagkatapos i-upload ito.
+895	Navratri
+896	Kailangang paghandaan
+897	Huwag nang palampasin ang kaarawan ng pamilya
+898	Huwag palampasin ang sandali. Huwag kalimutan ang taong mahalaga.
+899	Huwag palampasin ang sandali. Mga paalala, pagbating isinulat ng AI sa 32 wika at magagandang card para sa bawat okasyon.
+900	Bago
+901	Bagong album
+902	Bagong sanggol
+903	Bagong kampanya
+904	Bago ka rito?
+905	Bagong trabaho
+906	Bagong password
+907	Mga bagong recovery code
+908	Bagong task
+909	Bagong wishlist
+910	Bagong Taon
+911	Mas bago
+912	Susunod
+913	Susunod na 7 araw
+914	Susunod na disenyo
+915	Susunod na buwan
+916	Susunod na okasyon
+917	Maganda kung meron
+918	Wala pang alerto. Lalabas dito ang mga paalala bago ang bawat okasyon.
+919	walang sagot
+920	Wala pang sagot
+921	Wala pang kampanya. Mag-iskedyul ng pagbati sa pista o alok para sa grupo ng mga customer.
+922	Wala pang card. Simulan ang isa sa itaas, o pumili ng disenyo sa Create at pindutin ang “Customise this design”.
+923	Walang pahintulot
+924	Walang kaarawan o anibersaryo ng customer ngayong linggo.
+925	Walang tumutugmang customer.
+926	Wala pang customer. Idagdag sila isa-isa o mag-import ng spreadsheet.
+927	Wala pang petsa
+928	Wala pang petsa.
+929	Walang device na nakatanggap nito. Subukang i-off at i-on muli ang mga notification.
+930	Wala pang donasyon. Puwede nang piliin ng mga fundraiser si {name}.
+931	Wala pang event. Magdagdag ng hapunan sa kaarawan, puja o pagtitipon.
+932	Wala pang group card.
+933	Wala pang bisita. Idagdag sila sa itaas
+934	Walang mensahe
+935	Wala pang mensahe. Puwedeng mag-iwan ng mensahe, larawan at video ang mga bisita sa pahina.
+936	Wala pang tao rito. Magdagdag ng pamilya, kaibigan at katrabaho kasama ang kanilang kaarawan at anibersaryo.
+937	Walang tumugma sa “{q}”.
+938	Wala pang order.
+939	Walang ibang card.
+940	Wala pang larawan
+941	Wala pang larawan.
+942	Walang plan — naka-pause ang mga mensahe
+943	Wala pang produkto.
+944	Walang tunay na pera na gumagalaw — gumagamit ang mga bayad ng pekeng checkout.
+945	Walang sagot
+946	Wala pang template. Gumawa sa WhatsApp Manager, pagkatapos i-refresh.
+947	Wala pang beripikadong charity
+948	Walang wishlist
+949	Wala pang nagbabahagi — magdagdag ng mga lolo at lola, pinsan at tita para walang makalimot.
+950	Wala
+951	Wala pa — ibahagi ang link.
+952	hindi naaprubahan
+953	Hindi naaprubahan
+954	Hindi konektado
+955	Hindi nakita
+956	Hindi nakalista kahit saan; ibahagi ang link sa sinumang gusto mo.
+957	Wala sa team
+958	Hindi pa nire-reserve
+959	Hindi na-save
+960	Hindi naipadala
+961	Hindi pa nakatakda — mag-sign in gamit ang mga opsyon sa ibaba
+962	Tala para kay {name} (opsyonal)
+963	Mga tala
+964	Mga tala — laki, kulay, modelo (opsyonal)
+965	Mga tala (opsyonal)
+966	Mga tala para sa personal na pagbati (opsyonal)
+967	Wala pang laman ang listahang ito.
+968	Wala pang plano.
+969	Wala pang nire-reserve
+970	Wala pang naipapadala kay {v}.
+971	Wala pang naipadala.
+972	Wala ngayong buwan.
+973	Naka-block ang mga notification para sa Blessly. Payagan ang mga ito sa settings ng browser o telepono mo, pagkatapos bumalik dito.
+974	Naalis ang numero.
+975	Na-verify ang numero.
+976	Okasyon
+977	Uri ng okasyon
+978	Mga okasyon
+979	Mga okasyon at paalala
+980	ng {v} sa plan mo
+981	Naka-off
+982	Offline
+983	Mas luma
+984	Naka-on
+985	Naka-on sa device na ito at sa {n} pa.
+986	Naka-on sa device na ito at sa {n} pa.
+987	Naka-on sa device na ito.
+988	Sa iPhone at iPad, idagdag muna ang Blessly sa Home Screen mo (Share → Add to Home Screen), pagkatapos buksan ito mula roon para i-on ang mga notification.
+989	Papunta na
+990	Mismong araw
+991	Isang pindot lang at bubuksan ang WhatsApp o Telegram na handa na ang pagbati. Puwedeng kusang ipadala ng email ang sarili nito sa mismong araw.
+992	Mga customer lang na may tag
+993	Mga customer lang na may tag (opsyonal)
+994	Ako lang
+995	Mga bayad lang na nabayaran ang puwedeng i-refund
+996	Mga nakaiskedyul na kampanya lang ang puwedeng kanselahin
+997	Ang may-ari ng negosyo lang ang puwedeng gumawa nito
+998	Ang may-ari ng negosyo lang ang puwedeng mag-alis ng tao
+999	Ang owner lang ang puwedeng magpalit ng role
+1000	Ang owner lang ang puwedeng magpalit ng koneksyon sa WhatsApp.
+1001	Ang owner lang ang puwedeng magburá ng circle
+1002	Ang owner lang ang puwedeng mag-imbita ng admin
+1003	Ang owner o admin lang ang puwedeng kanselahin ang mga imbitasyon
+1004	Ang owner o admin lang ang puwedeng mag-imbita ng tao
+1005	Ang owner o admin lang ang puwedeng mag-alis ng tao
+1006	Ang owner o admin lang ang puwedeng palitan ang pangalan ng circle
+1007	Ang nagdagdag ng event na ito, ang owner o admin lang ang puwedeng magpalit nito
+1008	Ang nagdagdag ng event na ito, ang owner o admin lang ang puwedeng magburá nito
+1009	Ang nagdagdag ng task na ito, ang owner o admin lang ang puwedeng magburá nito
+1010	Ang gumawa ng album lang ang puwedeng magpalit nito
+1011	Ang gumawa ng album lang ang puwedeng magburá nito
+1012	Ikaw lang ang makakakita sa taong ito at sa mga paalala niya.
+1013	Buksan
+1014	Buksan ito mula sa link sa imbitasyon mo. Kung naimbitahan ka at nawala ito, hilingin sa host na ipadala muli.
+1015	bukas na task
+1016	Buksan ang card
+1017	Buksan ang card at pindutin ang
+1018	Buksan muna ang card at pindutin ang “Use this card” o “Print-ready PDF”, para mayroon kaming tapos na larawan
+1019	Buksan ang authenticator app mo at ilagay ang 6-digit na code para sa Blessly.
+1020	Binubuksan ang checkout…
+1021	Binubuksan ang editor…
+1022	Binubuksan ang bayad…
+1023	Bubuksan ang sarili mong app na handa na ang mensahe. Ikaw ang magpipindot ng send, kaya galing sa iyo ito.
+1024	o
+1025	O mag-iskedyul
+1026	o gamit ang email mo
+1027	Mga order na ipapadala
+1028	Iba pa
+1029	Iba pang card
+1030	Ang pamilya namin
+1031	Pangkalahatang-tanaw
+1032	Owner
+1033	Pahina
+1034	Pahina {page} ng {pages}
+1035	Hindi nakita ang pahina
+1036	Bayad na
+1037	Partner
+1038	Mga partner
+1039	Mga pahina ng party, imbitasyon at RSVP
+1040	Password
+1041	Napalitan ang password.
+1042	Naitakda ang password.
+1043	Nakaraan
+1044	Nakaraang event
+1045	I-paste ang permanenteng access token (system user)
+1046	Magbayad (test)
+1047	Magbayad ng {amount} (test)
+1048	Magbayad gamit ang card sa pamamagitan ng Stripe.
+1049	I-payout ang {v}
+1050	Magbayad gamit ang UPI AutoPay, card o netbanking sa pamamagitan ng Razorpay.
+1051	Nakansela ang bayad. Wala kang nasingil.
+1052	Pumalya ang bayad
+1053	Hindi nakita ang bayad
+1054	Hindi nakita ang payout
+1055	Humiling ng payout na {amount} (test mode).
+1056	Humiling ng payout (test mode).
+1057	Mga payout:
+1058	Mga tao
+1059	Ang mga tao ang pumipili ng sarili nilang settings ng paalala
+1060	Mga tao sa circle na ito
+1061	Mga tao kada imbitasyon
+1062	Puwedeng mag-upload ang may hawak ng link (hindi kailangan ng account). Puwede mong alisin ang anumang larawan.
+1063	Permanenteng access token
+1064	Tao
+1065	Hindi nakita ang tao
+1066	Personal na detalye (opsyonal)
+1067	Mga alagang hayop
+1068	Telepono para sa courier (opsyonal)
+1069	Mga notification sa telepono
+1070	Hindi pa naka-set up ang mga notification sa telepono sa server na ito. Dumarating ang mga alerto sa app at sa email.
+1071	Phone number ID
+1072	Ang phone number ID ay ang mahabang numero mula sa WhatsApp Manager → API setup
+1073	Larawan
+1074	Mga photo album
+1075	Larawan ni {uploader}
+1076	Larawan para sa {title}
+1077	Larawan mula kay {name}
+1078	Hindi nakita ang larawan
+1079	Larawan o video (opsyonal)
+1080	Larawang idaragdag
+1081	Mga larawan
+1082	Mga larawan ({n})
+1083	Hanggang 15 MB ang laki ng larawan
+1084	Pumili ng petsa
+1085	Pumili ng petsa sa hinaharap
+1086	Pumili ng oras sa hinaharap
+1087	Pumili ng wastong timezone
+1088	Pumili ng naaprubahang WhatsApp template
+1089	Pumili ng naaprubahang WhatsApp template, o magpadala sa email
+1090	Pumili ng isa sa mga WhatsApp template mo

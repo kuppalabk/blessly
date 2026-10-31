@@ -1,0 +1,218 @@
+219	Ongeza namba ya usajili ya shirika lako la hisani (mf. 12A/80G nchini India, namba ya Charity Commission nchini Uingereza, EIN nchini Marekani)
+220	Ongeza mtu wako wa kwanza
+221	Ongeza jina lako
+222	Ongeza picha zako
+223	Ongeza salamu zako kwa {recipientName}
+224	Imeongezwa
+225	Mgeni {n} ameongezwa
+226	Wageni {n} wameongezwa
+227	Inaongeza…
+228	Anwani
+229	Mstari wa 1 wa anwani
+230	Mstari wa 2 wa anwani (si lazima)
+231	Msimamizi
+232	Msimamizi — anaweza pia kualika na kuondoa
+233	Wasimamizi lazima waweke uthibitishaji wa hatua mbili ukiwa umewashwa
+234	Wasimamizi lazima wawashe uthibitishaji wa hatua mbili kabla ya kutumia eneo la usimamizi.
+235	Baada ya nenosiri lako (au Google, Apple au msimbo wa SMS), utaweka pia msimbo kutoka programu ya uthibitishaji kama Google Authenticator, Microsoft Authenticator au 1Password.
+236	AI haikupatikana, kwa hivyo tumetumia kiolezo kilichojengwa ndani.
+237	Salamu za AI · vikumbusho mahiri · familia
+238	AI huandika salamu kwa mtindo na lugha yako. Chagua mojawapo ya miundo 250 ya kadi kwa kila tukio.
+239	Albamu
+240	Jina la albamu
+241	Albamu haikupatikana
+242	Mipangilio ya albamu
+243	Albamu
+244	Arifa
+245	Zote
+246	Albamu zote
+247	Mabadiliko yote yamehifadhiwa
+248	wateja wote
+249	Vikundi vyote vya familia
+250	Ruhusu kamera na maikrofoni ili kurekodi video.
+251	Ruhusu maikrofoni ili kurekodi ujumbe wa sauti.
+252	Tayari imeamuliwa
+253	Tayari una akaunti?
+254	Tayari imechukuliwa
+255	Kiasi
+256	Kiasi (
+257	Akaunti yenye barua pepe hii tayari ipo
+258	na
+259	maadhimisho
+260	Maadhimisho
+261	Salamu za maadhimisho
+262	Jibu
+263	Yeyote
+264	Yeyote anaweza kuifungua na kuthibitisha kuhudhuria — nzuri kwa matukio ya jamii.
+265	Yeyote mwenye kiungo
+266	Yeyote mwenye kiungo hiki anaweza kuona albamu.
+267	Apple
+268	Tumia
+269	Omba kama {kind}
+270	Idhinisha
+271	Imeidhinishwa
+272	Unakuja?
+273	Uliza kuhusu mahitaji ya ufikivu
+274	Uliza kuhusu mahitaji ya chakula
+275	Waulize wageni kama wanaweza kuja (RSVP)
+276	Mwombe mmiliki wa biashara mpya.
+277	Omba msaada wa Blessly kughairi na kurejesha pesa za oda
+278	Mpe
+279	Salamu za siku ya kuzaliwa kiotomatiki kwa wateja wako kupitia WhatsApp na barua pepe
+280	Mfumo wa kiotomatiki haukupatikana
+281	Mifumo ya kiotomatiki
+282	Sherehe ya mtoto ajaye
+283	Rudi
+284	Rudi kwa {name}
+285	Rudi kwenye sherehe
+286	Rudi mwanzo
+287	Rudi kwenye kuingia
+288	Rudi kwenye kadi zangu
+289	Rudi kwa watu
+290	Rudi kwenye mipangilio
+291	Rudi kwenye kadi
+292	Rudi kwenye orodha za matamanio
+293	Mandharinyuma
+294	Picha ya mandharinyuma
+295	Sahihi si sahihi
+296	Salio:
+297	Kuwa wa kwanza kuongeza ujumbe kwa {recipientName}.
+298	Kuwa wa kwanza kuacha ujumbe
+299	Rafiki mkubwa
+300	Kipindi cha malipo
+301	siku ya kuzaliwa
+302	Siku ya kuzaliwa
+303	Salamu za siku ya kuzaliwa na maadhimisho hujituma siku hiyo — kupitia WhatsApp kutoka namba yako ya biashara, au barua pepe
+304	Salamu za siku ya kuzaliwa
+305	Siku za kuzaliwa na maadhimisho zilizoshirikiwa katika {familyName}
+306	Siku za kuzaliwa, sikukuu na matukio ya familia
+307	imenunuliwa
+308	Nimeinunua
+309	Leta mbele
+310	Kaka
+311	Vinjari kadi 4,000
+312	Kiolezo kilichojengwa ndani. Mitindo tofauti katika lugha hii inahitaji mwandishi wa AI awashwe.
+313	Biashara
+314	Maelezo ya biashara
+315	Jina la biashara
+316	Jina la biashara (huonekana kwenye jumbe)
+317	Mpango wa Biashara
+318	Usajili wa biashara / GST (si lazima)
+319	Mipangilio ya biashara
+320	Biashara: salamu {n} kwa wateja kila mwezi kupitia WhatsApp na barua pepe
+321	Nunua
+322	Nunua kadi ya zawadi ya {amount}
+323	Nunua kadi ya zawadi ya {name}
+324	na
+325	Kwa kufungua akaunti unakubali
+326	Na wabunifu huru
+327	Kalenda
+328	Kampeni
+329	Jina la kampeni
+330	Kampeni haikupatikana
+331	Kampeni
+332	anaweza kuhariri.
+333	Anaweza kutuma ujumbe
+334	Anaweza kuona
+335	Anaweza kuona — huona na kuthibitisha kuhudhuria
+336	Unaweza kuja?
+337	hawawezi kuja
+338	Hawawezi kuja
+339	Siwezi kwenda
+340	Sitaweza kufika
+341	Huwezi kuchanganua? Weka ufunguo huu:
+342	Ghairi
+343	Ghairi na uwaarifu wageni
+344	Ughairi na uwaarifu wageni wako?
+345	Ghairi wakati wowote; mpango wako unafanya kazi hadi mwisho wa kipindi ulicholipia. Kodi zinaweza kutozwa.
+346	Ghairi mpango
+347	Ghairi sherehe
+348	Ughairi mpango wako? Utaendelea kufanya kazi hadi mwisho wa kipindi ulicholipia.
+349	Imeghairiwa
+350	Imeghairiwa — inafanya kazi hadi
+351	Maelezo
+352	Msimbo wa kadi
+353	Muundo wa kadi
+354	Mbunifu wa kadi
+355	Kihariri cha kadi
+356	Maktaba ya kadi
+357	Jina la kadi
+358	Kadi haikupatikana
+359	Sherehekea
+360	Sherehe
+361	Sherehe haikupatikana
+362	Sherehe
+363	Katikati
+364	Badilisha jibu langu
+365	Badilisha namba
+366	Badilisha nenosiri
+367	Badilisha maneno, fonti na rangi; ongeza picha, vibandiko, sahihi au msimbo wa QR.
+368	Hisani
+369	Jina la shirika la hisani
+370	Kagua anwani ya barua pepe
+371	Kagua namba ya simu
+372	Hakikisha umenakili kiungo kizima, au omba kipya.
+373	Angalia barua pepe yako
+374	Inakagua kifaa hiki…
+375	Inakagua na WhatsApp…
+376	Inakagua…
+377	Malipo (hali ya majaribio)
+378	Malipo hayakupatikana
+379	Changia
+380	Chagua {name}
+381	Chagua kadi na kiasi, nasi tutaituma kwa barua pepe — sasa, au siku hiyo.
+382	Chagua gumzo
+383	Chagua tarehe ya kufunga ya baadaye
+384	Chagua mwasiliani
+385	Chagua tarehe
+386	Chagua tarehe ambayo haijapita
+387	Chagua tarehe ndani ya mwaka mmoja
+388	Chagua kadi ya zawadi
+389	Chagua nenosiri jipya
+390	Chagua picha
+391	Chagua kiolezo
+392	Chagua saa
+393	Chagua saa sahihi
+394	Chagua shirika la hisani lililothibitishwa
+395	Chagua anwani
+396	Chagua jibu
+397	Chagua picha
+398	Chagua angalau picha moja
+399	Chagua mbele au ndani
+400	Chagua mojawapo ya viwango vilivyoonyeshwa
+401	Chagua mojawapo ya sherehe zako
+402	Chagua mojawapo ya orodha zako za matamanio
+403	Chagua picha
+404	Chagua mpango wa Biashara
+405	Krismasi
+406	Jina la kikundi
+407	Muhtasari wa kikundi
+408	Futa
+409	Funga uchangishaji
+410	Funga kadi
+411	Imefungwa kwa michango mipya.
+412	Inafungwa
+413	Inafungwa tarehe (si lazima)
+414	Msimbo
+415	Msimbo kutoka programu yako (ili kufanya mabadiliko)
+416	Mfanyakazi mwenzako
+417	colleague@example.com
+418	Kusanya na shiriki picha za kila tukio
+419	Kusanya picha za siku ya kuzaliwa, harusi au Diwali katika albamu moja, chagua mojawapo ya miundo 100 na uishiriki na familia — nao wanaweza kuongeza picha zao.
+420	Uchangishaji
+421	Rangi
+422	Rangi {a}
+423	Mandhari ya rangi
+424	Safu tunazozielewa:
+425	wanakuja
+426	Wanakuja
+427	Yanayokuja
+428	Thibitisha na uwashe
+429	Thibitisha kufuta
+430	Thibitisha kuondoka
+431	Thibitisha kwamba wateja hawa walikubali kupokea ujumbe kutoka kwako
+432	Unganisha
+433	Unganisha WhatsApp
+434	Unganisha WhatsApp kwanza
+435	Unganisha WhatsApp katika Mipangilio ili kutuma ujumbe wa WhatsApp. Hadi hapo, wateja wenye barua pepe hupokea barua pepe.
+436	imeunganishwa

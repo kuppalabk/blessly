@@ -1,0 +1,27 @@
+{
+	auto_https off
+}
+
+# No public certificate until a domain points at this droplet.
+# HTTPS uses Caddy's local certificate so production session cookies work.
+# HTTP redirects to HTTPS. Browsers warn until a real domain is configured.
+:80 {
+	redir https://{host}{uri} temporary
+}
+
+:443 {
+	tls internal
+	encode zstd gzip
+	reverse_proxy web:3000 {
+		header_up X-Forwarded-Host {host}
+		header_up X-Forwarded-Proto https
+	}
+	header {
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+		-Server
+	}
+	request_body {
+		max_size 25MB
+	}
+}

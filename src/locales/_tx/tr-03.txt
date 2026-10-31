@@ -1,0 +1,218 @@
+437	Devam et
+438	Ödemeye devam et
+439	Şununla devam et
+440	Katkılar
+441	Kopyalandı
+442	Kopyala
+443	{name} kişisel bağlantısını kopyala
+444	Kodları kopyala
+445	Kopyalanamadı — kopyalamak için bağlantıya basılı tutun
+446	Bağlantıyı kopyala
+447	Mesajı kopyala
+448	Dilek sayfası bağlantısını kopyala
+449	Eklenemedi
+450	Mesajınız eklenemedi
+451	Uygulanamadı
+452	İptal edilemedi
+453	Oluşturulamadı
+454	Aile çevresi oluşturulamadı
+455	Silinemedi
+456	Dışa aktarılamadı
+457	Katılınamadı
+458	Düzenleyici açılamadı
+459	Ödeme sayfası açılamadı
+460	Paylaşılamadı
+461	Kaydedilemedi
+462	Kart kaydedilemedi
+463	Kart görseli kaydedilemedi
+464	Zamanlanamadı
+465	Gönderilemedi
+466	Kod gönderilemedi
+467	Yanıtınız gönderilemedi
+468	Kart başlatılamadı
+469	Kart başlatılamadı
+470	Bildirimler kapatılamadı
+471	Bildirimler açılamadı
+472	Bu tasarım kullanılamadı
+473	Dilek yazılamadı
+474	Şablonlar yüklenemedi: {message}
+475	{label} ulaşılamadı
+476	Ülke
+477	Ülke (festival takvimi)
+478	Ülke (festival takvimi için)
+479	Ülke (ülke kodu olmayan telefon numaraları için)
+480	Ülke kodu
+481	{title} kapağı
+482	Oluştur
+483	Yeni bir
+484	Aile çevresi oluşturun
+485	Albümü herkesle paylaşmak için bir bağlantı oluşturun — WhatsApp, Facebook veya mesajla.
+486	Dilek oluşturun
+487	Hesap oluştur
+488	Albüm oluştur
+489	Hesap oluşturun
+490	İşletme çalışma alanı oluştur
+491	Kutlama sayfası oluştur
+492	Aile çevresi oluştur
+493	Davet bağlantısı oluştur
+494	Mesaj şablonları oluşturun (ör. doğum günü dileği) ve onay bekleyin.
+495	Paylaşım bağlantısı oluştur
+496	Dilek listesi oluştur
+497	Hesabınızı oluşturun
+498	Ücretsiz hesabınızı oluşturun
+499	Oluşturuluyor…
+500	CSV dosyası
+501	CSV metni
+502	Para birimi
+503	Mevcut şifre
+504	Özel {v}
+505	Özel arka plan rengi
+506	Özel plan
+507	Müşteri
+508	Müşteri bulunamadı
+509	Müşteriler
+510	Destek görünümünde veri indirme kullanılamaz
+511	Tarih
+512	Tarih (isteğe bağlı)
+513	Kız çocuğu
+514	Gün
+515	Sil
+516	“{title}” ve tüm {length} fotoğraf silinsin mi? Bu işlem geri alınamaz.
+517	Katılım yanıtları ve görevleriyle birlikte “{title}” silinsin mi? Aile çevresindeki herkes erişimini kaybeder.
+518	{name} sil
+519	{name} ve tüm hatırlatmaları silinsin mi? Bu işlem geri alınamaz.
+520	{name} silinsin mi? Mesaj geçmişi adı olmadan kayıtlarınızda kalır.
+521	{title} sil
+522	Albümü sil
+523	Müşteriyi sil
+524	Etkinliği sil
+525	Kalıcı olarak sil
+526	Hesabımı sil
+527	Hesabımı sil…
+528	Sayfayı sil
+529	{title} görevini sil
+530	Bu kart silinsin mi? Bu karttan gönderdiğiniz dilekler özgün tasarımıyla görünmeye devam eder.
+531	Bu kutlama sayfası, misafir listesi ve tüm mesajlar silinsin mi? Bu işlem geri alınamaz.
+532	Bu dilek listesi silinsin mi?
+533	Dilek listesini sil
+534	Silinmiş müşteri
+535	Teslim edildi
+536	Teslim edildi / okundu
+537	Teslim edilen ülkeler (ülke kodları)
+538	Teslimat güncellemeleri
+539	Açıklama
+540	Tasarım
+541	Tasarım {n} / 100:
+542	Tasarım {n} / 250
+543	Tasarım {number}: {name}
+544	Tasarım adı
+545	Tasarım bulunamadı
+546	Kendi kartınızı tasarlayın
+547	Kendi kartınızı tasarlayın: metinleri, yazı tiplerini ve renkleri değiştirin; fotoğraf, çıkartma, imza veya QR kod ekleyin — ardından dileğinizle birlikte gönderin ya da yazdırın.
+548	Baskı için tasarımların genişliği en az 900 piksel olmalıdır
+549	Tasarımlar dikey, 3:4 oranında olmalıdır (ör. 1500 × 2000 piksel)
+550	Ayrıntılar
+551	Geliştirme modu — metin gönderilmedi. Kodunuz:
+552	Geliştirme modu — kodunuz:
+553	Beslenme tercihleri (isteğe bağlı)
+554	Bağlantıyı kes
+555	Diwali
+556	Adımı herkese açık göstermeyin
+557	Bağış yap
+558	Bağışlar doğrudan şuraya gider:
+559	Tamam
+560	Tamam. {business} artık size bu mesajları göndermeyecek.
+561	Blessly’in hakkınızda sakladığı her şeyin bir kopyasını indirin ya da hesabınızı silin. Okuyun:
+562	Örnek dosyayı indir
+563	Misafir listesini indir
+564	Verilerimi indir
+565	Çizim
+566	Çizim alanı
+567	Kıyafet kuralı, otopark, getirilecekler, gizli tutulacak bir sürpriz…
+568	Son tarih (isteğe bağlı)
+569	Son tarih
+570	Çoğalt
+571	{title} kopyasını oluştur
+572	ör. Asha
+573	ör. Asha 30 yaşında
+574	ör. Babamın 60. yaşı — kanser servisi için
+575	ör. Dadi’nin 80. doğum günü
+576	ör. Dadi’nin 80. doğum günü yemeği
+577	ör. Diwali tebrikleri 2026
+578	ör. Sam için veda hediyesi
+579	ör. doğa yürüyüşü sever, Goa gezimiz
+580	ör. İsim günü
+581	ör. Nani’nin evi
+582	ör. Nisha
+583	ör. Pastayı sipariş et
+584	ör. Goa gezimiz
+585	ör. Düğün listemiz
+586	ör. engelsiz giriş
+587	ör. Sweet Treats Fırını
+588	ör. Bahçe Odası
+589	ör. vejetaryen, fındık alerjisi
+590	ör. vip
+591	ör. İçeri aldık — aynı adres, arka kapı.
+592	Her misafir kişisel bir bağlantı alır. Sayfayı başka kimse açamaz.
+593	Paskalya
+594	Düzenle
+595	{name} düzenle
+596	Kartı düzenle
+597	Müşteriyi düzenle
+598	Etkinliği düzenle
+599	Ürünü düzenle
+600	Kişiyi düzenle
+601	Listelerinizi düzenleyin
+602	Bayram
+603	e-posta
+604	E-posta
+605	E-posta (makbuz için)
+606	E-posta (güncellemeler ve hatırlatma için)
+607	E-posta (isteğe bağlı, teşekkür için)
+608	E-posta (otomatik gönderilir)
+609	E-posta mesajı
+610	Yalnızca e-posta
+611	E-posta veya şifre hatalı
+612	E-posta konusu
+613	Bitiş (isteğe bağlı)
+614	Nişan
+615	Bir ad girin
+616	1499 veya 24.99 gibi bir fiyat girin
+617	Geçerli bir e-posta girin
+618	Geçerli bir e-posta adresi girin
+619	Ülke koduyla birlikte geçerli bir cep numarası girin
+620	Geçerli bir telefon numarası girin
+621	Kurtarma kodlarınızdan birini girin. Her biri yalnızca bir kez çalışır.
+622	5000 veya 49.99 gibi bir hedef girin
+623	Hesap e-postanızı girin, yeni şifre seçmeniz için size bir bağlantı gönderelim.
+624	İşletme adınızı girin
+625	Cep numaranızı ülke koduyla girin, ör. +91 98765 43210
+626	Adınızı girin
+627	Etkinlik
+628	Etkinlik ayrıntıları
+629	Etkinlik bulunamadı
+630	Her hesap yayına alınmadan önce Blessly tarafından incelenir.
+631	Herkes tek bir hediye için katkıda bulunur ya da bir hayır kurumu için para toplar
+632	Buradaki herkes bu kişiler için hatırlatma alır. Diğer kişileriniz özel kalır.
+633	Bu aile çevresindeki herkes bu kişiyi görür ve hatırlatmalarını alır. Yalnızca siz düzenleyebilirsiniz.
+634	Bu dosyadaki herkes işletmemden mesaj almayı kabul etti
+635	Herkes tek bir karta imza atar
+636	Çıkış
+637	Sona erer
+638	Dışa aktarılıyor…
+639	Facebook
+640	Ödemeyi başarısız say
+641	Başarısız
+642	Başarısız veya gönderilmedi
+643	Aile
+644	Aile çevresi
+645	En fazla {n} kişilik aile çevresi
+646	Aile çevreleri, albümler ve işletme mesajları
+647	Aile etkinliği
+648	Aile etkinlikleri
+649	Aile bulunamadı
+650	Aile planı
+651	Aile imzaları
+652	Veda
+653	Baba
+654	Babalar Günü

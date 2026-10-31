@@ -1,0 +1,218 @@
+437	Weiter
+438	Weiter zur Zahlung
+439	Weiter mit
+440	Beiträge
+441	Kopiert
+442	Kopieren
+443	Persönlichen Link von {name} kopieren
+444	Codes kopieren
+445	Kopieren fehlgeschlagen — halte den Link gedrückt, um ihn zu kopieren
+446	Link kopieren
+447	Nachricht kopieren
+448	Link zur Wunschseite kopieren
+449	Hinzufügen fehlgeschlagen
+450	Deine Nachricht konnte nicht hinzugefügt werden
+451	Bewerbung fehlgeschlagen
+452	Stornieren fehlgeschlagen
+453	Erstellen fehlgeschlagen
+454	Familienkreis konnte nicht erstellt werden
+455	Löschen fehlgeschlagen
+456	Export fehlgeschlagen
+457	Beitritt fehlgeschlagen
+458	Editor konnte nicht geöffnet werden
+459	Zahlungsseite konnte nicht geöffnet werden
+460	Veröffentlichen fehlgeschlagen
+461	Speichern fehlgeschlagen
+462	Karte konnte nicht gespeichert werden
+463	Kartenbild konnte nicht gespeichert werden
+464	Planen fehlgeschlagen
+465	Senden fehlgeschlagen
+466	Code konnte nicht gesendet werden
+467	Deine Antwort konnte nicht gesendet werden
+468	Karte konnte nicht gestartet werden
+469	Karte konnte nicht gestartet werden
+470	Benachrichtigungen konnten nicht ausgeschaltet werden
+471	Benachrichtigungen konnten nicht eingeschaltet werden
+472	Dieses Design kann nicht verwendet werden
+473	Der Wunsch konnte nicht geschrieben werden
+474	Vorlagen konnten nicht geladen werden: {message}
+475	{label} ist nicht erreichbar
+476	Land
+477	Land (Festkalender)
+478	Land (für Festkalender)
+479	Land (für Telefonnummern ohne Vorwahl)
+480	Ländervorwahl
+481	Titelbild von {title}
+482	Erstellen
+483	Erstelle eine
+484	Familienkreis erstellen
+485	Erstelle einen Link, um das Album mit allen zu teilen — per WhatsApp, Facebook oder Nachricht.
+486	Wunsch erstellen
+487	Konto erstellen
+488	Album erstellen
+489	Konto erstellen
+490	Unternehmensbereich erstellen
+491	Feierseite erstellen
+492	Familienkreis erstellen
+493	Einladungslink erstellen
+494	Nachrichtenvorlagen erstellen (z. B. einen Geburtstagswunsch) und auf Freigabe warten.
+495	Teilungslink erstellen
+496	Wunschliste erstellen
+497	Erstelle dein Konto
+498	Erstelle dein kostenloses Konto
+499	Wird erstellt…
+500	CSV-Datei
+501	CSV-Text
+502	Währung
+503	Aktuelles Passwort
+504	Benutzerdefiniert {v}
+505	Benutzerdefinierte Hintergrundfarbe
+506	Individueller Tarif
+507	Kunde
+508	Kunde nicht gefunden
+509	Kunden
+510	Datendownloads sind in der Support-Ansicht nicht verfügbar
+511	Datum
+512	Datum (optional)
+513	Tochter
+514	Tag
+515	Löschen
+516	„{title}“ und alle {length} Fotos löschen? Das kann nicht rückgängig gemacht werden.
+517	„{title}“ mit seinen Zusagen und Aufgaben löschen? Alle im Familienkreis verlieren es.
+518	{name} löschen
+519	{name} und alle Erinnerungen löschen? Das kann nicht rückgängig gemacht werden.
+520	{name} löschen? Der Nachrichtenverlauf bleibt im Protokoll, aber ohne Namen.
+521	{title} löschen
+522	Album löschen
+523	Kunden löschen
+524	Termin löschen
+525	Endgültig löschen
+526	Mein Konto löschen
+527	Mein Konto löschen…
+528	Seite löschen
+529	Aufgabe {title} löschen
+530	Diese Karte löschen? Bereits damit gesendete Wünsche zeigen weiterhin ihr ursprüngliches Design.
+531	Diese Feierseite, ihre Gästeliste und alle Nachrichten löschen? Das kann nicht rückgängig gemacht werden.
+532	Diese Wunschliste löschen?
+533	Wunschliste löschen
+534	Gelöschter Kunde
+535	Zugestellt
+536	Zugestellt / gelesen
+537	Zustellung an (Ländercodes)
+538	Versandupdates
+539	Beschreibung
+540	Design
+541	Design {n} von 100:
+542	Design {n} von 250
+543	Design {number}: {name}
+544	Designname
+545	Design nicht gefunden
+546	Eigene Karte gestalten
+547	Gestalte deine eigene Karte: Texte, Schriften und Farben ändern, Fotos, Sticker, eine Unterschrift oder einen QR-Code hinzufügen — und dann mit einem Wunsch senden oder drucken.
+548	Designs müssen für den Druck mindestens 900 Pixel breit sein
+549	Designs müssen im Hochformat 3:4 sein (z. B. 1500 × 2000 Pixel)
+550	Details
+551	Entwicklungsmodus — es wurde kein Text gesendet. Dein Code lautet
+552	Entwicklungsmodus — dein Code lautet
+553	Ernährungswünsche (optional)
+554	Trennen
+555	Diwali
+556	Meinen Namen nicht öffentlich anzeigen
+557	Spenden
+558	Spenden gehen direkt an
+559	Fertig
+560	Erledigt. {business} schickt dir diese Nachrichten nicht mehr.
+561	Lade eine Kopie aller Daten herunter, die Blessly über dich speichert, oder lösche dein Konto. Lies unsere
+562	Beispieldatei herunterladen
+563	Gästeliste herunterladen
+564	Meine Daten herunterladen
+565	Zeichnung
+566	Zeichenbereich
+567	Dresscode, Parken, was mitzubringen ist, eine Überraschung, die geheim bleiben soll…
+568	Fällig (optional)
+569	Fälligkeitsdatum
+570	Duplizieren
+571	{title} duplizieren
+572	z. B. Asha
+573	z. B. Asha wird 30
+574	z. B. Papas 60. — für die Krebsstation
+575	z. B. Dadis 80. Geburtstag
+576	z. B. Dadis 80. Geburtstagsessen
+577	z. B. Diwali-Grüße 2026
+578	z. B. Abschiedsgeschenk für Sam
+579	z. B. liebt Trekking, unsere Goa-Reise
+580	z. B. Namenstag
+581	z. B. Nanis Haus
+582	z. B. Nisha
+583	z. B. Torte bestellen
+584	z. B. unsere Goa-Reise
+585	z. B. Unsere Hochzeitsliste
+586	z. B. stufenloser Zugang
+587	z. B. Sweet Treats Bäckerei
+588	z. B. Der Gartenraum
+589	z. B. vegetarisch, Nussallergie
+590	z. B. vip
+591	z. B. Wir sind nach drinnen umgezogen — gleiche Adresse, Hintertür.
+592	Jeder Gast bekommt einen persönlichen Link. Niemand sonst kann die Seite öffnen.
+593	Ostern
+594	Bearbeiten
+595	{name} bearbeiten
+596	Karte bearbeiten
+597	Kunden bearbeiten
+598	Termin bearbeiten
+599	Artikel bearbeiten
+600	Person bearbeiten
+601	Bearbeite deine Listen
+602	Eid
+603	E-Mail
+604	E-Mail
+605	E-Mail (für eine Quittung)
+606	E-Mail (für Updates und eine Erinnerung)
+607	E-Mail (optional, für einen Dank)
+608	E-Mail (wird automatisch gesendet)
+609	E-Mail-Nachricht
+610	Nur E-Mail
+611	E-Mail oder Passwort ist falsch
+612	E-Mail-Betreff
+613	Endet (optional)
+614	Verlobung
+615	Gib einen Namen ein
+616	Gib einen Preis ein, z. B. 1499 oder 24.99
+617	Gib eine gültige E-Mail ein
+618	Gib eine gültige E-Mail-Adresse ein
+619	Gib eine gültige Mobilnummer mit Ländervorwahl ein
+620	Gib eine gültige Telefonnummer ein
+621	Gib einen deiner Wiederherstellungscodes ein. Jeder funktioniert nur einmal.
+622	Gib das Ziel ein, z. B. 5000 oder 49.99
+623	Gib deine Konto-E-Mail ein, dann senden wir dir einen Link, um ein neues Passwort festzulegen.
+624	Gib deinen Unternehmensnamen ein
+625	Gib deine Mobilnummer mit Ländervorwahl ein, z. B. +91 98765 43210
+626	Gib deinen Namen ein
+627	Termin
+628	Termindetails
+629	Termin nicht gefunden
+630	Jedes Konto wird von Blessly geprüft, bevor es live geht.
+631	Alle legen für ein Geschenk zusammen oder sammeln Geld für eine Wohltätigkeitsorganisation
+632	Alle hier erhalten Erinnerungen für diese Personen. Deine anderen Personen bleiben privat.
+633	Alle in diesem Familienkreis sehen diese Person und erhalten ihre Erinnerungen. Nur du kannst sie bearbeiten.
+634	Alle in dieser Datei haben zugestimmt, Nachrichten von meinem Unternehmen zu erhalten
+635	Alle unterschreiben eine Karte
+636	Beenden
+637	Läuft ab
+638	Wird exportiert…
+639	Facebook
+640	Zahlung fehlschlagen lassen
+641	Fehlgeschlagen
+642	Fehlgeschlagen oder nicht gesendet
+643	Familie
+644	Familienkreis
+645	Familienkreis mit bis zu {n} Personen
+646	Familienkreise, Alben und Geschäftsnachrichten
+647	Familientermin
+648	Familientermine
+649	Familie nicht gefunden
+650	Familientarif
+651	Familienunterschriften
+652	Abschied
+653	Vater
+654	Vatertag
