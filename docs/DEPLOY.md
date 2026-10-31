@@ -74,6 +74,17 @@ Photo links are signed, so the Space itself does not need to be public.
 | "npm ci" fails during the image build | Re-run with `docker compose -f docker-compose.yml -f docker-compose.prod.yml build --no-cache`. Only set `HTTP_PROXY`/`HTTPS_PROXY` if the server needs a proxy. |
 | Saved integration keys stopped working after a restore | `ENCRYPTION_KEY` in `.env` must be the same key that was used when they were saved. |
 
+## Droplet with a managed Postgres
+
+Use this when the database is DigitalOcean managed Postgres (or any other external Postgres) instead of the Postgres container in `docker-compose.yml`. The local-database stack is unchanged.
+
+1. Copy the project to the droplet, excluding `node_modules`, `.next`, and `.env`.
+2. On the droplet, with `DATABASE_URL` set to the managed connection string (include `sslmode=require`):
+   `APP_URL=https://your-domain bash deploy/droplet-managed.sh`
+3. That file writes secrets into `.env` if they are not there, then runs `docker compose -f docker-compose.managed.yml up -d --build`.
+4. Add this droplet's public IP to the database trusted sources, or the app cannot connect.
+5. Without a domain, Caddy serves HTTPS with a local certificate and browsers show a warning. Point a domain at the droplet and switch to `docker-compose.prod.yml` plus `deploy/Caddyfile` when you want a public certificate. Do not put the database password in git.
+
 ## DigitalOcean App Platform
 
 Use this when you want DigitalOcean to build the Docker image from GitHub and run it, instead of a droplet.
